@@ -1,16 +1,53 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+title: 'Supply Teacher Shortage Closes Door on Future Field Trips at MGCI'
+pubDate: 2024-04-26
+description: 'Article about stuff.'
+author: 'Nevetha Arullinkam'
+heroImage: '/blog-placeholder-3.jpg'
+tags: ["News", "Stuff", "Community"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+On 6 March, the department heads of Marc Garneau CI were notified of a pause on approvals of field trips and professional development days for the foreseeable future. There is currently no plan to lift the moratorium.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Schools across Ontario have been grappling with the immense impacts of the ongoing teacher shortage, and MGCI is no different. The school’s decision to pause field trips comes after discussion among MGCI administration, consisting of the school’s principal and vice-principals, surrounding concerns about the increasing number of on-calls for teachers.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+The aim of this moratorium was to reduce the number of teachers out of the building, the number of jobs needing to be entered into the supply teaching system, and, thanks to the shortage, the number of jobs going unfilled. When a supply teaching job goes unfilled, the school turns to on-calls—when a teacher is called on during their prep period for that day to help cover a class that is missing a teacher. Each on-call is half of a period, meaning two are used for each full-period class that needs to be covered. MGCI saw 10.5 unfilled jobs on 30 April alone.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+“One field trip requires two teachers to supervise, so if both are not filled, the classes of those teachers must then be covered by other teachers in the building. By having a pause on field trips and professional development, we are able to have all classes covered by the classroom teacher,” said Ms. Kwon, the Grade 9 Vice Principal. “The number of on-calls for each teacher has increased drastically over a short time and students feel the disruptions in class.”
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+The lack of teachers and rising number of on-calls is a problem for students, whose learning is disrupted by not having any one person dedicated to keeping the class moving; teachers, whose time for marking, preparing lessons, calling home, and everything else is limited; and the school, for which there are consequences when the maximum number of on-calls for a teacher is exceeded.
+
+As per the collective agreement reached with the Ontario Secondary School Teachers’ Federation (OSSTF), the union which every public secondary school teacher in the province is a part of, regular classroom teachers should receive a maximum of 27 on-calls annually. For Assistant Curriculum Leaders (ACLs), this number is 14. [1]
+
+“We're creeping up there, but generally we don't have numbers that have exceeded it as of yet,” said Ms. Gunn, the head of Hospitality and OSSTF Branch President for MGCI. “If they had not put this moratorium on field trips, we would probably be at that point now, just at the pace we were going. There are some teachers in their low twenties [with on-calls].”
+
+On-call limits were not meant to be exceeded regularly, she said, but having less and less supply teachers available means it is becoming increasingly likely. There are supposed to be ramifications for when this happens, but negotiations are still going on for what that should be—whether with time or financially. Ms. Gunn noted that the school is attempting to be proactive.
+
+“I don't love that there is a moratorium, but I fully understand why as well,” Ms. Gunn said. She spoke about the importance of field trips for her classes—currently, she teaches Grade 11 students in Hospitality and two Baking courses. Many of their trips are planned last-minute, as new opportunities come up or organizations contact them, but others are planned.
+
+In one popular trip, first-semester students go to the Royal Winter Fair, where they check out what it has to offer and take hospitality classes offered by local chefs. Students learn all about the food industry, agro-tourism, sustainability, and more, before getting to join and cook with a professional in a neat environment doing last-minute assembly of ingredients, “like they’re on a cooking show”.
+
+In the second semester, Ms. Gunn noted the importance of the skills competition, which for all of the technology departments (and others) is “a really big deal”. While MGCI hosted the Toronto chapter for the culinary arts offering this year, other areas such as hairstyling, landscaping, photography, job interviews, robotics, and aircraft maintenance are also available. On 6 and 7 May, Ontario students will face off in the provincial level of competition. Last year, MGCI sent seven whole buses of students to compete. Unfortunately, that won’t be happening this year—MGCI students will not be able to attend. She’d booked buses and classes for it, but not the trip itself, Ms. Gunn said, adding that she’ll be a little more prepared for next year.
+
+“It's amazing to see. It is teenagers who are working at a professional level. [...] While it’s incredible for our students to go and compete, I think it’s equally important for them to see that there are other people their age that are able to accomplish these things,” she said. “On one hand, it's not a big deal. It's just a trip. [On the other hand], maybe that could have been that one day that changes their perspective.”
+
+“I think that the decision does make sense, even if we don't get to go on any more trips this semester,” said Ayesha Mirza, a student in Grade 11 Baking who was planning on attending the competition and said she had heard the news from Ms. Gunn in early April. “It did make me feel a bit disappointed because field trips were one of the major things I was looking forward to in this course.”
+
+While Ms. Gunn noted that unions wouldn’t necessarily weigh in on the policy on field trips, she said the situation is a symptom of a larger problem the OSSTF is engaged in: encouraging more people to be in the profession of teaching and making sure they want to teach. “There are thirty-five thousand people with their teaching certificates who are not actively teaching. [...] It means that the system needs to be fixed in different ways, right?“
+
+Another thing Ms. Gunn says has played a big role? Over the past three years, retired teachers have temporarily been allowed to work up to ninety days a year supplying in schools without any impact on their pension, up from the usual fifty days pre-pandemic. This year, the teachers’ federation has put their foot down, keeping the limit at fifty and saying the province is relying on “Band-Aids and half measures” to fight the shortage. While the federation stands by their decision, the province, the TDSB, and other school boards have expressed their disappointment, saying the move will disrupt learning. [2]
+
+Ms. Kwon commented that though she cannot speak on how other schools are managing, she does know that MGCI isn’t the first or only school to put a moratorium on field trips, saying it “isn’t a new solution; it is merely a rarely used one, in [her] experience”.
+
+A statement from three teacher unions representing public elementary, secondary, and Catholic teachers read: “In too many instances, classes are being covered by unqualified and uncertified adults, or are being merged with other classes, jeopardizing the quality of the learning [...]” [3]
+
+School boards in other regions of Ontario, like Simcoe County, are seeing an increase in classes needing to be covered by these “uncertified adults”, who generally require a temporary certificate from the Ontario College of Teachers for the role. [4] Ms. Kwon noted that MGCI has used this list in the past, but that it is “not as reliable as we would like,'' and thus not used often. In addition, combining classes has not yet had to happen at MGCI. Instead, the school has “endeavored to expedite the hiring of new teachers who have finished teacher’s college and hope to have a few new people in May to help. [...] Often vice-principals will also do on-calls, too.”
+
+“I do believe [the moratorium] is working. It isn’t ideal, as we would love to accommodate experiences for students but for now, yes, it’s helping,” Ms Kwon said. “My personal opinion and belief is that the [next] school year will begin as normal.”
+
+For now, students at MGCI will have to live without field trips as the school works to address the issue of the supply teacher shortage. The impacts are certainly being felt by students, staff, and administrators. Unfortunately for schools across the province, the issue hasn’t been solved. It remains to be seen how MGCI will manage in the future.
+
+[1] https://osstftoronto.ca/wp-content/uploads/2013/11/Workload-Accord-2022-2023.pdf <br>
+[2] https://www.thestar.com/politics/provincial/teacher-unions-support-move-to-limit-days-retirees-can-fill-in/article_784abce8-e5ee-11ee-a376-d774e0886a17.html <br>
+[3] https://www.osstf.on.ca/news/ford-government-to-blame-for-teacher-recruitment-and-retention-crisis-in-ontario.aspx <br>
+[4] https://www.collingwoodtoday.ca/local-news/slap-in-the-face-simcoe-schools-lean-on-unqualified-teachers-8440230 <br>
