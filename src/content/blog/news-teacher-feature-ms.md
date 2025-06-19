@@ -1,8 +1,8 @@
 ---
-title: News: Teacher Feature: Ms. Balkissoon
-pubDate: 2015-05-26T02:20:43.256Z
+title: 'News: Teacher Feature: Ms. Balkissoon'
+pubDate: '2015-05-26T02:20:43.256Z'
 description: 'Article about stuff.'
-author: Mahyar Yousefzadeh
+author: 'Mahyar Yousefzadeh'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---

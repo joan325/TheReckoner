@@ -1,8 +1,8 @@
 ---
-title: What Makes It Ultimate
-pubDate: 2015-05-26T00:45:48.356Z
+title: 'What Makes It Ultimate'
+pubDate: '2015-05-26T00:45:48.356Z'
 description: 'Article about stuff.'
-author: cindycream789
+author: 'cindycream789'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---

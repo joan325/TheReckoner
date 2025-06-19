@@ -1,8 +1,8 @@
 ---
-title: We Are (Not) Awake
-pubDate: 2015-05-25T05:24:52.151Z
+title: 'We Are (Not) Awake'
+pubDate: '2015-05-25T05:24:52.151Z'
 description: 'Article about stuff.'
-author: cindycream789
+author: 'cindycream789'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---
