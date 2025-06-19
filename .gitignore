@@ -22,3 +22,12 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# python files
+/python
+
+# venv
+/reck
+
+# secrets
+token.json

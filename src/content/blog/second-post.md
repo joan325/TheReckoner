@@ -4,7 +4,7 @@ pubDate: 2024-04-26
 description: 'Article about stuff.'
 author: 'Nevetha Arullinkam'
 heroImage: '/blog-placeholder-3.jpg'
-tags: ["News", "Stuff", "Community"]
+tags: ["News"]
 ---
 
 On 6 March, the department heads of Marc Garneau CI were notified of a pause on approvals of field trips and professional development days for the foreseeable future. There is currently no plan to lift the moratorium.
