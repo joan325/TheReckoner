@@ -7,7 +7,7 @@ heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---
 
-            *This year, The Reckoner decided to take a closer look at three specialized programs the school has to offer: TOPS, BSAP, and SHSM. Each program is catered towards a different group of students, each unique in their respective ways. We sought to explore more about each program, and discovered the unique history behind them.*  
+*This year, The Reckoner decided to take a closer look at three specialized programs the school has to offer: TOPS, BSAP, and SHSM. Each program is catered towards a different group of students, each unique in their respective ways. We sought to explore more about each program, and discovered the unique history behind them.*  
 The Specialist High Skills Major (SHSM) program first became available to Garneau students in 2009\.  
 SHSM is offered in many high schools across Ontario. In most schools, the program begins in Grade 11\. Students who complete the program graduate with a High School Diploma embossed with a SHSM seal. These diplomas are widely recognized in post-secondary institutions across Ontario. There are nine required courses to graduate:  
 ·       4 Major credits in technology – two Grade 11 and two Grade 12 credits  
