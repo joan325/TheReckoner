@@ -1,8 +1,8 @@
 ---
-title: b'Ask The Reckoner'
+title: "Ask The Reckoner"
 pubDate: 2017-02-05T18:07:20.734Z
 description: "Article about stuff."
-author: b'laurenicious'
+author: "laurenicious"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

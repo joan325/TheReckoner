@@ -1,8 +1,8 @@
 ---
-title: b"It's time for the age of old politicians to end"
+title: "It's time for the age of old politicians to end"
 pubDate: 2021-04-28T04:38:45.244Z
 description: "Article about stuff."
-author: b'chenjeffersonbox'
+author: "chenjeffersonbox"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

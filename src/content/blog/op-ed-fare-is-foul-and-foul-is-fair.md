@@ -1,8 +1,8 @@
 ---
-title: b'Editorial: Op-Ed: Fare is Foul and Foul is Fair'
+title: "Editorial: Op-Ed: Fare is Foul and Foul is Fair"
 pubDate: 2015-04-15T11:00:40.662Z
 description: "Article about stuff."
-author: b'Reckoner Staff'
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

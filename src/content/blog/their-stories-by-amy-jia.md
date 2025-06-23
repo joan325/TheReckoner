@@ -1,8 +1,8 @@
 ---
-title: b'"their stories" by Amy Jia'
+title: "\"their stories\" by Amy Jia"
 pubDate: 2021-04-28T01:22:10.677Z
 description: "Article about stuff."
-author: b'life.thereckoner'
+author: "life.thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

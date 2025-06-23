@@ -1,8 +1,8 @@
 ---
-title: b'"friends share lovers" by India Das-Brown'
+title: "\"friends share lovers\" by India Das-Brown"
 pubDate: 2021-04-27T20:11:11.860Z
 description: "Article about stuff."
-author: b'life.thereckoner'
+author: "life.thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

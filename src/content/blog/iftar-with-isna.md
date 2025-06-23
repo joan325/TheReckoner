@@ -1,8 +1,8 @@
 ---
-title: b'Iftar With ISNA'
+title: "Iftar With ISNA"
 pubDate: 2021-05-01T21:42:45.310Z
 description: "Article about stuff."
-author: b'zahra.ahmed264'
+author: "zahra.ahmed264"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

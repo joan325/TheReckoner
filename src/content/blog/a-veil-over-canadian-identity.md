@@ -1,8 +1,8 @@
 ---
-title: b'Editorial: A Veil over Canadian Identity'
+title: "Editorial: A Veil over Canadian Identity"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: b'Reckoner Staff'
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

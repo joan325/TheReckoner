@@ -1,8 +1,8 @@
 ---
-title: b'News: Relay'
+title: "News: Relay"
 pubDate: 2017-03-03T00:55:26.159Z
 description: "Article about stuff."
-author: b'Reckoner Staff'
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

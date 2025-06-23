@@ -1,8 +1,8 @@
 ---
-title: b'"A Ghost Story" by Maggie Pang'
+title: "\"A Ghost Story\" by Maggie Pang"
 pubDate: 2021-04-28T16:02:52.791Z
 description: "Article about stuff."
-author: b'life.thereckoner'
+author: "life.thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

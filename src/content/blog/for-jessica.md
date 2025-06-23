@@ -1,8 +1,8 @@
 ---
-title: b'FOR JESSICA'
+title: "FOR JESSICA"
 pubDate: 2016-10-11T20:21:22.478Z
 description: "Article about stuff."
-author: b'Parnika Godkhindi'
+author: "Parnika Godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

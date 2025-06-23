@@ -1,8 +1,8 @@
 ---
-title: b'Hot Takes Contest Entry - Jefferson'
+title: "Hot Takes Contest Entry - Jefferson"
 pubDate: 2021-06-25T00:09:27.264Z
 description: "Article about stuff."
-author: b'Reckoner Staff'
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

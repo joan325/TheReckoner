@@ -1,8 +1,8 @@
 ---
-title: b'The Explosion of Gender Reveal Parties'
+title: "The Explosion of Gender Reveal Parties"
 pubDate: 2021-04-28T04:51:34.963Z
 description: "Article about stuff."
-author: b'paromita.roy'
+author: "paromita.roy"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
