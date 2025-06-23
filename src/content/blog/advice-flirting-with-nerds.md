@@ -2,7 +2,7 @@
 title: "Advice: Flirting with Nerds"
 pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: "Mahyar Yousefzadeh"
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

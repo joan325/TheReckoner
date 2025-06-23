@@ -2,7 +2,7 @@
 title: "News: Relay"
 pubDate: "2017-03-03T00:55:26.159Z"
 description: "Article about stuff."
-author: "Mahyar Yousefzadeh"
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
