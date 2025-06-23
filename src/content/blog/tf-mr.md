@@ -1,13 +1,13 @@
 ---
-title: b'News: TF - Mr. Alexander'
-pubDate: b'2018-11-09T23:04:26.201Z'
+title: "News: TF - Mr. Alexander"
+pubDate: "2018-11-09T23:04:26.201Z"
 description: "Article about stuff."
-author: b'deifilia.to'
+author: "deifilia.to"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Q: What’s a favourite quote that you have?  
+Q: What’s a favourite quote that you have?  
 
 A: Take your heart to work everyday, and expect the best and most out of everybody else too… Meryl Streep.
 

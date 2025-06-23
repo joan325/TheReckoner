@@ -1,13 +1,13 @@
 ---
-title: b'Advice: Getting rid of trustees '
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Advice: Getting rid of trustees "
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            How do you get rid of the untrustworthy TDSB trustees?
+How do you get rid of the untrustworthy TDSB trustees?
 
 
 

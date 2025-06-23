@@ -1,13 +1,13 @@
 ---
-title: b'Board Ed: TDSB Supplies '
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Board Ed: TDSB Supplies "
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Board Editorial: The Toronto District Supplies Board
+Board Editorial: The Toronto District Supplies Board
 
 
 

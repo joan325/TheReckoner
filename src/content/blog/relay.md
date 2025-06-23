@@ -1,13 +1,13 @@
 ---
-title: b'News: Relay'
-pubDate: b'2017-03-03T00:55:26.159Z'
+title: "News: Relay"
+pubDate: "2017-03-03T00:55:26.159Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            By Rebecca Wong  
+By Rebecca Wong  
 
 On 25 May 2015, students at MGCI showed their support for the fight against cancer by participating in the annual Relay for Life event. It was organized by the MGCI Cancer Society, with help from Mr. Persaud and Mrs. Cheryl Chan. The fundraising event was held to remember those who lost their lives to cancer, celebrate the lives of cancer survivors, and to fight against cancer. Relays are hosted in communities all across Canada, with proceeds going to the Canadian Cancer Society for cancer research and patient support programs.  
 

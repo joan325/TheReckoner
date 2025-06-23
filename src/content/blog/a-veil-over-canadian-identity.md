@@ -1,13 +1,13 @@
 ---
-title: b'Editorial: A Veil over Canadian Identity'
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Editorial: A Veil over Canadian Identity"
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Recently, the Federal Courts of Canada lifted the ban on the wearing of niqabs during the citizenship oath. Niqabs are full face covering veils worn by Muslim women for religious reasons.  
+Recently, the Federal Courts of Canada lifted the ban on the wearing of niqabs during the citizenship oath. Niqabs are full face covering veils worn by Muslim women for religious reasons.  
 
 In 2011, it was banned by the Conservative government because they felt that you need to openly accept Canadian values. Jason Kenney, the Minister of Immigration at the time, said that “it is a matter of deep principle that goes to the heart of our identity and our values of openness and equality.” So, to make sure new Canadians were treated equally and accepted openly, they were forced to abandon their cultural and religious freedoms.  
 

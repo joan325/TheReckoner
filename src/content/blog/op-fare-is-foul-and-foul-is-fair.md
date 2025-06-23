@@ -1,13 +1,13 @@
 ---
-title: b'Editorial: Op-Ed: Fare is Foul and Foul is Fair'
-pubDate: b'2015-04-15T11:00:40.662Z'
+title: "Editorial: Op-Ed: Fare is Foul and Foul is Fair"
+pubDate: "2015-04-15T11:00:40.662Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Fare is Foul and Foul is Fair  
+Fare is Foul and Foul is Fair  
 
 By Jackie Ho
 

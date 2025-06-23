@@ -1,13 +1,13 @@
 ---
-title: b'QSA'
-pubDate: b'2015-04-15T19:12:26.234Z'
+title: "QSA"
+pubDate: "2015-04-15T19:12:26.234Z"
 description: "Article about stuff."
-author: b'deifilia.to'
+author: "deifilia.to"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            QSA Mural  
+QSA Mural  
 
 By Deifilia To
 

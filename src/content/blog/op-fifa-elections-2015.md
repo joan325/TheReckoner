@@ -1,13 +1,13 @@
 ---
-title: b'Op-Ed: FIFA Elections 2015'
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Op-Ed: FIFA Elections 2015"
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Soccer, or football, is the most popular sport in the world. Accordingly, FIFA, its governing body, is regularly ranked among the most powerful organizations in the world. So it may come as a surprise the sheer level of corruption and incompetence practiced by FIFA and its president, Sepp Blatter, who is up for re-election this year.  
+Soccer, or football, is the most popular sport in the world. Accordingly, FIFA, its governing body, is regularly ranked among the most powerful organizations in the world. So it may come as a surprise the sheer level of corruption and incompetence practiced by FIFA and its president, Sepp Blatter, who is up for re-election this year.  
 
 Blatter ascended to the presidency in 1998 and has been embroiled in controversy ever since, along with the rest of FIFA. From the frivolous to the fatal, Blatter has been implicated in an astonishing range of screw-ups.  
 

@@ -1,13 +1,13 @@
 ---
-title: b'Editorial: Charlie Hebdo (Title pending)'
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Editorial: Charlie Hebdo (Title pending)"
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Tolerance over Terror  
+Tolerance over Terror  
 
 David Hao
 

@@ -1,13 +1,13 @@
 ---
-title: b'Advice: Universities'
-pubDate: b'2019-11-01T03:14:22.270Z'
+title: "Advice: Universities"
+pubDate: "2019-11-01T03:14:22.270Z"
 description: "Article about stuff."
-author: b'Mahyar Yousefzadeh'
+author: "Mahyar Yousefzadeh"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            All of my friends are getting into amazing universities, american and the like, while I'm getting rejection after rejection.I know I should just be happy for them, but all I can feel is jealousy and self loathing. I feel like crying even as I'm writing this. What's wrong with me? How do I stop this? Help. \-FeelingDepressed
+All of my friends are getting into amazing universities, american and the like, while I'm getting rejection after rejection.I know I should just be happy for them, but all I can feel is jealousy and self loathing. I feel like crying even as I'm writing this. What's wrong with me? How do I stop this? Help. \-FeelingDepressed
 
 
 

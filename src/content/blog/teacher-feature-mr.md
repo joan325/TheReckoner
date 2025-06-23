@@ -1,13 +1,13 @@
 ---
-title: b'Teacher Feature - Mr. Pearce'
-pubDate: b'2015-04-15T19:13:05.457Z'
+title: "Teacher Feature - Mr. Pearce"
+pubDate: "2015-04-15T19:13:05.457Z"
 description: "Article about stuff."
-author: b'deifilia.to'
+author: "deifilia.to"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["News"]
+tags: ["Uncategorized"]
 ---
 
-            Teacher Feature (A Brief Chat with Mr. Pearce)  
+Teacher Feature (A Brief Chat with Mr. Pearce)  
 
 By Deifilia To
 
