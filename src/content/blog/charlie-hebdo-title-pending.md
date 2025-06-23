@@ -1,8 +1,8 @@
 ---
-title: 'Editorial: Charlie Hebdo (Title pending)'
-pubDate: '2019-11-01T03:14:22.270Z'
+title: b'Editorial: Charlie Hebdo (Title pending)'
+pubDate: b'2019-11-01T03:14:22.270Z'
 description: 'Article about stuff.'
-author: 'Mahyar Yousefzadeh'
+author: b'Mahyar Yousefzadeh'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---

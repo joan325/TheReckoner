@@ -1,8 +1,8 @@
 ---
-title: 'Relationship Advice'
-pubDate: '2014-12-10T03:17:16.449Z'
+title: b'Relationship Advice'
+pubDate: b'2014-12-10T03:17:16.449Z'
 description: 'Article about stuff.'
-author: 'Anjali Gupta & Nevetha Arullinkam'
+author: b'Anjali Gupta & Nevetha Arullinkam'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---

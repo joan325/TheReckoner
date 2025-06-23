@@ -1,8 +1,8 @@
 ---
-title: 'Advice: Pineapples'
-pubDate: '2015-03-31T02:34:11.072Z'
+title: b'Advice: Pineapples'
+pubDate: b'2015-03-31T02:34:11.072Z'
 description: 'Article about stuff.'
-author: 'Mahyar Yousefzadeh'
+author: b'Mahyar Yousefzadeh'
 heroImage: '/blog-placeholder-3.jpg'
 tags: ["News"]
 ---
