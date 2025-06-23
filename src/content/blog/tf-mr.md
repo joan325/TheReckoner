@@ -1,9 +1,9 @@
 ---
 title: b'News: TF - Mr. Alexander'
 pubDate: b'2018-11-09T23:04:26.201Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'deifilia.to'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

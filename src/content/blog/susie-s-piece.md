@@ -1,9 +1,9 @@
 ---
 title: b"Editorial: Susie's Piece"
 pubDate: b'2015-03-25T03:21:34.504Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'Anjali Gupta & Nevetha Arullinkam'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

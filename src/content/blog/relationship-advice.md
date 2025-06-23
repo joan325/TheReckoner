@@ -1,9 +1,9 @@
 ---
 title: b'Relationship Advice'
 pubDate: b'2014-12-10T03:17:16.449Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'Anjali Gupta & Nevetha Arullinkam'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

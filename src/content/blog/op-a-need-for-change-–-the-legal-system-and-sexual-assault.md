@@ -1,9 +1,9 @@
 ---
 title: b'Op-Ed: A Need for Change \\u2013 The Legal System and Sexual Assault'
 pubDate: b'2019-11-01T03:14:22.270Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'Mahyar Yousefzadeh'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: b'Editorial: Op-Ed: Fare is Foul and Foul is Fair'
 pubDate: b'2015-04-15T11:00:40.662Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'Mahyar Yousefzadeh'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

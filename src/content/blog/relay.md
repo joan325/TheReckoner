@@ -1,9 +1,9 @@
 ---
 title: b'News: Relay'
 pubDate: b'2017-03-03T00:55:26.159Z'
-description: 'Article about stuff.'
+description: "Article about stuff."
 author: b'Mahyar Yousefzadeh'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 
