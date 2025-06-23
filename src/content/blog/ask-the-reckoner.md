@@ -1,6 +1,6 @@
 ---
 title: b'Ask The Reckoner'
-pubDate: b'2017-02-05T18:07:20.734Z'
+pubDate: 2017-02-05T18:07:20.734Z
 description: "Article about stuff."
 author: b'laurenicious'
 heroImage: "/blog-placeholder-3.jpg"

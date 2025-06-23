@@ -1,6 +1,6 @@
 ---
 title: b'Relationship Advice'
-pubDate: b'2014-12-10T03:17:16.449Z'
+pubDate: 2014-12-10T03:17:16.449Z
 description: "Article about stuff."
 author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"

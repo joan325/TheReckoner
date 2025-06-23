@@ -1,6 +1,6 @@
 ---
 title: b'News: Relay'
-pubDate: b'2017-03-03T00:55:26.159Z'
+pubDate: 2017-03-03T00:55:26.159Z
 description: "Article about stuff."
 author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"

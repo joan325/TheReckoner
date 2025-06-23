@@ -1,6 +1,6 @@
 ---
 title: b'Letter from the editor'
-pubDate: b'2021-06-24T22:32:31.389Z'
+pubDate: 2021-06-24T22:32:31.389Z
 description: "Article about stuff."
 author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"

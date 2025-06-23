@@ -1,6 +1,6 @@
 ---
 title: b'Ask the Reckoner-May'
-pubDate: b'2017-06-10T21:16:58.584Z'
+pubDate: 2017-06-10T21:16:58.584Z
 description: "Article about stuff."
 author: b'areebasghar'
 heroImage: "/blog-placeholder-3.jpg"

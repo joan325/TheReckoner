@@ -1,6 +1,6 @@
 ---
 title: b'"window" by Emily Lai'
-pubDate: b'2021-04-26T02:53:15.930Z'
+pubDate: 2021-04-26T02:53:15.930Z
 description: "Article about stuff."
 author: b'life.thereckoner'
 heroImage: "/blog-placeholder-3.jpg"

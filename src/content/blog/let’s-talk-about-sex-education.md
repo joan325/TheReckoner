@@ -1,6 +1,6 @@
 ---
 title: b'Let\\u2019s Talk About Sex Education'
-pubDate: b'2021-04-28T04:39:52.804Z'
+pubDate: 2021-04-28T04:39:52.804Z
 description: "Article about stuff."
 author: b'chenjeffersonbox'
 heroImage: "/blog-placeholder-3.jpg"

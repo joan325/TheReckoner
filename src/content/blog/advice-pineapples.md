@@ -1,6 +1,6 @@
 ---
 title: b'Advice: Pineapples'
-pubDate: b'2015-03-31T02:34:11.072Z'
+pubDate: 2015-03-31T02:34:11.072Z
 description: "Article about stuff."
 author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"

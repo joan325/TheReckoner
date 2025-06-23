@@ -1,6 +1,6 @@
 ---
 title: b'Advice: Detective'
-pubDate: b'2019-11-01T03:14:22.270Z'
+pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
 author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"

@@ -1,6 +1,6 @@
 ---
 title: b'QSA'
-pubDate: b'2015-04-15T19:12:26.234Z'
+pubDate: 2015-04-15T19:12:26.234Z
 description: "Article about stuff."
 author: b'deifilia.to'
 heroImage: "/blog-placeholder-3.jpg"

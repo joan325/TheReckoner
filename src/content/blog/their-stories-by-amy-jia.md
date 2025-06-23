@@ -1,6 +1,6 @@
 ---
 title: b'"their stories" by Amy Jia'
-pubDate: b'2021-04-28T01:22:10.677Z'
+pubDate: 2021-04-28T01:22:10.677Z
 description: "Article about stuff."
 author: b'life.thereckoner'
 heroImage: "/blog-placeholder-3.jpg"

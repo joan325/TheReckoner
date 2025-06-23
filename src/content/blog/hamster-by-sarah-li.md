@@ -1,6 +1,6 @@
 ---
 title: b'"Hamster" by Sarah Li'
-pubDate: b'2021-04-28T14:05:43.053Z'
+pubDate: 2021-04-28T14:05:43.053Z
 description: "Article about stuff."
 author: b'life.thereckoner'
 heroImage: "/blog-placeholder-3.jpg"
