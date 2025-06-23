@@ -1,8 +1,8 @@
 ---
-title: "Op-Ed: FIFA Elections 2015"
-pubDate: "2019-11-01T03:14:22.270Z"
+title: b'Op-Ed: FIFA Elections 2015'
+pubDate: b'2019-11-01T03:14:22.270Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

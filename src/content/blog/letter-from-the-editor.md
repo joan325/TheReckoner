@@ -1,8 +1,8 @@
 ---
-title: "Letter from the editor"
-pubDate: "2021-06-24T22:32:31.389Z"
+title: b'Letter from the editor'
+pubDate: b'2021-06-24T22:32:31.389Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

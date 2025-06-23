@@ -1,8 +1,8 @@
 ---
-title: "Hot Takes Contest Entry - Nuha Khan"
-pubDate: "2021-06-25T00:13:23.103Z"
+title: b'Hot Takes Contest Entry - Nuha Khan'
+pubDate: b'2021-06-25T00:13:23.103Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

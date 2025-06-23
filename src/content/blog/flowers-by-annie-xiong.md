@@ -1,8 +1,8 @@
 ---
-title: ""flowers" by Annie Xiong"
-pubDate: "2021-04-28T01:22:53.416Z"
+title: b'"flowers" by Annie Xiong'
+pubDate: b'2021-04-28T01:22:53.416Z'
 description: "Article about stuff."
-author: "life.thereckoner"
+author: b'life.thereckoner'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

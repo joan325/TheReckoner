@@ -1,8 +1,8 @@
 ---
-title: "Let’s Talk About Sex Education"
-pubDate: "2021-04-28T04:39:52.804Z"
+title: b'Let\\u2019s Talk About Sex Education'
+pubDate: b'2021-04-28T04:39:52.804Z'
 description: "Article about stuff."
-author: "chenjeffersonbox"
+author: b'chenjeffersonbox'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

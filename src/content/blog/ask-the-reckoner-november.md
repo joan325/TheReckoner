@@ -1,8 +1,8 @@
 ---
-title: "Ask The Reckoner - November "
-pubDate: "2019-11-01T03:06:34.977Z"
+title: b'Ask The Reckoner - November '
+pubDate: b'2019-11-01T03:06:34.977Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

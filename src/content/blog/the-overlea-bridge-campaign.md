@@ -1,8 +1,8 @@
 ---
-title: "The Overlea Bridge Campaign"
-pubDate: "2021-06-25T00:18:36.633Z"
+title: b'The Overlea Bridge Campaign'
+pubDate: b'2021-06-25T00:18:36.633Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

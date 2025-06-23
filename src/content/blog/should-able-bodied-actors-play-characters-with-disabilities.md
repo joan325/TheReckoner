@@ -1,8 +1,8 @@
 ---
-title: "Should Able-bodied Actors Play Characters with Disabilities?"
-pubDate: "2021-04-28T04:46:56.477Z"
+title: b'Should Able-bodied Actors Play Characters with Disabilities?'
+pubDate: b'2021-04-28T04:46:56.477Z'
 description: "Article about stuff."
-author: "paromita.roy"
+author: b'paromita.roy'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

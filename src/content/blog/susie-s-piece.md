@@ -1,8 +1,8 @@
 ---
-title: "Editorial: Susie's Piece"
-pubDate: "2015-03-25T03:21:34.504Z"
+title: b"Editorial: Susie's Piece"
+pubDate: b'2015-03-25T03:21:34.504Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

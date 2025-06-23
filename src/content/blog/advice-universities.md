@@ -1,8 +1,8 @@
 ---
-title: "Advice: Universities"
-pubDate: "2019-11-01T03:14:22.270Z"
+title: b'Advice: Universities'
+pubDate: b'2019-11-01T03:14:22.270Z'
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: b'Reckoner Staff'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

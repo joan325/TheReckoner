@@ -1,8 +1,8 @@
 ---
-title: "Ask the Reckoner-May"
-pubDate: "2017-06-10T21:16:58.584Z"
+title: b'Ask the Reckoner-May'
+pubDate: b'2017-06-10T21:16:58.584Z'
 description: "Article about stuff."
-author: "areebasghar"
+author: b'areebasghar'
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
