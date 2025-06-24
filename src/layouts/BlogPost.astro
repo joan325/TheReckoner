@@ -46,11 +46,11 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 			}
 			.date {
 				margin-bottom: 1em;
-				color: rgb(var(--gray));
+				color: rgb(var(--black));
 			}
 			.author {
 				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+				color: rgb(var(--black));
 			}
 			.last-updated-on {
 				font-style: italic;
@@ -66,11 +66,10 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 				<div class="prose">
 					<div class="title">
 						<h1>{title}</h1>
-						<div class="author">
-							By: {author}
+						<div class="author"> <!--update name-->
+							By: {author} | <FormattedDate date={pubDate} />
 						</div>
 						<div class="date">
-							<FormattedDate date={pubDate} />
 							{
 								updatedDate && (
 									<div class="last-updated-on">
