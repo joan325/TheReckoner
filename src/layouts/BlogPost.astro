@@ -19,12 +19,17 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 				max-width: 100%;
 				margin: 0;
 			}
+			.article-box {
+				width: 85%;
+				margin: 35px auto;
+				background-color: rgb(216, 216, 216);
+			}
 			.hero-image {
 				width: 100%;
 			}
 			.hero-image img {
 				display: block;
-				margin: 0 auto 5px;
+				margin: 0 auto 15px;
 				border-radius: 0px; /* previously 12px */
 				box-shadow: var(--box-shadow);
 			}
@@ -61,8 +66,7 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 	<body>
 		<Header />
 		<main>
-			<article>
-				
+			<div class="article-box"><article>
 				<div class="prose">
 					<div class="title">
 						<h1>{title}</h1>
@@ -86,7 +90,7 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 					</div>
 					<slot />
 				</div>
-			</article>
+			</article></div>
 		</main>
 		<Footer />
 	</body>
