@@ -70,6 +70,8 @@ const posts = (await getCollection('blog')).sort(
 			}
             .latest-box > ul {
                 background-color: var(rgb(--white));
+                all: unset;
+                display: contents;
             }
 			.latest-box ul {
 				all: unset;
@@ -79,6 +81,7 @@ const posts = (await getCollection('blog')).sort(
 				grid-column: 1;
 				text-align: center;
                 grid-row: span 3;
+                width: 100%;
 			}
 			.latest-box .featured img {
 				width: 100%;
