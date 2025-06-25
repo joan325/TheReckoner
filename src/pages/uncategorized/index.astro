@@ -63,7 +63,6 @@ const posts = (await getCollection('blog')).sort(
 			.latest-box {
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				gap: 2rem;
 				width: 100%;
 				align-items: start;
 				margin-bottom: 3rem;
@@ -72,6 +71,9 @@ const posts = (await getCollection('blog')).sort(
                 background-color: var(rgb(--white));
                 all: unset;
                 display: contents;
+                list-style: none;
+                padding: 0;
+                margin: 0;
             }
 			.latest-box ul {
 				all: unset;
