@@ -65,10 +65,11 @@ const posts = (await getCollection('blog')).sort(
 			.latest-box {
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				width: 100%;
+				width: calc(100% - 1rem);
 				align-items: start;
 				margin-bottom: 3rem;
                 grid-auto-rows: auto;
+                background-color: rgb(var(--white));
 			}
             .latest-box > ul {
                 background-color: var(rgb(--white));
