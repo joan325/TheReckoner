@@ -19,6 +19,8 @@ const posts = (await getCollection('blog')).sort(
 			main {
 				width: 960px;
 			}
+
+			/* Regular posts */
 			ul {
 				display: flex;
 				flex-wrap: wrap;
@@ -31,53 +33,23 @@ const posts = (await getCollection('blog')).sort(
 				width: calc(100% / 3 - 2rem);
 				background-color: white;
 			}
-			ul li.highlighted {
-				width: 50%;
-				grid-column: 2;
-				display: flex;
-				align-items: center;
-				gap: 1rem;
-				height: auto;
-				flex-shrink: 0;
-			}
-			ul li.highlighted img {
-				width: 20%;
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-
-			ul li.featured {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-				grid-column: 1;
-			}
-			ul li.featured img {
-				width: 50%;
-			}
-			ul li.featured .title {
-				/* font-size: 2.369rem; */
-			}
-
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 0px;
 			}
 			ul li a {
 				display: block;
+				text-decoration: none;
+				transition: 0.2s ease;
 			}
 			.title {
-				margin: 0;
+				margin: 0.4rem 1rem 0rem;
 				color: rgb(var(--black));
 				line-height: 1;
-				margin: 0.4rem 1rem 0rem;
 			}
 			.date {
-				margin: 0;
-				color: rgb(var(--gray));
 				margin: 0rem 1rem 1rem;
+				color: rgb(var(--gray));
 			}
 			ul li a:hover h4,
 			ul li a:hover .date {
@@ -86,28 +58,58 @@ const posts = (await getCollection('blog')).sort(
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
+
+			/* Contains featured + 3 more posts */
 			.latest-box {
-				background-color: rgb(var(--white));
 				display: grid;
 				grid-template-columns: 1fr 1fr;
 				gap: 2rem;
 				width: 100%;
+				align-items: start;
+				margin-bottom: 3rem;
+			}
+			.latest-box ul {
+				all: unset;
+				display: contents;
+			}
+			.latest-box .featured {
+				grid-column: 1;
+				text-align: center;
+			}
+			.latest-box .featured img {
+				width: 50%;
+			}
+
+			.latest-box .highlighted {
+				grid-column: 2;
+				display: flex;
+				align-items: center;
+				gap: 1rem;
+			}
+			.latest-box .highlighted img {
+				width: 100px;
+				height: auto;
+				flex-shrink: 0;
 			}
 
 			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
+				ul,
+				.latest-box {
+					display: block;
 				}
 				ul li,
-				ul li.highlighted {
+				.latest-box .highlighted,
+				.latest-box .featured {
 					width: 100%;
 					text-align: center;
+					margin-bottom: 1rem;
 				}
-				ul li.featured {
-					margin-bottom: 0;
+				.latest-box .highlighted {
+					flex-direction: column;
+					align-items: center;
 				}
-				ul li.featured .title {
-					font-size: 1em;
+				.latest-box .highlighted img {
+					width: 80%;
 				}
 			}
 		</style>
@@ -116,35 +118,39 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<section>
-				<ul>
-					<div class="latest-box">
-					<!-- First post -->
-					{posts[0] && (
-						<li class="featured">
-							<a href={`/uncategorized/${posts[0].id}/`}>
-								<img src={posts[0].data.heroImage} alt="" />
-								<h4 class="title">{posts[0].data.title}</h4>
-								<p class="date">
-									by {posts[0].data.author} | <FormattedDate date={posts[0].data.pubDate} />
-								</p>
-							</a>
-						</li>
-					)}
+				<!-- First 4 posts (featured + highlighted) -->
+				<div class="latest-box">
+					<ul>
+						{posts[0] && (
+							<li class="featured">
+								<a href={`/uncategorized/${posts[0].id}/`}>
+									<img src={posts[0].data.heroImage} alt="" />
+									<h4 class="title">{posts[0].data.title}</h4>
+									<p class="date">
+										by {posts[0].data.author} | <FormattedDate date={posts[0].data.pubDate} />
+									</p>
+								</a>
+							</li>
+						)}
 
-					<!-- Posts 2–4 -->
-					{posts.slice(1, 4).map((post) => (
-						<li class="highlighted">
-							<a href={`/uncategorized/${post.id}/`}>
-								<img src={post.data.heroImage} alt="" />
-								<h4 class="title">{post.data.title}</h4>
-								<p class="date">
-									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
-								</p>
-							</a>
-						</li>
-					))}
-					</div>
-					<!-- Rest -->
+						{posts.slice(1, 4).map((post) => (
+							<li class="highlighted">
+								<a href={`/uncategorized/${post.id}/`}>
+									<img src={post.data.heroImage} alt="" />
+									<div>
+										<h4 class="title">{post.data.title}</h4>
+										<p class="date">
+											by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+										</p>
+									</div>
+								</a>
+							</li>
+						))}
+					</ul>
+				</div>
+
+				<!-- Rest of posts -->
+				<ul>
 					{posts.slice(4).map((post) => (
 						<li>
 							<a href={`/uncategorized/${post.id}/`}>
