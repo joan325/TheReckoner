@@ -90,20 +90,44 @@ const posts = (await getCollection('blog')).sort(
 		<main>
 			<section>
 				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/uncategorized/${post.id}/`}>
-									<img width={720} height={360} src={post.data.heroImage} alt="" />
-									<h4 class="title">{post.data.title}</h4>
-									<!--add author here-->
-									<p class="date">
-										by {post.data.author} | <FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
+					<!-- First post -->
+					{posts[0] && (
+						<li class="featured">
+							<a href={`/uncategorized/${posts[0].id}/`}>
+								<img src={posts[0].data.heroImage} alt="" />
+								<h4 class="title">{posts[0].data.title}</h4>
+								<p class="date">
+									by {posts[0].data.author} | <FormattedDate date={posts[0].data.pubDate} />
+								</p>
+							</a>
+						</li>
+					)}
+
+					<!-- Posts 2–4 -->
+					{posts.slice(1, 4).map((post) => (
+						<li class="highlighted">
+							<a href={`/uncategorized/${post.id}/`}>
+								<img src={post.data.heroImage} alt="" />
+								<h4 class="title">{post.data.title}</h4>
+								<p class="date">
+									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+								</p>
+							</a>
+						</li>
+					))}
+
+					<!-- Rest -->
+					{posts.slice(4).map((post) => (
+						<li>
+							<a href={`/uncategorized/${post.id}/`}>
+								<img src={post.data.heroImage} alt="" />
+								<h4 class="title">{post.data.title}</h4>
+								<p class="date">
+									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+								</p>
+							</a>
+						</li>
+					))}
 				</ul>
 			</section>
 		</main>
