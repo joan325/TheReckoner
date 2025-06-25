@@ -110,7 +110,7 @@ const posts = (await getCollection('blog')).sort(
                 gap: 1rem;
             }
 
-            .highlighted .date {
+            .highlighted-info {
                 display: flex;
                 flex-direction: column;
             }
@@ -160,7 +160,7 @@ const posts = (await getCollection('blog')).sort(
 							<li class="highlighted">
 								<a href={`/uncategorized/${post.id}/`}>
 									<img src={post.data.heroImage} alt="" />
-									<div>
+									<div class="higlighted-info">
 										<h4 class="title">{post.data.title}</h4>
 										<p class="date">
 											by {post.data.author} | <FormattedDate date={post.data.pubDate} />
