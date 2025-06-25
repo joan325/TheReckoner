@@ -93,7 +93,7 @@ const posts = (await getCollection('blog')).sort(
 			}
 			.latest-box .featured img {
 				width: calc(100% - 2rem);
-                margin: 1rem;
+                margin: 1rem 1rem 0rem;
 			}
 
 			.latest-box .highlighted {
@@ -106,13 +106,14 @@ const posts = (await getCollection('blog')).sort(
 				width: 15%;
 				height: auto;
 				flex-shrink: 0;
-                margin: 1rem;
+                margin: 1rem 0.5rem 1rem 1rem;
 			}
 
             ul li.highlighted a {
                 display: flex;
                 align-items: left;
                 gap: 0rem;
+                margin-top: 1rem;
             }
 
             .highlighted-info {
