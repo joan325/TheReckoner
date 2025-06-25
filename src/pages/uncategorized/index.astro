@@ -44,28 +44,28 @@ const posts = (await getCollection('blog')).sort(
 			}
 			.title {
 				margin: 0.4rem 1rem 0rem;
-				color: rgb(var(--black));
+				color: rgb(var(--accent));
 				line-height: 1;
 			}
 			.date {
 				margin: 0rem 1rem 1rem;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
+            /*
+			ul li a:hover h5,
 			ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
-            /*
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
             */
 
-			/* Contains featured + 3 more posts */
+			/* Contains featured + 5 more posts */
 			.latest-box {
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				width: calc(100% - 1rem);
+				width: calc(100% - 2rem);
 				align-items: start;
 				margin-bottom: 3rem;
                 grid-auto-rows: auto;
@@ -148,14 +148,14 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<section>
-				<!-- First 4 posts (featured + highlighted) -->
+				<!-- First 6 posts (featured + highlighted) -->
 				<div class="latest-box">
 					<ul>
 						{posts[0] && (
 							<li class="featured">
 								<a href={`/uncategorized/${posts[0].id}/`}>
 									<img src={posts[0].data.heroImage} alt="" />
-									<h4 class="title">{posts[0].data.title}</h4>
+									<h5 class="title">{posts[0].data.title}</h5>
 									<p class="date">
 										by {posts[0].data.author} | <FormattedDate date={posts[0].data.pubDate} />
 									</p>
@@ -163,12 +163,12 @@ const posts = (await getCollection('blog')).sort(
 							</li>
 						)}
 
-						{posts.slice(1, 4).map((post) => (
+						{posts.slice(1, 6).map((post) => (
 							<li class="highlighted">
 								<a href={`/uncategorized/${post.id}/`}>
 									<img src={post.data.heroImage} alt="" />
 									<div class="higlighted-info">
-										<h4 class="title">{post.data.title}</h4>
+										<h5 class="title">{post.data.title}</h5>
 										<p class="date">
 											by {post.data.author} | <FormattedDate date={post.data.pubDate} />
 										</p>
@@ -181,11 +181,11 @@ const posts = (await getCollection('blog')).sort(
 
 				<!-- Rest of posts -->
 				<ul>
-					{posts.slice(4).map((post) => (
+					{posts.slice(6).map((post) => (
 						<li>
 							<a href={`/uncategorized/${post.id}/`}>
 								<img src={post.data.heroImage} alt="" />
-								<h4 class="title">{post.data.title}</h4>
+								<h5 class="title">{post.data.title}</h5>
 								<p class="date">
 									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
 								</p>
