@@ -63,15 +63,18 @@ const posts = (await getCollection('blog')).sort(
 			.latest-box {
 				display: grid;
 				grid-template-columns: 1fr 1fr;
-				gap: 2rem;
 				width: 100%;
 				align-items: start;
 				margin-bottom: 3rem;
+                grid-auto-rows: auto;
 			}
             .latest-box > ul {
                 background-color: var(rgb(--white));
                 all: unset;
                 display: contents;
+                list-style: none;
+                padding: 0;
+                margin: 0;
             }
 			.latest-box ul {
 				all: unset;
@@ -82,6 +85,8 @@ const posts = (await getCollection('blog')).sort(
 				text-align: center;
                 grid-row: span 3;
                 width: 100%;
+                list-style: none;
+                height: 100%;
 			}
 			.latest-box .featured img {
 				width: 100%;
@@ -98,6 +103,17 @@ const posts = (await getCollection('blog')).sort(
 				height: auto;
 				flex-shrink: 0;
 			}
+
+            ul li.highlighted {
+                display: flex;
+                align-items: left;
+                gap: 1rem;
+            }
+
+            .highlighted .date {
+                display: flex;
+                flex-direction: column;
+            }
 
 			@media (max-width: 720px) {
 				ul,
