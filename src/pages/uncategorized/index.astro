@@ -30,7 +30,6 @@ const posts = (await getCollection('blog')).sort(
 			ul li {
 				width: calc(100% / 3 - 2rem);
 				background-color: white;
-				padding: 0.1em;
 			}
 			ul li.highlighted {
 				
@@ -63,10 +62,12 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0;
 				color: rgb(var(--black));
 				line-height: 1;
+				margin: 1rem;
 			}
 			.date {
 				margin: 0;
 				color: rgb(var(--gray));
+				margin: 1rem;
 			}
 			ul li a:hover h4,
 			ul li a:hover .date {
