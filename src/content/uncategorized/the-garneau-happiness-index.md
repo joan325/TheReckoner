@@ -1,0 +1,39 @@
+---
+title: "The Garneau Happiness Index"
+pubDate: 2016-01-12T05:29:28.060Z
+description: "Article about stuff."
+author: "metroidude47"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+The Garneau Happiness Index  
+
+A Quantitative Study of Mental Well-Being at MGCI
+
+
+
+When we think of how well a student is doing in school, academic performance is instinctively the first factor that comes to mind. Given the goals of the education system, this is not surprising. However, a by-product of this attitude is that the mental well-being of a student is sometimes left out of mainstream consideration. This is harmful, because stress hurts a student’s general performance and tends to increase with the number of years they have spent in high school. Many students are also unaware of existing resources that may help them cope with debilitating pressure.  
+
+To quantify mental well-being at MGCI, *The Reckoner* has created the “Garneau Happiness Index (GHI).” The GHI incorporates both quantitative and qualitative responses from a survey conducted on a sample of the student population to produce a value between 1 and 10 for each grade, with 1 representing “Couldn’t feel any worse” and 10 representing “Never felt better.”  While the survey is far from being a perfect representation, general conclusions may be drawn from the collected information.   
+
+GHI begins in Grade 9 at 5.20, and rises to 5.58 for Grade 10 students. This is logical, as students become more comfortable in their second year. However, GHI drops rather sharply to 4.86 in Grade 11, as workload begins to intensify. It dips further in Grade 12 to 4.64, when school pressure peaks. It is alarming that 37% of students surveyed ranked “Health” as their lowest priority out of “Family”, “Friends”, “Academics”, “Extracurriculars”, and “Health.” Health is clearly a concern when “stressed,” “tired,” and “depressed” are among the words most commonly used by students to describe how they feel this school year. 46.7% of participants included “stressed”, whereas only 15.2% included “happy.” Clearly, a raincloud is hanging over Garneau.         
+
+Stress is possibly the biggest contributor to the overall drop in mental well-being. It interferes with a student’s performance by inducing a sense of unease and pressure that is a constant distraction to the student, It can also lead to feelings of insecurity and emotional instability.  
+
+Since helping students achieve academic success is a major priority of the education system, reducing stress experienced by students—thereby improving their ability to perform—is a beneficial move for all parties. Though such initiatives do exist, many are inherently flawed.  
+
+Most students at MGCI know about the Student Success (Guidance) department. Each grade is assigned a guidance counsellor who will follow them throughout their four years in high school. But how exactly can guidance help stressed students?  
+
+First, a private appointment is arranged between a student that has requested help and their counsellor. There, the two chat and attempt to determine the main sources of stress, be it academic, familial or social. The counsellor works with the student to find ways to deal with each unique situation. Solutions take various forms, including having therapeutic chats to discuss difficulties, counselling on how to effectively balance academic obligations with life outside school, and creating customized calendar to help with organization. In serious cases, guidance may assign a social worker to speak with the student. Most of the time, counsellors will talk to the student’s teachers to help them understand the situation. They may ask teachers for extended deadlines or rescheduled test dates on behalf of the student, if those are factors. Counsellors are very supportive and flexible with how they create solutions.  
+
+	A common misconception that students hold is that guidance must notify parents or guardians when a student comes in asking for help. This is not true. The only time guidance has a legal obligation to notify external parties is when a student displays evidence that their health is being threatened. In all instances, the counsellors will tell students what they plan on doing, so the student is always aware.   
+
+Unfortunately, most students find it difficult to approach guidance and ask for help. The majority of students never get to know their counsellors beyond a general introduction. As a result, what amounts to approaching a stranger with very personal issues is not attractive to many. Counsellors should consider amplifying their willingness to engage with students on a personal level. A quick one-on-one conversation to check in with each student to see how they’re is doing, can show students that educators are here to help in more ways than academically. This could be implemented into the timetable meetings that counsellors already have with each student. Counsellors could also work with teachers, which students may be more comfortable talking to, to establish other ways of receiving help. Guidance should further emphasize to students that parental notification is not mandatory. Many students do not know this, and see lack of privacy as a deterrent.    
+
+Moreover, an underlying stigma associated with seeking external help further widens the gap between a struggling student and available assistance. The expected response to the question “How are you doing?” is “Fine.” Yet many students are not fine. It is not uncommon to see students crying or hear about breakdowns. Whether it stems from feelings of awkwardness or helplessness, the common response to such occurrences is to turn a blind eye and “provide space” for that person. This kind of attitude increases the sense of isolation that someone in trouble feels. Collectively, we need adjust our mindset and recognize that problems like stress are universal. The next time you see a distraught friend, don’t ignore them. Be sensitive, but let them know they’re not alone.  
+
+ The results revealed by the GHI are not altogether surprising. Most people expect school to put more pressure on students as they get closer to their diploma. However, this does not mean the status quo cannot be improved. To counsellors: Please try and familiarize yourselves more intimately with students. Going to guidance for help should not feel like taking a leap of faith. Please also take more initiatives to demonstrate exactly what guidance can provide, because many students are not aware of your resources. To students: Ignorance of what is available should not be what keeps you sinking. Take some time to acquaint yourself with the many assistance options that are available, and understand that many of your peers are in the same boat. Academics are important, but there is no excuse to ignore our mental well-being and happiness now when those are exactly the things we each ultimately seek in life.    
+
+
+

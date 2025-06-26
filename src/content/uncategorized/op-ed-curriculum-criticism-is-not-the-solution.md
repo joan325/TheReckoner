@@ -1,0 +1,28 @@
+---
+title: "Op-Ed: Curriculum Criticism Is Not the Solution"
+pubDate: 2016-10-11T17:35:52.368Z
+description: "Article about stuff."
+author: "Lawrence Pang"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+Op-Ed: Curriculum Criticism Is Not the Solution
+
+
+
+What’s the first thing that comes to mind when you think of math class? Boredom? Anxiety? Frustration?  
+
+An increasing number of Ontario students agree. Following a seven-year decline in math scores, less than half of Grade 6 students passed the EQAO math standard in 2016\. Many are pointing fingers at the new math curriculum, introduced just as the scores started to fall, which promotes a style of learning termed “discovery math.”   
+
+Instead of remembering exact algorithms, discovery math encourages students to learn multiple ways of solving a single problem. Rather than rote memorization, it requires that students understand mathematical methods proactively through independent inquiry. For example, students learning multiplication may be asked to model it with arrays, grouping, and physical representation, as opposed to simply memorizing the multiplication table. Critics of the new curriculum suggest that learning so many approaches occupies too much working memory, hindering students’ ability to apply their knowledge. Furthermore, they contend that time spent on discovering different ways to solve problems can be better used drilling basic skills like arithmetic.   
+
+But criticism of the curriculum, while valid and necessary, is missing the forest for the trees. The problem with math education is *societal*, not pedagogical. Fundamentally, people—parents, students, even some teachers—misunderstand not only basic mathematical facts, but also the entire discipline of mathematics. Mathematics is not merely number crunching, or arithmetic exercises, or the repeated application of any kind of algorithm. Instead, it is an art, practiced for its own sake, as valid as painting or music or poetry.  
+
+How many people have ever done a math problem because they wanted to? How many people have an appreciation for an elegant proof? Surely the number is lower than those who have picked up an instrument or painted some artwork or have a favourite song. Indeed, those who lambast the new curriculum for not teaching the fundamentals of mathematics must first look in the mirror. How many of them can say they have ever enjoyed mathematics? Appreciated it? Understood it? The achievement of some basic insight about the nature of mathematics is so much more fundamental than the memorization of a fact or formula. And yet too many people walk around with a vague shadow of, say, the quadratic equation, drilled into them by page after page of repetitive exercises, without knowing its application or derivation or significance.   
+
+From a practical standpoint, teaching only algorithms without understanding is the cause of a kind of math-phobia which is prevalent in society. Endless, repetitive drills impart an impression of mathematics as a stale subject. In reality, it is anything but. These practices have created generations of people who, when faced with a math problem, just shut down. It creates parents who are both unable and unwilling to help with their children's math homework. It creates math teachers, predominantly in elementary school, who don’t really know what they’re talking about; my grade seven art teacher doubled as a math teacher, yet didn’t know that 50 was 1, not 0\. It creates students who complain that *“I’m just not a math person,”* and worse, students who say that as if it’s something to be proud of. Such widespread fear and willful ignorance are at the root of our problems with math education.  
+
+	Thus, the problem with discovery math is not that it encourages creativity and independent study. If anything, these are both effective ways of making math appear less boring and intimidating. These skills are used in professional mathematics, easily transferred to other fields, and can be applied to any career. Instead, the issue lies in attempting to regulate and enumerate what kind of techniques students use—missing that creativity, by definition, does not conform.   
+
+	A better balance needs to be found between the old curriculum and the new. Students cannot neglect their basic arithmetic skills, but these practices need to be introduced in a more appealing way. This does not mean changing the font on the textbook or making interactive applets. It means creating multi-step problems which integrate more skills. It means allowing for the use of creative techniques even if they’re not in the solutions manual. It means flexibility, adjusting for some students who may be comfortable with applying the same algorithm each time and others who seek diverse methods. To implement such a strategy requires teachers who are themselves capable of thinking beyond the curriculum. This is where the catch lies—teachers might find it difficult to adjust to this style if they have not already learned in the same way. But we must start somewhere. If society’s mentality towards math does not change, all these reforms and resources spent will mean little. 

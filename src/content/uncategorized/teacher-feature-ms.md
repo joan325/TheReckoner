@@ -1,0 +1,59 @@
+---
+title: "Teacher Feature: Ms.Hermanovsky"
+pubDate: 2019-03-02T15:45:37.301Z
+description: "Article about stuff."
+author: "Reckoner Staff"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+From daily trivia competitions to dark-room lessons using glow-sticks, Ms. Hermanovsky is the teacher every student wants. When she first started teaching, she didn’t settle in any one school for a long time, but that changed when she reached Garneau, where she is now completing her eighth year. She says the main reason she has stayed at Garneau for so long was because of its atmosphere and student and teacher body: “I think the student body is amazing, the students are respectful and kind and eager to learn, so I actually love this school. We are lucky at Garneau to have an amazing teacher body here working towards same goals.”
+
+
+
+Ms. Hermanovsky first decided to start teaching because she noticed that a lot of her friends “didn’t want to go into certain subjects because they disliked their teachers.” She said, “I was really passionate about biology so I decided I wanted to try to create some type of learning where the students were enthusiastic about it.”
+
+
+
+Reflecting on her journey towards becoming a teacher, she says it was a challenging path: “I find that there’s always a difficult facet no matter how long you’re teaching—it’s either the marking or trying to find a way to motivate students.” With challenges, however, there come rewards; she added, “My reward is the joy I get from what I do for \[the students\].  The impact it has on me is like watching my Grade 12 students graduate and pursue a subject they’re passionate about.”
+
+
+
+In the eight years she has spent at Garneau, Ms. Hermanovsky’s teaching style has changed substantially. At first, she said, she was “strict” but as she’s gotten more confident and comfortable, she has created a better dynamic within her class where “both students and teachers can learn from each other.” A unique teaching method she has is using “disgusting” images to accompany new and important concepts, claiming that it makes them more memorable for students as the image typically remains burned into their minds. “For example, if I’m teaching about hearing, I’m not just going to put a picture of an ear on the wall. I’m going to put a picture of an old man with hairy ears, full size, and they’ll be grossed out but now \[they’ll\] remember forever.”
+
+
+
+One of her favourite lessons to teach is on chemiluminescence. She darkens the room and distributes glow-sticks to all her students, and the whole lesson is conducted in that atmosphere, making it memorable for both herself and her students. This year, she implemented a new lesson called “Beat the Teacher”, in which she challenges her students to complete six laps around the track against her, no matter how fast or slow as long as they do not stop. As an avid runner, she typically wins. “The science behind it is to see what is going on to create an efficient system inside me even though on paper, they should be better.” She begrudgingly added, “A few students in each class beat me, let that be said\!” Her innovative and engaging methods of teaching are tied back to her goal of offering a safe and welcoming space for all students and instilling a sense of curiosity and enjoyment in the subjects that she teaches. She feels rewarded when students come back after graduating and tell her the impact her class has made on them.
+
+
+
+Outside of school, Ms. Hermanovsky has quite a few interests. She adores singing and drama, even incorporating drama skits in her lectures to liven them up. She also enjoys seeing Broadway productions, naming School of Rock, Kinky Boots, and Matilda as the most recent ones she has seen. She has even treated herself to the luxury of seeing shows on Broadway when she visits New York City.
+
+
+
+When she has the time, she loves travelling and has been to many places including Europe, Vietnam and Japan. The next place on her bucket list is Australia but the distance and cost has made her put off the trip until the timing is right. In the short term, she plans on going away somewhere warm for the March Break and possibly taking a short trip to Montreal in the summer. Having travelled to so many places, Ms. Hermanovsky is undoubtedly very adventurous but one thing she is too scared to ever do is bungee-jumping. Though she has skydived before, she says bungee-jumping is just too far out of her comfort zone. “With skydiving, I know there is a parachute and there was a guy attached to me. With bungee-jumping, you have to choose to jump and I’m always too scared.”
+
+
+
+While she adores travelling and theater, Ms. Hermanovsky’s favourite pastime by far is running. On Day 1’s, she goes for a run during period 4 down the Don Valley Trail, her go-to spot. She says running is also how she likes to explore new cities when she travels and that it offers a more in-depth and authentic experience than simply visiting tourist attractions. She also exclusively runs outdoors, saying running on a treadmill takes the enjoyment out of the activity.
+
+
+
+To share her passion for running, she recommends that the female students of Garneau join the Run for Fun Club, which will be starting in the second semester of the school year. Ms. Hermanovsky founded the club as a way to help girls enjoy running and attain its numerous benefits. Above all, Ms. Hermanovsky prioritizes spending time with family and friends. To her, socializing and catching up with the people close to her brings an important balance to her busy life.
+
+
+
+Along with her hobbies, Ms. Hermanovsky is an overall passionate person. She is a dedicated admirer of Betty Friedan, the author of The Feminine Mystique, who is also one of her biggest inspirations. In fact, she once dressed up as her for a school project, giving a presentation in character as Friedman, showcasing her passion for Friedman’s work and beliefs. Friedman is her top pick of any celebrity to have dinner with. She added that another possible choice would be meeting “the powerful figures of today,” not necessarily to speak with them, but to simply observe their conversations amongst each other and “see what they are thinking” regarding current events.
+
+
+
+Ms. Hermanovsky is also passionate about the future, particularly about technological advancements. Given the power to travel through time, Ms. Hermanovsky says that she would only use it to go into the future, not the past. She says she is happy with the way the world is today, in terms of equality, multiculturalism, and freedom, and does not see the point in heading to the past. She would, however, love to get a glimpse into the future to “see where we are in the evolution of biotechnology and genetic engineering.” She would also want to know if any diseases, like cancer, have been cured.
+
+
+
+Throughout her teaching experience, Ms. Hermanovsky has gained wisdom and advice that she hopes to share with her students. Asked to share some tips for academic success, Ms. Hermanovsky advises Garneau students to: “review lessons after you have been taught, ask teachers for help, ask questions in class, and try to teach yourself or someone else what you’ve learned.” Having seen her students “shaking before tests” and “coming to school without any sleep,” Ms. Hermanovsky’s personal philosophy that she strives to embed into her students is “in order to survive the system and pursue whatever job you want to, you have to find places to have fun, to relax, and enjoy the ride. Let’s not take ourselves too seriously.”
+
+
+
+Although her job can be tough, she looks forward to waking up every day because of how much joy and laughter she gains from teaching her students. For Ms. Hermanovsky, there’s no other job she’d rather have than teaching.  
+

@@ -1,87 +1,103 @@
 ---
-title: "Teacher Feature - Mr. Pearce"
-pubDate: 2015-04-15T19:13:05.457Z
+title: "Teacher Feature: Mr. Brossard"
+pubDate: 2018-06-11T01:18:02.838Z
 description: "Article about stuff."
-author: "deifilia.to"
+author: "Reckoner Staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
-Teacher Feature (A Brief Chat with Mr. Pearce)  
-
-By Deifilia To
+The Reckoner sat down and interviewed Mr. Brossard, a computer science and computer engineering teacher at MGCI.  
 
 
 
-*Q: What’s your favourite time of the day?*  
+**Q: What subjects do you teach at this school?**  
 
-A: When I pick my kids up from their afterschool program and I walk home with them.  
+**A:** Grade 10 and 11 computer engineering and computer science.  
 
-*Q: Coke or Pepsi?*  
 
-A: Coke  
 
-*Q: Batman or Superman?*  
+**Q: How long have you taught at MGCI?**  
 
-A: Definitely Batman  
+**A:** Since 2005\.  
 
-*Q: Pet Peeve?*  
 
-A: Plagiarism’s a big one  
 
-*Q: Favourite word?*  
+**Q: Do you have any funny stories to share in class?**  
 
-A: I like the word ‘nefarious’  
+**A:** A funny story? Nothing comes to mind. I wish I had more stories. Well, the TOPS end of semester party for computer science is quite fun. One time we played Christmas tunes and everybody brought out their instruments. That was a joy and the TOPS kids really liked it.  
 
-*Q: Favourite nerdy pastime?*  
 
-A: Studying world maps  
 
-*Q: Best place in Toronto to be?*  
+**Q: What did you do before you were a teacher?**  
 
-A: Toss up between Kensington Market or Toronto Islands  
+**A:** I was a music composer, so I composed for \[studios\] like TVO, for private producers, and for television shows. One is *Catches of Our Town*. It’s kind of old but it was there for a long time. They did something like two hundred shows, so that kept me quite busy. I did a lot of work for TV Ontario and CBC. I also had a studio where I used to write my own music and compose albums for people. I did voiceovers and studio work of different kinds for about seventeen years at different networks around Toronto.  
 
-*Q: Coffee or tea?*  
 
-A: Coffee  
 
-*Q: Read the book or watch the movie?*  
+**Q: What’s the best thing about teaching at MGCI?**  
 
-A: Book  
+**A:** The variety of students that we have. The diversification. \[The\] excellence. Some students never cease to amaze me. For instance \[a student\] went to Apple for a week. It was a surprise. Teams in computer science won at the ECOO (Educational Computing Organization of Ontario) Contest. Some are going to IOI (International Olympiad in Informatics ). That’s astounding. Plus, girls teams are making headway. It’s super exciting, the energy is phenomenal. I find the students cordial and amicable, and just the energy is electrifying and really fun from the teacher standpoint to get involved in.  
 
-*Q: What subject do you teach?*  
 
-A: Currently, History, Civics, and Philosophy  
 
-*Q: What inspires you to teach? Did you have a favourite teacher that influenced you?*  
+**Q: What did you do before you were a teacher?**  
 
-A: Yeah, I had a few. My Grade 11 History teacher, Mr. Dodds, was inspirational. I went to school in Victoria BC, and he treated us like adults. He had us asking big questions, and encouraged us to get involved out of the classroom. I can remember for one civics assignment, we had to volunteer for a political party because there was an election going on.  
+**A:** I was a music composer, so I composed for \[studios\] like TVO, for private producers, and for television shows. One is *Catches of Our Town*. It’s kind of old but it was there for a long time. They did something like two hundred shows, so that kept me quite busy. I did a lot of work for TV Ontario and CBC. I also had a studio where I used to write my own music and compose albums for people. I did voiceovers and studio work of different kinds for about seventeen years at different networks around Toronto.
 
-*Q: Do you think what you learned from that teacher is carried out in your own teaching today?*  
 
-A: I think it is, to a large extent. I think I’ve got a lot of things I still need to work on as a teacher. I don’t feel like I’ve mastered it by any stretch, but I think one of the things about teaching is just a real passion for the subject matter.  
 
-*Q: What is one aspect of your personal life that you are willing to share that students would be surprised about?*  
+**Q: Why did you decide to teach computer science/computer engineering?**  
 
-A: Before I was a teacher, I worked for many years doing human rights work in Latin America.  
+A: I like to share information, share my knowledge, and have a steady job. For music composing you’re always freelancing. It’s feast or famine—sometimes it’s feast, sometimes it’s famine. With a family, I wanted something a little more steady. Teaching appealed to me because I have a love for electronics. Even though  music is my first love, my second love is electronics. I didn’t know at the time but computer science is something that involves everything that music does, because I use computers to compose music. That’s how it kind of all fell into place. 
 
-*Q: Specifically, where did you go?*  
 
-A: Mexico, Guatemala, and Colombia  
 
-*Q: If you could choose any time to go to in a time machine, where would you go?*  
+**Q: What is the most important thing you want students to take away from your classes?**  
 
-A: Well, actually I love music, so I might want to go back to the late 50s or early 60s to see some of the famous Jazz musicians play like Thelonious Monk or Miles Davis.  
+**A:** Understanding how to learn autonomously. I teach them how to learn not from me but from themselves. That’s what I cherish the most and I’ve seen it in many many students. I plant a seed, I don’t spoon feed them, and they find information on their own. During my classes, we have an exchange of information between students. Specifically \[in\] computer science \[it’s\] very common. Students learn from each other and they are prepared to tackle anything outside the classroom, not having necessarily someone holding their hands. They can figure it out on their own. I like the idea of learning autonomously very much.
 
-*Q: Would you stay there, or visit and come back?*  
 
-A: I would visit and come back  
 
-*Q: Do you have one teacher that you disliked when you were a student? Would you like to share a story about them?*  
+**Q: What is your favorite band?**  
 
-A: I was pretty lucky with teachers most of the time. I don’t have a good terrible teacher story.  
+**A:** Bill Bruford. That’s the name of the band. The people \[in the band\] are drummers. It’s unpopular music. People would not be that interested in it. They made an album called Gradually Going Tornado and it’s just one in a million. But generally, it depends on how I feel. I could listen to eight-tonal music, I could listen to country music, I could listen to rock, jazz. If I’m in the right mood, if it’s well recorded, well performed, I’m in.  
 
-*Q: What do you think is the most important message that you try to convey to your students through your teaching?*  
 
-A: It depends on the class, I tend to have one or two simple messages to each class that are sort of like my mantras. For philosophy, the overall message is “Do not believe hastily”. There’s a Roman poet Ovid who said that. \[I want\] to get people to just reflect on their beliefs and to try to think critically about what they believe and why.  
+
+**Q: Favorite genre of music?**  
+
+**A:** I like it all. I like classics. I like anything, rock, hillbilly music, country music. You name it, I like it.  
+
+
+
+**Q: What is the most important thing you want students to take away from your classes?**  
+
+**A:** Understanding how to learn autonomously. I teach them how to learn not from me but from themselves. That’s what I cherish the most and I’ve seen it in many many students. I plant a seed, I don’t spoon feed them, and they find information on their own. During my classes, we have an exchange of information between students. Specifically \[in\] computer science \[it’s\] very common. Students learn from each other and they are prepared to tackle anything outside the classroom, not having necessarily someone holding their hands. They can figure it out on their own. I like the idea of learning autonomously very much.  
+
+
+
+**Q: What is your favorite pastime other than music?**  
+
+**A:** Other than music? Wow. That’s a good one. That’s a good one because I’m so busy with everything else. Tiny bit of gardening and sports like swimming. I’d say I do a lot of swimming these days.
+
+
+
+**Q: What is your favorite food?**  
+
+**A:** Wow, it’s the same as music. Chicken Pad Thai. It’s like music, you name it I like it. I’m not fond of snake or monkey head, I think I would draw the line there. But I basically like everything.  
+
+
+
+**Q: What is your favorite pastime other than music?**  
+
+**A:** Other than music? Wow. That’s a good one. That’s a good one because I’m so busy with everything else. Tiny bit of gardening and sports like swimming. I’d say I do a lot of swimming these days.  
+
+
+
+**Q: If you could give a piece of advice to a Garneau student, what would it be?**  
+
+**A:** Find your passion. Find your passion and pursue it.
+
+
 

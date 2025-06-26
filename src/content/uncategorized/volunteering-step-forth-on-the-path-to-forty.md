@@ -1,0 +1,55 @@
+---
+title: "Volunteering:  Step Forth on the Path to Forty"
+pubDate: 2019-03-02T19:16:32.047Z
+description: "Article about stuff."
+author: "Reckoner Staff"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+Ever wonder why you have to complete forty hours of volunteer work to earn an Ontario Secondary School Diploma? The requirement originally came about in the 1999-2000 year. The purpose of mandating volunteering in high school was to improve students’ awareness of civic responsibility and increase their role in their communities.
+
+
+
+Beginning in the summer before Grade 9, students can start completing these hours and have up until the end of Grade 12 to finish a minimum of forty hours. Community service can take place in a variety of forms, ranging from helping out neighbours to finding placements at government organizations.
+
+
+
+Guidance counsellors introduce two main categories of volunteering activities to students: community-based volunteering and school-based volunteering. There are several local organizations that target high school students as volunteers. If students do not wish to take part in these activities outside of school, there are also many ways that they can volunteer at the school, which include helping out with parent-teacher interviews, the morning snack program, and the library. According to Grade 11 Guidance Counsellor Ms. Lesser, the variety of activities available creates “many opportunities for the more ambitious students and those who want to stick to a school setting.”
+
+
+
+The Toronto District School Board (TDSB) must approve the type of volunteer activity a student performs in order for it to count towards their forty mandatory hours. Some restrictions for activities are that they must take place outside of class hours, they cannot be activities that would normally be performed for wages, and the environment in which the activity takes place must be safe. A full list of restrictions can be found online on the [school board website](https://www.tdsb.on.ca/Portals/0/HighSchool/docs/Community%20Involvement%20Hours.pdf). Students are encouraged to check with their guidance counsellor prior to partaking in these activities to ensure that they are approved by the TDSB.
+
+
+
+MGCI’s standards for completing the required volunteer hours are slightly different compared to other high schools in Ontario. MGCI students are responsible for completing the full forty community service hours before the start of Grade 11\. This rule was established by Principal Ms. Goldenberg in order to ensure that students at MGCI would be able to meet all of the diploma requirements on time and address any concerns early on. This rule also puts pressure on students to get an early start on completing their community service hours instead of putting them off until Grade 12, like many students do.
+
+
+
+Many teachers and staff at MGCI recognize the importance of community involvement and the effect it can have on students. Ms. Lesser spoke about the learning experiences that are unique to volunteering: “Volunteering helps students step outside the walls of traditional \[classroom\] learning and learn by experience. They are also able to meet new people and make connections with organizations that can help them in the future.”
+
+
+
+Other teachers such as chemistry teacher and science department head Ms. Woods also stress the importance of volunteering for individual growth: “I think it helps \[students\] see the situation that others are in and evaluate the life that they live in a positive way. Academically, it can motivate people to work harder and to not be reliant on others.”
+
+
+
+Like teachers, students at MGCI also have high opinions of the volunteering experience. Grade 9 student Shokria Ameri currently volunteers at Valley Park Middle School. According to her, it is a “great opportunity that we get to volunteer around our community because we get to meet new people and we learn so much.”
+
+
+
+Unfortunately, according to Grade 9 student Axel Paraggua, some students may encounter difficulties with finding volunteering activities that they are comfortable with. Choosing the activities is usually the hardest part for new high school students, but resources have become increasingly common. Students can find opportunities locally, through their current involvement in their community or through their school, or online, using sites such as Volunteer Toronto. At MGCI, the Student Services office helps connect students to volunteer opportunities through posters, volunteer recruitment letters, and contact information for organizations.
+
+
+
+While the value of participating in community service activities was only officially recognized by Ontario in 1999, other educational programs made these activities a part of their curriculum much earlier. The International Baccalaureate (IB) is an international educational organization that was founded in 1968, and today, many Toronto schools offer the IB Diploma program. Students enrolled in the IB program are required to complete an additional one hundred fifty hours between Grade 11 and 12\. The guidelines for the completion of these hours are also more stricter than the typical Ontario requirements. The IB program requires the one hundred fifty hours to be divided evenly between community services in school, community services outside of school, and additional leadership training. In contrast, students in regular high school programs have no specifications for what types of activities are required.
+
+
+
+Although community service activities are heavily emphasized to high school students, many MGCI students find themselves working at a paid job in addition to their community service hours. Waleed Khalid is a Grade 12 student at MGCI who has both volunteer and work experience. He described both as unique experiences, adding that each required and developed very different skill sets.  Khalid said that “volunteering has really affected my perception and empathy for people—it really opens your eyes and allows you to better understand the different situations life can put anyone in.” On the other hand, he said that work experience has been more effective in teaching him to “better handle conflict, time management, task delegation and leading small teams.”
+
+
+
+Volunteering for community service activities is a way for high school students to explore new things and gain experience in the real world. There are many opportunities available to MGCI students and they are encouraged to take the first step by speaking with guidance counsellors to identify areas which they are passionate about and make the most of their high school volunteering experience.  
+

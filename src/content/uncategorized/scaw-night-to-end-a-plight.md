@@ -1,0 +1,34 @@
+---
+title: "SCAW Night to End a Plight"
+pubDate: 2024-03-24T00:27:21.749Z
+description: "Article about stuff."
+author: "Reckoner Staff"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+From 23 to 24 March 2018, MGCI's Key Club held the school's annual SCAW Night Sleepover. The event was a fundraiser for Sleeping Children Around the World (SCAW), a Toronto-based charity that provides bed kits to children aged six to twelve in thirty-four countries including Kenya, India, and Honduras. Each kit consists of a mattress, pillow, bed sheet, blanket, mosquito net, towel, clothes, and school supplies, allowing those in need to sleep comfortably. Since its inception in 1970, the charity has raised over $40 million for over one million children. At Garneau, participating students donated $25 for the sleepover, with each donation buying a bed kit for a child in need. Altogether, Key Club raised $625 this year for SCAW. 
+
+
+
+Previously in support of the Eliminate Project, Key Club’s annual sleepover changed to support SCAW last year. Otherwise, the night was similarly organized, with students having access to the cafeteria and gymnasium for the entire night. Unlike previous years, the staff room was also available for students to use. Students played video games, listened to music, played sports— including volleyball, basketball, handball, and soccer—and even competed in a balloon gladiator game. Pizza, rice, and salad were served for dinner. 
+
+
+
+Yousef Khan, an attendee, described SCAW Night by saying, “It’s a fun event that you really shouldn’t miss," emphasizing the wide variety of games and activities available. Another attendee, Angelina Le, said the night was fun but she “wishes more students attended.” However, she noted that the events throughout the night were very inclusive, as everyone participated together instead of staying in smaller groups. Principal Ms. Goldenberg seconded this, saying that attendees were able to meet and interact with new people due to the smaller numbers. 
+
+
+
+SAC helped Key Club advertise the event by promoting the sleepover via classroom visits and distributing forms to interested students. The forms stated that they were to be returned along with $25 by 22 March, the day before the sleepover, at lunch. In previous years, however, Key Club allowed students to submit forms and money at the door, leading to some confusion amongst students. Twenty-nine forms were returned by the deadline and only those individuals were allowed to attend the event. At least ten others were turned down, either later that day or at the event itself.
+
+
+
+When asked about the decision to enforce a strict deadline, Principal Ms. Goldenberg said, “It’s important to know the numbers before an event in order to organize teacher supervisors and food. There has to be a 1:30 teacher-to-student ratio, so if additional people were to show up at the door, there is a possibility of not having enough supervision.” She also added that announcements were made twice a day regarding the deadline, reminding students to hand in their forms on time. 
+
+
+
+Once one of MGCI's most popular events of the year with over one hundred attendees, Key Club’s annual sleepover event has seen a sharp decline in attendance in recent years. Last year, the event was almost cancelled due to a lack of participation and similar issues persisted this year. Key Club initially tried to hold the event at its usual time in the fall, but was forced to cancel due to a lack of signups from students. However, the club remained determined and was given the opportunity to hold the event in the spring as long as they had a minimum of forty-five participants. Although they didn’t reach the number, the school’s administration still allowed them to go forward with the event. Ms. Goldenberg commented on the low turnout, saying that through the years, she has noticed a “general lack of interest in fundraising events at Garneau.”
+
+
+
+Even with the obstacles, Key Club Vice-President Leo Cai felt the event was a success, saying, “SCAW Night was still an enjoyable sleepover for everyone who was able to make it.” SAC President Lisa Wang, who was in attendance, echoed his sentiments, saying she felt everyone “had a good time and enjoyed the night.”

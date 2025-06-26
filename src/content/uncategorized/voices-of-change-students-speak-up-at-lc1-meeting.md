@@ -1,0 +1,38 @@
+---
+title: "Voices of Change: Students Speak Up at LC1 Meeting"
+pubDate: 2019-04-14T02:51:32.472Z
+description: "Article about stuff."
+author: "Reckoner Staff"
+heroImage: "/blog-placeholder-3.jpg"
+tags: ["Uncategorized"]
+---
+
+Equality, standardized tests, and e-Learning–these were just a few of the many topics that underwent intense discussion at the Learning Centre One (LC1) meeting held at Marc Garneau C.I. on 19 March 2019\. Organized by the Toronto District School Board (TDSB) Student Senate, these monthly meetings are open to all sixty-six thousand students of the schools in the LC1 Area, including those who attend MGCI. Any ideas and suggestions made are brought to the executives of the Student Senate during the meeting and are later brought to the TDSB. “I thought that it was an incredibly eye-opening and beneficial experience. As a new student to the TDSB, it was the perfect opportunity to meet like-minded students from across the board,” said Ave Thomson, a Grade 9 student at Marc Garneau C.I.
+
+
+
+The meeting was chaired by Celine Chung, a Grade 11 student from York Mills C.I., and Evan Woo, a Grade 9 student from Marc Garneau who was pivotal in bringing this event to the school. “We want to hear new voices and opinions at all our meetings, and it has been over two years since an LC1 meeting has been held at MGCI,” he explained. Once it was decided that the session would be hosted at Garneau, it was advertised on the Student Senate’s Facebook and Instagram pages, as well as the morning announcements. Fifteen Garneau students and thirteen students from Monarch Park C.I., Etobicoke C.I., York Mills C.I., Northern Secondary School, Earl Haig Secondary School and Leaside High School, attended the meeting.
+
+
+
+The two-hour session kicked off at around 5:00 pm with introductions, then progressed into discussions concerning relevant topics presented by the chairs, where attendees could voice their opinions and propose possible solutions to each issue.
+
+
+
+The first topic concerned a recent survey that looked at the guidance and career planning resources available to students, as well as student performance on standardized tests. The survey showed that Ontario is falling behind when it comes to preparing students for the workplace, and also highlighted the difference in the academic performance of students in the applied stream as opposed to those in the academic stream. The results of the survey showed that 88% of academic stream students graduate each year, as opposed to only 59% of applied stream students. It also showed that only 37% of applied stream students go on to college.  It was pointed out that teachers often hold lower expectations for applied students, limiting their potential to learn and gain more from their courses. There was a general consensus among attendees that these students are clearly held at a disadvantage. This opinion was supported by statistics that showed lower achievement in mathematics and the Ontario Secondary School Literacy Test (OSSLT) among applied students–90% of academic students pass the OSSLT on their first try, while only 39% of applied students do the same. The Grade 9 Enhanced Pathways Academic Program, which merges academic and applied streams into a single academic-level course, was brought up and soon developed into a topic of intense debate, as many students had conflicting opinions to offer. There were both applied and academic stream students present at the meeting, so many different perspectives were presented. Some stressed the importance of equality among students, stating that both applied and academic students deserved the same education. Others placed a greater emphasis on meeting the needs of applied students, saying that placing them at an academic level course would only have a negative impact on their learning. The discussion produced several interesting solutions, such as merging the two streams in Grade 10 rather than Grade 9, which would give applied students more time to work with teachers and prepare for the harder academic level courses.
+
+
+
+Students were then given a chance to voice their opinions on the Grade 9 EQAO, a standardized, province-wide math test. Some students felt that it was unfair that the test, which is meant to assess the performance of teachers and schools, can account for up to 10% of students’ final math grades. Others defended the benefits of standardized tests and pointed out that without an incentive for students to do well on the test, the results cannot be seen as accurate.
+
+
+
+Following the two discussions, there was a twenty-minute dinner break, during which pizza was served and students had the chance to socialize with each other. The break was followed by a thirty-minute session called “What’s Your Beef?”, where students could bring up any issues they observed, ranging from the lack of heating in some classrooms to the discrimination against minorities in schools. Nelson Lee, a Garneau student complained about the fact that MGCI’s funding has been cut in half due to it being an “underperforming” school, despite it being one of the most populated schools in the TDSB. Students also voiced concerns about overcrowding, and how it affects course selections, saying that many students could not take courses they wanted to due to the shortage of available spots.
+
+
+
+The topic of e-Learning was, by far, the most hotly discussed topic of the session, with many expressing irritation over the Ontario Government’s proposition to require students to take at least four e-Learning courses during their high school years. There was a lot of skepticism about who would be teaching the courses, what online platforms they would be taught through, and how taking the courses might affect university applications, with the general consensus being that a lot more thought needs to be put into the idea before it can even be considered.
+
+
+
+Overall, as a result of the high turnout and an outstanding level of engagement among the attendees, the meeting was viewed as a huge success. “The discussion was very good, which just goes to show how important it is that the student voice is heard,” commented Nick Rowe, Vice Principal of Etobicoke C.I. and one of the staff advisors of the meeting. Students walked away from the meeting with similar thoughts.  As Ave stated, “It really made me think about issues in our education system and understand what we, as students, can do to improve it, leaving me with a feeling of empowerment and a desire to make a change.”
