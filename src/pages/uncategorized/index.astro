@@ -82,7 +82,7 @@ const posts = (await getCollection('blog')).sort(
 			.latest-box ul {
 				all: unset;
 				display: contents;
-                border: 1px solid rgb(var(--gray-light));
+                /* border: 1px solid rgb(var(--gray-light)); */
 
 			}
 			.latest-box .featured {
@@ -123,6 +123,10 @@ const posts = (await getCollection('blog')).sort(
                 flex-direction: column;
                 margin-top: 1rem;
                 background-color: rgb(var(--white));
+            }
+
+            .featured, .highlighted {
+                outline: 1px solid rgb(var(--gray));
             }
 
 			@media (max-width: 720px) {
