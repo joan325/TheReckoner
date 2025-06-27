@@ -19,23 +19,21 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
 <nav aria-label="Blog pages" class="pagination pagination-default">
   {firstUrl == currentUrl ? (
     <span class="pagination__link disabled">
-      <i class="pi-angle-left"></i>
-      <i class="pi-angle-left"></i>
+      &laquo;
     </span>
   ) : (
     <a href={firstUrl} class="pagination__link">
-      <i class="pi-angle-left"></i>
-      <i class="pi-angle-left"></i>
+      &laquo;
     </a>
   )}
 
   {prevUrl ? (
     <a href={prevUrl} class="pagination__link">
-      <i class="pi-angle-left"></i>
+      &lsaquo;
     </a>
   ) : (
     <span class="pagination__link disabled">
-      <i class="pi-angle-left"></i>
+      &lsaquo;
     </span>
   )}
 
@@ -53,23 +51,21 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
 
   {!nextUrl ? (
     <span class="pagination__link disabled">
-      <i class="pi-angle-right"></i>
+      &rsaquo;
     </span>
   ) : (
     <a href={nextUrl} class="pagination__link">
-      <i class="pi-angle-right"></i>
+      &rsaquo;
     </a>
   )}
 
   {lastUrl == currentUrl ? (
     <span class="pagination__link disabled">
-      <i class="pi-angle-right"></i>
-      <i class="pi-angle-right"></i>
+      &raquo;
     </span>
   ) : (
     <a href={lastUrl} class="pagination__link">
-      <i class="pi-angle-right"></i>
-      <i class="pi-angle-right"></i>
+      &raquo;
     </a>
   )}
 </nav>
