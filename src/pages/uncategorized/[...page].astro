@@ -1,0 +1,255 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro'; 
+import Pagination from '../../components/Pagination.astro';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: { paginate: any }) {
+	const allPosts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+	);
+
+	// Skip highlighted posts showed on page 1
+	const rest = allPosts.slice(6);
+	const numPages = Math.ceil(rest.length / 9.0);
+	const firstUrl = '/uncategorized';
+
+	return paginate(rest, { pageSize: 9 });
+}
+
+interface PageProps {
+  currentPage: number;
+  numPages: number;
+  data: {
+    id: string;
+    data: {
+      heroImage: string;
+      title: string;
+      author: string;
+      pubDate: Date;
+    };
+  }[];
+  url: {
+    current: string;
+    prev?: string;
+    next?: string;
+    first: string;
+    last: string;
+  };
+}
+
+const { page } = Astro.props as { page: PageProps };
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+			}
+
+			/* Regular posts */
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(100% / 3 - 2rem);
+				background-color: white;
+			}
+			ul li img {
+				margin-bottom: 0.5rem;
+				border-radius: 0px;
+			}
+			ul li a {
+				display: block;
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			.title {
+				margin: 0.4rem 1rem 0rem;
+				color: rgb(var(--accent-dark));
+				line-height: 1;
+			}
+			.date {
+				margin: 0rem 1rem 1rem;
+				color: rgb(var(--gray));
+			}
+            /*
+			ul li a:hover h5,
+			ul li a:hover .date {
+				color: rgb(var(--accent));
+			}
+			ul a:hover img {
+				box-shadow: var(--box-shadow);
+			}
+            */
+
+			/* Contains featured + 5 more posts */
+			.latest-box {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				width: calc(100% - 2rem);
+				align-items: start;
+				margin-bottom: 3rem;
+                grid-auto-rows: auto;
+                background-color: rgb(var(--white));
+			}
+            .latest-box > ul {
+                background-color: rgb(var(--white));
+                all: unset;
+                display: contents;
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+			.latest-box ul {
+				all: unset;
+				display: contents;
+                /* border: 1px solid rgb(var(--gray-light)); */
+
+			}
+			.latest-box .featured {
+				grid-column: 1;
+				text-align: left;
+                grid-row: span 5;
+                width: 100%;
+                list-style: none;
+                height: 100%;
+			}
+			.latest-box .featured img {
+				width: calc(100% - 2rem);
+                margin: 1rem 1rem 0rem;
+			}
+
+			.latest-box .highlighted {
+				grid-column: 2;
+				display: flex;
+				align-items: center;
+                width: 100%;
+			}
+			.latest-box .highlighted img {
+				width: 15%;
+				flex-shrink: 0;
+                margin: 0rem 0.5rem 1rem 1rem;
+			}
+
+            ul li.highlighted a {
+                display: flex;
+                align-items: left;
+                gap: 0rem;
+                margin-top: 1rem;
+            }
+
+            .highlighted-info {
+                display: flex;
+                flex-direction: column;
+                margin-top: 1rem;
+                background-color: rgb(var(--white));
+            }
+
+            .featured, .highlighted {
+                outline: 1px solid rgb(var(--gray-light));
+            }
+
+			@media (max-width: 720px) {
+				ul,
+				.latest-box {
+					display: block;
+				}
+				ul li,
+				.latest-box .highlighted,
+				.latest-box .featured {
+					width: 100%;
+					text-align: center;
+					margin-bottom: 1rem;
+				}
+				.latest-box .highlighted {
+					flex-direction: column;
+					align-items: center;
+				}
+				.latest-box .highlighted img {
+					width: 80%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<!-- First 6 posts (featured + highlighted) -->
+				{page.currentPage === 1 && (
+					<div class="latest-box">
+						<ul>
+							{allPosts[0] && (
+								<li class="featured">
+									<a href={`/uncategorized/${allPosts[0].id}/`}>
+										<img src={allPosts[0].data.heroImage} alt="" />
+										<h5 class="title">{allPosts[0].data.title}</h5>
+										<p class="date">
+											by {allPosts[0].data.author} | <FormattedDate date={allPosts[0].data.pubDate} />
+										</p>
+									</a>
+								</li>
+							)}
+
+							{allPosts.slice(1, 6).map((post) => (
+								<li class="highlighted">
+									<a href={`/uncategorized/${post.id}/`}>
+										<img src={post.data.heroImage} alt="" />
+										<div class="highlighted-info"> <!-- possibly remove this? -->
+											<h5 class="title">{post.data.title}</h5>
+											<p class="date">
+												by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+											</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
+				)}
+
+				<!-- Rest of posts -->
+				<ul>
+					{page.data.map((post: { id: any; data: { heroImage: string | null | undefined; title: unknown; author: unknown; pubDate: Date; }; }) => (
+						<li>
+							<a href={`/uncategorized/${post.id}/`}>
+								<img src={post.data.heroImage} alt="" />
+								<h5 class="title">{post.data.title}</h5>
+								<p class="date">
+									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+								</p>
+							</a>
+						</li>
+					))}
+				</ul>
+					<Pagination 
+						length={page.numPages}
+						currentUrl={page.url.current}
+						currentPage={page.currentPage}
+						firstUrl={page.url.first}
+						prevUrl={page.url.prev}
+						nextUrl={page.url.next}
+						lastUrl={page.url.last}
+					/>
+
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
