@@ -7,10 +7,6 @@ import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro'; 
 import Pagination from '../../components/Pagination.astro';
 
-if (Astro.url.pathname.endsWith('/uncategorized/1')) {
-  return Astro.redirect('/uncategorized', 301);
-}
-
 export async function getStaticPaths({ paginate }: { paginate: any }) {
 	const allPosts = (await getCollection('blog')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
