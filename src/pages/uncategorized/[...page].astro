@@ -7,6 +7,8 @@ import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro'; 
 import Pagination from '../../components/Pagination.astro';
 
+var numPages = 0;
+
 export async function getStaticPaths({ paginate }: { paginate: any }) {
 	const allPosts = (await getCollection('blog')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -14,6 +16,7 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 
 	// Skip highlighted posts showed on page 1
 	const rest = allPosts.slice(6);
+	numPages = Math.ceil(rest.length / 9)
 
 	return paginate(rest, { pageSize: 9 });
 }
