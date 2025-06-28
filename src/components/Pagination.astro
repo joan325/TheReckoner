@@ -39,12 +39,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
         border-color: rgb(var(--accent));
         background-color: rgb(var(--gray-light));
     }
-</style>
-
-<p>Page count: {length}</p>
-<p>List: {JSON.stringify(paginationList)}</p>
-
-  
+</style>  
 
 <nav aria-label="Pages" class="pagination pagination-default">
   {!prevUrl ? (
