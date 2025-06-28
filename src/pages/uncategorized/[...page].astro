@@ -15,7 +15,7 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 	// Skip highlighted posts showed on page 1
 	const rest = allPosts.slice(6);
 
-	return paginate(rest, { pageSize: 9 });
+	return paginate(rest, { pageSize: 15 });
 }
 
 interface PageProps {
@@ -67,6 +67,10 @@ const allPosts = (await getCollection('blog')).sort(
 				width: calc(100% / 3 - 2rem);
 				background-color: white;
 				border-radius: 3px;
+				box-shadow: var(--box-shadow);
+			}
+			ul li.hover {
+				box-shadow: var(--box-shadow-2);
 			}
 			ul li img {
 				margin-bottom: 0.5rem;
@@ -105,6 +109,8 @@ const allPosts = (await getCollection('blog')).sort(
 				margin-bottom: 3rem;
                 grid-auto-rows: auto;
                 background-color: rgb(var(--white));
+				border-radius: 3px;
+				box-shadow: var(--box-shadow);
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));
@@ -122,9 +128,14 @@ const allPosts = (await getCollection('blog')).sort(
 			}
 			ul li.featured {
 				border-radius: 0px;
+				box-shadow: none;
 			}
 			ul li.highlighted {
 				border-radius: 0px;
+				box-shadow: none;
+			}
+			.latest-box ul li:hover {
+				box-shadow: none;
 			}
 			.latest-box .featured {
 				grid-column: 1;
