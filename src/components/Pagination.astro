@@ -14,7 +14,28 @@ const { length, currentUrl, currentPage, firstUrl, prevUrl, nextUrl, lastUrl } =
 const paginationList = Array.from({ length }, (_, i) => i + 1);
 ---
 
+<style>
+    .pagination__link {
+        display: inline-block;
+        padding: 0.5em;
+        margin: 0 0.25em;
+        border: 1px solid rgb(var(--gray-dark));
+        background: rgb(var(--white));
+        color: rgb(var(--black));
+        text-decoration: none;
+    }
 
+    .pagination__link.disabled {
+        opacity: 0.5;
+        pointer-events: none;
+    }
+
+    .pagination__link.active {
+        font-weight: bold;
+        border-color: rgb(var(--accent));
+        background-color: rgb(var(--gray-light));
+    }
+</style>
 
 <nav aria-label="Blog pages" class="pagination pagination-default">
   {firstUrl == currentUrl ? (
