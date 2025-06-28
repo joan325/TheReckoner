@@ -15,10 +15,14 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
 ---
 
 <style>
+    .pagination {
+        align-items: center;
+    }
+
     .pagination__link {
         display: inline-block;
-        padding: 0.5em;
-        margin: 0 0.25em;
+        padding: 0em 0.5em;
+        margin: 0em 0.25em;
         border: 1px solid rgb(var(--accent-dark));
         background: rgb(var(--white));
         color: rgb(var(--accent));
@@ -39,9 +43,10 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
 
 <p>Page count: {length}</p>
 <p>List: {JSON.stringify(paginationList)}</p>
+
   
 
-<nav aria-label="Blog pages" class="pagination pagination-default">
+<nav aria-label="Pages" class="pagination pagination-default">
   {!prevUrl ? (
     <span class="pagination__link disabled">
       &laquo;

@@ -228,6 +228,7 @@ const allPosts = (await getCollection('blog')).sort(
 						</li>
 					))}
 				</ul>
+				<pre>{JSON.stringify(page, null, 2)}</pre>
 					<Pagination 
 						length={page.numPages}
 						currentUrl={page.url.current}
