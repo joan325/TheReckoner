@@ -7,7 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Pagination from '../components/Pagination.astro';
 import type { CollectionEntry } from 'astro:content';
 
-type PostData = CollectionEntry<'news'> | CollectionEntry<'uncategorized'>;
+type PostData = CollectionEntry<'news'> | CollectionEntry<'life'> | CollectionEntry<'editorial'> | CollectionEntry<'photography'> | CollectionEntry<'uncategorized'>;
 
 interface PageProps {
   currentPage: number;

@@ -13,4 +13,7 @@ const blog = z.object({
 export const collections = {
   uncategorized: defineCollection({ schema: blog }),
   news: defineCollection({ schema: blog }),
+  life: defineCollection({ schema: blog }),
+  editorial: defineCollection({ schema: blog }),
+  photography: defineCollection({ schema: blog }),
 };

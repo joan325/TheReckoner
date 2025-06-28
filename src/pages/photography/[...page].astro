@@ -3,7 +3,7 @@ import PaginatedPage from '../../components/PaginatedPage.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
-	const allPosts = (await getCollection('uncategorized')).sort(
+	const allPosts = (await getCollection('photography')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 	);
 
@@ -16,4 +16,4 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 const { page } = Astro.props;
 ---
 
-<PaginatedPage page={page} category="uncategorized" allPosts={await getCollection('uncategorized')} />
+<PaginatedPage page={page} category="photography" allPosts={await getCollection('photography')} />
