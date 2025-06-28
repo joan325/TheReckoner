@@ -8,8 +8,8 @@
 	--accent: #b71800;
 	--accent-dark: #8a0f0f;
 	--black: 15, 18, 25;
-	--gray: 159, 107, 96;
-	--gray-light: 234, 222, 222;
+	--gray: 96, 115, 159;
+	--gray-light: 233, 222, 234;
 	--gray-dark: 34, 41, 57;
 	--white: 255, 255, 255;
 	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
