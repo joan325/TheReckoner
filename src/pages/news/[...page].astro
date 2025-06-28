@@ -1,0 +1,19 @@
+---
+import PaginatedPage from '../../components/PaginatedPage.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: { paginate: any }) {
+	const allPosts = (await getCollection('news')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+	);
+
+	// Skip highlighted posts showed on page 1
+	const rest = allPosts.slice(6);
+
+	return paginate(rest, { pageSize: 15 });
+}
+
+const { page } = Astro.props;
+---
+
+<PaginatedPage page={page} category="news" allPosts={await getCollection('news')} />

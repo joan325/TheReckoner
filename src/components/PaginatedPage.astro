@@ -1,35 +1,18 @@
 ---
-import BaseHead from '../../components/BaseHead.astro';
-import Header from '../../components/Header.astro';
-import Footer from '../../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro'; 
-import Pagination from '../../components/Pagination.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import FormattedDate from '../components/FormattedDate.astro'; 
+import Pagination from '../components/Pagination.astro';
+import type { CollectionEntry } from 'astro:content';
 
-export async function getStaticPaths({ paginate }: { paginate: any }) {
-	const allPosts = (await getCollection('blog')).sort(
-		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-	);
-
-	// Skip highlighted posts showed on page 1
-	const rest = allPosts.slice(6);
-
-	return paginate(rest, { pageSize: 15 });
-}
+type PostData = CollectionEntry<'news'> | CollectionEntry<'uncategorized'>;
 
 interface PageProps {
   currentPage: number;
   lastPage: number;
-  data: {
-    id: string;
-    data: {
-      heroImage: string;
-      title: string;
-      author: string;
-      pubDate: Date;
-    };
-  }[];
+  data: PostData[];
   url: {
     current: string;
     prev?: string;
@@ -39,11 +22,15 @@ interface PageProps {
   };
 }
 
-const { page } = Astro.props as { page: PageProps };
-const allPosts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+interface Props {
+  category: string;
+  page: PageProps;
+  allPosts: PostData[];
+}
+
+const { category, page, allPosts } = Astro.props;
 ---
+
 
 <!doctype html>
 <html lang="en">
@@ -206,7 +193,7 @@ const allPosts = (await getCollection('blog')).sort(
 						<ul>
 							{allPosts[0] && (
 								<li class="featured">
-									<a href={`/uncategorized/${allPosts[0].id}/`}>
+									<a href={`/${category}/${allPosts[0].id}/`}>
 										<img src={allPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{allPosts[0].data.title}</h5>
 										<p class="date">
@@ -218,7 +205,7 @@ const allPosts = (await getCollection('blog')).sort(
 
 							{allPosts.slice(1, 6).map((post) => (
 								<li class="highlighted">
-									<a href={`/uncategorized/${post.id}/`}>
+									<a href={`/${category}/${post.id}/`}>
 										<img src={post.data.heroImage} alt="" />
 										<div class="highlighted-info"> <!-- possibly remove this? -->
 											<h5 class="title">{post.data.title}</h5>
@@ -235,9 +222,9 @@ const allPosts = (await getCollection('blog')).sort(
 
 				<!-- Rest of posts -->
 				<ul>
-					{page.data.map((post: { id: any; data: { heroImage: string | null | undefined; title: unknown; author: unknown; pubDate: Date; }; }) => (
+					{page.data.map((post) => (
 						<li>
-							<a href={`/uncategorized/${post.id}/`}>
+							<a href={`/${category}/${post.id}/`}>
 								<img src={post.data.heroImage} alt="" />
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">

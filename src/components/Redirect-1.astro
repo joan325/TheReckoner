@@ -1,0 +1,16 @@
+---
+export const prerender = true;
+
+export interface Props {
+	category: string;
+}
+
+const category = Astro.props;
+---
+
+<html>
+  <head>
+    <meta http-equiv="refresh" content=`0; url=/${category}` />
+  </head>
+  <body></body>
+</html>
