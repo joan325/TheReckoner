@@ -67,10 +67,10 @@ const allPosts = (await getCollection('blog')).sort(
 				width: calc(100% / 3 - 2rem);
 				background-color: white;
 				border-radius: 3px;
-				box-shadow: var(--box-shadow);
+				box-shadow: var(--box-shadow-2);
 			}
 			ul li.hover {
-				box-shadow: var(--box-shadow-2);
+				box-shadow: var(--box-shadow);
 			}
 			ul li img {
 				margin-bottom: 0.5rem;
@@ -110,7 +110,7 @@ const allPosts = (await getCollection('blog')).sort(
                 grid-auto-rows: auto;
                 background-color: rgb(var(--white));
 				border-radius: 3px;
-				box-shadow: var(--box-shadow);
+				box-shadow: var(--box-shadow-2);
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));

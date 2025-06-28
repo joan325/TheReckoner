@@ -17,8 +17,8 @@
 		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
 		0 16px 32px rgba(var(--gray), 33%);
 	--box-shadow-2:
-		0 2px 6px rgba(var(--gray), 32%), 0 8px 24px rgba(var(--gray), 40%),
-		0 16px 32px rgba(var(--gray), 40%);
+		0 2px 6px rgba(var(--gray), 12%), 0 8px 24px rgba(var(--gray), 16%),
+		0 16px 32px rgba(var(--gray), 16%);
 }
 @font-face {
 	font-family: 'Open Sans';
