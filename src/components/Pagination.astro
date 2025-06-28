@@ -32,7 +32,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
     }
 
     .pagination__link.disabled {
-        opacity: 0.7;
+        opacity: 0.5;
         pointer-events: none;
     }
 
@@ -72,12 +72,12 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
     );
   } else if (Math.abs(currentPage - num) < 4) {
     return (
-        <a href={`${firstUrl}/${num}`} class="pagination__link">
+        <a href={currentPage === 1 ? `${currentUrl}/${num}` : `${firstUrl}/${num}`} class="pagination__link">
             {num}
         </a>
     );
   } else {
-    return (<span></span>);
+    return (null);
   }
 })}
 
