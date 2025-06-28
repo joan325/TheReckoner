@@ -19,6 +19,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
         max-width: fit-content;
         margin-inline: auto;
         margin-top: 3em;
+        font-size: 1.2em;
     }
 
     .pagination__link {
@@ -37,8 +38,8 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
     }
 
     .pagination__link.active {
-        /* font-weight: bold; */
-        background-color: rgb(var(--white));
+        color: rgb(var(--white));
+        background-color: var(--accent-dark);
     }
 </style>  
 
