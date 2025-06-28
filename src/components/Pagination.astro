@@ -16,7 +16,8 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
 
 <style>
     .pagination {
-        align-items: center;
+        align-content: center;
+        margin-top: 1em;
     }
 
     .pagination__link {
@@ -62,17 +63,21 @@ const paginationList = Array.from({ length }, (_, i) => i + 1);
     </span>
   )}
 
-  {paginationList.map((num) =>
-    currentPage === num ? (
+  {paginationList.map((num) => {
+  if (currentPage === num) {
+    return (
       <span class="pagination__link disabled active" aria-current="page">
         {num}
       </span>
-    ) : (
-      <a href={`${firstUrl}${num === 1 ? "" : "/" + num}`} class="pagination__link">
+    );
+  } else if (Math.abs(currentPage - num) < 4) {
+    <a href={`${firstUrl}/${num}`} class="pagination__link">
         {num}
       </a>
-    )
-  )}
+  } else {
+    return (<span></span>);
+  }
+})}
 
   {!nextUrl ? (
     <span class="pagination__link disabled">
