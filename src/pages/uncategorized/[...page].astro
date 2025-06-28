@@ -66,11 +66,11 @@ const allPosts = (await getCollection('blog')).sort(
 			ul li {
 				width: calc(100% / 3 - 2rem);
 				background-color: white;
-				border-radius: 4px;
+				border-radius: 3px;
 			}
 			ul li img {
 				margin-bottom: 0.5rem;
-				border-radius: 4px;
+				border-radius: 0px;
 			}
 			ul li a {
 				display: block;
@@ -117,6 +117,7 @@ const allPosts = (await getCollection('blog')).sort(
 			.latest-box ul {
 				all: unset;
 				display: contents;
+				border-radius: 0px;
                 /* border: 1px solid rgb(var(--gray-light)); */
 
 			}
@@ -131,6 +132,7 @@ const allPosts = (await getCollection('blog')).sort(
 			.latest-box .featured img {
 				width: calc(100% - 2rem);
                 margin: 1rem 1rem 0rem;
+				border-radius: 0px;
 			}
 
 			.latest-box .highlighted {
@@ -150,6 +152,7 @@ const allPosts = (await getCollection('blog')).sort(
                 align-items: left;
                 gap: 0rem;
                 margin-top: 1rem;
+				border-radius: 0px;
             }
 
             .featured, .highlighted {
