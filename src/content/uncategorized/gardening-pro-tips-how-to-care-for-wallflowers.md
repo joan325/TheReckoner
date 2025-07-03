@@ -2,7 +2,7 @@
 title: "Gardening Pro-tips: How to Care for Wallflowers"
 pubDate: 2016-05-02T22:09:04.791Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -31,8 +31,6 @@ but does any gardener really know
 
 how to nurture them to bloom?
 
-
-
 1: Approach with light steps, careful not to uproot their trust.  
 
 Have on hand a packet of sincere small talk  
@@ -51,13 +49,9 @@ filter all through honesty, and perhaps a pair of good headphones.
 
 in showers of compliments and kindness.  Allow space for drainage.
 
-
-
 Wallflowers pair well with almost any companion species, but  
 
 plant several arm lengths apart.
-
-
 
 Now the most difficult thing is to wait  
 

@@ -2,18 +2,14 @@
 title: "Op-Ed: Starving Our Future"
 pubDate: 2015-06-12T03:10:34.499Z
 description: "Article about stuff."
-author: "parnika-godkhindi"
+author: "parnika_godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Starving Our Future (Editorial)
 
-
-
 ‘By Lawrence Pang
-
-
 
 What did you eat for lunch today? Chances are, it contained genetically modified (GM) foods, which are now part of almost all processed food items. The engineering of GM foods, involving the introduction of new genes into the existing ones in the organism, began in 1994 and is now a fairly routine process. Yet the general public remains wary of them, calling GM foods "playing with God" and "Frankenfood." In a 2015 poll, a mere 37% of the public believed GM foods were safe to consume. This was despite 88% of scientists holding that same belief, in addition to the fact that the vast majority of the dissenting 63% had probably consumed GM foods at some point anyway. Such opposition is to be expected. The general public has always been suspicious of new technology \- all the more so when said technology directly impacts them on a daily basis. Numerous concerns about the potential health effects of GM foods have been expressed over the years, from the plausible to the frivolous. Opponents have argued that GM foods contain allergens; that they cause liver problems, heart disease, and cancer; even the somewhat ridiculous assertion that GM foods could pass significant amounts of genetic material to humans.  
 
@@ -32,6 +28,4 @@ The cause of this is two-fold. Firstly, people instinctively distrust new techno
 Ultimately, the failure of the scientific world to inform the general public of the facts on GM foods has been a costly mistake. Despite the overwhelming scientific consensus on the safety of GM foods, despite the extra yields and profits they bring, despite their increased nutritional content that may solve problems like Vitamin A deficiency, despite the fact that GM foods could completely revolutionize agriculture in developing nations, the majority of the public opposes them on little more grounds than gut feeling. That is not to say there are not legitimate concerns about GM foods, like the lack of labeling or the shady tactics employed by corporations like Monsanto, but the promise of this new technology cannot be denied.  
 
 Let us hope that one day the public will take an objective look at the situation regarding GM foods, fix what little needs to be fixed, and finally fulfill the true potential of GM technology for global benefit. Until then, bon appetit.
-
-
 

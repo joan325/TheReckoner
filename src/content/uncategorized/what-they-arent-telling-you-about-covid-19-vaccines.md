@@ -2,7 +2,7 @@
 title: "What They Aren't Telling You About: COVID-19 Vaccines"
 pubDate: 2021-04-03T22:55:47.331Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 What They Aren't Telling You About: COVID-19 Vaccines  
 
 By: Jefferson Chen (Zoe Cheng Infographic)
-
-
 
 	Although many were initially optimistic that a quick end would wrap up the coronavirus pandemic, it is clear that the disease has stayed around for longer than anyone expected. First identified in late 2019, the disease is known for its flu-like symptoms and extremely high contagiousness. With over 100 million confirmed cases and millions dead \[1\], what’s next in store for mankind?  
 
@@ -30,8 +28,6 @@ By: Jefferson Chen (Zoe Cheng Infographic)
 	The federal government has ordered a number of vaccines from different institutions around the world, which are busy manufacturing much-needed vaccines for many different countries. Thus, it is not possible to get vaccines delivered in such a short time. Currently, in Ontario, the government is vaccinating high-risk individuals that are most likely to get sick, including the elderly and front-line workers \[16\]. The Ontario government estimates mass vaccinations will occur between April and July, although given the frequent delays many specialists believe it may take as long as September to get it done \[17\].   
 
 	The best course of action for the majority of citizens right now is to continue respecting pandemic guidelines. Wear your masks, stay home, stop going to gatherings and stay away from other people. Every action (or lack thereof) you take that stops the spread could be a life saved in a senior care home or hospital room. Let’s work together to keep as many people of the Earth alive and well as we await the arrival of the return to normalcy.
-
-
 
 \[1\] https://www.worldometers.info/coronavirus/coronavirus-death-toll/  
 

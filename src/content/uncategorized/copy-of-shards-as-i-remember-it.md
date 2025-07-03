@@ -19,15 +19,11 @@ i add to my grocery list
 
 and i get on my bike and ride to the supermarket five blocks away
 
-
-
 today is a special occasion, given my realization.  
 
 and just my luck, *nostalgia,* half off.  
 
 i smile as i put the jar into my shopping cart.
-
-
 
 the fluorescence of the supermarket lights  
 
@@ -39,25 +35,17 @@ as i hold the jar i hear us laughing beneath the tree.
 
 while i buy fresh salmon i smell the brine of the ocean.
 
-
-
 i turn into the aisle and i hear the familiar timbre  
 
 a voice of melted candle wax  
 
 no, it’s been too long. confusion. static on the intercom.
 
-
-
 i drop the jar.
-
-
 
 as i remember it,  
 
 this is now.
-
-
 
 here,  
 
@@ -75,15 +63,11 @@ probably doesn’t remember the public transit rides
 
 probably doesn’t remember the emotional bandages
 
-
-
 gravity is not on my side today.  
 
 shards of glass,  
 
 citrus tears.
-
-
 
 i knock down a pyramid of grapefruit.  
 

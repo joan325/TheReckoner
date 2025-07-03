@@ -2,18 +2,14 @@
 title: "MGCI Girls’ Field Hockey Game at Cherry Beach - Cheng Cheng Lin"
 pubDate: 2015-10-12T18:17:22.421Z
 description: "Article about stuff."
-author: "metroidude47"
+author: "metroidude"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 MGCI Girls’ Field Hockey Game at Cherry Beach \- Cheng Cheng Lin
 
-
-
 ![IMG\_6475][image1]
-
-
 
 On 6 October 2015, the MGCI Girl’s Varsity Field Hockey team played their first game against Humberside Collegiate Institute at the Cherry Beach Field, ending with a final score of 4-0 for Humberside.  
 
@@ -28,8 +24,6 @@ Due to a variety of conflicts, the Girl’s Field Hockey team had been forced to
 While the game against Humberside was not the first scheduled game for the Girl’s Field Hockey team’s season, it is the first the girls have played; a scheduled game on 1 October was forfeited because many of the players were attending the Stratford Festivals.  
 
 With a short season, the team has two games left: one on 8 October against Leaside, and another on 13 October against Monarch Park. To qualify for playoffs, the girls need to win the next two games.  
-
-
 
 
 

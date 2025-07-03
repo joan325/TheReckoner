@@ -53,9 +53,3 @@ At that moment, my heart was not the only thing that dropped.
 
 
 
-
-
-
-
-
-

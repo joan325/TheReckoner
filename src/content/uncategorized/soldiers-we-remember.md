@@ -2,7 +2,7 @@
 title: "News: Soldiers, We Remember"
 pubDate: 2014-11-12T02:47:57.265Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Soldiers, We Remember  
 
 by Kashifah Ahmed
-
-
 
 11 November, 1918 marked the end of World War I. Canada commemorates the centennial of the start of the Great War this year.  
 

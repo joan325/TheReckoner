@@ -2,7 +2,7 @@
 title: "Snowden: Vindicated by History"
 pubDate: 2021-02-27T00:38:47.830Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Snowden: Vindicated by History  
 
 By: Anthony Chen (Guest Submission)
-
-
 
 In June 2013, yet another mysterious three-letter organisation entered our collective consciousness. Unlike other famous organisations like the CIA, FBI, KGB, and CDC, the National Security Agency (NSA)’s sudden prominence was not due to movie directors looking for a quick buck. Instead, it became a household name after contractor Edward Snowden leaked classified information on mass surveillance programs to the world on the front pages of The Guardian and The Washington Post \[1\]. So who was Edward Snowden, what did he do, and why should we care now?  
 
@@ -40,8 +38,6 @@ After the revelations, there were protests and petitions—including many in Can
 Canadians often take pride in Canada’s \[objective\] superiority to America. It’s tempting to dismiss the NSA as an American problem and trust our government to respect our privacy. The truth is far more unsettling. The Canadian equivalent to the NSA is called the CSE, and it has even less oversight than the NSA—it’s regularly found to be violating our rights, and also helps the NSA around the world \[18\]. The Bill C-51 that I mentioned above was the Canadian equivalent to the PATRIOT Act, trading away our rights for “national security” \[17\].  
 
 But it doesn’t have to be this way. We live in a democratic society, and there are countless ways we can fight back against the ongoing erosion of our rights. Write an email—or a letter that can’t be intercepted—to your Member of Parliament \[19\]. Find and attend protests against mass surveillance. Learn how to protect your digital privacy \[20\]. Support charities like the Electronic Frontier Foundation and the Canadian Civil Liberties Association. Learn about where the political parties stand on these issues and vote when you’re able to. Above all, stay informed about the issues that affect us all—through The Reckoner.
-
-
 
 \[1\] https://www.washingtonpost.com/wp-srv/special/national/nsa-timeline/   
 

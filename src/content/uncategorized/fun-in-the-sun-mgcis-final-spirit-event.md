@@ -2,7 +2,7 @@
 title: "Fun in the Sun: MGCI's Final Spirit Event"
 pubDate: 2018-10-26T20:02:17.114Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Fun in the Sun  
 
 by Cheng Cheng Lin and Shirley Fan
-
-
 
 On Thursday, 11 June, the Spirit Committee hosted MGCI’s Fun Fair in the back field. The event ran from the beginning of lunch to 1:30 pm and consisted of a many different events. Students were also given free food. The event had a beach theme and students were encouraged to dress accordingly. To go along with the theme, SAC sold flower leis and grass skirts throughout the event. Though the event was originally advertised to be on 10 June, it was delayed by a day due to unsatisfactory weather conditions.  
 

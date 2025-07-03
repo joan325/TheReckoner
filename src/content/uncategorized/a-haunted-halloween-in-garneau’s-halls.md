@@ -2,18 +2,14 @@
 title: "News - A Haunted Halloween in Garneau’s Halls"
 pubDate: 2014-11-12T01:47:28.673Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 ## **A Haunted Hallowe’en in Garneau’s Halls**
 
-
-
 [Lawrence Pang](http://thereckoner.ca/author/lawrencepang/) and [Cheng Cheng Lin](http://thereckoner.ca/author/chengchenglin/) ⋅ 1 November 2014 ⋅ [comment](http://thereckoner.ca/halloween_festivities_at_garneau/#disqus_thread)
-
-
 
 On the week of 27 to 31 October, numerous Hallowe’en events were held in MGCI’s cafeteria. Events ranged from a photobooth and a haunted house, to a fashion show featuring creative Hallowe’en costumes. In combination, the events created an air of festivity unprecedented for Hallowe’en celebrations at Garneau.  
 
@@ -31,13 +27,9 @@ Ultimately, Michelle Nyamekye, dressed as Lil’ Wayne, was the winner; she rece
 
 Other events were held in the cafeteria as well. Habitat for Humanity sold cupcakes, organized games, and held a Henna station at various times of the week to raise more funds.
 
-
-
 INSERT PICTURE HERE  
 
 Caption for new Hallowe’en pic: Students dressed up in Hallowe’en costumes to participate in a fashion show. Photo: Sophia Liu
-
-
 
 Overall, the student response to this Hallowe’en’s events was positive. Fundraisers reported an unexpectedly large turnout; this was especially remarkable given that Habitat for Humanity, and Garneau in Motion were only founded this year.  
 
@@ -48,6 +40,4 @@ Other students echoed this sentiment, stating that they were not aware of any ev
 Looking toward the future, Spirit Convenor Mara Gagiu said that the lessons learned from this Hallowe’en’s events would go towards improving the Christmas show, remarking that “the challenges that arise here gives me an understanding of precautions I should take when reaching out to people about other events to come.”  
 
 Want more pictures? SAC and The Reckoner have posted albums on their Facebook page.
-
-
 

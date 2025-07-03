@@ -2,18 +2,14 @@
 title: "News: Bidding Farewell to a Familiar Face by Jackie Ho"
 pubDate: 2015-02-18T01:59:41.223Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 \[Pic\]
 
-
-
 Jason was a friendly and familiar face to many MGCI students. Photo: Jackie Ho
-
-
 
 Strolling through the cafeteria or halls on any given afternoon, you may have come face to face with a smiling Jason Willoughby. Known by students simply as "Jason", he had been a caretaker at Marc Garneau CI since October 1991\. After twenty-three and a half years, Jason has been promoted to Chief Caretaker at West Preparatory Junior Public School, an elementary school in the Forest Hill neighbourhood. His last day at MGCI was this past Friday 13 February.  
 

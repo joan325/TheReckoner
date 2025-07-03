@@ -2,7 +2,7 @@
 title: "McLaughlin's Fence"
 pubDate: 2015-03-22T22:51:27.682Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

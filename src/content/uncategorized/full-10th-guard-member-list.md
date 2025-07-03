@@ -2,7 +2,7 @@
 title: "Full 10th Guard Member List"
 pubDate: 2021-06-06T22:24:36.937Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

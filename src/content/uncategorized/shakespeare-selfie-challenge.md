@@ -2,14 +2,12 @@
 title: "Shakespeare selfie challenge"
 pubDate: 2016-06-14T18:36:21.532Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 By: Sherrie Cheng
-
-
 
 On 12 May, 2016, the Canadian Broadcasting Company (CBC) announced the finalists for the 2016 Shakespeare Selfie student writing competition. Grade 11 Lauren Chang was the grand prize winner in the Grades 10 to 12 category with her soliloquy *My Mistress With A Monster Is In Love*.  
 

@@ -2,44 +2,26 @@
 title: "The New SAC Constitution and What It Means for Its Constituents"
 pubDate: 2018-06-10T09:00:48.562Z
 description: "Article about stuff."
-author: "tazik-shahjahan"
+author: "tazik_shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 The New SAC Constitution and What It Means for Its Constituents
 
-
-
 SAC’s new constitution makes sweeping changes to its structure and elections. Seven executive positions —Clubs Coordinator, Social Justice and Equity Coordinator, External Affairs Coordinator, Communications Coordinator, Treasurer, Chairperson, and Secretary—will be appointed by the previously-elected members of SAC instead of being elected. Sixteen elected student ambassadors will replace the four current grade representatives, with each grade electing four such ambassadors in early September. In addition to leading various initiatives, the ambassadors are intended to keep SAC accountable. 
-
-
 
 One of the primary goals of the new constitution was to make SAC elections more accessible. SAC president Lisa Wang said that the overwhelming number of SAC positions up for election confuses students, discouraging them from voting. By reducing the elected positions to the President, Vice-president, Graduation Convener, Social Convener, Special Events Convener, Spirit Convener, and Athletic Convener, SAC hopes to not only encourage voting, but also ensure a more informed vote by allowing students to concentrate on a limited number of candidates. 
 
-
-
 While SAC’s proposal is reasonable, it wasn’t well executed. Grade 10 representative Nelson Lee, one of the architects of the constitution, said that the “less visible” positions on SAC were converted to appointed positions. The Clubs Coordinator is one of these appointed positions, which is problematic. The Clubs Coordinator represents clubs and supports them through funding and events like clubs fair. Clearly, only a democratically elected Clubs Coordinator will be able to win the support of the numerous independent clubs and legitimately voice their opinions. Clubs form a huge part of student life, and not letting students vote for their Clubs Coordinator goes against the very democratic ideals which SAC elections are supposed to uphold. According to Nelson and Zimman Yusuf, another member of the SAC constitutional committee, appointing the Clubs Coordinator will allow SAC to select the most qualified candidate, but this could be done just as effectively by adding requirements to eligible candidates for the position. It is clear that clubs require democratic representation and SAC should reinstate elections for the Clubs Convener as soon as possible.
-
-
 
 SAC has also ignored the problem of positions with overlapping duties. One example of this is the fact that the Social Convenor, Spirit Convenor, and Special Events Convenor all have similar duties. It would be far more logical for a single convenor to manage all school spirit and sociocultural initiatives; they could oversee appointed coordinators dealing with specific events such as Spring Fling and International Show. This would simplify elections, ensure greater coordination between organizers of different events, and allow responsibilities to be more flexibly divided between officials. Similarly, since the Chairperson and Secretary both are responsible for taking minutes and overseeing meetings, their positions should be merged. Likewise, the External Affairs Coordinator’s duties, specifically their marketing responsibilities, overlap with those of the Graduation Convenor and Communications Coordinator. According to Nelson, the vice-presidency is currently a “ceremonial” role, thus external affairs responsibilities to the Vice-President.  Nelson stated that such mergers would be unacceptable to SAC because they would send the message that certain SAC members’ contributions are “not valuable”. This seems to be far-fetched considering the fact that these mergers only redistribute responsibilities and don’t denigrate any particular SAC members. In fact, a few years ago, the Social Justice Convener and Equity Representative positions were merged without the sort of scandal Nelson is warning of.  
 
-
-
 The creation of sixteen elected Student Ambassador positions was proposed by Grade 12 representative John Le, in order  to hold SAC accountable and provide more opportunities for students to become involved with SAC. While the Student Ambassadors will be an asset for various initiatives such as the house system, but there are several problems with the system. Voting for student ambassadors is difficult since, according to Nelson, the only criteria for this role is “commitment and dedication”. Since ambassador candidates can’t really run on concrete policies, they are stuck trying to stand out among other dedicated candidates. Furthermore the constitution states that both the Vice-President and Chairperson can chair the Student Ambassadors and vote in SAC’s interests. While John stated that the influence of SAC members in the Student Ambassadors would only be a temporary arrangement, other SAC members have stated that this would be permanent, leaving questions about the amount of SAC interference, and who ultimately leads the Student Ambassadors. While Student Ambassadors are able to vote on and propose amendments to major bills proposed by SAC, these are limited to non-routine items such as completely new events and constitutional changes. While this can introduce new ideas into SAC, the Student Ambassadors’ oversight does not extend to routine matters such as existing events, limiting their power.
-
-
 
 The Student Ambassadors are meant to ensure the accountability of SAC by calling SAC members to their meetings for questioning, and passing non-confidence motions against SAC members, compelling them to resign if necessary. Complementing the latter in the constitution is a reaffirmation of the power of the president to request the resignation of members; this has been enforced only once in the history of SAC, against the Spirit Convener in 2015-2016. It remains to be seen how effective these two measures will be in practice since both must be approved by the administration and staff advisors, who have generally been reluctant to dismiss anyone except in the most extreme of cases. While the new reforms certainly put social pressure on SAC members to be accountable, perhaps a better way to ensure accountability would be to expose SAC to more public scrutiny by mandating transparency measures. These could be making it mandatory for SAC to publicize their minutes and spending, requiring them to submit reports on the activities of members on a monthly basis, and having a wall where students can publicly post criticisms. Monthly open meetings could also be guaranteed by the constitution. 
 
-
-
 Several other policies were also enacted or enabled by the SAC constitution. The constitution provides for the existence of the “MGCI Clubs Guidelines”, which regulates the functioning of clubs. While Lisa stated that the guidelines were merely meant to be suggestions, Nelson stated that they would be actively enforced by staff advisors. This discrepancy raises the question of to what extent SAC intends to monitor clubs. While SAC’s rules may reduce some of the abuses that happen in clubs, it might also make the process of running a club cumbersome for both members and staff advisors. So far, the only publicized proposed rule is a requirement for clubs with more than seventy members to elect their senior executives. While this might ensure a fairer selections process, it gives rise to a lot of questions. For example, would dismantling existing clubs’ selections processes going to cause disruptions? How exactly will SAC enforce this? Or should members that only come occasionally be given the same amount of say compared to more dedicated members? In any case, an undemocratically appointed  Clubs Coordinator enforcing such guidelines will not lead to much consensus among clubs. 
 
-
-
 It’s clear that SAC’s constitution needs a lot of improvements, both major and minor. The constitution should have been released earlier than it was this year, allowing the public to offer suggestions and allowing candidates for this year’s elections adequate time to examine it. As it is, the constitution was suddenly sprung upon the student body out of the blue.  Parts of the constitution such as the “criteria” for selecting appointed SAC members and the Clubs Guidelines remain to be released and SAC should certainly do that soon. Over the course of this article, several suggestions have been laid out including reforming the newly introduced positions to simplify SAC’s structure, adding more democratic representation, and introducing transparency measures into the constitution. Ultimately it will be up to SAC members and the student body, to bring about the changes that they want for our school through engagement (such as participating in elections) and dedication.
-
-
 

@@ -2,7 +2,7 @@
 title: "Introducing Fall Fest: Autumn with a Bang"
 pubDate: 2016-10-30T20:56:10.199Z
 description: "Article about stuff."
-author: "uknown-person"
+author: "uknown_person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -15,35 +15,19 @@ Photo: Zaid Baig
 
 ![The dance was well-received by students. Photo: Zaid Baig][image1]
 
-
-
 Marc Garneau’s first ever Fall Fest was held on 14 October 2016 at J\&J Best Western Banquet Hall. Organized by Social Convenor Fariha Haleem, the first dance of the year celebrated the arrival of autumn. Attendees dressed for the theme of the dance by wearing colours such as orange and green.
-
-
 
 Tickets were sold at $26 for MGCI students and $30 for guests in the SAC office at lunch up until 13 October 2016\. The event was advertised through a variety of platforms such as Facebook, Snapchat, and Instagram, as well as through word-of-mouth and announcements. SAC also released a promotional video on YouTube that introduced the new dance. A total of 110 tickets were sold, and all the revenue went towards the cost of renting the venue and hosting DJ Special K, the DJ for several of the school’s previous dances.
 
-
-
 The dance officially started at 5:30 pm, although most people began arriving at 6:15 pm. Bag checks were performed upon entry. As promised, appetizers and soft drinks were served and restocked throughout the night. Because students were able to request songs through an online form prior to the event, most attendees were pleased with the music. The dance ended at 10:30 pm, and gift cards were given out as awards to the best male and female dancers of the night.
-
-
 
 In general, the students enjoyed the dance. Many were satisfied with the price of the tickets, which were much cheaper than that of previous school dances. “It’s my senior year, so I want to join more school events before I graduate,” said student Sara Ahmed. Sara was very happy with the event and its atmosphere, but wished for a nicer venue and a bigger dance floor.
 
-
-
 Fall Fest was introduced by SAC due to the uneven distribution of school events during the year. Previously, the only dance in first semester was the relatively expensive Semi-Formal. Fariha aimed to make the price of Fall Fest as low as possible. “I wanted to get students excited early on in the year,” she explained. “This is definitely the least expensive dance, so students should not have been discouraged by the price.”
-
-
 
 Overall, the event ran smoothly. “I was nervous about how it would turn out, especially as the first dance of the year,” Fariha said near the end of the event, “but I am very happy about how it went.” She hopes that SAC will continue to host this event in future years.
 
-
-
 The dance was well received by both students and teachers. Ms. Goldenberg commented, “Wonderful dance, well organized, good music, kids had fun, what could be better?”  
-
-
 
 
 

@@ -8,7 +8,7 @@ const allPostsSorted = (await getCollection('life')).sort(
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
 
-	const allPostsSorted = (await getCollection('uncategorized')).sort(
+	const allPostsSorted = (await getCollection('life')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 	);
 	
@@ -21,4 +21,4 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 const { page } = Astro.props;
 ---
 
-<PaginatedPage page={page} category="uncategorized" allPosts={allPostsSorted} />
+<PaginatedPage page={page} category="life" allPosts={allPostsSorted} />

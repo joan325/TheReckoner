@@ -2,18 +2,14 @@
 title: "“Yesterday” by Zixuan Xu"
 pubDate: 2021-06-02T12:33:57.012Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 **Yesterday**
 
-
-
 I was not born yesterday.
-
-
 
 I punched the air in silent frustration  
 
@@ -33,11 +29,7 @@ Child, you’re innocent, straight pure
 
 How could you possibly understand more?
 
-
-
 I am not the same girl that I was yesterday.
-
-
 
 Because my mind is a broken glass mine  
 
@@ -56,8 +48,6 @@ This roaring heart ain’t weak, she’s fought
 And she will not hesitate in the face  
 
 Of a storm, no matter how wretched
-
-
 
 I am better than yesterday.  
 

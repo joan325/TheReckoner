@@ -9,8 +9,6 @@ tags: ["Uncategorized"]
 
 Education That Works For Whom?
 
-
-
 You could hardly be blamed for saying that the Ford government is hellbent on destroying public education—that is, if we assume (and perhaps in doing so, we give him too much credit) that Ford and his Minister of Education took time to consider the rational consequences of their cuts. Their victims are, inter alia, $100 million in school repair funds, affecting thirty-six repairs in schools across the Toronto District School Board (TDSB) \[1\]; a curriculum revision that would incorporate Indigenous perspectives in a manner consistent with Canada’s Truth and Reconciliation Commission \[2\]; $25 million in funding for specialized programs that provide tutors for struggling students and support for Indigenous students \[3\]; an autism program \[4\]; and even full-day kindergarten by 2020 \[5\]. And, of course, there will be more to come.  
 
 At the end of February, Deputy Minister of Education Nancy Naylor advised a hiring freeze in a memo to school board chairs that read, “I am writing to you today to recommend that school boards exercise prudence in making hiring decisions in light of the upcoming Ontario budget and the recent consultation on class size and hiring practices.” \[6\] The hiring freeze was some indication that the ministry was preparing to raise average class sizes, a cold overture to a symphony of significant loss.  
@@ -29,11 +27,7 @@ But high school teachers are much more than just educators. They’re coaches, t
 
 So get angry. Contact your MPP, Lisa Thompson, Doug Ford, even Sam Oosterhoff (see [www.ola.org](http://www.ola.org) for more). Because none of this is about students or meaningful learning or what students need, especially in terms of mental health. We don’t need to be made more resilient—we need small classes and caring staff to teach them.
 
-
-
 Sources: 
-
-
 
 \[1\]  
 

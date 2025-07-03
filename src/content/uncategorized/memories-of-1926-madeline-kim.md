@@ -11,8 +11,6 @@ Memories of 1926
 
 Madeline Kim
 
-
-
 i miss you like a stone skips on water,  
 
 or a transfer that screams 10:30 at 12:57 louder than mother calling from home.  

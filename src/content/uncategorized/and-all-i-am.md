@@ -2,7 +2,7 @@
 title: "And All I Am"
 pubDate: 2021-10-23T16:44:09.216Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -15,8 +15,6 @@ The soul-sucking noise that rattled my bones,
 
 As I felt its life draining away by my touch.
 
-
-
 I am left with the knowledge,  
 
 That my karmic energies are imbalanced.  
@@ -27,15 +25,11 @@ Can anyone else see it? Is anyone else here to watch?
 
 I cannot wash it off.
 
-
-
 I wish I could forget the guilt, the shame,  
 
 The pain, echoing through the streets as the striking, shattering sound did the same,  
 
 And the stages of grief that followed.
-
-
 
 I wish I could forget,  
 
@@ -48,8 +42,6 @@ A time when I was still an innocent,
 When I was simply a daughter, sister, and adoring friend,  
 
 A time in which my hands were not stained with red
-
-
 
 I wish I could forget my senseless actions,  
 
@@ -67,8 +59,6 @@ I am a fool, a bastard,
 
 And now it, naught but a stranger, is dead.
 
-
-
 If I were ever given the chance,  
 
 I would take its place in a heartbeat.  
@@ -76,8 +66,6 @@ I would take its place in a heartbeat.
 ‘Twas a little creature with so much life to live  
 
 And all I am is myself.
-
-
 
 I wish I could forget,  
 
@@ -91,13 +79,9 @@ What is there to do?
 
 I’m so sorry, my friend.
 
-
-
 I wish I could forget my actions,  
 
 Would you forgive me, kind stranger that you were?  
 
 I doubt it, but here I must forgive myself.
-
-
 

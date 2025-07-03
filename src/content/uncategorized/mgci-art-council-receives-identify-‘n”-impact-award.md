@@ -2,7 +2,7 @@
 title: "MGCI Art Council Receives Identify ‘N” Impact Award"
 pubDate: 2016-01-21T02:03:15.158Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,19 +13,11 @@ Late last year, MGCI’s Art Council received the Identify ‘N’ Impact Award 
 
 The Identify ‘N’ Impact Award is given to eight youth-run organizations that work hard to improve engagement and safety in their community. Art Council applied for the award earlier last year, and is honoured to have received it. When asked about the award, Art Council’s President, Vicky Xu, said, “It was really exciting receiving the award because this is the first award Art Council has ever received.” Five representatives from Art Council were there to accept the award at a public ceremony, which included speeches from City Councillor Norm Kelly and the honourable Landon Pearson.
 
-
-
 ![MGCI's Art Council received the award at a ceremony late last year. (Source: Toronto Youth Cabinet)][image1]
-
-
 
 MGCI's Art Council received the award at a ceremony late last year. (*Source: [Toronto Youth Cabinet](http://thetyc.ca/news/2015-identify-n-impact-awards)*)
 
-
-
 Art Council already has plans on what they would like to use the money for. Vicky explained that the council will focus on planning and creating an eco-mural in collaboration with MGCI EcoTeam during second semester. With the mural, the clubs aim to promote student awareness for environmental issues, similar to the LGBT mural in the cafeteria that was made with MGCI’s GSA. Vicky hopes that the grant will help improve the quality of the mural. In addition, Art Council will also be holding other events, including a sketch-off and the annual Doodlefest event. Vicky said that Art Council ultimately plans to hold community events to increase awareness for various causes.  
-
-
 
 
 

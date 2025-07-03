@@ -37,5 +37,3 @@ Even though she’d tried to recreate the background photo in her mother’s pho
 
 
 
-
-

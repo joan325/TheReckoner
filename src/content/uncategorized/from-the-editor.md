@@ -2,7 +2,7 @@
 title: "From the Editor"
 pubDate: 2018-06-10T03:20:35.082Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -14,8 +14,6 @@ With summer break just over the horizon, my time as Editor in Chief is coming to
 	The Reckoner is the bridge between these differences, giving a voice to every student in the school and allowing our diversity to shine through. I wanted to take a paper further this year by expanding topics, exploring new journalistic mediums, and refining the quality of our publications. I don't expect the newspaper to have had the same impact on everyone else that it has on me, but if it has helped you appreciate our school's diversity even a little, I've accomplished my goal.  
 
 	At The Reckoner, I've been blessed with a solid network of people who have been there for me at every turn. They are the people that keep me going through the late nights and push me to keep improving the paper. The Seventh Guard's success is owed to them and I'd like to take the time to thank them for all they have done: 
-
-
 
 To Ms. Goldenberg, for your trust and careful criticisms.  
 
@@ -29,11 +27,7 @@ To the Seventh Guard Executives, for the hard work and endless roasts.
 
 To my staff, you are the backbone of this paper.
 
-
-
 	And finally to the reader, thank you for joining us on this adventure. I encourage you to be just as supportive of the paper and its work in the future. Moreover, I challenge you to stay informed and critical of the world around us. And come join The Reckoner, there's a spot for everyone with an inquisitive streak.
-
-
 
 Best regards,  
 

@@ -9,8 +9,6 @@ tags: ["Uncategorized"]
 
 # Why the New Food Guide Matters
 
-
-
 For the first time in over a decade, Health Canada has released its new food guide. Although very few people gave much thought to the document last decade, dismissing the updated *Canada’s Food Guide* upon our past experiences is misguided. From the rations in the World Wars to the emergence of fast food chains across the country, food shapes the demographics and culture of society. Yet, we have lost our values of healthy nutrition in only a few generations, with four million Canadians, including 1.5 million children, having household food insecurities [\[1\]](https://proof.utoronto.ca/food-insecurity/). Access to healthy food is inhibited by a sinister greed for money and political influence that topples over the true need for proper nutrition. It is clear that an updated food guide is long overdue—but please, free it from politics. Pay no attention to the unfounded criticism from industry lobby groups; Canada’s future will be glad to know it was worth the wait.   
 
 Past food guides were almost illegible: confusing serving size numbers were never memorable and food groups were too broad for adequate nutrition portions. More importantly, they were never created in the interests of Canadian citizens. Instead, the documents rendered the common perception of nutrition illegitimate, painting a blur of misinformation used by food industry leaders and corporations to maximize Canadian agricultural profits. What should have been a bright image of healthy eating at home was instead a masked model for industry lobbyists’ economic and political gains. Drafts of food guides were sent to companies before consumers [\[2\]](https://www.cbc.ca/news/health/the-politics-of-food-guides-1.1268575). Unreasonable changes were made to match the demands of industries. The Canadian Meat Council complained that the 1992 Food Guide *only* recommended 1-3 servings of meat and alternatives. The guide was changed to please the council, increasing the servings count to 2-3. The Grocery Products Manufacturing Council had the audacity to suggest that “extras” was too negative and inappropriate for labelling harmful junk foods. Somehow, despite the obvious consequences of high fat and chemical concentrations, Health Canada still complied. Besides replacing the section title with “other foods”, the guide incorporated a preposterous description commenting on the “taste and enjoyment” of such foods [\[2\]](https://www.cbc.ca/news/health/the-politics-of-food-guides-1.1268575).   
@@ -23,33 +21,19 @@ Nonetheless, Canadian nutrition remains at risk from predicaments set by politic
 
 The time has come for the democratization of healthy eating. While countries such as Brazil have followed this model of proportions for ages, Health Canada has ironically ignored the interests of public health. This change in nutrition marks a revolution in culture, identity, and quality of life. However, freeing Canadian nutrition from its past flaws and industry influence is far from over. Support must be garnered to support a quick exit from the political dungeon. Families and children of Canada await a decision on the health of their future lifestyle and culture—whether they are aware of it or not—as the clock ticks to more delays and industry intervention. The 2019 Canada’s Food Guide makes incredible progress towards a healthy future, but other nutrition proposals must follow for the sake of Canada’s future.
 
-
-
 Citations/ References  
 
 ---
 
-
-
 \[1\] [https://proof.utoronto.ca/](https://proof.utoronto.ca/)
-
-
 
 \[2\]  [https://www.cbc.ca/news/health/the-politics-of-food-guides-1.1268575](https://www.cbc.ca/news/health/the-politics-of-food-guides-1.1268575)
 
-
-
 \[3\] [https://www.theglobeandmail.com/news/national/a-taste-of-whats-to-come-inside-the-big-revamp-of-canadas-food-guide/article35728046/](https://www.theglobeandmail.com/news/national/a-taste-of-whats-to-come-inside-the-big-revamp-of-canadas-food-guide/article35728046/)
 
-
-
 \[4\][https://food-guide.canada.ca/en/](https://food-guide.canada.ca/en/)
-
-
 
 \[5\] [https://www.canada.ca/en/public-health/services/childhood-obesity/childhood-obesity.html](https://www.canada.ca/en/public-health/services/childhood-obesity/childhood-obesity.html)  
 
 ---
-
-
 

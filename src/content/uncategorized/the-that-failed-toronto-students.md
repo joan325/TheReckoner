@@ -2,7 +2,7 @@
 title: "The Board that Failed Toronto Students"
 pubDate: 2020-12-20T04:45:19.806Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 The Board that Failed Toronto Students  
 
 By: Anne Liu, Edward Yang
-
-
 
 The Toronto District School Board was not at all prepared for what was coming alongside the COVID-19 pandemic. The board, with 247 000 students on the line, has failed to provide an acceptable system regarding all aspects of online school \[1\].  
 
@@ -25,30 +23,18 @@ The TDSB’s excuse was that the centralized virtual school system wasn’t able
 
 	What did we expect coming into this strange school year? A perfect fully functioning utterly faultless school system? Certainly not. But we expected the very least anyone could expect from a school board: we expected to be cared for, our problems heard, and a working virtual system that would allow students to work effectively. We expected the very least from the TDSB. We set our standard on the ground. The board dug a hole. 
 
-
-
 \[1\]   
 
 [https://www.tdsb.on.ca/About-Us\#:\~:text=The%20Toronto%20District%20School%20Board%20is%20the%20largest%20school%20board,approximately%20247%2C000%20students%20each%20year.\&text=There%20are%20over%20120%20languages%20spoken%20by%20TDSB%20students%20and%20their%20families](https://www.tdsb.on.ca/About-Us#:~:text=The%20Toronto%20District%20School%20Board%20is%20the%20largest%20school%20board,approximately%20247%2C000%20students%20each%20year.&text=There%20are%20over%20120%20languages%20spoken%20by%20TDSB%20students%20and%20their%20families). 
 
-
-
 \[2\] [https://www.thestar.com/news/gta/2020/10/19/tdsb-scrambles-to-accomodate-virtual-learners-as-expanding-online-school-becomes-untenable.html](https://www.thestar.com/news/gta/2020/10/19/tdsb-scrambles-to-accomodate-virtual-learners-as-expanding-online-school-becomes-untenable.html) 
-
-
 
 \[3\] [https://www.cbc.ca/news/canada/toronto/tdsb-spend-two-million-bonuses-principals-vice-principals-1.5784959](https://www.cbc.ca/news/canada/toronto/tdsb-spend-two-million-bonuses-principals-vice-principals-1.5784959) 
 
-
-
 \[4\] [https://www.cbc.ca/news/canada/toronto/tdsb-students-devices-for-remote-learning-1.5766694](https://www.cbc.ca/news/canada/toronto/tdsb-students-devices-for-remote-learning-1.5766694) 
-
-
 
 \[5\]  
 
 [https://www.tdsb.on.ca/About-Us/Business-Services/Budgets-and-Financial-Statements/2019-20-Budget\#:\~:text=2019%2D20%20Budget%20Process,these%20resources%20responsibly%20and%20effectively](https://www.tdsb.on.ca/About-Us/Business-Services/Budgets-and-Financial-Statements/2019-20-Budget#:~:text=2019%2D20%20Budget%20Process,these%20resources%20responsibly%20and%20effectively). 
-
-
 
 \[6\] [https://www.dell.com/en-ca/shop/dell-laptops-netbooks-and-tablets/chromebook-3189-2-in-1/spd/chromebook-11-3189-2-in-1-laptop](https://www.dell.com/en-ca/shop/dell-laptops-netbooks-and-tablets/chromebook-3189-2-in-1/spd/chromebook-11-3189-2-in-1-laptop) 

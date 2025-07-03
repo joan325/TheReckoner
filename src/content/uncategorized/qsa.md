@@ -2,7 +2,7 @@
 title: "QSA"
 pubDate: 2015-04-15T19:12:26.234Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 QSA Mural  
 
 By Deifilia To
-
-
 
 Marc Garneau’s Queer Straight Alliance (QSA) and Art Council are working together to design a mural that will be placed in the school cafeteria. The mural spells out the word “Pride” in a myriad of colours, and will serve to encourage and support LGBTQ students in the school.  
 
@@ -22,6 +20,4 @@ The two councils seek to create a piece of art that will brighten up the atmosph
 In addition to reducing prejudice, the mural also seeks to encourage students who are currently questioning their sexuality to feel accepted in the school environment. Khalida Elsadati, Social Media Manager of QSA, said that “This mural is important because it will make a lot of students who may be afraid of coming out, or who are worried about being accepted know that MGCI has their back. Our school becomes more of a queer-positive space.”  
 
 Gloria Zhou, president of Art Council, elaborates on the purpose of the mural. “If we address the ignorance and discriminative behaviour possessed by a fraction of our society today and make an effort to shout back with something as loud and expressive as this mural, perhaps that fraction will become more open minded.”  
-
-
 

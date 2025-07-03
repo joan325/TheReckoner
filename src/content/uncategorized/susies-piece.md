@@ -2,14 +2,12 @@
 title: "Editorial: Susie's Piece"
 pubDate: 2015-03-25T03:21:34.504Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 An Open Letter to Future Voters
-
-
 
         	When I Google “Ontario Sex Ed Curriculum” the first result that appears is titled “Ontario's Radical Sex Ed Curriculum”. Before even entering the page, I am greeted by a brief excerpt which references Kathleen Wynne as a gay-activist in a derogatory manner. While these attitudes are certainly not representative of all Ontarians, they do reflect a trend of misinformation among voters. They demonstrate decision-making and opinion-forming based on emotion and outrage rather than based on evidence. They also reflect a fear of progressive and preventative government measures that sometimes challenge our beliefs and sensibilities.  
 

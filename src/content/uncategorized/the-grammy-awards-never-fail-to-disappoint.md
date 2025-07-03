@@ -2,7 +2,7 @@
 title: "The Grammy Awards Never Fail to Disappoint"
 pubDate: 2021-02-27T00:37:32.069Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 The Grammy Awards Never Fail to Disappoint  
 
 By: Maggie Pang
-
-
 
 The internet is going crazy over the Grammys. Again. For those of you who don't already know, Canadian artist Abel M. Tesfaye, better known by his stage name The Weeknd, did not receive a single grammy nomination this year. Not one. Despite "Blinding Lights" having set a record for most weeks spent in the top 10 of the Billboard Top 100 Chart \[1\] and his album "After Hours" setting a record for the most pre-adds on Apple Music \[2\].  
 
@@ -28,8 +26,6 @@ Each contest tends to have a defined thing they're looking for. The People's Cho
 Indeed, the Grammys are incredibly bad at recognizing achievement in essentially any genre other than pop. Despite the widespread popularity of rap, only two rap albums have won the Album of The Year award, the last time being in 2004, and no rap song has ever won Song of the Year or Record of the Year. It should also be noted that some genres will, due to their relative lack of popularity, have committee members without much expertise voting for them.   
 
 A lack of a Grammy doesn't make Diana Ross and Queen any less legendary and the voting process is so untransparent and untrustworthy that the possession of a Grammy doesn't mean anything either. Overall, the Grammys could not be more irrelevant and incapable of recognizing music achievement in a diverse assortment of genres. 
-
-
 
 \[1\] https://www.stereogum.com/2108353/the-weeknd-blinding-lights-record-billboard-top-10/news/   
 

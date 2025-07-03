@@ -2,7 +2,7 @@
 title: "The Garneau Happiness Index"
 pubDate: 2016-01-12T05:29:28.060Z
 description: "Article about stuff."
-author: "metroidude47"
+author: "metroidude"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 The Garneau Happiness Index  
 
 A Quantitative Study of Mental Well-Being at MGCI
-
-
 
 When we think of how well a student is doing in school, academic performance is instinctively the first factor that comes to mind. Given the goals of the education system, this is not surprising. However, a by-product of this attitude is that the mental well-being of a student is sometimes left out of mainstream consideration. This is harmful, because stress hurts a student’s general performance and tends to increase with the number of years they have spent in high school. Many students are also unaware of existing resources that may help them cope with debilitating pressure.  
 
@@ -34,6 +32,4 @@ Unfortunately, most students find it difficult to approach guidance and ask for 
 Moreover, an underlying stigma associated with seeking external help further widens the gap between a struggling student and available assistance. The expected response to the question “How are you doing?” is “Fine.” Yet many students are not fine. It is not uncommon to see students crying or hear about breakdowns. Whether it stems from feelings of awkwardness or helplessness, the common response to such occurrences is to turn a blind eye and “provide space” for that person. This kind of attitude increases the sense of isolation that someone in trouble feels. Collectively, we need adjust our mindset and recognize that problems like stress are universal. The next time you see a distraught friend, don’t ignore them. Be sensitive, but let them know they’re not alone.  
 
  The results revealed by the GHI are not altogether surprising. Most people expect school to put more pressure on students as they get closer to their diploma. However, this does not mean the status quo cannot be improved. To counsellors: Please try and familiarize yourselves more intimately with students. Going to guidance for help should not feel like taking a leap of faith. Please also take more initiatives to demonstrate exactly what guidance can provide, because many students are not aware of your resources. To students: Ignorance of what is available should not be what keeps you sinking. Take some time to acquaint yourself with the many assistance options that are available, and understand that many of your peers are in the same boat. Academics are important, but there is no excuse to ignore our mental well-being and happiness now when those are exactly the things we each ultimately seek in life.    
-
-
 

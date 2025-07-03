@@ -2,22 +2,18 @@
 title: "stardust"
 pubDate: 2021-06-24T22:30:58.104Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 *stardust*
 
-
-
 i hold   
 
 a galaxy between  
 
 my palms
-
-
 
 the heat makes my  
 
@@ -32,8 +28,6 @@ and lap up the molten silver
 that runs through the  
 
 crevices of my hands
-
-
 
 extraordinary stars and planets  
 
@@ -51,8 +45,6 @@ together as i trace lines between
 
 constellations with my eyes
 
-
-
 i watch as the stars implode  
 
 and meteors streak  
@@ -66,8 +58,6 @@ that cools the orb i hold
 like an ice cube dropped into  
 
 a steaming cup of tea
-
-
 
 and all i am left with  
 

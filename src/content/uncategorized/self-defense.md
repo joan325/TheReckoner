@@ -2,7 +2,7 @@
 title: "Self-Defense "
 pubDate: 2016-01-10T00:43:36.095Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

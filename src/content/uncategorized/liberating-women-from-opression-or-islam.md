@@ -2,7 +2,7 @@
 title: "Liberating Women from Opression or Islam?"
 pubDate: 2016-12-04T02:26:41.905Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -11,11 +11,7 @@ Liberating Women from Oppression or Islam?
 
 By Hodman Abukar
 
-
-
 The Reckoner *is collaborating with the student-run newspaper of North Toronto C.I.,* Graffiti. *The following article is written by an NTCI student, and was published in* Graffiti’s *December 2016 issue.*
-
-
 
 France established nude beaches along its shores during the 1950’s, becoming one of the first countries to do so. At the time, sexism was heightened, and the rest of the world believed that a woman was not respectable if she was not covered. France decided to fight these restrictions, incorporating both sexual and non-sexual nudity into its art and culture. This allowed French women to be as revealing as they pleased.   
 

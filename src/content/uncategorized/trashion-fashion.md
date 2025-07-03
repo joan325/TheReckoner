@@ -2,14 +2,12 @@
 title: "News: Trashion Fashion"
 pubDate: 2017-03-01T03:36:14.518Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 By: Julie Xiao
-
-
 
 In honour of Earth Day, MGCI’s Ecoteam hosted its first Trashion Show on 22 April. The event showcased outfits made out of trash and other waste objects. The objective of the show was to promote and raise awareness about recycling and reusing waste at MGCI.   
 

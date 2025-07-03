@@ -2,14 +2,12 @@
 title: "Op-Ed: Public Promposals"
 pubDate: 2015-05-25T05:27:46.975Z
 description: "Article about stuff."
-author: "metroidude47"
+author: "metroidude"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 The Public Promposal (Editorial, by Susie Liu)
-
-
 
             	If you’re in the middle of planning an elaborate public promposal to woo that amazing prom date, stop now. If you’ve already endured the ordeal, my condolences. You might be asking, who is this party pooper to come and rain on my prom parade? Give me just a few hundred words to make my appeal for a more private, subdued promposal affair.  
 

@@ -2,7 +2,7 @@
 title: "Discovering Debating in Debate Club’s Discord"
 pubDate: 2021-02-04T04:46:24.853Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -24,6 +24,4 @@ The experience of club members also varies, as everyone, regardless of skill lev
 The Debate Club also sends several members to represent MGCI at tournaments. This year, tournaments are run online, on a discord server. Most tournaments take place over a span of one-to-two days with multiple rounds each day, along with “break” rounds—the semifinals, finals, and junior finals. These tournaments include Upper Canada College’s Pro-Am tournament, and coming up in 2021, two of Toronto’s highly well-known high-school tournaments: Hart House HS 2021 and Western University’s 2021 high school debate tournament.   
 
 Regarding the near future and coming years, Vice President Larissa Long said, “Honestly, I just want MGCI debate to remain an open and inclusive club where anyone can join and come to learn, make new friends, and joke around. I love the atmosphere that this year's debate club has fostered, and looking at how far we've come in these past few years is astounding.” 
-
-
 

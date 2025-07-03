@@ -2,7 +2,7 @@
 title: "Life (As We Know It) – A Review"
 pubDate: 2016-05-02T22:12:27.637Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "SHSM"
 pubDate: 2015-05-27T00:52:26.074Z
 description: "Article about stuff."
-author: "sqiu932"
+author: "sqiu"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

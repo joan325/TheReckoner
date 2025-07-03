@@ -2,7 +2,7 @@
 title: "GUEST."
 pubDate: 2018-12-05T04:17:14.128Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -63,9 +63,5 @@ Buried in
 
 Polyester. 
 
-
-
  tantalizing me. *It* is a dreadful deed that will forever remain venerable. *It* is a sin so gruesome, so petrifying, and so repulsive that it has degraded every other sin ever committed. *It* is a treacherous act that may never be forgiven. *It* is a deceitful act that will never be forgotten. *It* is a secret, that no matter how hard I try to annihilate, *it* will forever accompany me. No matter how hard I try to neglect *it*, *it* will be there, burned into my brain- burned into my memory. Everything else that I know of will continuously change. Everything else will come and go. *It* will stay the same. *It* will never leave me alone.
-
-
 

@@ -45,5 +45,3 @@ because eventually, conventionally
 
 all strangers must look away
 
-
-

@@ -2,7 +2,7 @@
 title: "News: Relay"
 pubDate: 2017-03-03T00:55:26.159Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -20,6 +20,4 @@ The event was supposed to include an opening ceremony, cancer survivors as guest
 Despite the setbacks in the organization of the event, Relay for Life was still successful in its efforts to raise awareness of the fight against cancer. Although the club's fundraising goal was $2500, they raised $1200 for cancer research, with approximately $900 from the event itself. This figure includes both the money raised from food sales, and money fundraised by participants.  
 
 For Dorothy Qian, Junior President of the MGCI Cancer Society and Event Chair for this year's Relay for Life, this event is important because it not only "raises awareness for cancer, but also creates an united spirit to fight cancer. Cancer doesn't discriminate, so we're all affected, and we need to work together to fight it."
-
-
 

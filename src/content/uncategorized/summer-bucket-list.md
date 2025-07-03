@@ -2,14 +2,12 @@
 title: "Summer Bucket List"
 pubDate: 2016-06-18T22:02:55.860Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Summer is here and you know what that means\! Wildness\! Partying\! Teenage shenanigans\! If you’re feeling gutsy but don’t really know where to start, *The Reckoner* has got you with a handy Summer Bucket List. Ready to get your freak on? Let’s go\!  
-
-
 
 
 
@@ -112,8 +110,6 @@ Summer is here and you know what that means\! Wildness\! Partying\! Teenage shen
 * Try exercising for a day  
 
 * Take a road trip to a place you’ve never been before
-
-
 
 
 

@@ -2,14 +2,12 @@
 title: "News: Garneau Goes to MIST"
 pubDate: 2015-03-25T02:55:40.289Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 By Julie Xiao
-
-
 
 Over the March Break, 32 students from MGCI's Muslim Student Association participated in the Muslim Inter-Scholastic Tournament (MIST).  
 
@@ -42,6 +40,4 @@ To participate in MIST, each student had to pay a $53 registration fee. To compe
 Overall, MIST contestants had an enjoyable time at the competition. Students were able to display their talents while having fun. One participant, Khadija Jawwad, also liked that many Muslim and non-Muslim students, not only from Toronto, but also from Ajax, Waterloo, Kitchener, and Pickering, came to MIST.  
 
 Mustafa Bandukwala, another participant, said, "\[MIST was\] honestly an amazing experience." He added, "The people there were extremely supportive.” 
-
-
 

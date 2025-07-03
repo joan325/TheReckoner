@@ -17,8 +17,6 @@ Devastating suffocating unstoppable **flatulating**
 
 **Hesitating** activating excuses fabricating
 
-
-
 Calculating contemplating **odor eliminating**  
 
 Underestimating **contaminating** smell reverberating  
@@ -27,8 +25,6 @@ Imitating interrogating shadmate **discriminating**
 
 **Collaborating** investigating guilty segregating
 
-
-
 **Hypothesizing** speculating orifice emanating  
 
 Motivating escalating blame insinuating  
@@ -36,6 +32,4 @@ Motivating escalating blame insinuating
 Generating exaggerating lies **proliferating**  
 
 Silently **perpetrating** another round of flatulating
-
-
 

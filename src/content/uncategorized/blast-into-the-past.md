@@ -2,7 +2,7 @@
 title: "Blast into the past"
 pubDate: 2016-01-22T00:36:33.070Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -18,8 +18,6 @@ IF STUFF DOESN’T FIT:
 Cut out image of overlea bio crest, black & white pic w/ Marc Garneau, biking photo  
 
 NOTE: google docs doesnt copy in images, but there are plenty. actual word doc is also uploaded onto drive. 
-
-
 
 START OF ARTICLE  
 
@@ -41,13 +39,9 @@ Prior to renovation, the school had different rooms it does today. There used to
 
 On a side note, the school’s mascot has always been a cougar. Here’s what the old mascot used to look like.  
 
-
-
 The culture of the school has also transformed over time. Right from the beginning, the school used to have a house system. Students from all four grades were divided into four houses. There were academic, athletic, and spirit competitions between the houses. This feature helped raise school spirit, and allowed younger students to interact with senior students more readily. The system was stopped in the 1980s.  
 
 Flemingdon has always been an immigrant dense neighbourhood; there were always many cultures being represented at any given time. The international show we run today was also run in the 70s and 80s. The shows in the past typically began with a ‘Parade of Nations’. Students dressed in the cultural clothes of their home countries walked onto stage in a line. (Interestingly enough, they had a difficult time finding someone who was strictly Canadian.) Nowadays, the show is still an important part to the school’s cultural spirit, with 450 tickets being sold for the show in 2015\.   
-
-
 
 
 
@@ -57,23 +51,13 @@ The school has always been bustling with clubs – two notable ones are the Biol
 
 
 
-
-
-
-
 Marc Garneau was a school built around the space program. (In fact, the major drawing point to TOPS in the early years was the fact that the school was particularly focused around space science.) The Garneau chapter of Students for the Exploration and Development of Space (SEDS) ran from 1991 to 2003\. In this club, students would conduct research on various topics pursuant to space. (A sample project studied fluid dynamics in a  microgravity environment. Students assisted Canadian astronaut Marc Garneau – and our namesake – on this project.) Another year, students were able to work with the Canadarm.  
 
 Other events that used to be characteristic of Marc Garneau’s unique culture are long gone. The school held Moonbase Garneau, setting up four domes in the technology lab (across from the library), that each monitored a specific aspect of life – including food and sleep. Students spent a weekend living in the domes, simulating what it was like to live on the moon.
 
-
-
 There used to be an annual bikeathon held in the track around the back field. This was done to raise money for school clubs and charities. Students (or clubs) would form teams. Each team was required to have one member biking around the track at all times, from 4:00 pm on one day, to 4:00 pm on the next.
 
-
-
 In the past, the school held O-day \- Olympics day \- each year, allowing students in different houses to compete against each other. It is analogous to the Grade 9 day that is currently held annually. O day helped students have fun, and helped raise the school spirit.
-
-
 
 Culture-wise, the school has transformed a lot over the years. Regardless, there are teachers who say that the school has always been filled with a sense of academic vitality, and a willingness to help one another. It has gone through a physical transformation, but managed to maintain the sense of school spirit that the school is well-known for.  
 

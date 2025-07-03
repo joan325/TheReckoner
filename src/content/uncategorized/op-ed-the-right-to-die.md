@@ -2,7 +2,7 @@
 title: "Op Ed: The Right to Die"
 pubDate: 2014-11-12T01:44:24.613Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 The Right to Die  
 
 by Parnika Godkhindi
-
-
 
 Does having the right to live also give you the right to die?  
 
@@ -36,6 +34,4 @@ So what’s the bottom line? According to our constitution, every human has equa
 [\[1\]](http://thereckoner.ca/wp-admin/post.php?post=18594&action=edit#_ftnref1) http://www.oxforddictionaries.com/definition/english/assisted-suicide  
 
 [\[2\]](http://thereckoner.ca/wp-admin/post.php?post=18594&action=edit#_ftnref2) http://www.nytimes.com/roomfordebate/2014/10/06/expanding-the-right-to-die/oregon-shows-that-assisted-suicide-can-work-sensibly-and-fairly  
-
-
 

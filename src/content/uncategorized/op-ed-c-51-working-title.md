@@ -2,7 +2,7 @@
 title: "Editorial: Op-Ed: C-51 (WORKING TITLE)"
 pubDate: 2015-03-24T03:55:37.320Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -20,8 +20,6 @@ On 23 February, Prime Minister Stephen Harper’s proposed Anti-Terrorism Bill C
 However, support for Bill C-51 left as quickly as it came. Earlier this March, in a poll conducted by Forum Research, support for the bill had dropped to 45%, with an almost equivalent percentage of people who were opposed to the bill. Canadians had begun to scrutinize the bill, and public opinion on the legislation changed dramatically. Concerns arose around the protection of the privacy of Canadians, and further analysis brought to light the possibility of Canadian security agencies abusing the privileges granted by the bill. Harper’s political juggernaut had jolted to a stop.  
 
 This sudden change in public opinion opens up an opportunity for the NDP to step in and take the stage. Considering the Liberals had sided with the Conservatives on the passing of Bill C-51, the shift in public favour puts the NDP in an advantageous position to appeal to the general public in place of the Conservatives and the Liberals. A reckless and greedy grab for support leaves the Conservatives in a difficult spot as more and more people rally to oppose Bill C-51.  
-
-
 
 
 

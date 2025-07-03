@@ -2,7 +2,7 @@
 title: "Prom"
 pubDate: 2016-06-15T03:33:46.274Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -23,11 +23,7 @@ In accordance to the Hollywood/Red Carpet theme, the awards categories were orga
 
 This year, Soodaba added several new awards, including the “Best Hair, Hijab, or Hat”. This was done so that all students would be fairly considered for awards.
 
-
-
 	The awards this year were as follows:
-
-
 
 Most likely to win the lottery and then lose their ticket: Lemar Shah  
 
@@ -52,8 +48,6 @@ In case of emergency, call: Saffiya Lulat
 Prom King: Faizan Amir  
 
 Prom Queen: Hajra Arif
-
-
 
 Hajra Arif was awarded Prom Queen, and in response to hearing her name announced, she said that “I was really shocked. I didn’t think I was going to win it.” She went on to explain that, after she felt the initial reaction, “I was just really thankful to all of my friends, and peers at school.”  
 

@@ -2,7 +2,7 @@
 title: "Significant  Digits: Pride Edition"
 pubDate: 2021-06-02T03:45:18.811Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,17 +13,11 @@ tags: ["Uncategorized"]
 
 **\-------------------------------**
 
-
-
 # **1969 Stonewall Riots spark an increase in gay rights activism**
-
-
 
 **\-------------------------------**  
 
 On 28 June 1969 New York police raided the Stonewall Inn, a gay bar in Greenwich Village, arresting employees and several patrons. After being forced out of the bar, patrons and neighbourhood residents began to protest, yelling at the police and throwing bottles and debris. The conflict escalated and police attempted to barricade themselves inside the bar, which was then set on fire. Riots continued over the next five days and this uprising became the inspiration for gay rights organizations such as the Gay Liberation Front and the Gay Activists Alliance \[1\]\[2\].
-
-
 
 **\-------------------------------**  
 
@@ -73,8 +67,6 @@ On 20 March 2013, Canada’s House of Commons approved Bill C-279, an Act to ame
 
 Toronto’s annual Pride parade takes place each June, and is the largest Pride celebration in Canada. The most recent parade had hundreds of thousands of people lining the streets of downtown. Over two hundred different groups marched in the parade, and politicians such as Prime Minister Justin Trudeau and Mayor John Tory took part to show their support for the LGBTQ community \[9\].
 
-
-
 Works Cited:  
 
 \[1\] [https://www.britannica.com/event/Stonewall-riots](https://www.britannica.com/event/Stonewall-riots)  
@@ -94,6 +86,4 @@ Works Cited:
 \[8\] [https://www.cbc.ca/news/canada/commons-approves-transgender-rights-bill-1.1302626](https://www.cbc.ca/news/canada/commons-approves-transgender-rights-bill-1.1302626)  
 
 \[9\][https://www.theglobeandmail.com/canada/toronto/article-toronto-police-patrol-perimeter-of-pride-parade-as-event-draws/](https://www.theglobeandmail.com/canada/toronto/article-toronto-police-patrol-perimeter-of-pride-parade-as-event-draws/)
-
-
 

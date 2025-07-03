@@ -2,7 +2,7 @@
 title: "You Would Look Hotter Bald"
 pubDate: 2020-12-05T04:52:09.990Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 You Would Look Hotter Bald  
 
 By: Vicky Wen  
-
-
 
 You read the title correctly, and everyone, including you dear reader, should go bald at least once in their life. Especially now, during the quarantimes. Who’s going to judge you for being bald, your cat?  
 

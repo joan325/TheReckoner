@@ -2,14 +2,12 @@
 title: "Chemistry: A Poem"
 pubDate: 2015-10-11T23:23:32.760Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Hannah Nie
-
-
 
 It was  
 
@@ -28,8 +26,6 @@ he can still see her eyes light up to reveal whole universes within
 and she's still earshot of his smooth, rolling epiphanies  
 
 of things beyond even comprehension.
-
-
 
 the rings under their eyes darker  
 
@@ -56,8 +52,6 @@ she might be seeing things,
 like the sporadic pattern of hands slightly touching  
 
 and smiles and direct eye contact.
-
-
 
 but  
 

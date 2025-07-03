@@ -2,14 +2,12 @@
 title: "Board Ed: TDSB Supplies "
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Board Editorial: The Toronto District Supplies Board
-
-
 
 High schools in the Toronto District School Board (TDSB) offer students a wide variety of subjects and courses to choose from. Schools are also provided a budget from the Board based on a number of factors, such as the number of students attending the school.  However, the TDSB also regulates the flow of supplies to its schools, and implements policies that restrict where school departments and teachers can purchase their supplies.  
 
@@ -20,6 +18,4 @@ The TDSB puts too much focus on standardizing the way schools acquire their supp
 Instead of distributing all of a school’s supplies through a central distribution system, the TDSB should consider a system where bulk supplies are provided by the TDSB distribution centre, but teachers are given the flexibility and freedom to utilize their budget to purchase their own supplies where they see fit. No restriction should be made to the vendors that teachers are allowed to purchase from, and so prices of products will not be fixed throughout the year. This allows teachers to purchase more frugally for their classroom, and allows schools to utilize their budget more efficiently.  
 
 The TDSB is standardizing a component of the classroom that is unique and depends on each individual classroom situation. This system should be revised to allow for more flexibility for teachers, as they know much more about the needs of their own classroom than the TDSB does.
-
-
 

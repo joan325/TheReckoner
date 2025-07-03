@@ -2,7 +2,7 @@
 title: "Where’s the whole in my head?"
 pubDate: 2015-02-18T02:26:42.736Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

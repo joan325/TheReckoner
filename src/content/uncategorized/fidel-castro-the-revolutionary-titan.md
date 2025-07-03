@@ -2,7 +2,7 @@
 title: "Fidel Castro: The Revolutionary Titan"
 pubDate: 2017-02-05T17:52:04.445Z
 description: "Article about stuff."
-author: "lawrence-pang"
+author: "lawrence_pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -25,15 +25,11 @@ It is important to acknowledge the historical context of Castro’s Cuba and the
 
 Other allegations are towards the many people detained during the height of the Cold War, but one must remember Cuba was at war and dealing with heavy espionage coming from the U.S.. To maintain perspective, let us not forget the mass incarcerations in the United States for anyone who had socialist beliefs during the Red Scare campaign. The detention of LGBTQ community members is another commonly cited issue, but these detentions occurred because many gay clubs were possible CIA compounds. Nonetheless, Fidel Castro admitted his mistake in the 1990s, leading to the government immediately promoting LGBTQ rights and awareness education in schools to combat the negative stigma. Today, LGBT communities flourish in Cuba, with events such as gay and lesbian film festivals occurring throughout the island.
 
-
-
         	Although Cuba did have its problems, it is important to look at the many aspects in which it improved. With the end of racial segregation in the 1950s, Cuba outshined most of the other nations in the world. In fact, Cuba’s healthcare system is currently famous worldwide, and has made numerous advancements in medical research, such as the meningitis-B vaccine in 1985\. Furthermore, it was the first country to eliminate mother-to-child transmission of HIV and syphilis, and even provided doctors and nurses to Western Africa during the ebola outbreak.    
 
 All these successes and advancements in Cuban life could not have happened without Castro’s revolution. However, there are still problems present in Cuba, and Castro made many empty promises, such as holding democratic elections immediately after the revolution. Nonetheless, Fidel Castro remains a very important figure in history. He brought change to Cuba and advanced it in tremendous ways, all while being threatened by the world’s largest superpower.  
 
         	When we think of the leaders who shaped our modern world, Castro’s name will no doubt be among the first. We can proudly claim that we are the last generation who saw a titan amongst us, the last relic of the Cold War. Whether he goes down in history as a tyrant or a hero, he will surely stand in the hall of fame of leaders: an elite among the elites. We will always know that Castro and Revolution went hand in hand, all because we were fortunate enough to live in the age of Fidel Castro.  
-
-
 
 
 

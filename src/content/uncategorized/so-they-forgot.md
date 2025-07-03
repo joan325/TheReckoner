@@ -2,7 +2,7 @@
 title: "So They forgot."
 pubDate: 2021-06-25T00:06:22.069Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -84,7 +84,5 @@ Her skin finally flooded by the burning inside.
 The dark in me flowed towards the wordless void.  
 
 “Until the end of days.”
-
-
 
 Summary: Two dying gods ruminate over their last days. Translated into Human, courtesy of Sarah Li.

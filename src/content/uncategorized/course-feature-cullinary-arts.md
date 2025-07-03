@@ -2,7 +2,7 @@
 title: "Course Feature: Cullinary Arts"
 pubDate: 2016-11-27T08:02:40.037Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -11,23 +11,13 @@ Course Feature: Culinary Arts
 
 By: Emma Wai
 
-
-
 When the bells signal the start of class at MGCI, most students are seated and staring at the board, pencils out, notebooks open.
-
-
 
 Not in culinary arts\!
 
-
-
 Marc Garneau’s hospitality and culinary arts courses offer students a unique, hands-on learning environment. In contrast to other courses, they provide interactive learning opportunities through the cooking and catering of food. Culinary arts courses are engaging learning experiences that teach students how to cook a variety of foods, from cookies to soup. Students in the course create and explore, instead of just sitting in a classroom. Ms. Paveling, one of the culinary arts teachers, commented that culinary arts is a unique course because it “is the only class that has hands-on learning, but also strict deadlines.”
 
-
-
 Students in culinary arts interact with other students who are passionate about, or express themselves through, food. Equipped with hairnets and aprons, the approximately twenty students in each class cook alongside one another, all within the school’s kitchen. “We share cultures, food, everything\!" Said Ms. Paveling with pride. "They \[students\] each bring something special to the course and share it through cooking.”
-
-
 
 Moreover, students contribute to the school and community; throughout the semester, they cook for school events, such as the TOPS Info Night and Sleeping Children Around the World (SCAW) Night. Through the course, they also provide inexpensive and convenient catering for the community and other schools: culinary arts students have catered for East York Collegiate Institute’s commencement ceremony. Furthermore, students in these courses prepare weekly lunches distributed to the MGCI school staff, and naturally, get to sample their own food.  
 
@@ -35,15 +25,9 @@ Moreover, students contribute to the school and community; throughout the semest
 
 Photo: Justin Ye
 
-
-
 With an emphasis on creativity and experimentation, culinary arts students are constantly encouraged to be adaptable, adventurous and focus on innovation, even over perfect execution. Ms. Paveling explains that through this course, she teaches students work skills, empathy, consideration, respect for each other, and to have joy—all through food. In addition to grading her students on essential job skills, including punctuality and proper hygiene, Ms. Paveling stresses the importance of adaptability and risk-taking.
 
-
-
 Reham Abdulkadir, a Grade 11 student whose friends' recommendations convinced her to take the culinary arts course, said that, “I really enjoy this course. Ms. Paveling is really nice, she has a sweet heart. I really like that we try new things, like cooking things, and of course, eating the food\!”  
-
-
 
 
 

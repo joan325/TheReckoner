@@ -2,29 +2,19 @@
 title: "Holleywood Rape Allegations"
 pubDate: 2017-12-09T05:09:13.792Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 With the current slew of celebrity accusations of rape and sexual misconduct, social media has been brimming with demands, apologies, or a futile defense of one’s behaviour. Though perpetrators of sexual violence should undoubtedly be dealt justice, a bigger problem arises when the generalization and prejudice of all accused men appears.
 
-
-
 Beginning with Harvey Weinstein’s fall from grace, it would appear that every distinguished male actor, producer and television personality in Hollywood cannot escape the snowball effect which has ensued. The snowball gained momentum, rolling around Hollywood’s executives dealing powerful/crippling blows to powerful men. Those who used their position inappropriately to commit sexual violence were spared no mercy. Eventually, the snowball grew so large that those who were touched by it were hit heavily, regardless if they were merely glanced or slammed head-on.
-
-
 
 In Hollywood, legal proceedings are buried under public opinion and judgement. In fact, public opinion delivers punishment far more swiftly, especially when dealing with appeals and all the bureaucracy in the American legal system. Nonetheless, a key element of North American legal systems is that you are innocent until proven guilty. Society recognizes it is better to let many guilty people walk free, than to incorrectly prosecute an innocent person. (I will expand on this)
 
-
-
 Presentism involves the use of modern ideals and social norms upon an incident that occurred in the past. Louis C.K. was accused of 5 instances of sexual impropriety in the early 2000s, and apologized profusely when he admitted to his wrongdoings. In his defense, he claimed he was not aware of the wrongdoings in his actions at the time. This claim has its merits, given that feminism and the issue of sexual misconduct was far less discussed at the time, especially in a formerly male-dominated and controlled industry like Hollywood. Sexually toxic men degenerate the men around them just like how courageous women can empower those around them to speak up for themselves. Some claim Louis C.K. might have been lying about his lack of knowledge in his wrongdoing, and perhaps have truly been a sexual predator. However, the public should give him the benefit of the doubt unless proven otherwise, just like how the legal system would do.
 
-
-
 With that said, it goes without a doubt Louis C.K. should be punished. Nonetheless, to peg him on the same boat as Weinstein, who already has \_ accusers/victims and counting, is to sentence an assault perpetuator like a murderer. Not only may this encourage sex offenders to continue with their acts since they have already sinned once, but it is morally unfair. An eye for an eye, not two eyes for one. (Unless its black Friday, in which case yes, it’s buy one get one free) 
-
-
 
 To end this off on an unbiased note, females like Ellen deGeneres also faced grossly disproportionate accusations for her actions. After tweeting a photo of herself gawking at Katy Perry’s breast, men outraged at her sexual “harassment” and even compared her to Harvey Weinstein. In context, there was a perceived notion of double standards in which women would not be punished for what men would be. Although there may be double standards, this was the wrong example to use. The fact that the tweet could be compared to Weinstein’s actions, regardless of Ellen\`s gender, is quite preposterous. This can be ended with an admonishment to her behaviour especially given it is her “first offense.” Anguishing as it is to ALL victims of sexual misconduct, society must establish a hierarchy for how heinous an act of sexual misconduct may be and draw a line between Ellen’s sexual impropriety and Weinstein's’ rape, just like how society has divided murder and assault.

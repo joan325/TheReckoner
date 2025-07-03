@@ -2,14 +2,12 @@
 title: "Playoffs begin for MGCI's flag football intramurals"
 pubDate: 2015-10-12T05:48:10.152Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 BY Megan Niu and Jasmine Kang
-
-
 
 The first round of MGCI’s flag football intramural playoffs began during the lunch period on Wednesday, 7 October.  
 

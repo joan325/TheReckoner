@@ -97,11 +97,7 @@ Cyclone Idai tore through Southeast Africa in early March, killing over 815 peop
 
 You’re all already familiar with Christchurch. You know the vicious and hateful ideology of the shooter. You know the progressive response of New Zealand’s PM. Here are some names you may not know.
 
-
-
  Abdukadir Elmi. Abdul Fattah Kasem. Ahmed Abdel Ghani. Ali Elmadani. Amjad Hamid. Ansi Alibava. Ashraf Ali. Ashraf Al-Masri. Ashraf Morsi. Asif Vora. Atta Elayyan. Daoud Nabi. Farhaj Ahsan. Ghulam Husain. Hafiz Musa. Vali Patel. Hamza Mustafa. Haroon Mehmood. Hosne Ahmed. Hussain al-Umari. Hussein Moustafa. Junaid Kara/Ismail. Kamel Mohamad Kamel Darweesh. Karam Bibi. Khaled Mustafa. Linda Armstrong. Maheboob Khokhar. Matiullah Safi. Mohammed Imran Khan. Omar Faruk. Mohsen Mohammed Al Harbi. Mojammel Hoq. Mounir Suleiman. Mucad Ibrahim. Lilik Abdul Hamid. Abdus Samad. Musa Nur Awale. Naeem Rashid. Osama Adnan Abu Kweik. Ozair Kadir. Ramiz Vora. Sayyad Milne. Sohail Shahid. Syed Areeb Ahmed. Syed Jahandad Ali. Talha Rashid. Tariq Omar. Zakaria Bhuiya. Zeeshan Raza. Muhammad Haziq bin Mohd Tarmizi. Mohamad Moosi Mohamedhosen. 
-
-
 
 May they never be forgotten. \[[BBC](https://www.bbc.com/news/world-asia-47593693)\]  
 

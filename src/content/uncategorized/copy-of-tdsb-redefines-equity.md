@@ -2,7 +2,7 @@
 title: "Copy of TDSB Redefines Equity"
 pubDate: 2018-02-05T00:15:43.887Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -11,21 +11,11 @@ TDSB redefines equity
 
  TDSB Acts as Catalyst in Brain Drain Reaction \- Shahjahan, T.
 
-
-
 The TDSB Equity Committee’s recent recommendation to abolish all specialized programs has been met with widespread acclaim across Toronto. The proposal came amidst rising concerns over the concept of having programs for students with ‘special’ needs.
-
-
 
 The committee released a 99-page document to the public, featuring a plan to ensure that students flock by the thousands to the York Region District School Board, as well as various foolproof measures to establish equity. One avid supporter of the proposal, a 15-year-old student who wished to remain anonymous said, “I personally haven’t read the document and neither has anyone that I know, but I still support the notion of getting rid of all these specialized programs. I mean, this is 2017: whatever happened to equity? I don’t see why a kid who plays 20 hours of piano every week from Grade 1 to the end of middle school or a Grade 8 kid who independently studies multivariable calculus should be given ‘enrichment’ opportunities. Equity means that everyone should be on the same plane, so I really appreciate the TDSB’s effort to ensure that the term “Canadian” is no longer synonymous with talent.” 
 
-
-
 However, the delusional teenagers in these specialized programs have taken to the streets alongside their parents. “I know this isn’t really fair to all the people who never really worked to be on the same playing field as myself, but I still don’t want to lose my enhanced curriculum,” said one student who currently attends the SOFT program at Cougarsville Collegiate. being a common, although obviously misguided, chant. Committee chairperson Frank Trudge, who played a key role in writing the recommendations, says, “I think the fact that an issue such as this is even being debated is outrageous. We don’t have any concrete facts to support our recommendations, and yet, we made them nonetheless. What these kids fail to realize is that we don’t really care about the effectiveness or need for such programs \- as Canadians, we should all firmly oppose the very *notion* of there being specialized programs. Some of these kids have the audacity to suggest that I have a personal vendetta against these programs\! Did I get rejected from all 3 arts programs I applied to? Yes. Did I then spend my first year of high school trying to convince everyone that enrichment is a excuse made by neoliberal capitalists to justify their own success despite myself having grown up in a 5-bedroom house in the suburbs with my own butler? Yes. But do I bear any personal grudge against these programs? No. Actually yes, but only because they threaten the very fabric of communism which holds Ontarian society together.”
 
-
-
 Communist Party chief Justin Wynne is in accord with Mr. Trudge. “This is by far the TDSB’s best initiative to promote equality, an ideal so holy and sacred that it is worth sacrificing any semblance that Canada may have had of economically thriving and not losing its well-educated graduates to the United States. I applaud the efforts of my government and the People’s Republic of China in enabling this smooth transition to a Marxist-Leninist government.”
-
-
 

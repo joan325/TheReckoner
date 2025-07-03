@@ -2,14 +2,12 @@
 title: "Double Push"
 pubDate: 2015-06-12T03:19:21.517Z
 description: "Article about stuff."
-author: "sqiu932"
+author: "sqiu"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Double Push (Life) By Yilin Zhu
-
-
 
 The double push is an inline skating technique invented in 1992 by Chad Hedrick, where the skater thrusts both inward and outward in one smooth arching movement through each kick. At the time, it revolutionized the inline skating world. And Hedrick himself won fifty world championships and six Olympic medals.   
 
@@ -36,6 +34,4 @@ Indeed, does not every professional know the double push? Aren’t we all trying
 For our favourite hobby, our profession, we take the blithe leap of faith and throw ourselves more than 100% at each opposing side, throw ourselves off balance, and throw our supporting foot past the center line. We throw ourselves into each opposite world and keep letting left and right collide. We trip on our own heels and slip if we aren’t careful. But in the end, we master it and the two worlds meld. Then the graceful curve carries us back to safety, into a new ordeal, and back, and again…  
 
 Then we are fast. Then we are skating by the pros.		               
-
-
 

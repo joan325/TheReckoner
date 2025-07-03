@@ -2,7 +2,7 @@
 title: "Perfect"
 pubDate: 2016-01-11T02:54:45.847Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -20,6 +20,4 @@ But then they wheeled her away in their perfect white coats and perfect black va
 They smiled and they grinned at the daisies springing from their lawn, the manicured hedges neatly tucked in the background. Once again they clung to the perfect contrasts, burying away the unwanted shades.  
 
 And in the perfect town of perfect homes and perfect people, one less existed.  
-
-
 

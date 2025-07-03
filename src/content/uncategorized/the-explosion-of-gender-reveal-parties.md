@@ -2,7 +2,7 @@
 title: "The Explosion of Gender Reveal Parties"
 pubDate: 2021-04-28T04:51:34.963Z
 description: "Article about stuff."
-author: "paromita"
+author: "paromita_roy"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 The Explosion of Gender Reveal Parties  
 
 By: Maggie Pang
-
-
 
 An interesting phenomenon has been taking over the western world.  
 
@@ -35,13 +33,9 @@ You might be wondering: "Aren't there plenty of other parties where explosive de
 
 It's important to have fun in life, but nothing, not even a few thousand likes or views, are worth possibly lethal explosive devices or multi-million dollar wildfires. Many, including the person who started it all, are calling for all this to end. Just stick to cutting a cake, please.
 
-
-
 \[1\] https://www.nbclosangeles.com/news/local/el-dorado-fire-destroys-4-homes-chars-over-22000-acres-in-yucaipa/2431115/  
 
 \[2\] https://www.washingtonpost.com/news/morning-mix/wp/2018/10/01/a-border-patrol-agent-threw-a-gender-reveal-party-he-ended-up-starting-a-47000-acre-wildfire/   
 
 \[3\] https://globalnews.ca/news/7659456/gender-reveal-explosion-father-killed/ 
-
-
 

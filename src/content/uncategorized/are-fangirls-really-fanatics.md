@@ -2,7 +2,7 @@
 title: "Are Fangirls really Fanatics?"
 pubDate: 2021-03-31T04:46:20.252Z
 description: "Article about stuff."
-author: "paromita"
+author: "paromita_roy"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Are Fangirls really Fanatics?  
 
 By: Urooba Shaikh
-
-
 
 In a world where media plays a significant role in the forms of entertainment that we are exposed to, fandoms are a recently developed form of engagement that allow people to be part of a community that shares their interests. However, fan culture is plagued by a centuries-old issue: misogyny.   
 
@@ -26,8 +24,6 @@ A contrast can also be drawn between the different reactions based on fandom dem
 Much of the misogyny that exists in fan culture is a byproduct of toxic masculinity. Men are often expected to maintain stoicism and emotional displays are considered “unmanly”. Not only is this expectation harmful to men as it prevents them from expressing themselves, but it also portrays the idea that women are overly hysterical and are not capable of thinking rationally, making anything they are passionate about irrelevant. From a young age, girls who are subjected to these stereotypes are made to feel like their interests are invalid and something to be ashamed of, which can have negative effects on their confidence and self-esteem \[5\].   
 
 No matter the causes of it, misogyny is a very real problem that affects women while they simply try to enjoy themselves. Modern problems call for modern solutions, and if we truly strive for equality, female fans need to stop being shamed for their interests and be treated with just as much respect as their male counterparts, so that they can also enjoy the fandom experience. After all, that's what fandoms are supposed to be: a space to enjoy, connect, and express. 
-
-
 
 \[1\] https://time.com/5912998/bts-army/  
 

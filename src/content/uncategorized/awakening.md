@@ -2,7 +2,7 @@
 title: "Awakening"
 pubDate: 2016-01-14T05:05:04.469Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

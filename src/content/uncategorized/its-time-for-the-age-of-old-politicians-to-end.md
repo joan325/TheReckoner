@@ -11,8 +11,6 @@ It's Time for the Age of Old Politicians to End
 
 By: Anne Liu and Emily Ma
 
-
-
 In our current chaotic world, we need changes to the fundamental political system instilled in our society. When senior candidates are elected into powerful political positions, they lack the incentives to push for radical reform under the current complex. Politicians control our lives and our society; they determine how we deal with crises and help less privileged individuals. We should hold our politicians to the highest standard for both ourselves and for society as a whole. If old politicians are not able to bring about the necessary changes to help society progress, they shouldn’t be in office.  
 
 Elderly politicians are typically those who are the most privileged in our society as, in the era they grew up in, they were disproportionately advantaged due to their gender, sexuality, race, etc. When people grow up in such a manner in which they believe their privilege is deserved, due to the beliefs they hold from their past unevolved society, they’re likely to try to maintain their positions of power merely because they believe they’re the most superior candidates. For example, urban schools provide lower quality education to Black and Latino students, and the media focuses exclusively on Black citizens with regard to crime and ridicule. These problems were far less contested in the past \[1\]. This problem primarily exists due to politicians who have grown up in an era where they were privileged on the basis of their race, gender, or other uncontrollable factors, where awareness about detrimental deep-rooted values weren’t addressed. When people like these are attracted to political positions to maintain their power because they believe they rightfully deserve it, they don’t have the actual incentives to prompt change that one without these privileged beliefs would have implemented. Their primary motivation while in power is to maintain their position, to retain the superiority they’ve long had and have grown accustomed to. On the other hand, those that did not grow up in this era are more than likely to enter into these positions for the sake of initiating legitimate change to address what they see wrong with society, because awareness was brought to issues relating to privilege, and hence this wouldn’t interfere with their political motivations.  
@@ -25,8 +23,6 @@ The economy has also significantly transformed since the time elderly politician
 
 What we’ve seen from old political leaders and their futile policies isn’t enough. In a society where reform is absolutely necessary, old politicians who lack the motivation and knowledge to make change cannot continue on in their ways. In a society that has evolved greatly from the dark ages, we cannot afford to remain stagnant. We need to end this period of inefficiency. For far too long, our policies have been inadequate to serve our generation. The new era must begin now.
 
-
-
 \[1\] https://en.wikipedia.org/wiki/White\_privilege   
 
 \[2\] https://www.nbcnews.com/politics/white-house/trump-pulls-u-s-out-paris-climate-agreement-n767066   
@@ -38,6 +34,4 @@ What we’ve seen from old political leaders and their futile policies isn’t e
 \[5\] http://www.ufcw.ca/index.php?option=com\_content\&view=article\&id=3390:by-the-numbers-student-debt-in-canada  
 
 \[6\] https://thecollegeinvestor.com/32031/average-student-loan-debt-by-year/
-
-
 

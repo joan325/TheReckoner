@@ -2,14 +2,12 @@
 title: "What Makes It Ultimate"
 pubDate: 2015-05-26T00:45:48.356Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 What Makes it Ultimate (Life, by Sheila Balu)
-
-
 
 “So, do you play any sports?”  
 
@@ -34,8 +32,6 @@ A widespread complaint is that Ultimate is too friendly because it usually doesn
 Definitely not. The most distinctive part of Ultimate that makes it stand out from other sports is its sportsmanship. It’s centred around a holistic view known as “the Spirit of the Game.” A real Ultimate match has no referees; the players go by an honor system and are trusted to contest their own fouls and outs. In the end, it results in a commitment to fairness, mutual respect of the other team’s skills, and—above all—having a good time. Being ‘spirited’ is seen as a goal in itself.  
 
 Still need proof that Ultimate is nothing to be looked down upon? Just Youtube Brodie Smith’s Greatest Game of HORSE, and you’ll never pick up a basketball again. There are other additional perks too, namely that it’s an incredibly accessible sport. All you need is a Frisbee and some friends, the former being cheap and easy to find. Although you may blatantly deny it, you probably already own one: there have been more Frisbees sold than footballs, baseballs, and basketballs combined. Everything else you like is probably either addictive, illegal, fattening, expensive, or impossible anyways.
-
-
 
 In the end, it all comes down to passion. There isn’t a feeling in the world that compares to chasing down a long pass, sprinting as fast as you can, diving and catching it on the tip of your fingers. Ultimate is exhilarating. Ultimate rewards persistence and hard work by uniting players on the field. Ultimate is more than a group of people chasing a squashed piece of plastic. Ultimate is unique, powerful, and incredible in every way.  
 

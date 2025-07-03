@@ -2,7 +2,7 @@
 title: "News: Semi"
 pubDate: 2014-12-10T02:10:35.718Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -32,8 +32,6 @@ The deficit, totaling approximately $500, will be taken out of the SAC budget. T
 Last year’s Semi Formal saw 309 students attending. The low amount of ticket sales for this year’s dance came as a surprise to everyone. “I’m not quite sure why there was such a lack of school enthusiasm this year,” said Lydia. “My best guess would be bad timing. I know personally for me, school expenses really piled all at once this month”. Some students complained about an increase in ticket prices, as they were $3 more than the 2013 prices to account for the presence of police officers, as requested by school administration.  
 
 The fate of future dances this year is uncertain. Due to the lack of ticket sales for Semi Formal, the annual Spring Fling dance may be cancelled. Furthermore, if a future dance were to occur, only those who attend Winterfest will be allowed to participate. The decision to hold a dance lies in the hands of administration. Luckily, as Prom and Athletic Banquet are funded separately, they will still be taking place.  
-
-
 
 
 

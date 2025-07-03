@@ -2,14 +2,12 @@
 title: "Kelly Wang - matches"
 pubDate: 2021-03-29T14:26:17.858Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 matches 
-
-
 
 shivering  
 
@@ -18,8 +16,6 @@ stumbling down the bleak, blind tunnel
 no welcoming blue eye at the mouth,   
 
 only endless desperation for an end. 
-
-
 
 my hand lost even its shadow  
 
@@ -31,11 +27,7 @@ legs malleable,
 
 whistling a hollow tune; there is no end.
 
-
-
 i sit down.
-
-
 
 a ghost of a person—you,  
 
@@ -44,8 +36,6 @@ lingering beside me,
 rustling through your pockets,   
 
 lighting a match. 
-
-
 
 i look to see a soft dark,   
 
@@ -59,8 +49,6 @@ it may not be a flashlight that could show me the end,
 
 but it is enough for me to stand back up.
 
-
-
 and so, you give me a box of matches,   
 
 guiding my hand with yours to show me how to strike one,  
@@ -71,8 +59,6 @@ staying to hear my mundane stories of the dark,
 
 laughing because you are not afraid of the dark.
 
-
-
 but just like the flame of the match you lit,  
 
 it was only temporary,  
@@ -81,11 +67,7 @@ the match became nothing more than flutters of black,
 
 camouflaging in the front of me, like my hand
 
-
-
 like you. 
-
-
 
 i finally learned how to light a match myself,  
 

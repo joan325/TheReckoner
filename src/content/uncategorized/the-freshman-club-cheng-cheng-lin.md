@@ -2,14 +2,12 @@
 title: "The Freshman Club - Cheng Cheng Lin"
 pubDate: 2015-10-13T00:31:59.236Z
 description: "Article about stuff."
-author: "metroidude47"
+author: "metroidude"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 The Freshmen Club \- Cheng Cheng Lin
-
-
 
 High school: an imposing place filled with strangers and crowded hallways. Bisma Murtaza and Nabila Murkhtar, two grade nine students at Marc Garneau, wanted to make new students feel more comfortable in this new and large environment. So, they created the Freshmen Club. Held in Room 248 every Thursday after school from 3:15 to 4:15 pm, the club offers Grade 9 students the opportunity to meet other freshmen and escape the stresses of high school.  
 

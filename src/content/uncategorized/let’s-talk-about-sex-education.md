@@ -11,8 +11,6 @@ Let’s Talk About Sex Education
 
 By: Jacqueline Huo
 
-
-
 What is the most important subject in high school? Many would argue for English. After all, literacy skills are crucial for any future academic or career aspirations. Others might suggest math, which develops problem-solving skills and has applications in finance. Whatever your answer, chances are that sex education didn’t come to mind. While sex education may not be a necessary prerequisite for university or prepare students to enter the workforce, it is an essential part of our high school education.  
 
 Let’s start with the basics: sex education aims to teach students how to have safe sex. According to Statistics Canada, 30% of people aged fifteen to seventeen and 68% of people aged eighteen to nineteen reported having had sex \[1\]. An abstinence-only teaching approach—one that simply tells students to wait until later to have sex—is ineffective in lowering rates of sexually transmitted infections (STIs) or teen pregnancy \[2\]. This is because those who do choose to engage in sexual activity are often uninformed about the risks of unprotected sex, and are less likely to use condoms or other contraceptives \[2\].  
@@ -29,8 +27,6 @@ Although LGBTQ relationships are not explicitly discussed, sex is not defined as
 
 I’m not going to tell you that sex education is more important than math and English. But learning about and understanding sexual health will be more useful in your future than memorizing trigonometric ratios. If you’re still taking gym, pay attention during the sex education unit. Listen to your teacher, participate in discussions, and ask questions. You might learn something important.
 
-
-
 \[1\] https://www150.statcan.gc.ca/n1/pub/82-003-x/2012001/article/11632-eng.htm  
 
 \[2\] https://www.jahonline.org/article/S1054-139X(17)30260-4/fulltext  
@@ -42,6 +38,4 @@ I’m not going to tell you that sex education is more important than math and E
 \[5\] https://www.plannedparenthood.org/about-us/newsroom/press-releases/new-poll-parents-talking-their-kids-about-sex-often-not-tackling-harder-issues  
 
 \[6\] http://www.edu.gov.on.ca/eng/curriculum/secondary/health9to12.pdf
-
-
 

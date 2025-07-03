@@ -2,7 +2,7 @@
 title: "\"Hamster\" by Sarah Li"
 pubDate: 2021-04-28T14:05:43.053Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -40,7 +40,5 @@ The hand curled back in surprise, for the little hamster was right. The hamster 
 “But if we are one and the same, then who was the prisoner and who was the cage?”  
 
 “Look outside,” the little hamster commanded. For outside was a pulsing being that breathed and moved on the world’s accord. “We were born as it was born, and we will die as it will die. We flit to its whimsy and it dances to ours.” The little hamster returned to its wheel, and began again its journey to nowhere. “In the end, neither of us will ever be free.”
-
-
 
 Excerpt: Sarah Li writes about a hamster and a hand.

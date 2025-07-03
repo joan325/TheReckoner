@@ -2,7 +2,7 @@
 title: "Life: Footprints"
 pubDate: 2015-04-22T02:42:10.911Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -15,8 +15,6 @@ But my feet leave footprints,
 
 Everywhere they land.
 
-
-
 I walk, and run, and dance, like you,  
 
 But faint footprints in dark gray,  
@@ -24,8 +22,6 @@ But faint footprints in dark gray,
 appear where they'll remain forever,  
 
 as I walk away.
-
-
 
 The paths I take, these marks I make,  
 
@@ -35,8 +31,6 @@ The earth is left forever scarred,
 
 By the memory of me.
 
-
-
 I try to lead a normal life,  
 
 But my footprints boldly say,  
@@ -44,8 +38,6 @@ But my footprints boldly say,
 That I walk along the same roads,  
 
 As I did yesterday.
-
-
 
 Footprints cover my bedroom floor,  
 
@@ -55,8 +47,6 @@ They scream that I am a caged bird,
 
 They insist that I am a fool.
 
-
-
 A fool who refuses to step off the trail,  
 
 Who is too frightened to explore,  
@@ -65,8 +55,6 @@ Mindlessly retracing steps he has taken,
 
 A million times before.
 
-
-
 The footprints haunt my every step,  
 
 They fill me with dread and woe,  
@@ -74,6 +62,4 @@ They fill me with dread and woe,
 But I’ve yet to reach a dead end,  
 
 so onwards I must go.   
-
-
 

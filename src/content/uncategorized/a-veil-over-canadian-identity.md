@@ -2,7 +2,7 @@
 title: "Editorial: A Veil over Canadian Identity"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -24,6 +24,4 @@ However, while they may be symbols of repression in those countries, in Canada, 
 Appealing the lifting of the ban would represent a move towards a Canada that is not multicultural. It would show a Canada which cares less about the religious freedoms of minorities.  
 
 It is unacceptable for us to demand that new Canadians abandon part of their identity in order to “join the Canadian family”. Having to choose between your faith and your citizenship is not something anyone should be forced to do. 
-
-
 

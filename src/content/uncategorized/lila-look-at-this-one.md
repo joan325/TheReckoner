@@ -2,7 +2,7 @@
 title: "LILA LOOK AT THIS ONE"
 pubDate: 2017-02-07T03:51:43.609Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 World Weekly: Year in Review  
 
 By: News Board Staff
-
-
 
 | Month | Topic | Sources | Blurb |
 
@@ -40,6 +38,4 @@ By: News Board Staff
 | **November** | US Election \+ Picture\! | [https://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?\_r=0](https://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?_r=0) | On 9 November, the citizens of the United States elect their 45th President, Republican Candidate Donald John Trump. Despite polls predicting the victory of Democratic Candidate Hillary Clinton, Trump wins the electoral college by securing key battleground states such as Florida, North Carolina, Ohio, and Pennsylvania. The Republicans also retain their Senate majority. |
 
 | **December** | Russia and China vote against Aleppo Ceasefire  | [http://www.cnn.com/2016/12/05/middleeast/aleppo-syria-un-vote/](http://www.cnn.com/2016/12/05/middleeast/aleppo-syria-un-vote/)  | Russia and China veto a United Nations Security Council resolution asking for a ceasefire in Aleppo, Syria.The proposed 7-day ceasefire is intended to provide needed supplies and aid to those stuck in war-torn areas. The Syrian government and Russia, the former’s biggest ally, send in humanitarian aid, but have yet to guarantee safe passage for any UN staff. |
-
-
 

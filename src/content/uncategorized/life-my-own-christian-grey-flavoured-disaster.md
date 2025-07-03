@@ -2,7 +2,7 @@
 title: "Life: My Own Christian Grey Flavoured Disaster"
 pubDate: 2015-04-19T03:46:06.312Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

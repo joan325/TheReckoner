@@ -2,7 +2,7 @@
 title: "This Title is Terrible, just like Early Christmas Celebrations"
 pubDate: 2020-12-15T21:39:31.277Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 This Title is Terrible, just like Early Christmas Celebrations  
 
 By: Conner Lee
-
-
 
 It’s the end of November and we have once again survived the plague of far-too-early Christmas traditions. Thankfully, with the pandemic, my eardrums weren’t assaulted by “All I Want for Christmas is You” three times a day. However, this blessing only lasts for one year, and we must rid ourselves of this disease as soon as possible. To garner support towards peace and justice, I present you my indisputable, irrefutable, incontestable arguments on why all things Christmas should not exist until December.  
 
@@ -36,7 +34,5 @@ Candy canes in November are a leading cause of violent crimes in modern society 
 You might ask: why does the Candy Cane Crisis resolve itself in December? The answer is quite simple: in December everybody has access to candy canes, allowing everybody to defend and protect themselves. It is common knowledge that everybody should keep a candy cane in their bedroom drawer as well as their pocket at all times. This improves safety drastically, in the same way that America is the safest place in the world thanks to the glorious Second Amendment. If we attempt to ban candy canes at this time, it will become impossible for citizens to protect themselves and criminals will run rampant.   
 
 Early Christmas is a recipe for the worship of Santa, cult rituals, and candy cane stabbings. In other words, disaster. However, it’s not too late to fight back. Visit [www.change.org/p/santa-delete-christmas-music-during-november](https://www.change.org/p/santa-delete-christmas-music-during-november) to make your voice heard escape from this hell. With your help, we can make November a safer time for all of us. 
-
-
 
 \[1\] [www.christmasviolenceruinslives.com](http://www.christmasviolenceruinslives.com) 

@@ -2,14 +2,12 @@
 title: "Op-Ed: Ebola in the News"
 pubDate: 2014-11-12T00:19:16.488Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 ## **Op-Ed: Ebola in the News – A Different Angle**
-
-
 
 [David Hao](http://thereckoner.ca/author/davidhao/) ⋅ 5 November 2014 ⋅ [comment](http://thereckoner.ca/op-ed-ebola-in-the-news-a-different-angle/#disqus_thread)  
 
@@ -33,17 +31,11 @@ So what can we do? We should redirect our efforts to help combat the spread of E
 
 In the end, we put out our neighbor’s fires, not because the flames might spread to us, but  because it is the neighborly thing to do. Ebola is not a current threat to us, but keeping our heads down and out of sight is the wrong way to act. The world is a global community; it is high time we act like global citizens.  
 
-
-
 ![Illustrator: Joy Wang][image1]  
 
 Illustrator: Joy Wang  
 
-
-
 ---
-
-
 
 Sources  
 
@@ -55,11 +47,7 @@ Sources
 
 
 
-
-
 *“Op-eds are opinion articles that reflect the views of the author, but not necessarily those of the Editorial Board or of The Reckoner as a whole. Please note this important distinction when reading this article.”*  
-
-
 
 
 

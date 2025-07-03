@@ -2,7 +2,7 @@
 title: "Mazzaferro TF"
 pubDate: 2015-06-12T06:09:02.662Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -12,8 +12,6 @@ Farewell, Ms. Mazzaferro\!
 Interview by Sheila Balu  
 
 *Ms. Mazzaferro, one of Garneau’s three VPs, will not be here at Garneau next year. We spoke to her about her experiences. The full interview can be found online.*
-
-
 
 *Q: What is your position here at Marc Garneau?*  
 

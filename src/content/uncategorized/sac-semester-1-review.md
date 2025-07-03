@@ -2,7 +2,7 @@
 title: "SAC Semester 1 Review"
 pubDate: 2017-02-05T03:49:50.451Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,19 +13,11 @@ By: Parnika Godkhindi and Cheng Cheng Lin
 
 Illustration by:
 
-
-
 We put reasoning for why stuff wasn’t completed underneath in red, the third column are more minor accomplishments we’re not sure if we should add
-
-
 
 LILA PLEASE ONLY PUT STUFF FROM YES AND NO COLUMNS WE CUT IT DOWN FOR YOU
 
-
-
 **LOOK FORWARD TO THIS SEMESTER:**
-
-
 
 * Semester 2 clubs fair (Feb)  
 
@@ -52,8 +44,6 @@ LILA PLEASE ONLY PUT STUFF FROM YES AND NO COLUMNS WE CUT IT DOWN FOR YOU
 * Prom (June)  
 
 * MGCI End of the Year Video (June)
-
-
 
 | Name | Position | No | Yes | Stuff to Note/Extra |
 
@@ -94,6 +84,4 @@ LILA PLEASE ONLY PUT STUFF FROM YES AND NO COLUMNS WE CUT IT DOWN FOR YOU
 |  |  |  |  |  |
 
 |  |  |  |  |  |
-
-
 

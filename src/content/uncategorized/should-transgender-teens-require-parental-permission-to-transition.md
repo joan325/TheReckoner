@@ -2,7 +2,7 @@
 title: "Should Transgender Teens Require Parental Permission to Transition?"
 pubDate: 2021-02-07T01:18:45.154Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Should Transgender Teens Require Parental Permission to Transition?  
 
 By: Maggie Pang and Jefferson Chen
-
-
 
 Last month, a B.C. court ruled in favour of a 17 year old's mother who filed a lawsuit after she discovered that her child was planning on undergoing a mastectomy—a surgery that removes breast tissue—and was already obtaining prescription testosterone without the mother’s permission. The mother has made repeated statements that her child was caught up in a “fad,” and went on to state that what “anxiety-ridden girls really need is psychiatric care.” On 5 November, 2020, one day before the scheduled operation, Justice Shelley C. Fitzpatrick granted an injunction preventing Dr. Daniel Mckee from performing surgery or even providing counsel to the teenager \[1\].   
 
@@ -26,8 +24,6 @@ Not only that, but denying people the right to transition can be detrimental to 
 Last but not least, the more people progress through puberty, the harder it is for them to transition. As their body develops, the more they look like a gender that they do not identify as, and therefore, the more they may be exposed to gender dysphoria, harassment, and discrimination. Many surgeries are best done before the body is fully developed, including mastectomies, which may cause significant scarring if done on mature breasts \[6\].   
 
 Overall, it should be up to teenagers and qualified professionals to decide whether or not to undergo gender reassignment surgery. Teenagers still have so many years of youth, and they deserve to live them happily, without being obstructed by whatever view the outside world has of them.
-
-
 
 \[1\] https://www.cbc.ca/news/canada/british-columbia/judge-blocks-double-mastectomy-for-transgender-teen-after-mother-sues-1.5795848  
 

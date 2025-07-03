@@ -2,7 +2,7 @@
 title: "How to avoid having a F**ked up Party"
 pubDate: 2015-05-25T02:53:21.178Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -43,8 +43,6 @@ You need to invite someone with a car, but you need to have someone sober to dri
 
 Take your house keys so you can sneak back in.
 
-
-
 **After the Party's Started**  
 
 Do not attempt to run away when the party doesn’t go as planned; people will find you.  
@@ -71,8 +69,6 @@ Do not wear booby cups when you know you’ll be intoxicated. Please don’t; it
 
 To get rid of guests just tell everyone “Whoever stays, cleans”.
 
-
-
 **The Morning After**  
 
 Forgive yourself.  
@@ -88,6 +84,4 @@ Well done, gold star, this will definitely help you in school.
 Remember the good things: like how your boyfriend did his hair for you, how your friends helped clean, and how you had tons of fun with random people\!  
 
 Congrats, you are now officially broke forever. Go get a job and go to class.
-
-
 

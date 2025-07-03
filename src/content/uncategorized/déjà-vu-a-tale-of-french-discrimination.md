@@ -2,7 +2,7 @@
 title: "Déjà Vu: A Tale of French Discrimination "
 pubDate: 2020-12-15T04:07:56.647Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Déjà Vu: A Tale of French Discrimination   
 
 By: Maryam Mobashir, Urooba Shaikh, Sunyah Tehreem
-
-
 
 Muslims today know the drill: if a person happens to identify with Islam and is responsible for a major disturbance, news outlets will plaster the word “terrorist” all over headlines. The events of the past week which resulted in the beheading of a teacher in France were no different, and once again Islam is under fire. In addition, French President Emannuel Macron’s comments have led to an escalation of the situation and encouraged western media to ramp up the negative portrayal of Islam.   
 
@@ -34,8 +32,6 @@ The Muslims of France in particular have experienced extreme alienation in the w
 Trudeau’s statement was met with anger from people who felt as though Trudeau had not “absolutely” denounced terrorism \[9\]. However, what Trudeau said was not an acceptance of the violent actions of some people, but an important reminder that freedom of speech has its limits, and that people should never use it to disgrace and alienate a group of people. Respect is of utmost importance, and when something is found to be legitimately offensive to some people, then the human thing to do would be to apologize and not justify those actions.  
 
 While national security is definitely an important factor in the decisions and laws a country and its political leaders make, vilifying Muslims and further marginalizing them is unacceptable. Macron and his government need to realize that the violent actions of a very small group of people should not result in laws that alienate a whole group of innocent people. National security does not justify careless remarks made by a political leader that demonize a group of people who are not blameworthy of the actions of people who happen to be of the same religion. It’s overdue now that Macron and his government show support for the Muslim community, and realize that they are also just as affected by terrorism. Islamophobia should have no place in the laws of any country. It’s about time that the French government stop cowering behind the finger they point at Muslims, and instead, work to actually solve the problem on hand which has absolutely nothing to do with Islam, and everything to do with the person or organization who committed the crime and them alone. Dear French government, Islam does not equal terrorism. 
-
-
 
 \[1\] [https://www.euronews.com/2020/11/02/macron-and-islam-what-has-the-french-president-actually-said-to-outrage-the-muslim-world](https://www.euronews.com/2020/11/02/macron-and-islam-what-has-the-french-president-actually-said-to-outrage-the-muslim-world)  
 

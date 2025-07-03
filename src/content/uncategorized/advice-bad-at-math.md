@@ -2,14 +2,12 @@
 title: "Advice: Bad at math"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 *People think I'm very good at math but in reality I just search up Wikipedia articles and just recite them. I've just come across a topic that Wikipedia does not have, what do I do now? – Frederick Ngo*
-
-
 
 Dear Frederick,  
 

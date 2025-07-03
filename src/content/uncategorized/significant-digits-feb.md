@@ -49,9 +49,5 @@ The Toronto Transit Commission (TTC) reported that it lost $61M to fare evasion 
 
 Mexican drug lord Joaquin “El Chapo” Guzman has been convicted on 10 counts ranging from criminal conspiracy to firearms charges. He is expected to spend the rest of his life in prison. However, even though there was a huge quantity of evidence against Mr. Guzman at trial — detailing corruption on all levels of Mexican government, complex cross-border tunnels, and cocaine smuggling submarines, we shouldn’t count him out yet. He’s escaped prison twice already, and his organization, the Sinaloa Cartel, seems to be operating perfectly fine without him. \[[CNN](https://www.cnn.com/2019/02/12/us/el-chapo-guzman-trial-verdict/index.html)\]
 
-
-
 \[1\] [https://give.unhcr.ca/page/22298/donate/1?ea.tracking.id=SEM19\_Venezuela\&gclid=Cj0KCQiA2L7jBRCBARIsAPeAsaPY5E9D2pfz3hJkOtE4O00OHqkejJ0oF97-oQJedX6Z3pHmnCwRms8aAtMvEALw\_wcB\&gclsrc=aw.ds](https://give.unhcr.ca/page/22298/donate/1?ea.tracking.id=SEM19_Venezuela&gclid=Cj0KCQiA2L7jBRCBARIsAPeAsaPY5E9D2pfz3hJkOtE4O00OHqkejJ0oF97-oQJedX6Z3pHmnCwRms8aAtMvEALw_wcB&gclsrc=aw.ds)
-
-
 

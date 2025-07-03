@@ -2,7 +2,7 @@
 title: "Messages to Teachers"
 pubDate: 2016-06-11T04:13:48.074Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -61,8 +61,6 @@ Hi Mr. MELVILLE, its one of your students who haven't been into class for many d
 
 Hey Mr.Melville, tbh You're a sick dude. I actually found it really cool that you go to Nicki Minaj concerts and travel all around the world. I hope that Garneau didn't cause you too much trouble and hope you have a great life.
 
-
-
 MESSAGES TO WHITE  
 
 Hello Mrs.White\! Of all the years I've been in the Ontario education system, and of all of the English teacher I've ever faced, no teacher has pushed me to the limits like you have. You gave me the opportunity to go past my boundaries and explore the world of English literature. From teaching us how to write a proper sentence, to teaching us how to annotate to perfection, you've taught it all. Thank you so much for not just being a great teacher, but thank you for also being there as a person. When any Garneau student need supports, you're there to help them. I hope to come across many more teachers like you\!  
@@ -86,8 +84,6 @@ sorry for getting on your nerves. Hope you have a great , peaceful time.
 Please continue to inspire people like you've inspired me  
 
 You were an amazing English teacher. At the beginning, it was difficult to adjust to your way of teaching, but after a while we all got the hang of it. I think that although you were strict at times, there was a lot that the students could learn from you. I really enjoyed the course and really miss English\! Thank you\!
-
-
 
 MESSAGES TO LAWFORD  
 

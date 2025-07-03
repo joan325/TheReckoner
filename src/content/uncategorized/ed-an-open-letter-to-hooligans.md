@@ -2,14 +2,12 @@
 title: "Ed: An Open Letter to Hooligans"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Ed: An Open Letter to Hooligans
-
-
 
 Dear Hooligans,  
 
@@ -38,8 +36,6 @@ But I bet you don't really care about all that. After all, the whole point of be
 It’s time to draw the line. Go back to your shenanigans, but stay away from the fire alarms.  
 
 Stay a hooligan, don't become a jerk. 
-
-
 
 Sincerely, your fellow hooligan,  
 

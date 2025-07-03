@@ -2,18 +2,14 @@
 title: "News - SAV Town Wins in Charity Basketball Tournament"
 pubDate: 2014-11-10T04:29:43.136Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 ## **TITLE TBD**
 
-
-
 ## **SAV Town Wins in Charity Basketball Tournament**
-
-
 
 [Shirley Fan](http://thereckoner.ca/author/shirleyfan/) ⋅ 4 November 2014 ⋅ [comment](http://thereckoner.ca/garneaus-charity-basketball-tournament/#disqus_thread)  
 

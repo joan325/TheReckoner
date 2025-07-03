@@ -2,7 +2,7 @@
 title: "Life - Are We Crazy?"
 pubDate: 2014-11-11T23:34:51.172Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 ![are we all crazy][image1]  
 
 Illustration: Lila Huang
-
-
 
 *“I think that we’re all mentally ill; those of us outside the asylums only hide it a little better …”* – Stephen King  
 
@@ -41,11 +39,7 @@ Perhaps they are one’s escape from reality to irrationality, to a world where 
 
 Or perhaps they are just a way to have fun. Then maybe horror is honesty – but what a twisted sense of humour humans have, if that is so.  
 
-
-
 *“If we are all insane, then sanity becomes a matter of degree.”* – Stephen King  
-
-
 
 
 

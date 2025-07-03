@@ -2,7 +2,7 @@
 title: "Food For Families: Food Banks During COVID-19"
 pubDate: 2021-03-27T14:20:10.443Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -27,19 +27,11 @@ Furthermore, Ms. Boothroyd suggested other resources for youth, adults, and seni
 
 “Stay hopeful. We have to obey municipal, provincial, and federal guidelines to stay safe. If we work together, we can get through this,” Ms. Boothroyd concluded. “Continue to reach out to people via Zoom and other platforms. Try to laugh, get exercise, stay as well-nourished as your circumstances allow, and avail yourself of food banks as necessary.”
 
-
-
 ---
-
-
 
 To learn more about Community Share Food Bank, visit [https://www.communitysharefoodbank.ca/](https://www.communitysharefoodbank.ca/).
 
-
-
 Flemingdon Food Bank ([https://www.fcfoodbank.com/](https://www.fcfoodbank.com/)) distributes food on Mondays and Wednesdays, and operates under the umbrella organization Daily Bread Food Bank. Registering at [https://dailybread.link2feed.ca/](https://dailybread.link2feed.ca/) gives weekly access to a food bank that is part of the Daily Bread Food Bank.
-
-
 
 For more community resources and support, visit [https://211central.ca/](https://211central.ca/) to receive information on organizations serving specific locations in the Greater Toronto Area.  
 

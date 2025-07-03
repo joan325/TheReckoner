@@ -11,8 +11,6 @@ Potent Post-Election Pettiness
 
 By: Maggie Pang
 
-
-
 A wave of new restrictive voting bills are taking over the US, following the aftermath of the 2020 presidential election.   
 
 Each of them has essentially the same goal: to limit access to voting after a crushing loss for the Republican party. The logic seems to be that the lower the voter turnout, the less likely it is that those votes will be for the opposite party.  
@@ -34,8 +32,6 @@ Ironically, while state Republicans insist that making sure voters in line are h
 There is no better way to top it all off than with blatant moves to invalidate as many votes as possible. Many bills aim to reduce voting hours and prevent polling stations from accepting votes outside of voting hours, even though if you are a registered and eligible voter and you arrive at the polls when they're open, you have the right to wait in line for as long as is needed to vote. In 2016, Trump made it quite clear that the purpose of this is not benevolent, expressing his woes about workers keeping polling stations open for Latinos, who mostly supported Clinton \[10\]. Combined with a variety of bans and restrictions on alternative voting methods such as drop-in boxes and mobile stations, ensures that not only will there be long lines, but those waiting in line might not even get to vote. Facilitating voter purges is also rampant. Arizona's SB 1485 will purge infrequent mail voters from the state's Permanent Early Voting List, which is not only completely unnecessary and makes it much more possible for someone to wait for a ballot that never comes, but also disproportionately affects seniors and POC \[11\]. Defense for this bill is pathetic and implies that voting is a major privilege that people need to put effort into to keep.   
 
 After giving people of any race or gender the right to vote, eliminating barriers for the poor and disabled, and accommodating those who can't vote on election day, it seems like many states are now progressing backwards. For a country that advocates the voice of the people so much, there seems to be a large number of republican-controlled states making a desperate attempt to deter people from voting, as if one's right to vote is only valid if it's for the right party. This is all disturbingly reminiscent of repression and authoritarianism, and considering the United States' international influence, one can only hope that other countries don't follow.
-
-
 
 \[1\] https://www.cbc.ca/news/world/georgia-voting-bill-what-it-says-1.5978468  
 

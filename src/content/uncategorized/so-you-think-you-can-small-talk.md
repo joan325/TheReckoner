@@ -2,7 +2,7 @@
 title: "So You Think You Can Small Talk"
 pubDate: 2016-01-14T05:05:26.619Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -43,9 +43,5 @@ In the smoke, you disappear.
 
 And there he stands, face smudged and gritty with dirt, coughing, squinting through the darkened night.  
 
-
-
 *\*NOTE: The Reckoner strongly advises against following this guide. The author lives under a rock, and has no idea what she’s talking about.*  
-
-
 

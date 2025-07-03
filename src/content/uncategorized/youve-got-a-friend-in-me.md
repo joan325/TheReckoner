@@ -2,7 +2,7 @@
 title: "You've Got A Friend in Me"
 pubDate: 2016-04-18T02:36:03.395Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -21,8 +21,6 @@ We immediately settled into a silence. But it was different from my usual silenc
 
 I smiled, and we both knew that that was all the confirmation we needed.
 
-
-
 Do you remember that time you led me to your secret valley?  
 
 You told me it was your special place. You led me by hand, complete with a sock over my eyes as a blindfold so I wouldn't know how to get back there again. You told me that if I ever told anyone what I saw, you couldn't be my friend anymore.  
@@ -30,8 +28,6 @@ You told me it was your special place. You led me by hand, complete with a sock 
 When you took off the blindfold we were standing in a valley hidden from everyone. The small trail we'd come from was nearly blotted out with leaves and shrubs and pebbles, almost unrecognizable as a path of any kind at all. It was where two mountains met higher in elevation. One piece of the mountain blocked this tiny valley from view. You told me you had stumbled upon it on a hike one day. You showed me the art you were creating on the piece of the mountain that was responsible for this hidey-hole to even exist. It was the most beautiful oil painting I'd ever seen. You explained that you'd done a beach scene because you thought it was ironic for one to be here, so high up in the mountains. I never told anyone about your secret place, and I never told you I could see through my blindfold.  
 
 I promise I haven't been back. It just felt sacred, a secret meant to be kept.
-
-
 
 Do you remember when the harshness of life boiled over and we went for a drive like we always did?  
 

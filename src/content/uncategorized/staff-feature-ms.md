@@ -2,14 +2,12 @@
 title: "Staff Feature: Ms. Liebster"
 pubDate: 2018-07-06T05:06:09.713Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Ms. Liebster, a Vice Principal at Marc Garneau, has been transferred to Martingrove C.I. Her last day was 29 June 2018\. To commemorate her time at Garneau, the Reckoner interviewed her for a Staff Feature.
-
-
 
 ***Q: How long have you worked at Garneau?***  
 

@@ -2,7 +2,7 @@
 title: "Colourism: Shades of Acceptance"
 pubDate: 2021-03-31T04:41:17.276Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Colourism: Shades of Acceptance  
 
 By: Maryam Mobashir
-
-
 
 While racism and white supremacy are prominent social issues that exist between different communities, colourism burdens communities of colour by creating a distinct hierarchical structure based on skin tone. Colonialism and classism have played a significant role in defining this structure in which society favours lighter skin.   
 
@@ -28,8 +26,6 @@ This is also present within Black communities. Women with darker skin are called
 Colourism is not only problematic as a social construct, but also destructive to the mental health of those affected by it. Many studies have shown that long-term exposure to colourist attitudes can lead to numerous mental disorders, such as body dysmorphia, social anxiety, and depression \[6\]. Furthermore, being part of a society where lighter skin is praised is highly damaging to the self-esteem of those with darker skin. After constantly being told that their skin tone makes them less capable or less beautiful, they internalize this concept, and use it as a governing factor of self-worth.   
 
 While colourism is deeply rooted in many cultures in various parts of the world, it is not impossible to change the outlook that people have on darker skin. Change is already beginning to happen through the use of social media outlets, which brings awareness to this issue. Campaigns like Dark is Beautiful and \#brownisbeautiful have allowed darker skinned people to share their experiences and open up the conversation in order to “break the silence and alter the discourse on colourism” \[4\].  Alisia (Giac-Thao) Tran says, “These small conversations, these small interactions: they’re a big piece—and they amass to eventually helping us overcome generational prejudices that permeate our societies” \[4\]. It is necessary to keep these conversations going and attempt to change the attitudes people have on darker skin tones. It is past time that communities of colour progress past dividing themselves on the basis of skin tone and which shades are acceptable. Every shade is beautiful. 
-
-
 
 \[1\] https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1553\&context=law\_global studies  
 

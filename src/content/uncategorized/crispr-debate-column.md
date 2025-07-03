@@ -2,7 +2,7 @@
 title: "CRISPR Debate Column"
 pubDate: 2016-03-23T06:11:19.047Z
 description: "Article about stuff."
-author: "lawrence-pang"
+author: "lawrence_pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,31 +13,17 @@ CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a new gene
 
 	While gene therapy does have potential in curing disease, some are concerned about the use of this technology beyond medical applications. In particular, the ability to manipulate genes may lead to “designer babies”: parents are able to select certain genetic traits for their children, whether in terms of appearance, physique, intelligence, or other fields. Furthermore, the use of gene therapy may lead to a slippery slope effect, whereby genetic manipulation may be used maliciously, e.g. to create super soldiers.
 
-
-
 **Web Introduction** 
-
-
 
 	CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a new genetic engineering technique which allows scientists to edit the DNA of almost any living thing. The technique utilizes a defense mechanism found in bacteria to protect against invading viruses. It essentially works by copying the DNA of the virus into another form of genetic information called RNA. When the virus attacks again, the RNA recognizes the DNA and brings enzymes to destroy it.[^2]
 
-
-
 	Scientists can use this technology to either silence or modify genes in organisms. To do this, they must create an RNA sequence that matches a part of a gene so that it can be destroyed. The cell tries to repair the gene, but makes so many mistakes that the gene cannot function anymore. If the scientists wish to change the gene, then they can create a template and insert it into the cell. The cell can use this pre-made DNA template to help repair the damaged section in the same way that an English student might use a quote to support an argument. [^3]
-
-
 
 	CRISPR is becoming increasingly popular throughout the scientific world due to its low cost. The previous method of DNA editing cost, on average, 5000 USD per order, while CRISPR only costs 30 USD. Additionally, it’s much easier to use and quicker than older techniques. These factors mean that scientists are able to do more experiments involving DNA modification, which could lead to many benefits, including the exciting, albeit controversial, usage of gene therapy. Scientists hope that CRISPR can be used to cure various genetic diseases, such as sickle-cell anemia, or to repair genes which may cause cancer or other defects.[^4]
 
-
-
 	While gene therapy does have potential in curing disease, some are concerned about the use of this technology beyond medical applications. In particular, the ability to manipulate genes may lead to “desig	ner babies”: parents being able to select certain genetic traits for their children, whether in terms of appearance, physique, intelligence, or other fields. Furthermore, the use of gene therapy may lead to a slippery slope effect, whereby genetic manipulation may be used maliciously, e.g. to create super soldiers.
 
-
-
 **Pro- (Lawrence)**
-
-
 
 If you’ve read a few too many dystopian novels, you might immediately jump to the conclusion that governments will use this technology maliciously—e.g. creating super-soldiers. But this is not a realistic threat for today’s military technology. What chance would any human being stand against a tank or a bomb? The reality is that genetics can only do so much. You’ll never find a gene that lets you shoot lasers out of your eyes. And in the same vein, rich people might choose to give their children extreme intelligence, but if they lack other life skills the benefits are minimal.   
 
@@ -48,8 +34,6 @@ Furthermore, every major technological leap increases inequality: agriculture, f
 Now, it is true that CRISPR is very much still in development. In its current form, it is not ready for use on human beings. However, every technology takes time and resources to develop, and banning CRISPR out of paranoia is not going to help. Rather than eliminating any incentive for researchers to work on this promising gene therapy technology, we should encourage and actively search for ways we can use it to benefit humanity.   
 
 The truth is that many fear genetic modification technology not for rational reasons, but due to gut instinct—an emotional response against things perceived as unnatural or “playing god”. But this is no longer an acceptable attitude today, when people around the world live better lives than ever before because of developments such as electricity, surgery, and vaccination, all of which are very much unnatural. Those who are uncomfortable with the idea of genetic modification are free to abstain from it—but they have no right to deny others from doing the best for their children.
-
-
 
 **Opposition \- (Khari)**  
 
@@ -65,18 +49,10 @@ Overall, CRISPR is a promising technology for the field of genetic engineering, 
 
 
 
-
-
 [^1]:  [http://www.nature.com/news/crispr-the-disruptor-1.17673](http://www.nature.com/news/crispr-the-disruptor-1.17673)
-
-
 
 [^2]:   [http://sitn.hms.harvard.edu/flash/2014/crispr-a-game-changing-genetic-engineering-technique/](http://sitn.hms.harvard.edu/flash/2014/crispr-a-game-changing-genetic-engineering-technique/)
 
-
-
 [^3]:  [http://sitn.hms.harvard.edu/flash/2014/crispr-a-game-changing-genetic-engineering-technique/](http://sitn.hms.harvard.edu/flash/2014/crispr-a-game-changing-genetic-engineering-technique/)
-
-
 
 [^4]:  [http://www.nature.com/news/crispr-the-disruptor-1.17673](http://www.nature.com/news/crispr-the-disruptor-1.17673)

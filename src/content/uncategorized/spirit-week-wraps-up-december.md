@@ -2,7 +2,7 @@
 title: "Spirit week wraps up december"
 pubDate: 2016-01-12T01:34:39.811Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,23 +13,15 @@ by: Arani Kulamurugan
 
 From 14 to 18 December 2015, Marc Garneau had its first Spirit Week of the school year. Students that participated had their pictures taken. The photos were posted on the SAC Facebook website.
 
-
-
 ![Varun Venkataramanan, Iulia Vatamanu, and Arani Kulamurugan (left to right) on Pyjama Day. Photo: Ejay Vidad.][image1]
 
-
-
 Varun Venkataramanan, Iulia Vatamanu, and Arani Kulamurugan (left to right) on Pyjama Day. Photo courtesy of Ejay Vidad.
-
-
 
 Monday was Pajama Day. Since it was the first day, few students participated. However, as the week went on, the participation also went up. Tuesday was Twin Day, and students paired up with their friends to dress up in similar outfits and go to school as twins. Some students took the initiative to go as triplets, or quadruplets.  
 
 Wednesday was School Colours Day, and students took it as a chance to wear all their school apparel at once. The halls were milling with students wearing maroon, navy, or white. Thursday was Semi-Formal Day, and students got a chance to dress up and show off their style.  They looked elegant as they strutted down school hallways in their semi-formal wear. Friday, the last day of Spirit Week, was Christmas Colours Day, and many students brought out all the red and green clothes they owned.  
 
 When asked about his thoughts on Spirit Week, Varun Venkataramanan, a student in Grade 10, said, "Spirit week was a lot of fun, but I wish more people participated. For example, on PJ day, I saw only about 10 people who participated which was super disappointing for me."  
-
-
 
 
 

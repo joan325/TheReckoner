@@ -2,7 +2,7 @@
 title: "News: Pink Triangles for Solidarity"
 pubDate: 2015-04-22T02:54:38.915Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -30,6 +30,4 @@ For others, the day was a fight for something personal. “This matters to me be
 Annual recognition of the International Day of Pink conveys the strong message that bullies are only as strong as others allow them to be ‐ take away their power to hurt others, and their reason to bully is also eliminated. Racism, sexism, homophobia, ableism, and transphobia are all existent as social barriers, and create a world of negativity, hate, and harassment. Rather than attempting to change others into who you want them to be, simply accept them for who they are.  
 
 McCallum said, “Bullying is no joke.”
-
-
 

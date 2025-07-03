@@ -2,14 +2,12 @@
 title: "Letter from an Older Self"
 pubDate: 2016-04-19T04:02:30.022Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Dear me,
-
-
 
 *You might not understand what I say, but always remember to listen. Perhaps, you shall catch something that sticks.*  
 
@@ -26,8 +24,6 @@ Don't do that to yourself. Be yourself and live life for no one other than you. 
 You should hope to hold your identity dear. But you should also fear the immense hatred that waits at the threshold. For hope and fear are like two wings of a bird; without one, the other can't soar. So be brave and live through all the changes. Fear the risks but take the chances anyway.  
 
  If you don't, I can promise a future full of regrets.
-
-
 
 Yours truly,  
 

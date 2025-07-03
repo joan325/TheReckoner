@@ -2,7 +2,7 @@
 title: "Should Able-bodied Actors Play Characters with Disabilities?"
 pubDate: 2021-04-28T04:46:56.477Z
 description: "Article about stuff."
-author: "paromita"
+author: "paromita_roy"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Should Able-bodied Actors Play Characters with Disabilities?  
 
 By: Paromita Roy
-
-
 
 “If I told you I’m trying to save the world, would you believe me?”  
 
@@ -43,8 +41,6 @@ Taking this into consideration, cancelling people and projecting hostile behavio
 
 This call out culture in general acts as a guise for cruel behavior. Comments such as “he’s ugly” or sending death threats are most commonly propagated under the defense that the subject of this dissent is a bad person, and therefore it is justified to harass them. This has become so widespread through “cancel culture” that it seems people may be banished and ostracized over the most innocuous missteps, limiting growth that we as online platforms could be having if we   addressed issues properly, instead. If we teach individuals that they can be cancelled by whatever they say or do, the question stands: are we truly enabling an environment whose main purpose is to educate its members? Or are we manifesting a place where people reign with performatism, shutting people out instead of having greater conversations where change can actually be made?
 
-
-
 \[1\] https://screenrant.com/shadow-bone-netflix-cast-character-guide/   
 
 \[2\] https://www.express.co.uk/showbiz/tv-radio/1425300/Shadow-and-Bone-series-Alina-Jessie-Mei-Li-Leigh-Bardugo-interview-Netflix-video-ont  
@@ -52,6 +48,4 @@ This call out culture in general acts as a guise for cruel behavior. Comments su
 \[3\] https://www.denofgeek.com/tv/shadow-and-bone-why-netflix-cast-its-fantasy-adaptation-with-relative-unknowns/  
 
 \[4\] https://nerdist.com/article/leigh-bardugo-introduces-shadow-and-bone-characters-cast-interview/
-
-
 

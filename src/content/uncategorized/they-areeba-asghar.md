@@ -11,8 +11,6 @@ They
 
 Areeba Asghar
 
-
-
 They used to laugh together;  
 
 sitting in the back  
@@ -32,8 +30,6 @@ of the green beanie and fall
 slightly on the edge of  
 
 her faded Iron Maiden t-shirt.
-
-
 
 They used to laugh together;   
 
@@ -49,8 +45,6 @@ she had made her own and perhaps
 
 theirs.
 
-
-
 They used to laugh together;  
 
 an echo of their raging voices  
@@ -62,8 +56,6 @@ She would dream them out of their colourless town
 and weave a path of colour  
 
 to a place they could be.
-
-
 
 They used to laugh together;  
 
@@ -77,8 +69,6 @@ hoping one would be enough to carry them
 
 away.
 
-
-
 They used to laugh together;  
 
 until two became one.  
@@ -88,8 +78,6 @@ He would hum that tune on his pick-up truck,
 the ghost of a smile still lurking on   
 
 saddened face.
-
-
 
 They used to laugh together;  
 
@@ -110,8 +98,6 @@ of the green beanie and fall
 slightly on the edge of  
 
 her faded Iron Maiden t-shirt.
-
-
 
 They used to laugh together.  
 
@@ -129,8 +115,6 @@ infuriating sound
 
 on the metal.
 
-
-
 They used to laugh together;   
 
 in the dark hues of the night sky.  
@@ -142,8 +126,6 @@ a melancholy melody
 she had made her own and perhaps  
 
 theirs.
-
-
 
 They used to laugh together;  
 
@@ -157,8 +139,6 @@ and weave a path of colour
 
 to a place they could be.
 
-
-
 They used to laugh together;  
 
 breathless melodies to hide each scar.  
@@ -170,8 +150,6 @@ and point to the stars,
 hoping one would be enough to carry them  
 
 away.
-
-
 
 They used to laugh together;  
 
@@ -185,8 +163,6 @@ onto the uneven bricks
 
 where they would forever be                                                                                                                                                                                                                                                                               lost.
 
-
-
 They used to laugh together;  
 
 once upon a time.  
@@ -194,8 +170,6 @@ once upon a time.
 She used to wish upon the blowing dandelions,   
 
 until one such carried her away.
-
-
 
 They used to laugh together;  
 
@@ -206,6 +180,4 @@ He would hum that tune on his pick-up truck,
 the ghost of a smile still lurking on his   
 
 saddened face.
-
-
 

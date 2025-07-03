@@ -2,14 +2,12 @@
 title: "Op-Ed: Curriculum Criticism Is Not the Solution"
 pubDate: 2016-10-11T17:35:52.368Z
 description: "Article about stuff."
-author: "lawrence-pang"
+author: "lawrence_pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Op-Ed: Curriculum Criticism Is Not the Solution
-
-
 
 What’s the first thing that comes to mind when you think of math class? Boredom? Anxiety? Frustration?  
 

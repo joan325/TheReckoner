@@ -2,7 +2,7 @@
 title: "An Informal Review of the Books I Recently Read "
 pubDate: 2016-01-11T06:07:56.222Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -25,8 +25,6 @@ I decided to make myself criteria, and I’ll use it like teachers do, either fa
 
 **Any Problems**?  
 
-
-
 **A Hundred Years of Solitude by Gabriel Garcia Marquez**  
 
 **six out of six gold fishes**  
@@ -47,8 +45,6 @@ The cyclical nature of the characters is very intelligently crafted, and the cul
 
 **Any problems:** The book uses approximately two names the entire book. Through three generations. One guy has seventeen sons and they’re all called Aureliano. Get a family tree if you decide to tackle this book.  
 
-
-
 **The Bad Girl by Mario Vargas Llosa**  
 
 **four and a half pseudonyms out of six**  
@@ -68,8 +64,6 @@ If you’re interested in the politics and corruption of Latin America, especial
 **Residue**: Yes, I really enjoyed the ‘bad girl’. She did what she wanted to do, and took what she wanted when she wanted. Will I remember her? Yeah. Do I kinda want to be her? Yeah.  
 
 **Any problems**: If I was the man, I would leave her. But he holds on, like a little parasite who is more lover than man.  
-
-
 
 **Magdelena the Sinner by Lilian Faschinger**  
 

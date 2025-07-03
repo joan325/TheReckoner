@@ -2,7 +2,7 @@
 import PaginatedPage from '../../components/PaginatedPage.astro';
 import { getCollection } from 'astro:content';
 
-const allPostsSorted = (await getCollection('uncategorized')).sort(
+const allPostsSorted = (await getCollection('editorial')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 	);
 

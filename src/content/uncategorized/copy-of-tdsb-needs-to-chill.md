@@ -2,14 +2,12 @@
 title: "Copy of TDSB Needs to Chill"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 TDSB Needs to C H I L L
-
-
 
 Do you remember the last time you tried to learn in a hot classroom? In the last few months of the 2017 school year, the students of Marc Garneau endured the oppressive heat of summer. Although air conditioning was installed, it was turned off to prevent the fumes from roof construction from entering the school. If you were around then, you understand the struggle of learning, or at least attempting to learn, at 25°C.    
 
@@ -26,8 +24,6 @@ Even newly-constructed schools are not guaranteed air conditioning. Of the last 
 For those schools built without air conditioning, the TDSB is in the process of creating cooling stations. This entails cooling large areas such as gyms or libraries to create a safe zone for students during high temperatures. It provides immediate relief to an immediate problem. However, even this is expected to take five to seven years to implement. The inability of the TDSB to implement solutions quickly, owing largely to a lack of funding, has forced communities to craft their own solutions. For instance, a Toronto teacher spent $500 on an air conditioning unit out of her own pockets because she couldn’t handle the heat. So it seems that if Toronto summers are becoming hotter and hotter \[7\], school communities must cool themselves off.   
 
 As a temporary solution, communities could fundraise. The responsibility of a more permanent solution, however, falls on the shoulders of the TDSB and the province. The province, along with their increase in funding for school repairs every year \[8\], should provide a grant specifically for air conditioning installation. This would ensure that the TDSB will allocate more funding towards their air conditioning projects. Help students beat the heat\!
-
-
 
 \[1\] [http://www.680news.com/2017/09/25/tdsb-takes-steps-help-students-beat-heat/](http://www.680news.com/2017/09/25/tdsb-takes-steps-help-students-beat-heat/)  
 

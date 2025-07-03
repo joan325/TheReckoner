@@ -2,7 +2,7 @@
 title: "Life: Pillow Fight Toronto 2015 "
 pubDate: 2015-04-19T02:57:43.354Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

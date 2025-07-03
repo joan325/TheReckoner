@@ -2,18 +2,14 @@
 title: "Op Ed: Censorship from Parliament Hill"
 pubDate: 2014-11-12T02:29:49.182Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 **Censorship from Parliament Hill** 
 
-
-
 **(title not finalized)**
-
-
 
 The fatal shooting of Corporal Nathan Cirillo on 22 October at the Canadian National War Memorial in Ottawa has unified Canadians and brought a deep outpouring of sympathy from across the world. However, the shootings have also raised troubling questions about Canada's national security, and the failure of government and law enforcement agencies to effectively prevent such incidents.  
 

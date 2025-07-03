@@ -2,7 +2,7 @@
 title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -63,8 +63,6 @@ The stares won’t fade
 
 My lunch smells like their contempt that day
 
-
-
 Our skin is all yellow like the stars in our sky   
 
 But my red is the blood on their blades   
@@ -72,6 +70,4 @@ But my red is the blood on their blades
 Not the blood of their veins   
 
 They are not my people 
-
-
 

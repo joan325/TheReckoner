@@ -2,7 +2,7 @@
 title: "The Pursuit of Happiness"
 pubDate: 2015-03-21T02:19:43.046Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

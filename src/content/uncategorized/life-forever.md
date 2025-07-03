@@ -2,7 +2,7 @@
 title: "Life: Forever"
 pubDate: 2015-03-24T02:17:45.136Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -34,6 +34,4 @@ Forever...
 forever,  
 
 *forever.*  
-
-
 

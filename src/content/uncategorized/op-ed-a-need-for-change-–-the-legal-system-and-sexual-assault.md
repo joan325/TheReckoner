@@ -2,7 +2,7 @@
 title: "Op-Ed: A Need for Change – The Legal System and Sexual Assault"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -25,11 +25,7 @@ Given the complexity of this  social issue, there is no quick fix, as policy and
 
 Sexual assault is a grave problem and should be taken seriously. In order to eliminate it from our society, legal repercussions for the assailant is necessary. Thus, what's needed is change to the legal system so that victims of sexual assault can come forward without hesitation, and receive justice.  
 
-
-
 ---
-
-
 
 Sources:  
 
@@ -38,8 +34,6 @@ Sources:
 [\[2\]](http://thereckoner.ca/wp-admin/post.php?post=19297&action=edit#_ednref2) [http://www.torontopolice.on.ca/sexcrimes/sas/statistics.php](http://www.torontopolice.on.ca/sexcrimes/sas/statistics.php)  
 
 [\[3\]](http://thereckoner.ca/wp-admin/post.php?post=19297&action=edit#_ednref3) [http://vipmedia.globalnews.ca/2014/10/ywca-sex-assault-infographic.jpg](http://vipmedia.globalnews.ca/2014/10/ywca-sex-assault-infographic.jpg)  
-
-
 
 *“Op-eds are opinion articles that reflect the views of the author, but not necessarily those of the Editorial Board or of The Reckoner as a whole. Please note this important distinction when reading this article.”*  
 

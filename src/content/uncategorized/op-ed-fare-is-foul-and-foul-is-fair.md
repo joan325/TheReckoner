@@ -2,7 +2,7 @@
 title: "Editorial: Op-Ed: Fare is Foul and Foul is Fair"
 pubDate: 2015-04-15T11:00:40.662Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 Fare is Foul and Foul is Fair  
 
 By Jackie Ho
-
-
 
 Mayor John Tory breaks a campaign promise – surprise, surprise\!  
 
@@ -45,8 +43,6 @@ The TTC has not increased cash fares since 2010, and I do not understand why. Al
 
 Below is a list of fares in other parts of the GTA compared to those of the TTC:
 
-
-
 * TTC: Cash fare $3, monthly pass $141.50  
 
 * Brampton Transit: Cash fare $3.75, monthly pass $118  
@@ -55,15 +51,11 @@ Below is a list of fares in other parts of the GTA compared to those of the TTC:
 
 * Durham Region Transit: Cash fare $3.25, monthly pass $106
 
-
-
 Increasing the cash fare would generate a greater income for the TTC while increasing Metropass sales among people who currently only use transit to get to and from work or school .  
 
 The TTC is actually the least subsidized transit system in North America. In 2014, the city’s subsidy accounted for $0.78 per ride. If the government invested more into improving the infrastructure of our public transit (and much faster, please\!), it would solve so many of our emissions and congestion problems. In the long term, this brings great benefits to the city–we just need our politicians to see this too.  
 
 This is how Toronto compares to other transit agencies:
-
-
 
 * Toronto: $0.78  
 
@@ -76,7 +68,5 @@ This is how Toronto compares to other transit agencies:
 * New York City: $1.03  
 
 * Mississauga: $2.21
-
-
 
 Public transit truly makes or breaks a city, and it’s especially important in a city as big as Toronto. The TTC is an archaic system greatly in need of improvement. If we are to catch up to other major cities, the TTC board and city council need to step up their game.

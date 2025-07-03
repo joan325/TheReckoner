@@ -2,7 +2,7 @@
 title: "News: The Resurgence of DECA MGCI by Susie Liu"
 pubDate: 2015-02-18T02:06:34.996Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -12,8 +12,6 @@ On 6 and 7 February, the annual DECA Ontario Provincial competition was held at 
 The provincial competition was a qualifier for the International Career Development Conference (ICDC) held in Orlando this April, with the top 6 competitors or teams in each category advancing. The top 6 were asked whether they would be attending the ICDC immediately after the awards ceremony, and if qualifying competitors turned down the opportunity, the next competitor or team would be offered their spot. As a result, several competitors who ranked 7th, 8th, or 9th qualified to compete in Orlando.  
 
 12 out of the 35 competitors that advanced to provincials from MGCI won awards, and they are listed as follows:
-
-
 
 * Yiqun Zhang – 5th overall – Retail Merchandising Series (RMS)  
 
@@ -34,8 +32,6 @@ The provincial competition was a qualifier for the International Career Developm
 * Lily Song – Top 15 Roleplay 1 – Human Resources Management (HRM)  
 
 * Tianyu Lu – Top 15 Roleplay 2 – Accounting Applications (ACT)
-
-
 
 Three members from Marc Garneau CI qualified for ICDC: Yiqun Zhang, Sherrie Cheng, and Meagan Wan. Two teams, Vanessa and Susie, and Cindy and Kaarthic, narrowly missed qualifying for the international competition, placing 7th and 9th respectively; no HTDM teams turned down their offer, and only two MTDM teams did so.  
 

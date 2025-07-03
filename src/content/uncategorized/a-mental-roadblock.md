@@ -2,7 +2,7 @@
 title: "A Mental Roadblock"
 pubDate: 2020-12-05T04:55:53.848Z
 description: "Article about stuff."
-author: "editorialboard"
+author: "editorialboard_thereckoner"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 A Mental Roadblock  
 
 By: Maryam Mobashir
-
-
 
 Today, one in every five people deal with mental health issues in Canada \[1\]. With such a high number of people affected by mental health issues, it would be fair to assume that there is also a large number of people who seek treatment for their mental health. Unfortunately, this is not the case. Due to stigmas and social taboos surrounding mental health, people are not seeking the necessary treatment.  
 
@@ -44,8 +42,6 @@ Globally, it would be impossible to entirely eradicate the stigma surrounding me
 Guidance counsellors are available in the office for whoever needs to sit down and talk. Each grade has a designated counsellor, for the grade nine students is Ms. Yamashita, for the grade ten students is Ms. Akler, for the grade eleven students there is Ms. Bhowmik and for the grade twelve students is Ms. McIsaac. You should also ensure you are added to your grade guidance Google classroom.   
 
 Furthermore, Kids Help Phone (1-800-668-6868), is a readily available resource that provides free and confidential counselling services 24/7. Skylark is another organization that offers free individual and family counselling and also has a virtual walk-in clinic \[8\]. Another resource is the Toronto Rape Crisis Center (416-597-8808) which provides peer support by means of education, support, and activism for survivors of sexual assault and abuse \[9\]. Some other places that provide services for mental, emotional, and social wellbeing include the Flemingdon Health Center , Health Access Thorncliffe Park and Children’s Mental Health Toronto \[9\]. The LGBTQ YouthLine is a youth-led organization that provides anonymous peer support and referrals, and also helps youth access resources \[9\]. If you or anyone you know is ever suffering from any mental health concerns, don’t let these social stigmas stop you from getting the help you need.
-
-
 
 \[1\] [https://ontario.cmha.ca/wp-content/uploads/2016/10/CMHA-Mental-health-factsheet.pdf](https://ontario.cmha.ca/wp-content/uploads/2016/10/CMHA-Mental-health-factsheet.pdf)   
 

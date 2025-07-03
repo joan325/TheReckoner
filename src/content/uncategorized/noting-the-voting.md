@@ -2,7 +2,7 @@
 title: "Noting the Voting"
 pubDate: 2014-12-10T02:32:56.855Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,14 +2,12 @@
 title: "Two Towers, Three Candles"
 pubDate: 2016-06-15T03:17:00.932Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 PLEASE TAKE NOTE OF ITALICS WHEN REPASTING
-
-
 
 I hear the voices of my classmates behind me, ecstatic about the cake sitting before them. The faint sound of a radio echoes in the background. My teacher plasters a smile on her face. Are you one? Are you two? Are you three?\!  
 

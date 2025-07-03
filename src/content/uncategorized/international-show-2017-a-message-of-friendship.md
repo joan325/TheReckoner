@@ -2,7 +2,7 @@
 title: "International Show 2017: A Message of Friendship"
 pubDate: 2017-05-14T02:23:08.950Z
 description: "Article about stuff."
-author: "henrytang73"
+author: "henrytang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -13,45 +13,25 @@ By: Ruknoon Dinder
 
 Photo: Justin Ye
 
-
-
 On Thursday, 27 April 2017, Marc Garneau’s cafeteria was abuzz with the chatter of people dressed in their fanciest cultural clothing. Over three hundred audience members filled the room to watch the long-awaited MGCI International Show. At 6 pm, the noise subsided and the annual celebration of cultures and ethnicities began.
-
-
 
 The event was planned by the International Show committee, led by Special Events Coordinator Isha Sarfaraz. Tickets were sold at five dollars for students and six for guests. Sales started on 20 April 2017 and tickets were sold out within two days. The committee had raised a large amount of funds from bake sales earlier in the year and, as a result, fewer tickets were offered compared to previous shows. Isha said that she wanted to keep the show “less crowded” and “more personal.”
 
-
-
 The International Show committee was divided into three sections: decorations, performance, and food. The performance team held auditions and rehearsals for participants starting from the first week of April. The exact number of participants could not be determined; the show clashed with other school events causing many students to drop out of the show with some rejoining at the last moment. However, well over one hundred students participated in the event this year. Maleeha Danyal, a dancer for Diversity Crew, said, “It was my first time performing at school so I was quite nervous. But the applause from the audience helped ease the tension.”
-
-
 
 ![][image1]  
 
 Performers bringing out the Canadian flag during the flag parade. Photo: Justin Ye
 
-
-
 The show began with a video made by SAC and Video Production Club President Zaid Baig featuring the history of MGCI and the International Show. Clippings of the International Show feature article by The Reckoner were shown, followed by a montage of Thorncliffe through the ages. The video was followed by the flag parade, a long-standing tradition of the International Show, which was greeted with a roar from the audience. For the next two and a half hours, the audience watched over fifteen solo, duo, or group acts spanning Bollywood, Hip-hop, African, and Tamil dancing and singing. This year, a fashion show replaced the intermission. Each act was accompanied by audience members whistling, cheering, and clapping for the performers. Unlike previous years, the show did not end with the customary dance of the SAC members but instead opened with a dance performed by the International Committee.
-
-
 
 This year’s show also saw representations of Chinese and Bangladeshi culture, with songs being sung by Jennifer Wang in Mandarin and Lumuat Nusaiba in Bengali. Another unique act was a comedy performed by Mr. Teres’ Drama Club. The most popular acts were the ‘70s themed dance by the teachers and the Salsa by Razmik and German, drawing out cheers and encores from the audience.
 
-
-
 Over three hundred people attended the show and gave the night positive reviews. However, many people thought that the multiple Bollywood dances and songs were unnecessary. Hamza Talal, one of the organizers, thought otherwise: “It was our last year at this school so we wanted to make it memorable. I think we managed to deliver a stunning performance. This year’s show was the best in my eyes.”
-
-
 
 After the show, dinner was provided. Audience members were given a wide selection of food in the gym, including sushi, biryani, pasta, samosas, and kulfis (milk ice-creams). Attendees could also have their pictures taken at the photo booth station at the back of the cafeteria. As an improvement from previous years, there were no food shortages.
 
-
-
 When asked about the show, Isha said, “I think we could have outdone the previous shows because we had a a lot of funding this time. I was too busy coordinating the show so I only managed to catch snippets of it, but I hear people loved it, so that makes me believe it was a success.”  
-
-
 
 
 

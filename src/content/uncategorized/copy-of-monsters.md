@@ -13,8 +13,6 @@ Monsters
 
 By Hannah Nie  
 
-
-
 “Go back to sleep,” they told you. “There are no monsters under your bed.”  
 
 Yet the monsters are everywhere.  
@@ -28,6 +26,4 @@ It’s four in the morning, the day your summative essay is due. Your only suste
         	We all have our monsters. Perhaps it’s Loneliness. Or maybe Stress, or Heartbreak. Perhaps it’s Depression. They are masters of disguise, and sometimes even you can hardly see through them. You think you’ve finally outrun them, or by some miracle, even outsmarted them—you bend over, catching your breath--but a quick glance behind, and they’re right on your tail, lurking in your shadow.  
 
 I can’t say these monsters can all be tamed. But the greatest of them all is one we can fight, and right now, these very words are strapping Stigma down. 
-
-
 

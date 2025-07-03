@@ -2,7 +2,7 @@
 title: "Unions \"Wynne\" $7.1 Million Pizza Party"
 pubDate: 2016-01-11T06:38:59.967Z
 description: "Article about stuff."
-author: "parnika-godkhindi"
+author: "parnika_godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -10,8 +10,6 @@ tags: ["Uncategorized"]
 **Unions "Wynne" $7.1 Million Pizza Party**  
 
 By Areeba Asghar
-
-
 
 Ontario, for the past few months, has been swept up in a whirlwind by teachers’ strikes all over the province. Fighting for smaller class sizes, higher pay, and other benefits,  some teachers’ unions  have threatened to cancel report cards for students, while others have stopped extracurriculars.  A few regions, such as Peel and Durham, also witnessed the shutting down of schools and cancellation of examinations. To top it off, Ontarians were left in further shock by the news that followed: 7.1 million dollars were recently handed out to negotiating teachers' unions and school boards to compensate for their “expenses” during the 47 days of collective bargaining[^1] . This is 7.1 million dollars too many.  
 
@@ -39,10 +37,6 @@ But of course, that is merely an estimation.
 
 
 
-
-
 [^1]:  http://www.thestar.com/yourtoronto/education/2015/10/26/province-gave-school-boards-46-million-to-bargain.html
-
-
 
 [^2]:  http://www.thestar.com/news/queenspark/2015/10/24/kathleen-wynne-defends-paying-25m-for-union-negotiating-expenses.html

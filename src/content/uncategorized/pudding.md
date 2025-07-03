@@ -2,7 +2,7 @@
 title: "Pudding"
 pubDate: 2015-03-25T02:45:12.458Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

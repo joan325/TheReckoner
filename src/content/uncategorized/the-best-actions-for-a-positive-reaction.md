@@ -11,8 +11,6 @@ The Best Actions For A Positive Reaction
 
 By: Maryam Mobashir
 
-
-
 It has been a year since the world rightfully erupted into chaos and anger following the murder of George Floyd. For centuries, Black people have been mistreated and let down time and time again by governments and other people—namely white people. What is ridiculous is that the extreme hatred and intolerance towards people of colour, especially Black people, has not ceased. For years the world remained quiet while Black people were wronged. While there were many who protested alongside the Black community to genuinely raise more awareness and stand in solidarity, there were also many instances in which people—and companies—seemed to only be putting on an act. This “act” is commonly referred to as “performative activism” where individuals will use activism as a method of gaining social capital—otherwise known as “clout”—instead of actually supporting the cause, movement, or issue.   
 
 Police brutality is not anything new. In fact, it “has been a documented aspect of Black life for 100 years, since the Lexow Committee generated 10,000 pages of testimony in 1894” \[1\]. While the increase of attention towards this issue today is great and certainly helps push for positive change and reform, a number of people also expressed the concern that many of the actions taken are more performative than genuine. This raises the question, how can one actually differentiate between performative activism and sincere progress?  
@@ -31,8 +29,6 @@ While activism is most definitely needed, it is important to check oneself on wh
 
 It is most important to remember that these movements are not trends, they have a profound effect on the lives of others. Everyone should make a genuine effort to participate in the most sincere way possible. Becoming more educated and raising awareness on political, social justice, and environmental issues is needed in order for real change and the betterment of society. 
 
-
-
 References:  
 
 \[1\]https://www.aljazeera.com/opinions/2020/7/20/the-problem-of-performative-activism   
@@ -42,6 +38,4 @@ References:
 \[3\]https://medium.com/illumination/the-difference-between-performative-activism-and-genuine-allyship-c1071133d0e0   
 
 \[4\]https://www.columbiaspectator.com/opinion/2019/03/27/discourse-and-debate-is-performative-activism-inherently-bad/ 
-
-
 

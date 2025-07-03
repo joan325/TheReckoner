@@ -2,22 +2,18 @@
 title: "“inadequate” by Abbinaya Parakaran"
 pubDate: 2021-05-31T18:56:06.123Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 *inadequate*
 
-
-
 it is never too late  
 
 to start another   
 
 chapter
-
-
 
 to fill the creases and corners  
 
@@ -35,15 +31,11 @@ of glitter confetti
 
 from a party popper.
 
-
-
 it is never too late  
 
 to make the  
 
 right mistakes
-
-
 
 at the sacrifice   
 
@@ -63,8 +55,6 @@ irreversible
 
 and unalterable.
 
-
-
 but no matter the   
 
 memories that have been made,  
@@ -74,8 +64,6 @@ the secrets that had slipped in between,
 the sugar coated smiles and  
 
 last minute gifts
-
-
 
 there is nothing,  
 

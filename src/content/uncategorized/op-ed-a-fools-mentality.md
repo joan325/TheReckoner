@@ -2,7 +2,7 @@
 title: "Op-Ed: A Fool's Mentality"
 pubDate: 2015-04-19T21:54:12.820Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

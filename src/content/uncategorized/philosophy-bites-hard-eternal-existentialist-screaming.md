@@ -2,7 +2,7 @@
 title: "Philosophy Bites, Hard: Eternal Existentialist Screaming "
 pubDate: 2016-01-10T00:45:09.823Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -11,13 +11,9 @@ Camus was a philosopher who talked about this thing called the absurd. Basically
 
 When thinking about absurdity, remember:
 
-
-
 1. a) Everything you do amounts to nothing.  
 
 2. b) You will never understand life.
-
-
 
 Pretty light stuff.  
 
@@ -58,6 +54,4 @@ Turn to existentialism when you're worried about grades and life, just as a reas
 Yeah, don't do that.  
 
 I think of absurdity as comforting. Not that it cares but, I can scream at the void forever, and the void can never scream back.  
-
-
 

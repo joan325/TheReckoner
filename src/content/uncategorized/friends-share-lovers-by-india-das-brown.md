@@ -2,7 +2,7 @@
 title: "\"friends share lovers\" by India Das-Brown"
 pubDate: 2021-04-27T20:11:11.860Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

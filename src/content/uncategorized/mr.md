@@ -2,76 +2,52 @@
 title: "Mr. Mirza TF"
 pubDate: 2016-06-17T23:12:49.491Z
 description: "Article about stuff."
-author: "uknown-person"
+author: "uknown_person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 (Starting at 0:00, Parnika)
 
-
-
 ***What courses do you teach at Marc Garneau?***  
 
 As you know, I teach lots of accounting and finance courses, currently. I also teach some other non-accounting, non-finance business courses such as Business Leadership, and the Intro to Technology in Business courses. 
-
-
 
 ***Why business, and why teaching?***  
 
 That’s a very tough question, of course. Business because I feel that business is my passion. I studied business in my undergrad. I was fortunate enough to get to Schulich, which is a predominant school of business in Canada and the world, and enjoyed all my professors, all my classes. And then the work experience I had prior to teaching was excellent in the sense that it prepared me well for the workforce, of course, but also to teach. Teaching is something that I felt I got the bug when I was a university student. At that point I was teaching, or I taught at a couple of colleges. I also taught at Ryerson while I was a student, and I was a TA for my accounting courses at Schulich. So, when I was working for an accounting firm, I was also responsible for training and development of new hires, and all of that I really enjoyed, and to be honest my mother always thought that I would be a really good high school teacher. Eventually, I applied to teacher’s college at U of T and went from there. So, teaching, I guess, is something that I’m passionate about and I feel it’s very dynamic as a profession. And, to be a role model for the younger generation is a job that I take very seriously, but it’s also a job that I have a lot of fun with. 
 
-
-
 (Starting at 4:13, by cheng cheng)
-
-
 
 ***You’re clearly a professional yourself, what sort of professional advice would you give to students?***  
 
 Professionalism to me means living your profession, day in, day out. So you can never switch off. And I feel that the most successful professionals are those that constantly realize that they are being watched. So, if you feel that way, you will act accordingly. So have integrity, have dignity, and stay out of trouble.
 
-
-
 ***Relative to America, the business sector of Canada is obviously not as strong, so there’s obviously a lot of incentive for business professionals in Canada to move abroad. As a result, Canada may be experiencing a “brain drain.” Do you think it’s worth it to work in another country with a stronger economy?***  
 
 When you are young, in your early-twenties to maybe mid-thirties, then yes, the monetary gains are much stronger in the U.S., or countries in the Middle East. But, as you grow older, you want to raise a family. Look at what’s happening in the U.S. There’s gun violence to the extreme, people are not safe--or they don’t feel safe, the health care is not the best. You know, things of that nature. So, I feel like there’s always other things you have to balance your compensation against. And, as I mentioned earlier, if competition is what drives you, you can work hard, in Canada, and make very similar amounts of money, either becoming an executive of a large corporation or starting your own company.
-
-
 
 ***What is your view towards entrepreneurship?***  
 
 Go for it. I think entrepreneurship is the bloodline for success for everyone. Every large company was started by an entrepreneur, nothing just starts out of its own, so I feel that it is extremely critical, and we need to have people who have the courage, the ability, the intelligence, to start something on their own.
 
-
-
 ***In your free time what do you like to do?***  
 
 Spend time with my family, my wife, my kids, travel--I’ve been to a few different countries with my family, eat out--we try lots of different types of restaurants, and I guess social gatherings with other families and friends.
 
-
-
 Mirza 5:08-12:20 (greatest fear – spicy question)
-
-
 
 Q: What is your biggest fear?  
 
 A: Failure.
 
-
-
 Q: You were once a student at MGCI. You’ve been taught by a number of the school’s current teachers such as Mr. Barrington and Mr. Melville. How has the dynamic changed between you and them now that you are a teacher yourself?  
 
 A: I think I had to adapt very quickly because when I started teaching at Garneau there were several teachers at that point, a lot of them had retired, who were my former teachers. So, I had to adapt rather than the other party. As for the dynamic, I don’t know if it has changed. I have a lot of respect for all my former teachers. I’ve learned a lot from them, even as a teacher, how to effectively teach and use the teaching strategies in the classroom. I guess, they were my former high school teachers, now they have become my mentors.
 
-
-
 ***Q: Any funny stories you’d like to share about your time at Marc Garneau as a student?***  
 
 A: I didn’t even think about this question.
-
-
 
 ***Q: Can you relate it to Mr. Melville? He said you were a gigantic nerd.***  
 
@@ -79,91 +55,61 @@ A: \*Laughs\* I was not, but sure, whatever he wants to say. So Mr. Melville use
 
 ![][image1]
 
-
-
 Q: How has the school changed since you were a student?  
 
 A: Physically, the school has gone through a lot of expansion. It has now a new wing, which was built in the late 90s, after I finished high school. It has lots of portables. It used to have a gigantic portable with a lot of classrooms in it, so that is gone. Courses wise I guess, academic wise, we have a couple of new programs, and the business in the tech department. TOPS has really grown tremendously since I was a student. Student population has changed a bit in the sense that there used to be a lot less of certain demographics and a lot more of other demographics, now it has changed in that respect as well. Our students are noticed globally, I would say, because of communication technology, and that’s a good thing. What else…
-
-
 
 Q: The culture of the school?  
 
 A: The culture is very similar. I don’t see a huge change, I feel the culture is very similar. Kids are very respectful, teachers are all about teaching and learning, it’s the same.
 
-
-
 Q: What’s been your favourite part of teaching?  
 
 A: I guess developing and maintaining rapport with students.
-
-
 
 ***Q: What advice would you give to a student pursuing a career in business?***  
 
 A: Of course study hard, try to get into the best business school, best university out there. Name brand of the university has a lot to do with you because once you finish your degree, you will always be associated as an alumni of that university network and your relationships, your networking ability, gears towards that kind of university where ever you go. So, do that. Second of all, do your research. Meet as many people as possible. Personally, I feel that the Canadian economy and the North American economy as a whole is run by small businesses. 60-70% of employees, or people, work for small businesses. How do you define a small business? The number of staff is from 0 to 50\. So, I feel that if you are studying business, don’t only study from the corporate point of view, study from a small business point of view as well, and perhaps later on in your life, start thinking about being an entrepreneur because very easily you can make up to $300,000 to $500,000 a year working for yourself.
 
-
-
 ***Q: What’s the most general financial/investment advice you would give to students our age?***  
 
 A: As much as possible, don’t go into debt. Save money, and try to invest. Look at what’s out there. If you have enough capital, buy real estate. I think there’s one philosopher, I forget his name, who was talking to his son and said, “My son, you should buy land — they’re not making any more.” It’s very clear that real estate is always going to be in demand, and yes, it goes up and down, but if you can afford to buy one small piece, a condo, a small house wherever in Canada, that would be a good start. You’ll be 10 years ahead of others. If you don’t have enough capital for that, invest in blue chip stocks, which have a lot of backing, so you can make some money.
-
-
 
 Q: What spicy fact can you share with the student body?  
 
 A: My wife and I have known each other for almost 27, 28 years. We’ve know each other since we were seven or eight years old. 
 
-
-
 Q: What has been your most memorable teaching experience, and how long have you taught at Garneau?  
 
 I’ve taught at Garneau for 10 years. Most memorable of course is extremely difficult. But one memory stands out from my first year of teaching. I taught a student who was very high calibre, very academic in nature, who went on to Schulich. When he would visit me, I learned that a lot of the professors he had were the same ones I had when I went to Schulich. When he applied for a job, he applied to PWC, put me down as a reference, and my former colleague called me up for the reference and she ended up hiring him. I used to work on that office on that floor where he worked. I’m still in contact with him, he’s a profound student, he’s in his late 20s now, and he’s also looking at starting his own firm. This is all very memorable because he’s leading a very similar experience as mine.
-
-
 
 ***Q: What non-academic lessons do you hope your students learn from you?***  
 
 I feel that academics are only part of teaching and learning. When my friends ask what I teach, my usual first answer is “I teach students.” Teaching any course, it’s really that relationship that you develop during lessons, and the impact you have on people’s lives that is really important. So I feel that academics aside, leadership, communication, ability to resolve conflicts, and stress management, these are the skills we need to pass on as educators because the content we teach will either change eventually, or people will pick it up as they go through life. So my classroom environment is very laidback, and I try to implicate these habits and skills in all my students with respect and dignity.
 
-
-
 Q: What is the philosophy behind your teaching?  
 
 I feel that a teacher can be described as a coach, someone who tries to understand the strengths and weaknesses of their students. A teacher should try to push students in the direction where their strengths improve and where their weaknesses become their strengths.
-
-
 
 ***Q:Why do you enjoy cricket so much?***  
 
 I’ve played cricket throughout my life except for the last couple of years; now my body’s given up. I’ve been lucky enough to play in very high-level leagues. I’ve represented Canada in cricket before, so it was definitely a passion for the sport. Cricket requires teamwork, leadership, communication, hard work, athleticism, so I guess a lot of the skills that a business person requires, an athlete also requires. It fits my personality. 
 
-
-
 Q: You have steeped tea very often. How do you take it?  
 
 Two milk, no sugar.
-
-
 
 Q: How fast does your facial hair grow?  
 
 \[Laughs\] I guess I shave once a day.
 
-
-
 Q: Have you taught any courses besides business courses at Marc Garneau?  
 
 Yes. My first year teaching, there were not enough business courses for me to teach. The business department was not a big department at that point. Mr. Barrington was not in the department, I had just started, and another teacher who has now left the school was not in the department, so we were trying to rebuild the Business Studies department. As the most inexperienced teacher, I only had 2 courses in the business studies department out of 6\. The other four were Geography and Civics, and to be honest, the last time I took Geography was back in Grade 9 myself, so I was now teaching Grade 9 Geography and Grade 10 Civics. So I had to relearn everything. \[Laughs\] I was usually only a chapter ahead of my students, so it was a very different situation, but I did it.  
 
-
-
 Q: The Finance course, IDC4U, is something you’ve created yourself. It’s not in the regular TDSB curriculum. Why did you create this course and what kind of model did you follow when you were making it?  
 
 So when I started teaching, one of the first things they said to me was, since you are an accountant, since you have the business world experience and banking experience, do you mind starting this course up? A year before that, maybe a year and a half earlier than that, there were some curriculum documents that had been created. When I took a look at those documents, they were not very practical. They were very academic in nature in the sense that they expected students to know second or third year calculus to understand certain problems, so it didn’t make any sense to me. And that’s probably the reason why the course wasn’t flying in any school, so I adapted the course curriculum to what I felt were the most useful things, and of course over the years it has changed and so on. And then I had the opportunity to deliver certain seminars and workshops at business educators’ associations , and I’m very proud of the fact that there’s at least 30 high schools in Ontario that use my curriculum, my projects and assignments for the Finance course. And I feel this is something that is really needed, I always say, just because taking a business course does not mean you should study business forever. These are things that will help you in life. You just have to learn a few concepts and these concepts can stay with you whether you study engineering, medicine, health sciences, social sciences, or whatever you like, and have application in everyday life. So that’s how I have made this course, not just at Garneau but at other schools as well.  
-
-
 
 Q: What do you consider your biggest pet peeve?  
 
@@ -173,85 +119,57 @@ Q: I guess so.
 
 A: Stupidity.  
 
-
-
 Q: What do you consider your greatest strength? When we asked you this question two years ago you said intelligence, which I think is perfectly valid.  
 
 A: I’d say communication.  
-
-
 
 Q: What parallels do you see between the classroom and the professional workplace?  
 
 That’s a very interesting question. Because I had experience in accounting and banking prior to the getting into teaching, I always tell my students, or try to make my classroom environment in the sense that I’m preparing you for the professional world. So I would say that communication is definitely key: interpersonal skills, stress management, and problem solving. Those are the kinds of skills that I try to help students along with. Of course, the professional world is very different from the classroom environment, but these are the skills that I have felt are necessary for success, as long as you can adapt and be flexible.  
 
-
-
 Q: Of all the different career paths in business, why did you choose accounting?  
 
 I don’t think there’s really just one answer for that, but both my parents are science people, and so is the rest of my family, my siblings, and even my wife’s an engineer, but how did I get into accounting? I seem to recall that I met someone when I was in Grade 5 or 6, one of my dad’s friends, who I was very impressed with. And I felt that he was a very successful individual in his 30s at that point, I guess, and I wanted to emulate him. And my parents always suggested to all of us, myself and my siblings, that we should choose studies that we are passionate about. Whatever you want to do, go for it. I enjoyed accounting in high school, I enjoyed accounting in university, and I was fortunate enough to pass all the CPA exams on the first go, so I guess really that’s what it comes down to.  
-
-
 
 Q: Who had the biggest influence on your professional career?  
 
 My father. He’s very open minded, very flexible. Although he’s an engineer, his personality is like that of an executive. His ability to relate to clients, suppliers, staff or others is simply amazing. He has taught me so much in my life that it’s unbelievable, it’s incredible how much impact he’s had on my life throughout. I was telling my daughters, from walking to shaving to reading to the business world, my dad has had a huge impact and taught me a great deal.  
 
-
-
 Q: From your time at Marc Garneau, what was your favourite subject?  
 
 Math, because it’s very logical, very analytical, and if you get math you seem to be good at it and you just get it. And of course Mr. Melville was a great math teacher.
-
-
 
 Q: Did you get 99 in that course?  
 
 I don’t remember…
 
-
-
 Q: Mr. Melville told us that. He said you were a big nerd.  
 
 It’s funny that he remembers. I had him in 1995, and he was telling me last year, after 20 years, that he can picture me in his classroom sitting in one side of the room. And as a student you remember, and he was dead on, absolutely dead on. He remembered the space, the students who I was with, it was pretty odd. The man has a good memory.  
-
-
 
 Q: So Mr. Melville is retiring this year. If there’s something you could say to him right before he left, what would it be?  
 
 I would say thank you very much for having such a great impact on me and on everyone who he has taught in his 30+ years of teaching. His sense of humour will be greatly missed, his stories will be greatly missed, just you know, his aura was great as well. Everyone who has had him as a teacher was positively affected. And of course, all the best in his retirement, hope we can stay in touch.  
 
-
-
 Q: What was your university degree in? Was it in accounting?  
 
 It was a Bachelor of Business Administration, and I chose to focus in accounting and finance.
-
-
 
 Q: Do you have a favourite restaurant nearby?  
 
 Bamiyan Kabob. I think it’s great food, it’s not spicy so everyone can eat it. And it has great service and fresh food.  
 
-
-
 Q: Using your expertise as a business professional, what is your outlook on the economy of Canada?  
 
 A: I think that recently we’ve had many shocks in the world. In Canada specifically, oil prices have sunk to near bottom in the last twelve months or so. And then extremely recently, the Fort McMurray has had an great impact. Real estate has jumped crazily over the last two years. Some analysts were suggesting that the Toronto market increased by 16% over 12 months and the Vancouver market by 20%. These are abnormal numbers; inflation is only 2%, so something’s got to give. Although I feel that over the long run these investments are great, in the short run something is going to happen. I think that in the next 12 months we will see some sort of dip in the stock market, real estate market, oil market, and commodities market. Unemployment will increase. George Soros, a great living economist and financial expert, has recently said that maybe it is time to understand that not everybody has to work in an economy. So, after WW1 and WW2, there was a huge push for everyone to work, and double income families became the norm. Now with technology and our modern infrastructure, some economists are suggesting that perhaps it’s about time to recede from that policy and understand that generally 15-20% of people will be unemployed by choice or by design. So I think the economy will feel a dip. As for how the economy will come out of it, we have to be strong, Canada is just one country in the entire world, with the US being the major superpower. We’ve seen some terrorist attacks in the US recently, which have thrown off the presidential race a bit, so globally we may see a turmoil soon.
-
-
 
 Q: What do you dislike the most about Marc Garneau?  
 
 A: Not many rooms have windows. And the air quality is ridiculous\! Those are the only two things.
 
-
-
 Q: If you could say one thing to the whole student body, what would it be?  
 
 A: Be honest. Have integrity, have dignity, be proud of who you are. Education is the cornerstone to success.   
-
-
 
 
 

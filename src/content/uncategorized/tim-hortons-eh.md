@@ -2,14 +2,12 @@
 title: "Tim Hortons, eh"
 pubDate: 2016-03-23T05:42:54.304Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 Dear World,
-
-
 
     We are slowly becoming more and more aware of the way Canadians are perceived. It may seem as if we are inhabitants of a different planet, with the numerous stereotypes that have attached themselves to us. In fact, some of you have even approached us with these absurd ideas, demanding why we intoxicate ourselves with Tim Hortons coffee and ride polar bears to school. These false accusations have become slightly disturbing, and we believe a confrontation is necessary. This letter has been written to correct the common stereotypes about Canada, and eliminate the false identity of our country.  
 
@@ -29,25 +27,15 @@ The standard Canadian etiquette is one of the biggest stereotypes that we hear a
 
 So the next time you approach a Canadian, remember that we are quite sensitive to the absurd stereotypes associated with us. Please do not ask about our “pet beavers.” Stop inquiring about your friend Bob; we do not know him. And take the word “eh” out of your vocabulary. Please? 
 
-
-
 Thank you for your consideration.
-
-
 
 From,  
 
 Frustrated Canadians
 
-
-
 P.S. Sorry, sorry, sorry if we sounded too harsh.
 
-
-
 Dear World,
-
-
 
 As patriots of the home and native land, we would like to begin with a *“sorry,”* our national motto. Although the official paperwork is still pending, Bob (you know, the one from Saskatchewan?) has sent his moose to deliver a message to John (the one from the province of Toronto?). Additionally, a live broadcast from Justin Bieber had shut down the entire country for a week, but now there will be no further delays, eh.  
 
@@ -69,17 +57,9 @@ Finally, the standard of Canadian politeness is one of the biggest stereotype th
 
 So the next time you approach a Canadian, remember that we are quite sensitive about the absurd stereotypes that we are falsely accused of. Please do not ask us about our abnormal caffeine intake, or ask us about our pet polar bears. Thank you for your consideration.
 
-
-
 Sincerely,
-
-
 
 Frustrated Canadians’
 
-
-
 P.S. Sorry, sorry, *sorry* if we sounded too harsh.
-
-
 

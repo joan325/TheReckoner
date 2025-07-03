@@ -2,7 +2,7 @@
 title: "News: National Sweater Day at MGCI by Pablo Gonzalez"
 pubDate: 2015-02-14T02:37:27.860Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -15,17 +15,11 @@ Many posters were hung around the school and since Monday, 2 February, Eco Team 
 
 ![Sweater Day 3][image1]
 
-
-
 Members of Eco Team promoted National Sweater Day at MGCI. Photo: Jackie Ho
-
-
 
 On the other hand, National Sweater Day is flourishing in many other places across Canada. Since its creation five years ago by the World Wildlife Fund (WWF), over 1 million Canadians have participated in it. Most of these men and women believe that raising public awareness about energy consumption is the key to stop many environmental problems, such as global warming, and so, they lower their thermostats in their homes to be an example for others to follow.  
 
 According to statistics, if all Canadians lowered their thermostats by as little as two degrees Celsius, over four megatons of carbon dioxide and other harmful greenhouse gases could be saved from entering the atmosphere. Reducing emissions on this scale would have an effect equivalent to taking 70,000 cars of the road.  
-
-
 
 
 

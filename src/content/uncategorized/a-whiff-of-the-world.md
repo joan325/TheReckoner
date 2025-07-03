@@ -2,7 +2,7 @@
 title: "A Whiff of the World"
 pubDate: 2016-03-23T05:58:36.533Z
 description: "Article about stuff."
-author: "deifilia"
+author: "deifilia_to"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

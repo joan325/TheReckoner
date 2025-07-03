@@ -2,7 +2,7 @@
 title: "River Wei - crash"
 pubDate: 2021-03-29T14:27:12.965Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

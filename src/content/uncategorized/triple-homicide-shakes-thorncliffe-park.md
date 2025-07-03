@@ -2,7 +2,7 @@
 title: "News: Triple Homicide Shakes Thorncliffe Park"
 pubDate: 2014-12-10T02:16:23.636Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -38,6 +38,4 @@ The motion was discussed, where it was then denied. In her interview with the To
 The government’s move disturbs many. “It was wrong of the government to deny this motion. It means that more victims of domestic violence may have to suffer the same fate as her. They will continue to be abused, and may never receive help if the system does not change,” said Rabia.  
 
 A candlelight vigil was held for Zahra and her sons on 2 December in front of 85 Thorncliffe, and a funeral service was held at the Khalid Bin Al-Walid Mosque on Bethridge Road on 5 December. The police are still investigating the cause of death and the role of the father in the deaths of his wife and sons.
-
-
 

@@ -2,7 +2,7 @@
 title: "HOG Quotes"
 pubDate: 2015-06-12T01:43:22.930Z
 description: "Article about stuff."
-author: "jc"
+author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
@@ -22,8 +22,6 @@ I actually don't like it. It still needs work.”
 “If you knew that you had only one year left to live, what would you change, or not change, about the way you live?”  
 
 “I think I would travel and see my dad's side of the family. They're in Spain, Denmark, India, all over the world. I don't get to see them often. That's what I would do.”
-
-
 
 "If you could give one message to the students in the school, what would you say?"  
 

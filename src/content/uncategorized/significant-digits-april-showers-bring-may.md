@@ -51,5 +51,3 @@ The US has been wracked with tornadoes in recent months, reporting a record brea
 
 **\-------------------------------------------**
 
-
-

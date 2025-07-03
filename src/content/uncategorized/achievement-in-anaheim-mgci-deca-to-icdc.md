@@ -2,98 +2,54 @@
 title: "Achievement in Anaheim: MGCI DECA to ICDC"
 pubDate: 2017-05-14T02:15:19.184Z
 description: "Article about stuff."
-author: "hargun-kaur"
+author: "hargun_kaur"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 # **Achievement in Anaheim: MGCI DECA to ICDC**
 
-
-
 # By: Tom Liu
-
-
 
 # Photo: Cindy Cui
 
-
-
 # 
-
-
 
 # From 24 April to 1 May 2017, thirteen students from Marc Garneau travelled to Anaheim, California to compete in the DECA International Career Development Conference (ICDC). DECA is a high school business competition, with ICDC being the highest level of competition offered. Over eighteen thousand students from around the world competed in the conference.
 
-
-
 ![DECA-35.jpg][image1]
-
-
 
 Photo: Cindy Cui
 
-
-
 DECA Ontario sent approximately six hundred students to compete at ICDC. To qualify as a delegate, students had to advance through regional competitions and place top seven overall at the provincial conference, which was held earlier in February.
-
-
 
 MGCI students competed in four types of events: Individual, Principles, Team Decision Making, and Writtens. Students in the Individual, Principles, and Team Decision Making events completed one multiple choice exam and one case study, while competitors in the Written events delivered a prepared presentation.
 
-
-
 Competitors in each event were divided into sections of sixteen to twenty students or teams. A Mini Awards Ceremony was held to recognize the top ten exams and roleplays in each event. The top two overall from each section qualified for the final round. There, the competitors completed one final case study. The top ten performers were recognized in the Grand Award Session and received medals, with the top three receiving trophies and cash prizes in some cases. The top ten competitors also won a monetary prize.
-
-
 
 This year, the success of Marc Garneau’s DECA chapter reached yet another new height. The thirteen MGCI delegates was the most ever sent to ICDC, and an improvement from the twelve in 2016, three in 2015, and one in 2014\. Furthermore, out of the thirteen, a total of nine students qualified for the final round, with four placing in the top ten overall.
 
-
-
 The Reckoner would like to congratulate the following students for their achievement at ICDC 2017:
-
-
 
 **Jason Cai (Principle of Finance):** Top 10 Exam
 
-
-
 **Laura Lu and Angela Pang (Hospitality Services Team Decision Making):** Top 10 Roleplay, Top 20 Overall, Top 10 Overall
-
-
 
 **Hargun Kaur and Abirami Sivakanthan (Financial Services Team Decision Making):** Top 10 Exam (Hargun), Top 20 Overall
 
-
-
 **Matthew Tse and Lisa Wang (Buying and Merchandising Operations Research):** Top 20 Overall, Top 10 Overall
-
-
 
 **Jaitra Chaudhuri (Sports and Entertainment Marketing):** Top 10 Exam
 
-
-
 **Cindy Cui and Riling Chen (Travel and Tourism Team Decision Making):** Top 10 Exam (Both), Top 20 Overall
-
-
 
 **Jessica Fung (Quick Service Restaurant Management):** Top 10 Exam, Top 20 Overall
 
-
-
 ICDC officially began on 26 April at the Anaheim Convention Centre. DECA Ontario delegates arrived in uniform with khakis, white shirts, red ties and scarves, Ontario flags, and the signature DECA Ontario hat. During the Opening Sessions, students enjoyed performances from singer Billy Gilman and music group Echosmith. Students also had the opportunity to trade and sell hats, pins, flags, and other types of apparel with international competitors.
-
-
 
 DECA Ontario students participated in multiple training sessions leading up to the official competition. There were also over a hundred exhibits showcasing different colleges and careers at the Convention Centre. During their free time, MGCI students had the opportunity to visit these exhibits, as well as venture around nearby attractions such as Disneyland and tours to Los Angeles. 
 
-
-
 The overall atmosphere of the competition was very well received by students. Laura Lu, a Grade 9 Marc Garneau student who placed top ten in the Hospitality and Tourism Team Decision Making event said, “It was an amazing experience to be able to meet and learn from so many new people. I’m really proud of my partner and I because we accomplished so much more than we expected. I learned so much from DECA this past year and I can’t wait to grow even more.”   
-
-
 
 
 

@@ -2,57 +2,33 @@
 title: "The Sweeping Tale of a Day in the Life of the Caretaker"
 pubDate: 2019-04-14T02:13:06.866Z
 description: "Article about stuff."
-author: "jackie"
+author: "jackie_huo"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 In the quiet hours after all the students and teachers have left the halls of MGCI, the team of eight caretakers, headed by Mr. Luke Chanmugan, stays to clean the school. Some work as late as 11:00 pm, making sure the school is safe and clean for the students who will walk through its doors the next day.
 
-
-
 Becoming a head caretaker requires a background in engineering, energy systems, or building environmental systems. Before becoming a caretaker, Mr. Chanmugan worked in farmers’ markets and delivered produce during the day. He received an Operating Engineering degree from Seneca College, attending school at night and working during the day.
-
-
 
 After eighteen years of experience in the Toronto District School Board, Mr. Chanmugan began working as the head caretaker at MGCI in 2012\. Previously, he was “floating” around between different schools, working in one school one day and moving to another school the next. Eventually, he got the chance to work at MGCI permanently.
 
-
-
 Reflecting on the significance of his role, Mr. Chanmugan firmly believes that his absolute first priority is to ensure the safety of anyone who steps foot into the school. To Mr. Chanmugan, everything else is secondary: “Regardless of what we do, as long as it is in a safe manner, that’s what is the most important thing to us. When there’s snow, instead of cleaning the cafeteria, we will go shovel the snow first to ensure that no one will slip and fall. We want to keep the students and teachers safe.”
-
-
 
 Apart from cleaning the school, the caretakers are also known as jacks of all trades, taking care of numerous jobs during and after school. They cover general maintenance roles, which include replacing classroom lights, fans and filters, and fixing mechanics; they also interact with tradesmen who come to the school, showing them what needs to be repaired. The caretakers are further in charge of setting up for various events such as parent-teacher interviews, Arts Night, and TOPS Night.
 
-
-
 Unlike the students and teachers who look forward to summer vacation, caretakers work year-round. Usually, repairs are done during the summer to ensure that classes aren’t being disrupted. When students return to school the following year, they might find that the tiles have been replaced, which the caretakers do for certain classrooms every summer. Mr. Chanmugan prepares for the repairs by obtaining quotes from different companies and waiting to be granted permission from the TDSB to follow through with the repairs. Once again, safety is the caretakers’ number one priority: “The repair companies we usually end up choosing need to have a good safety record. The materials also have to follow and meet safety requirements for certain TDSB codes.”
-
-
 
 One of the strangest incidents he has ever encountered during his time at MGCI was a fire that started on the roof during the summer while the roof was undergoing repairs. Describing it in detail, he said that “There was smoke all inside the school\! The people working on the roof didn’t even realize the roof was on fire. I could count at least ten fire trucks that came.” To Mr. Chanmugan, bursting pipes seem normal compared to the fire\!
 
-
-
 On the caretaking team, Mr. Chanmugan entertains with his great sense of humour and his love for laughter. He is more than happy to lend his knowledge to anyone who is in need of help or wants to learn something new. As a strong believer in lifelong learning, Mr. Chanmugan says, “If someone is interested in learning something, I’ll always be there to teach them\! I believe that learning should be something that continues throughout your life, it doesn’t stop. If you think you already know it all, that’s a very bad mindset.”
-
-
 
 During his time at MGCI, Mr. Chanmugan has loved the diverse and vibrant community. He is very glad to have the opportunity to meet and interact with many students from different cultures and lifestyles. He also describes the school as economically diverse, where many students have just landed in Canada from different countries and are going to encounter many difficult challenges. “I believe that keeps you grounded and gives you room to grow. You get to see and know what kind of experiences and hardships different people go through in life. It makes you realize you can’t take things for granted,” he explained.
 
-
-
 Despite his love for his job, there are times where Mr. Chanmugan’s work can be very demanding. The TDSB has a limited amount of funding for supplies and staff, so it is difficult to get coverage when one of the caretakers are absent. Sometimes, he is the only caretaker in the entire school, and is called in “ten different directions to do ten different things.” Mr. Chanmugan added, “You have so many responsibilities to think about and everything that’s happening has a time deadline, meaning that we have to balance and prioritize events. For instance, the caretakers are only given ten minutes to clean the cafeteria before lunch, but at the same time, we might have to do something else.” Nevertheless, at the end of the day, Mr. Chanmugan doesn’t mind these challenges and faces them with determination and prioritization strategies to ensure that the students have a safe and healthy learning environment.
-
-
 
 When asked about pet peeves, Mr. Chanmugan laughed and rolled his eyes. His biggest pet peeve is when people use something and don’t put it back in the place where they found it. He hates having to look for it again, which is time-consuming and inefficient: “I like to be organized, which really helps when you’re in a rush to get something done\!”
 
-
-
 Outside of school, Mr. Chanmugan has quite a few hobbies and interests. He enjoys playing soccer and fishing during the weekend. Always trying to expand his knowledge, he also loves reading. He is currently learning about financial markets. Fitting to his head caretaker role, he also enjoys tinkering with his car and using his hands to fix objects at home. Mr. Chanmugan is also the proud father of three successful daughters, the youngest of whom is graduating Grade 12 this year. When Mr. Chanmugan gets home from work, he cooks and drives his youngest daughter to soccer and other activities.
-
-
 
 In the second most populous school in the TDSB, Mr. Chanmugan is certain there is so much that he has yet to learn from his job and from the students of MGCI: “If you can do your job well at MGCI, you can do it anywhere else.” Mr. Chanmugan and the caretaking unit are always looking for areas where they can improve to give the students and teachers a safe and clean school environment. Despite working behind the scenes, this team certainly plays an extremely vital role in MGCI’s school community.

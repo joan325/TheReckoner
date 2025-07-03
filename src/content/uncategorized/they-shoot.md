@@ -2,14 +2,12 @@
 title: "News - They Shoot...They Score!"
 pubDate: 2014-11-07T20:24:14.370Z
 description: "Article about stuff."
-author: "reckoner-staff"
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 ## **They Shoot…They Score\!\!**
-
-
 
 [Ryan Lin](http://thereckoner.ca/author/ryanlin/) ⋅ 6 November 2014 ⋅ [comment](http://thereckoner.ca/they-shoot-they-score/#disqus_thread)  
 

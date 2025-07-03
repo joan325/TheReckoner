@@ -2,25 +2,17 @@
 title: "Presto Card"
 pubDate: 2018-06-09T04:47:55.466Z
 description: "Article about stuff."
-author: "tazik-shahjahan"
+author: "tazik_shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 On June 2007, the Toronto Transit Commission (TTC) began rolling out the wonderful proposal of Presto card. With Presto, the world was to become a beautiful place where nobody skipped fares, infrastructure is improved, and TTC would finally receive praise from the public. Toronto hoped too, that these long term investments would solve the TTC’s spending deficit and lower their ridiculous fares. Yet, instead of implementing successful systems such as those from Asia or Europe, the TTC just couldn’t resist adding their own flair — one that *simply doesn’t work*. Torontonians now suffer from the consequences: broken gates, incomplete coverage of the Presto system, and design flaws.
 
-
-
 Presto gates are well known for their tendency to malfunction; , both mechanically and electronically. Presto gates have a visually appealing but flimsy design. Travellers just love the two-second delay between tapping their cards and the door opening, causing them to slam into the gates. The delicate motors break, and the gates go out of commision. These damages could have been mitigated if doors for entering and exiting were separated, but no, entrances and exits must use the same door so travellers can bump into each other and cause chaos\! 
-
-
 
 The mediocre software Metrolinx provides further annoyance. The TTC decided that monitoring all registered cards, payment of fare, and status of Presto gates on the same software is a good idea. The 1.8 million pesky daily travellers never fail to overload the system during rush hour. Common bug reports include gates refusing to open, not accepting payment, or showing a big red ‘X’ and giving up. This would have been acceptable if it was immediately addressed by the TTC when it was first discovered in 2016\. However, following Torontonian traditions, progressive changes to government run organizations must be delayed for at least two years, no matter the daily disruptions and resulting public annoyance.
 
-
-
 Previously, transfers were used for the whole day because of the lack of time markings, and riders abused this power to the best of their abilities. Presto set out to tackle this issue by using electronic data to keep track of transfers, but it failed miserably. The TTC made the faulty assumption that riders would bother to pay at all, after all, only under those conditions could transfers be applied properly. With the arrival of Presto gates and gatekeeper removed from the station, riders received the perfect opportunity to demonstrate their creativity in fare evasion— be it by charging through gates after they’re opened by another person, jumping over the Presto gate that has a grand height of 90 centimeters, or walking through an empty space that the TTC didn’t bother to patch up. It wasn’t as if the TTC gave people a choice \- major subway stations no longer have full support for tickets and tokens, often it is necessary to walk several hundred metres just to find the one entrance that allows payment without Presto card. With the ridiculous circumstances that the Presto card presents, it became inevitable that riders will cheat fares in order for their convenience. 
-
-
 
 The Presto card is unreliable and fails to achieve any of the goals the TTC stated it would. Convenience is in no way increased when gates are constantly out of service and not maintained. The hope that deficits would be addressed also fails due to the faulty design and lack of time for all riders to transition to Presto cards. Once a beautiful and fantastical idea, Presto cards are now merely victims of TTC’s terrible implementation.

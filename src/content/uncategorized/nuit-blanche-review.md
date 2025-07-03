@@ -2,7 +2,7 @@
 title: "Nuit Blanche Review"
 pubDate: 2015-10-13T00:52:31.349Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
