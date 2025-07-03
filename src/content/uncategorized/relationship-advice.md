@@ -2,7 +2,7 @@
 title: "Relationship Advice"
 pubDate: 2014-12-10T03:17:16.449Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

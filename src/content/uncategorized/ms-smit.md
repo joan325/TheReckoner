@@ -2,7 +2,7 @@
 title: "Ms Smit"
 pubDate: 2019-04-14T17:50:45.425Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

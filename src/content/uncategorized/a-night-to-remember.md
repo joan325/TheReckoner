@@ -2,7 +2,7 @@
 title: "A Night to Remember"
 pubDate: 2018-12-03T03:47:31.080Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

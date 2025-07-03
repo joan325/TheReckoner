@@ -2,7 +2,7 @@
 title: "Seeding in Seton Woods"
 pubDate: 2017-12-09T20:24:02.263Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

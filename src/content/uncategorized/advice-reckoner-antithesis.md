@@ -2,7 +2,7 @@
 title: "Advice: Reckoner Antithesis"
 pubDate: 2015-02-15T21:12:52.170Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

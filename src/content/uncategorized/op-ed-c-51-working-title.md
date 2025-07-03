@@ -2,7 +2,7 @@
 title: "Editorial: Op-Ed: C-51 (WORKING TITLE)"
 pubDate: 2015-03-24T03:55:37.320Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

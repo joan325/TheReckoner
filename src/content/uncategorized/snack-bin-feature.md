@@ -2,7 +2,7 @@
 title: "Snack Bin Feature"
 pubDate: 2017-04-25T02:38:52.535Z
 description: "Article about stuff."
-author: "Hargun Kaur"
+author: "hargun-kaur"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

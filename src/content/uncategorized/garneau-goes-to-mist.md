@@ -2,7 +2,7 @@
 title: "News: Garneau Goes to MIST"
 pubDate: 2015-03-25T02:55:40.289Z
 description: "Article about stuff."
-author: "jc.ho8990"
+author: "jc"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

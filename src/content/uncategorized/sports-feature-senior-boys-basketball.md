@@ -2,7 +2,7 @@
 title: "Sports Feature: Senior Boys Basketball"
 pubDate: 2018-02-25T02:24:42.812Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Club Feature: Uncovering Undercover Kindness"
 pubDate: 2017-11-05T22:14:34.573Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

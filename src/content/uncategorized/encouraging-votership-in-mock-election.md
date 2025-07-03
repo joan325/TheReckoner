@@ -2,7 +2,7 @@
 title: "Encouraging Votership in Mock Election"
 pubDate: 2018-06-10T01:33:02.133Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

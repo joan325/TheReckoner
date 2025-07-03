@@ -2,7 +2,7 @@
 title: "A Tale of a Syrian Girl"
 pubDate: 2017-01-06T00:39:46.124Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

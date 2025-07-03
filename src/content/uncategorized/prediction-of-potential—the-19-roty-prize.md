@@ -2,7 +2,7 @@
 title: "Prediction of Potential—The '19 ROTY prize"
 pubDate: 2019-04-14T17:30:16.161Z
 description: "Article about stuff."
-author: "andrew.lqh"
+author: "andrew"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

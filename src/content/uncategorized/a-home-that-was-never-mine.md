@@ -2,7 +2,7 @@
 title: "A home that was never mine"
 pubDate: 2021-10-22T19:40:41.899Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

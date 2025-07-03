@@ -2,7 +2,7 @@
 title: "Emily Lai - Sadness in the Sky"
 pubDate: 2021-03-31T17:23:33.493Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "DECA Provincials: Where Dreams Come True"
 pubDate: 2019-03-02T19:15:57.267Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

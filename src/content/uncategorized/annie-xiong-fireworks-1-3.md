@@ -2,7 +2,7 @@
 title: "Annie Xiong - fireworks (1/3)"
 pubDate: 2021-03-31T17:23:18.131Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

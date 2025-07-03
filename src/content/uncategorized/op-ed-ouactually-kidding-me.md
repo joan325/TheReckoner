@@ -2,7 +2,7 @@
 title: "Op-Ed: OUACtually Kidding Me. - Julien"
 pubDate: 2018-02-24T04:36:51.693Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

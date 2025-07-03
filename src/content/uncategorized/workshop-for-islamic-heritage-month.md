@@ -2,7 +2,7 @@
 title: "Workshop for Islamic Heritage Month"
 pubDate: 2017-11-06T01:20:55.360Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

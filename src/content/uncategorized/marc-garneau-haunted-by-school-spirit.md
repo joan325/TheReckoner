@@ -2,7 +2,7 @@
 title: "Marc Garneau Haunted by School Spirit"
 pubDate: 2017-11-06T01:41:10.333Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

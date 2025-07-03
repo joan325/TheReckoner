@@ -2,7 +2,7 @@
 title: "\"window\" by Emily Lai"
 pubDate: 2021-04-26T02:53:15.930Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

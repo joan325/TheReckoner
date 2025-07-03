@@ -2,7 +2,7 @@
 title: "Wikipedia > Librarians :^) - Tazik"
 pubDate: 2018-03-18T20:22:06.262Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

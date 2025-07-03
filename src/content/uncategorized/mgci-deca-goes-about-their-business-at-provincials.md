@@ -2,7 +2,7 @@
 title: "MGCI DECA Goes About Their Business at Provincials"
 pubDate: 2018-02-23T22:58:57.124Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

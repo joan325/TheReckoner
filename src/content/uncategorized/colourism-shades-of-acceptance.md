@@ -2,7 +2,7 @@
 title: "Colourism: Shades of Acceptance"
 pubDate: 2021-03-31T04:41:17.276Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

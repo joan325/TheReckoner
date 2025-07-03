@@ -2,7 +2,7 @@
 title: "This Title is Terrible, just like Early Christmas Celebrations"
 pubDate: 2020-12-15T21:39:31.277Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

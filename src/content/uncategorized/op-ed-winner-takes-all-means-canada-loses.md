@@ -2,7 +2,7 @@
 title: "Op-Ed: Winner Takes All Means Canada Loses"
 pubDate: 2015-10-12T15:54:09.324Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

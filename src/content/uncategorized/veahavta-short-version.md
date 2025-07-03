@@ -2,7 +2,7 @@
 title: "Ve'ahavta (SHORT VERSION)"
 pubDate: 2017-03-07T19:31:03.834Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

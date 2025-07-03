@@ -2,7 +2,7 @@
 title: "Letter to the Editor"
 pubDate: 2015-06-12T05:02:35.037Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

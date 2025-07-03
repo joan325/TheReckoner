@@ -2,7 +2,7 @@
 title: "Teacher Feature: OFW"
 pubDate: 2015-10-13T00:41:06.455Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

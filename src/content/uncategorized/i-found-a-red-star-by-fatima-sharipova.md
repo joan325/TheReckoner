@@ -2,7 +2,7 @@
 title: "\"I found a red star\" by Fatima Sharipova"
 pubDate: 2021-05-31T18:52:45.733Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

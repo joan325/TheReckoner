@@ -2,7 +2,7 @@
 title: "Senior Yearbooks"
 pubDate: 2017-04-24T05:36:48.891Z
 description: "Article about stuff."
-author: "Hargun Kaur"
+author: "hargun-kaur"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

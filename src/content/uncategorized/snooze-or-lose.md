@@ -2,7 +2,7 @@
 title: "Snooze or Lose?"
 pubDate: 2021-10-08T00:06:48.833Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "World Weekly: Year in Review"
 pubDate: 2017-02-05T23:58:12.533Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

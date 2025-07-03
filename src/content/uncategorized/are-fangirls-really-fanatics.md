@@ -2,7 +2,7 @@
 title: "Are Fangirls really Fanatics?"
 pubDate: 2021-03-31T04:46:20.252Z
 description: "Article about stuff."
-author: "paromita.roy"
+author: "paromita"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

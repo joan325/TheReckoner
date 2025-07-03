@@ -2,7 +2,7 @@
 title: "Lover Letter- Bridget Huh"
 pubDate: 2019-11-01T03:06:34.977Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "bridget-huh"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Holleywood Rape Allegations"
 pubDate: 2017-12-09T05:09:13.792Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

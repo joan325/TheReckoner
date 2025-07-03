@@ -2,7 +2,7 @@
 title: "\"Hamster\" by Sarah Li"
 pubDate: 2021-04-28T14:05:43.053Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

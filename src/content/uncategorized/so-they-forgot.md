@@ -2,7 +2,7 @@
 title: "So They forgot."
 pubDate: 2021-06-25T00:06:22.069Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

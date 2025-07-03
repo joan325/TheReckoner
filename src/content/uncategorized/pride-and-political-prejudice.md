@@ -2,7 +2,7 @@
 title: "Pride and Political Prejudice"
 pubDate: 2017-02-03T13:30:11.267Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

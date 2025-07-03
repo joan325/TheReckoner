@@ -2,7 +2,7 @@
 title: "March Against Islamophobia"
 pubDate: 2017-02-03T16:17:53.734Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

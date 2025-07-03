@@ -2,7 +2,7 @@
 title: "SAC ELECTIONS 2018-2019"
 pubDate: 2018-06-10T00:24:51.284Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

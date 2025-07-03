@@ -2,7 +2,7 @@
 title: "EcoTeam Green Canvas Project"
 pubDate: 2021-03-30T14:49:55.411Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

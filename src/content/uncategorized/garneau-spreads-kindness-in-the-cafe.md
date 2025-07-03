@@ -2,7 +2,7 @@
 title: "Garneau Spreads Kindness in the Cafe"
 pubDate: 2018-12-03T03:17:52.676Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

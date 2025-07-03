@@ -2,7 +2,7 @@
 title: "Halloween Happenings at MGCI"
 pubDate: 2018-11-10T22:47:51.602Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

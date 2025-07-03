@@ -2,7 +2,7 @@
 title: "Eco-Ex: Green is the Way to Go"
 pubDate: 2017-12-10T16:27:38.019Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

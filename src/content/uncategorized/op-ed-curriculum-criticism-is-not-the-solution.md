@@ -2,7 +2,7 @@
 title: "Op-Ed: Curriculum Criticism Is Not the Solution"
 pubDate: 2016-10-11T17:35:52.368Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

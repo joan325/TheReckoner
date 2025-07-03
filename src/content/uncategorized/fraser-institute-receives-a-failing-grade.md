@@ -2,7 +2,7 @@
 title: "Fraser Institute Receives a Failing Grade"
 pubDate: 2017-03-07T15:27:27.565Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

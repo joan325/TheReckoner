@@ -2,7 +2,7 @@
 title: "One Hill of a Run"
 pubDate: 2016-06-15T03:40:14.115Z
 description: "Article about stuff."
-author: "Uknown Person"
+author: "uknown-person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

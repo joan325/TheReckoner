@@ -2,7 +2,7 @@
 title: "From the Editor"
 pubDate: 2018-06-10T03:20:35.082Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "\"forlorn figures\" by Annie Xiong"
 pubDate: 2021-06-02T12:33:49.700Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

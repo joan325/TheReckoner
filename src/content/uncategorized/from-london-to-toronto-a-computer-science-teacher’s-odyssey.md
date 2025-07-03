@@ -2,7 +2,7 @@
 title: "From London to Toronto: A Computer Science Teacher’s Odyssey"
 pubDate: 2021-06-06T01:36:36.575Z
 description: "Article about stuff."
-author: "zahra.ahmed264"
+author: "zahra"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "LILA LOOK AT THIS ONE"
 pubDate: 2017-02-07T03:51:43.609Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

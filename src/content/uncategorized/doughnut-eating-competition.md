@@ -2,7 +2,7 @@
 title: "Doughnut Eating Competition"
 pubDate: 2016-12-03T03:31:11.700Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

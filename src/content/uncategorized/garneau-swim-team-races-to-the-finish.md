@@ -2,7 +2,7 @@
 title: "Garneau Swim Team Races to the Finish"
 pubDate: 2019-04-24T03:17:37.283Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

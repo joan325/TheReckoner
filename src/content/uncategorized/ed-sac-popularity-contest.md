@@ -2,7 +2,7 @@
 title: "Board Ed: SAC Popularity Contest"
 pubDate: 2015-05-26T00:42:11.710Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

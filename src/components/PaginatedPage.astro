@@ -6,6 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import FormattedDate from '../components/FormattedDate.astro'; 
 import Pagination from '../components/Pagination.astro';
 import type { CollectionEntry } from 'astro:content';
+import authors from '../../data/authors.json';
 
 type PostData = CollectionEntry<'news'> | CollectionEntry<'life'> | CollectionEntry<'editorial'> | CollectionEntry<'photography'> | CollectionEntry<'uncategorized'>;
 
@@ -29,6 +30,8 @@ interface Props {
 }
 
 const { category, page, allPosts } = Astro.props;
+
+// authors.find(a => a.id === post.data.author)['name'] ?? (post.data.author);
 ---
 
 

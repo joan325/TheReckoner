@@ -2,7 +2,7 @@
 title: "Significant Digits / Quick Stats"
 pubDate: 2018-06-03T03:55:41.475Z
 description: "Article about stuff."
-author: "Tazik Shahjahan"
+author: "tazik-shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

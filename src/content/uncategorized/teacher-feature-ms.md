@@ -2,7 +2,7 @@
 title: "Teacher Feature: Ms.Hermanovsky"
 pubDate: 2019-03-02T15:45:37.301Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

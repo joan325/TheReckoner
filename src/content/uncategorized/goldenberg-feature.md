@@ -2,7 +2,7 @@
 title: "Goldenberg Feature"
 pubDate: 2018-12-09T04:03:25.960Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Op Ed: To Know, or Not to Know"
 pubDate: 2016-03-21T03:08:04.857Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

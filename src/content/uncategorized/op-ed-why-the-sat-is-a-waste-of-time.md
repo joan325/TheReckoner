@@ -2,7 +2,7 @@
 title: "Op-Ed: Why the SAT is a Waste of Time"
 pubDate: 2015-10-12T03:31:41.444Z
 description: "Article about stuff."
-author: "Parnika Godkhindi"
+author: "parnika-godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

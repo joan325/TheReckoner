@@ -2,7 +2,7 @@
 title: "Unions \"Wynne\" $7.1 Million Pizza Party"
 pubDate: 2016-01-11T06:38:59.967Z
 description: "Article about stuff."
-author: "Parnika Godkhindi"
+author: "parnika-godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

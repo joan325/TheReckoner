@@ -2,7 +2,7 @@
 title: "News: Winterfest Review"
 pubDate: 2015-02-18T02:04:48.201Z
 description: "Article about stuff."
-author: "deifilia.to"
+author: "deifilia"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

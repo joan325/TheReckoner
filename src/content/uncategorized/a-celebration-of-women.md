@@ -2,7 +2,7 @@
 title: "A Celebration of Women"
 pubDate: 2019-04-13T01:55:47.705Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

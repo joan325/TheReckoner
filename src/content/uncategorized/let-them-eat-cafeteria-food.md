@@ -2,7 +2,7 @@
 title: "Let them eat cafeteria food"
 pubDate: 2018-12-03T04:03:06.949Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

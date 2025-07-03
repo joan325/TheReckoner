@@ -2,7 +2,7 @@
 title: "Bridging Towards a Safer Future"
 pubDate: 2021-10-23T04:30:06.625Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

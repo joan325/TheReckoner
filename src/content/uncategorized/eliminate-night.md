@@ -2,7 +2,7 @@
 title: "News: Eliminate Night"
 pubDate: 2014-12-10T02:21:50.332Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

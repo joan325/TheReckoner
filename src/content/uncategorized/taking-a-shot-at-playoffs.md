@@ -2,7 +2,7 @@
 title: "Taking a Shot at Playoffs"
 pubDate: 2017-12-10T16:27:57.619Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

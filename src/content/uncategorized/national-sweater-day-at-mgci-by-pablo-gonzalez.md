@@ -2,7 +2,7 @@
 title: "News: National Sweater Day at MGCI by Pablo Gonzalez"
 pubDate: 2015-02-14T02:37:27.860Z
 description: "Article about stuff."
-author: "jc.ho8990"
+author: "jc"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

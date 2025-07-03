@@ -2,7 +2,7 @@
 title: "Copy of Thalia and Melpomene"
 pubDate: 2019-11-01T03:06:34.978Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

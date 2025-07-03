@@ -2,7 +2,7 @@
 title: "Snowden: Vindicated by History"
 pubDate: 2021-02-27T00:38:47.830Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

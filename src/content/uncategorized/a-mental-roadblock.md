@@ -2,7 +2,7 @@
 title: "A Mental Roadblock"
 pubDate: 2020-12-05T04:55:53.848Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

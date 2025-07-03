@@ -2,7 +2,7 @@
 title: "Club Check-Ins"
 pubDate: 2022-04-26T03:00:46.689Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

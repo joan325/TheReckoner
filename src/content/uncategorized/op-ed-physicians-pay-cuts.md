@@ -2,7 +2,7 @@
 title: "Op-Ed: Physicians' Pay Cuts"
 pubDate: 2015-10-12T01:45:35.861Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

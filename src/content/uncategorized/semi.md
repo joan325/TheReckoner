@@ -2,7 +2,7 @@
 title: "News: Semi"
 pubDate: 2014-12-10T02:10:35.718Z
 description: "Article about stuff."
-author: "deifilia.to"
+author: "deifilia"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

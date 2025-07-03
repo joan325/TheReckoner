@@ -2,7 +2,7 @@
 title: "What They Aren't Telling You About: COVID-19 Vaccines"
 pubDate: 2021-04-03T22:55:47.331Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

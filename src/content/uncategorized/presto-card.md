@@ -2,7 +2,7 @@
 title: "Presto Card"
 pubDate: 2018-06-09T04:47:55.466Z
 description: "Article about stuff."
-author: "Tazik Shahjahan"
+author: "tazik-shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

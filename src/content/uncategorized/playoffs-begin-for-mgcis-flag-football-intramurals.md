@@ -2,7 +2,7 @@
 title: "Playoffs begin for MGCI's flag football intramurals"
 pubDate: 2015-10-12T05:48:10.152Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

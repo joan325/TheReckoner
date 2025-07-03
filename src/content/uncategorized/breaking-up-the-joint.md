@@ -2,7 +2,7 @@
 title: "Breaking Up the Joint"
 pubDate: 2016-06-15T05:42:50.606Z
 description: "Article about stuff."
-author: "Parnika Godkhindi"
+author: "parnika-godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

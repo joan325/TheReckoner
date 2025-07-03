@@ -2,7 +2,7 @@
 title: "Fidel Castro: The Revolutionary Titan"
 pubDate: 2017-02-05T17:52:04.445Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

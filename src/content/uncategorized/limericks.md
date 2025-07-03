@@ -2,7 +2,7 @@
 title: "Limericks"
 pubDate: 2015-10-05T23:16:41.901Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

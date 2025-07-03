@@ -2,7 +2,7 @@
 title: "Valedictorian Interview"
 pubDate: 2017-06-16T12:43:34.550Z
 description: "Article about stuff."
-author: "Uknown Person"
+author: "uknown-person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

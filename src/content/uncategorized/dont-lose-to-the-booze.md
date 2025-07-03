@@ -2,7 +2,7 @@
 title: "Don't Lose to the Booze"
 pubDate: 2014-12-10T02:39:28.313Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

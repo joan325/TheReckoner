@@ -2,7 +2,7 @@
 title: "A Win for Winterfest"
 pubDate: 2016-04-21T04:11:34.996Z
 description: "Article about stuff."
-author: "deifilia.to"
+author: "deifilia"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

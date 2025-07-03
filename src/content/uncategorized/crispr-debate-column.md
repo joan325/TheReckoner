@@ -2,7 +2,7 @@
 title: "CRISPR Debate Column"
 pubDate: 2016-03-23T06:11:19.047Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

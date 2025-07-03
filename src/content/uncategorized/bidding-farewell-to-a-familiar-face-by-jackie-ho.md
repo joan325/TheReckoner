@@ -2,7 +2,7 @@
 title: "News: Bidding Farewell to a Familiar Face by Jackie Ho"
 pubDate: 2015-02-18T01:59:41.223Z
 description: "Article about stuff."
-author: "jc.ho8990"
+author: "jc"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Student Inactivity Council"
 pubDate: 2014-12-08T04:29:14.543Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

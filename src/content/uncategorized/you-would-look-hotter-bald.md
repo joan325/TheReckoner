@@ -2,7 +2,7 @@
 title: "You Would Look Hotter Bald"
 pubDate: 2020-12-05T04:52:09.990Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

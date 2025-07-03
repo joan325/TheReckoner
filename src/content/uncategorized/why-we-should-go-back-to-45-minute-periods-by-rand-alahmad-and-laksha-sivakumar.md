@@ -2,7 +2,7 @@
 title: "\"Why We Should Go Back to 45 Minute Periods\" by Rand Alahmad and Laksha Sivakumar"
 pubDate: 2021-10-23T04:20:22.318Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

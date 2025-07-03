@@ -2,7 +2,7 @@
 title: "Why is Everyone Talking About Israel and Palestine?"
 pubDate: 2021-06-05T18:51:56.084Z
 description: "Article about stuff."
-author: "zahra.ahmed264"
+author: "zahra"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

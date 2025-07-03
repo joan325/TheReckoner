@@ -2,7 +2,7 @@
 title: "Op Ed: Censorship from Parliament Hill"
 pubDate: 2014-11-12T02:29:49.182Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

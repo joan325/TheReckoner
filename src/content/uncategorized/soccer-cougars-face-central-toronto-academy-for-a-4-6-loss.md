@@ -2,7 +2,7 @@
 title: "Soccer: Cougars Face Central Toronto Academy for a 4-6 Loss"
 pubDate: 2016-10-12T18:08:56.319Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

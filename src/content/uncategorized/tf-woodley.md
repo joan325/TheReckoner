@@ -2,7 +2,7 @@
 title: "TF: Woodley"
 pubDate: 2015-10-13T00:29:09.520Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

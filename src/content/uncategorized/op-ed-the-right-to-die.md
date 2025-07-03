@@ -2,7 +2,7 @@
 title: "Op Ed: The Right to Die"
 pubDate: 2014-11-12T01:44:24.613Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

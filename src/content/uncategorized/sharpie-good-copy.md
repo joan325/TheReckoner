@@ -2,7 +2,7 @@
 title: "Sharpie Good Copy"
 pubDate: 2017-05-26T00:28:11.532Z
 description: "Article about stuff."
-author: "qian.caryn"
+author: "qian"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

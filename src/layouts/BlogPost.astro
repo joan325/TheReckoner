@@ -4,10 +4,21 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import authors from '../../data/authors.json';
 
 type Props = CollectionEntry<'uncategorized'>['data'];
 
 const { title, description, author, pubDate, updatedDate, heroImage } = Astro.props;
+
+const authorObj = authors.find(a => a.id === author) ?? {
+  id: 'unknown',
+  name: author,
+  guard: '',
+  bio: 'No biography available.',
+  image: '../../data/images/default.jpg'
+};
+
+const authorName = authorObj['name'];
 ---
 
 <html lang="en">
@@ -60,6 +71,26 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 			.last-updated-on {
 				font-style: italic;
 			}
+			.author-box {
+				display: flex;
+			}
+			.author-img {
+				width: auto;
+				height: 12em;
+				padding: 1em 1em 1.5em;
+			}
+			.author-info {
+				padding: 0em 2em 0em 1em;
+			}
+			.author-box-full {
+				width: 85%;
+				margin: 2em auto;
+				background-color: rgb(var(--white));
+			}
+			.author-box-full h5 {
+				padding: 1em 1em 0.3em;
+				color: rgb(var(--black));
+			}
 		</style>
 	</head>
 
@@ -71,7 +102,7 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 					<div class="title">
 						<h1>{title}</h1>
 						<div class="author"> <!--update name-->
-							By: {author} | <FormattedDate date={pubDate} />
+							By: {authorName} | <FormattedDate date={pubDate} />
 						</div>
 						<div class="date">
 							{
@@ -91,6 +122,17 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 					<slot />
 				</div>
 			</article></div>
+			<div class="author-box-full">
+				<h5>ABOUT THE AUTHOR</h5>
+				<hr>
+				<div class="author-box">
+					<img src=`${authorObj['image']}` class="author-img">
+					<div class="author-info">
+						<p><strong>{authorName}</strong></p>
+						<p>{authorObj['bio']}</p>
+					</div>
+				</div>
+			</div>
 		</main>
 		<Footer />
 	</body>

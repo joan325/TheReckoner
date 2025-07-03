@@ -2,7 +2,7 @@
 title: "News: Trashion Fashion"
 pubDate: 2017-03-01T03:36:14.518Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Teacher Feature: Mr. Brossard"
 pubDate: 2018-06-11T01:18:02.838Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

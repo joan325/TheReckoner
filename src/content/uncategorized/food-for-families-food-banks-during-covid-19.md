@@ -2,7 +2,7 @@
 title: "Food For Families: Food Banks During COVID-19"
 pubDate: 2021-03-27T14:20:10.443Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

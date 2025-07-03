@@ -2,7 +2,7 @@
 title: "Moonlight - SHORT VERSION"
 pubDate: 2017-03-07T19:36:01.848Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

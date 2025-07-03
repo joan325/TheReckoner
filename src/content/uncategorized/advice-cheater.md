@@ -2,7 +2,7 @@
 title: "Advice: Cheater"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

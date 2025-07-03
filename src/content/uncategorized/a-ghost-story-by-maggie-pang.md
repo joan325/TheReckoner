@@ -2,7 +2,7 @@
 title: "\"A Ghost Story\" by Maggie Pang"
 pubDate: 2021-04-28T16:02:52.791Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Garneau Rallied Up"
 pubDate: 2018-02-24T04:39:10.073Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

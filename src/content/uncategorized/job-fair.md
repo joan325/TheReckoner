@@ -2,7 +2,7 @@
 title: "Job Fair"
 pubDate: 2017-04-09T23:48:45.861Z
 description: "Article about stuff."
-author: "Uknown Person"
+author: "uknown-person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

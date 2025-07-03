@@ -2,7 +2,7 @@
 title: "Op-Ed: Starving Our Future"
 pubDate: 2015-06-12T03:10:34.499Z
 description: "Article about stuff."
-author: "Parnika Godkhindi"
+author: "parnika-godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

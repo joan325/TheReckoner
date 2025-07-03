@@ -2,7 +2,7 @@
 title: "Advice: School or dating? "
 pubDate: 2015-02-18T02:10:18.644Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

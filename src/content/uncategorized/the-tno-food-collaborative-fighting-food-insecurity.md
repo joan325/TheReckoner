@@ -2,7 +2,7 @@
 title: "The TNO Food Collaborative: Fighting Food Insecurity"
 pubDate: 2021-03-31T00:19:55.732Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

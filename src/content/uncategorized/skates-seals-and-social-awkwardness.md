@@ -2,7 +2,7 @@
 title: "Skates, Seals, and Social Awkwardness"
 pubDate: 2021-06-24T23:33:46.684Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "CN Tower Climb"
 pubDate: 2016-10-30T20:27:34.294Z
 description: "Article about stuff."
-author: "Uknown Person"
+author: "uknown-person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Ms. Sawh’s Persistent Path to Vice Principal"
 pubDate: 2021-03-30T23:48:00.041Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

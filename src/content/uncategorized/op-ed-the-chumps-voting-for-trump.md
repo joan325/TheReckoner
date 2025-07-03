@@ -2,7 +2,7 @@
 title: "Op-Ed: The Chumps Voting for Trump"
 pubDate: 2015-10-13T01:29:43.346Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

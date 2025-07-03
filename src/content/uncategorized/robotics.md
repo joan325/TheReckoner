@@ -2,7 +2,7 @@
 title: "Robotics"
 pubDate: 2018-12-02T14:13:51.254Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

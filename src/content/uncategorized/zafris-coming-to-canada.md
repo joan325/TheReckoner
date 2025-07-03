@@ -2,7 +2,7 @@
 title: "Zafri's Coming to Canada"
 pubDate: 2017-04-10T22:26:41.153Z
 description: "Article about stuff."
-author: "Uknown Person"
+author: "uknown-person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

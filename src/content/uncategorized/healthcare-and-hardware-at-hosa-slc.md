@@ -2,7 +2,7 @@
 title: "Healthcare and Hardware at HOSA SLC"
 pubDate: 2019-04-13T21:04:39.987Z
 description: "Article about stuff."
-author: "jessicaxiong2003"
+author: "jessica-xiong"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

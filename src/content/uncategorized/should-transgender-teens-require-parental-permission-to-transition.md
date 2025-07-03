@@ -2,7 +2,7 @@
 title: "Should Transgender Teens Require Parental Permission to Transition?"
 pubDate: 2021-02-07T01:18:45.154Z
 description: "Article about stuff."
-author: "editorialboard.thereckoner"
+author: "editorialboard"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -1,4 +1,5 @@
-import { defineCollection, z } from 'astro:content';
+import { file } from 'astro/loaders';
+import { defineCollection, reference, z } from 'astro:content';
 
 const blog = z.object({
 		title: z.string(),

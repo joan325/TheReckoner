@@ -2,7 +2,7 @@
 title: "UOIT Robotics"
 pubDate: 2016-11-27T20:56:19.000Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

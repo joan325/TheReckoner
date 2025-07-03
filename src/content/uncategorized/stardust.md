@@ -2,7 +2,7 @@
 title: "stardust"
 pubDate: 2021-06-24T22:30:58.104Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

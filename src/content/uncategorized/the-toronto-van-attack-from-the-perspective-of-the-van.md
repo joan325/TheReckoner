@@ -2,7 +2,7 @@
 title: "The Toronto Van Attack from the Perspective of the Van"
 pubDate: 2018-06-10T08:50:40.199Z
 description: "Article about stuff."
-author: "Tazik Shahjahan"
+author: "tazik-shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

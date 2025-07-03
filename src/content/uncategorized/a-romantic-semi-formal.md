@@ -2,7 +2,7 @@
 title: "A Romantic Semi-Formal"
 pubDate: 2018-02-23T22:59:15.477Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

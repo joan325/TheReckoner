@@ -2,7 +2,7 @@
 title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Voices of Change: Students Speak Up at LC1 Meeting"
 pubDate: 2019-04-14T02:51:32.472Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

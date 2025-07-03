@@ -2,7 +2,7 @@
 title: "Pressing Questions with the President: An Interview with SAC President Areez Khaki"
 pubDate: 2018-11-10T22:45:40.483Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

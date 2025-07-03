@@ -2,7 +2,7 @@
 title: "MGCI EcoTeam Creates a Buzz for Pollinators"
 pubDate: 2018-06-10T03:58:38.300Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

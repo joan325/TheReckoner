@@ -2,7 +2,7 @@
 title: "The Explosion of Gender Reveal Parties"
 pubDate: 2021-04-28T04:51:34.963Z
 description: "Article about stuff."
-author: "paromita.roy"
+author: "paromita"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

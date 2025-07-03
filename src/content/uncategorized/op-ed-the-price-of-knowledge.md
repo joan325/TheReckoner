@@ -2,7 +2,7 @@
 title: "Op-Ed: The Price of Knowledge"
 pubDate: 2017-03-06T05:01:48.841Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

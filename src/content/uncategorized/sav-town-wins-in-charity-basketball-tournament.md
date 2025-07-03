@@ -2,7 +2,7 @@
 title: "News - SAV Town Wins in Charity Basketball Tournament"
 pubDate: 2014-11-10T04:29:43.136Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

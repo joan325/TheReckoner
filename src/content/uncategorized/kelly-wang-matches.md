@@ -2,7 +2,7 @@
 title: "Kelly Wang - matches"
 pubDate: 2021-03-29T14:26:17.858Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

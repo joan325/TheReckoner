@@ -2,7 +2,7 @@
 title: "It's been a while since I last watched the birds take flight"
 pubDate: 2021-06-24T22:27:20.369Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

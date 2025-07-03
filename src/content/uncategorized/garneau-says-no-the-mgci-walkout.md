@@ -2,7 +2,7 @@
 title: "Garneau Says No: The MGCI Walkout"
 pubDate: 2019-04-14T18:04:44.873Z
 description: "Article about stuff."
-author: "jackie.huo"
+author: "jackie"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

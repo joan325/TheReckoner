@@ -2,7 +2,7 @@
 title: "Students Become Aware at Clubs Fair"
 pubDate: 2018-11-10T22:49:30.848Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

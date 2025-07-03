@@ -2,7 +2,7 @@
 title: "A Picturesque Scene"
 pubDate: 2021-10-22T19:40:56.638Z
 description: "Article about stuff."
-author: "life.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

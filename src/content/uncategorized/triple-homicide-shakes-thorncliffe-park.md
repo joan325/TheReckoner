@@ -2,7 +2,7 @@
 title: "News: Triple Homicide Shakes Thorncliffe Park"
 pubDate: 2014-12-10T02:16:23.636Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

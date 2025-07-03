@@ -2,7 +2,7 @@
 title: "Painting A Better Tomorrow With Art Council"
 pubDate: 2021-05-01T21:41:38.881Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

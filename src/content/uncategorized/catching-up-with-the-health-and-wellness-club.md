@@ -2,7 +2,7 @@
 title: "Catching Up With the Health and Wellness Club"
 pubDate: 2021-03-31T00:24:23.508Z
 description: "Article about stuff."
-author: "news.thereckoner"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

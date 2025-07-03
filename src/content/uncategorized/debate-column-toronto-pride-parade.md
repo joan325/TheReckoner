@@ -2,7 +2,7 @@
 title: "Debate Column - Toronto Pride Parade"
 pubDate: 2017-06-20T01:01:01.842Z
 description: "Article about stuff."
-author: "Julien Lin"
+author: "julien-lin"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

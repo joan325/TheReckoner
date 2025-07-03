@@ -2,7 +2,7 @@
 title: "Course Feature: Cullinary Arts"
 pubDate: 2016-11-27T08:02:40.037Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

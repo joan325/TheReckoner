@@ -2,7 +2,7 @@
 title: "The Gravity Score"
 pubDate: 2018-04-24T21:11:43.550Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

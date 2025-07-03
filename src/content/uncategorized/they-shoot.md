@@ -2,7 +2,7 @@
 title: "News - They Shoot...They Score!"
 pubDate: 2014-11-07T20:24:14.370Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

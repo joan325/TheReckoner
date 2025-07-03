@@ -2,7 +2,7 @@
 title: "Crystal Bowls for Crystal Clear Minds"
 pubDate: 2017-12-14T16:59:13.100Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

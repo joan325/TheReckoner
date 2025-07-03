@@ -2,7 +2,7 @@
 title: "Op-Ed: Spending Worth Defending"
 pubDate: 2017-03-06T04:55:46.962Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

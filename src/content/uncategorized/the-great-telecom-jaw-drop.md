@@ -2,7 +2,7 @@
 title: "The Great Telecom Jaw Drop"
 pubDate: 2017-04-10T20:17:31.867Z
 description: "Article about stuff."
-author: "Lawrence Pang"
+author: "lawrence-pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

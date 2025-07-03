@@ -2,7 +2,7 @@
 title: "Eco-Ex: An Exhibition for the Striving Environmentalist"
 pubDate: 2018-12-09T19:27:36.654Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

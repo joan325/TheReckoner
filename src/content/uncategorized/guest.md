@@ -2,7 +2,7 @@
 title: "GUEST."
 pubDate: 2018-12-05T04:17:14.128Z
 description: "Article about stuff."
-author: "Reckoner Staff"
+author: "reckoner-staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Tim Hortons, eh"
 pubDate: 2016-03-23T05:42:54.304Z
 description: "Article about stuff."
-author: "deifilia.to"
+author: "deifilia"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

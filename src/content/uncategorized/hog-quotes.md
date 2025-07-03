@@ -2,7 +2,7 @@
 title: "HOG Quotes"
 pubDate: 2015-06-12T01:43:22.930Z
 description: "Article about stuff."
-author: "jc.ho8990"
+author: "jc"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

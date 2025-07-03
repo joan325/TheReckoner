@@ -2,7 +2,7 @@
 title: "Op-Ed: The Niqab Debate: A Triviality that's Stealing the Spotlight"
 pubDate: 2015-10-12T16:40:13.359Z
 description: "Article about stuff."
-author: "Parnika Godkhindi"
+author: "parnika-godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
