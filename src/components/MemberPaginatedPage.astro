@@ -31,6 +31,15 @@ interface Props {
 
 const { name, page, allPosts } = Astro.props;
 
+const authorObj = authors.find(a => a.id === name) ?? {
+  id: name,
+  name: name,
+  guard: '',
+  bio: 'No biography available.',
+  image: '/author-images/default.jpg'
+};
+
+
 // authors.find(a => a.id === post.data.author)['name'] ?? (post.data.author);
 ---
 
@@ -54,7 +63,7 @@ const { name, page, allPosts } = Astro.props;
 				padding: 0;
 			}
 			ul li {
-				width: calc(100% / 3 - 2rem);
+				width: calc(100% / 3.0 - 2rem);
 				background-color: white;
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
@@ -89,6 +98,26 @@ const { name, page, allPosts } = Astro.props;
 				box-shadow: var(--box-shadow);
 			}
             */
+			.author-box {
+				display: flex;
+			}
+			.author-img {
+				width: auto;
+				height: 12em;
+				margin: 1em 1em 1.5em;
+			}
+			.author-info {
+				padding: 0em 2em 0em 1em;
+			}
+			.author-box-full { /* FIX SPACING OF POSTS (on both this and PaginatedPage), fix mobile vers, make sure is centred + aligned w author box*/
+				width: calc(100% - 2.3em);
+				margin: 2em 0em;
+				background-color: rgb(var(--white));
+			}
+			.author-box-full h5 {
+				padding: 1em 1em 0.3em;
+				color: rgb(var(--black));
+			}
 
 			@media (max-width: 720px) {
 				ul,
@@ -117,7 +146,9 @@ const { name, page, allPosts } = Astro.props;
 		<main>
 			<section>
 				<h2>Posts by {name}:</h2>
+				
 				<br>
+
 				<!-- All posts -->
 				<ul>
 					{page.data.map((post) => (
@@ -127,12 +158,33 @@ const { name, page, allPosts } = Astro.props;
 								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">
-									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+									by {(
+										authors.find(a => a.id === post.data.author) ??
+										(
+											{
+												id: post.data.author,
+												name: post.data.author,
+												guard: '',
+												bio: 'No biography available.',
+												image: '/author-images/default.jpg'
+											}
+										))['name']} | <FormattedDate date={post.data.pubDate} />
 								</p>
 							</a>
 						</li>
 					))}
 				</ul>
+
+				<div class="author-box-full"> <!-- make this a component? -->
+					<h5>ABOUT THE AUTHOR</h5>
+					<hr>
+					<div class="author-box">
+						<img src=`${authorObj['image']}` class="author-img">
+						<div class="author-info">
+							<p>{authorObj['bio']}</p>
+						</div>
+					</div>
+				</div>
 
 				<Pagination 
 						length={page.lastPage}

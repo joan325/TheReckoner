@@ -200,7 +200,17 @@ const { category, page, allPosts } = Astro.props;
 										<img src={allPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{allPosts[0].data.title}</h5>
 										<p class="date">
-											by {allPosts[0].data.author} | <FormattedDate date={allPosts[0].data.pubDate} />
+											by {(
+												authors.find(a => a.id === allPosts[0].data.author) ??
+												(
+													{
+														id: allPosts[0].data.author,
+														name: allPosts[0].data.author,
+														guard: '',
+														bio: 'No biography available.',
+														image: '/author-images/default.jpg'
+													}
+												))['name']} | <FormattedDate date={allPosts[0].data.pubDate} />
 										</p>
 									</a>
 								</li>
@@ -214,7 +224,17 @@ const { category, page, allPosts } = Astro.props;
 										<div class="highlighted-info"> <!-- possibly remove this? -->
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
-												by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+												by {(
+													authors.find(a => a.id === post.data.author) ??
+													(
+														{
+															id: post.data.author,
+															name: post.data.author,
+															guard: '',
+															bio: 'No biography available.',
+															image: '/author-images/default.jpg'
+														}
+													))['name']} | <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -233,7 +253,17 @@ const { category, page, allPosts } = Astro.props;
 								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">
-									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+									by {(
+										authors.find(a => a.id === post.data.author) ??
+										(
+											{
+												id: post.data.author,
+												name: post.data.author,
+												guard: '',
+												bio: 'No biography available.',
+												image: '/author-images/default.jpg'
+											}
+										))['name']} | <FormattedDate date={post.data.pubDate} />
 								</p>
 							</a>
 						</li>
