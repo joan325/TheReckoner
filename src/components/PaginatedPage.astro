@@ -196,7 +196,7 @@ const { category, page, allPosts } = Astro.props;
 						<ul>
 							{allPosts[0] && (
 								<li class="featured">
-									<a href={`/${category}/${allPosts[0].id}/`}>
+									<a href={`/${allPosts[0].id}/`}>
 										<img src={allPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{allPosts[0].data.title}</h5>
 										<p class="date">

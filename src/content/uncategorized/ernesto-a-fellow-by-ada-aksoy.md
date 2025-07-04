@@ -1,9 +1,9 @@
 ---
 title: "\"Ernesto, A Fellow\" by Ada Aksoy"
 pubDate: 2021-10-23T04:17:43.097Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Hit the Ground Running"
 pubDate: 2015-10-16T20:35:32.053Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

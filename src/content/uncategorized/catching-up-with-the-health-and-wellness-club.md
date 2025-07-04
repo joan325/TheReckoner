@@ -1,10 +1,10 @@
 ---
 title: "Catching Up With the Health and Wellness Club"
 pubDate: 2021-03-31T00:24:23.508Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 This year, the MGCI Health and Wellness Committee was founded by Ms. Akler, the Assistant Curriculum Leader of Guidance, Mental Health and Wellbeing, and Community Partnerships. The committee aims to provide a safe space for students to discuss and learn about mental and physical health. Beginning on 9 March 2021, the new cohort of the club will run weekly meetings until the closing reflection session on 6 April 2021\.

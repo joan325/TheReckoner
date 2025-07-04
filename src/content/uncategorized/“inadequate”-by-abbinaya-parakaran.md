@@ -1,10 +1,10 @@
 ---
 title: "“inadequate” by Abbinaya Parakaran"
 pubDate: 2021-05-31T18:56:06.123Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 *inadequate*

@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: OUACtually Kidding Me. - Julien"
 pubDate: 2018-02-24T04:36:51.693Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 Having applied to 6 different universities, it’s surprising that my experiences with OUAC and each of these 6 university websites have remained the same: pitiful, distressing, and usually ending with a minute of shouting and screaming followed by hours of extended grumbling.

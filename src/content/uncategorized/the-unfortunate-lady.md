@@ -1,7 +1,7 @@
 ---
 title: "The Unfortunate Lady"
 pubDate: 2015-05-23T02:39:42.944Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

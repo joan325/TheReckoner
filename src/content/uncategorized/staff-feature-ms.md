@@ -1,9 +1,9 @@
 ---
 title: "Staff Feature: Ms. Liebster"
 pubDate: 2018-07-06T05:06:09.713Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

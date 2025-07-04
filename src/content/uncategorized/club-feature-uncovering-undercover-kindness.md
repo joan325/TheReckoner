@@ -1,10 +1,10 @@
 ---
 title: "Club Feature: Uncovering Undercover Kindness"
 pubDate: 2017-11-05T22:14:34.573Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 No matter how big or small, any act of kindness has the potential to make someone’s day. The mission of MGCI Undercover Kindness has always been to make people happy and show that genuine acts of kindness still exist. 

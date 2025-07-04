@@ -1,9 +1,9 @@
 ---
 title: "The Case for the KIA MVP"
 pubDate: 2019-06-09T13:24:41.451Z
-description: "Article about stuff."
+description: "Article."
 author: "andrew_lqh"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

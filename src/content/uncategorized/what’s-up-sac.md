@@ -1,9 +1,9 @@
 ---
 title: "What’s up, SAC?"
 pubDate: 2015-04-22T00:29:35.805Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

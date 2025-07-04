@@ -1,10 +1,10 @@
 ---
 title: "News: Garneau Goes to MIST"
 pubDate: 2015-03-25T02:55:40.289Z
-description: "Article about stuff."
+description: "Article."
 author: "jc_ho"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 By Julie Xiao

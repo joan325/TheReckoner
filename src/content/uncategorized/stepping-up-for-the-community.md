@@ -1,7 +1,7 @@
 ---
 title: "Stepping Up for the Community"
 pubDate: 2017-12-02T05:29:34.468Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

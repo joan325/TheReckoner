@@ -1,9 +1,9 @@
 ---
 title: "The Freshman Club - Cheng Cheng Lin"
 pubDate: 2015-10-13T00:31:59.236Z
-description: "Article about stuff."
+description: "Article."
 author: "metroidude"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

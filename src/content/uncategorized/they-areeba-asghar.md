@@ -1,9 +1,9 @@
 ---
 title: "They - Areeba Asghar"
 pubDate: 2017-02-12T16:52:00.121Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

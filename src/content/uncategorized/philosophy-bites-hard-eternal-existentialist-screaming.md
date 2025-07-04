@@ -1,9 +1,9 @@
 ---
 title: "Philosophy Bites, Hard: Eternal Existentialist Screaming "
 pubDate: 2016-01-10T00:45:09.823Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Editorial: Op-Ed: C-51 (WORKING TITLE)"
 pubDate: 2015-03-24T03:55:37.320Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Editorial"]
 ---
 
 On 23 February, Prime Minister Stephen Harper’s proposed Anti-Terrorism Bill C-51 was passed. The bill expands privileges and powers given to Canadian intelligence and security agencies. The Conservative government claims that the bill is necessary in order to protect Canadians and ensure their freedoms. Is protecting Canadians truly the objective of the Conservative party, or is it a political strategy meant to ensure a Tory victory in the upcoming election?  

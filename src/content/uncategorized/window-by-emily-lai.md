@@ -1,10 +1,10 @@
 ---
 title: "\"window\" by Emily Lai"
 pubDate: 2021-04-26T02:53:15.930Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 I look left. I look right.  

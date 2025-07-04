@@ -1,9 +1,9 @@
 ---
 title: "Caretaker TF"
 pubDate: 2017-04-09T18:13:20.167Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

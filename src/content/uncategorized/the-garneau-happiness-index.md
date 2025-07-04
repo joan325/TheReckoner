@@ -1,9 +1,9 @@
 ---
 title: "The Garneau Happiness Index"
 pubDate: 2016-01-12T05:29:28.060Z
-description: "Article about stuff."
+description: "Article."
 author: "metroidude"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "President Interview"
 pubDate: 2017-11-19T18:13:28.925Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

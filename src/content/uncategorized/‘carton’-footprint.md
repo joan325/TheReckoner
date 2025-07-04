@@ -1,7 +1,7 @@
 ---
 title: "‘Carton’ Footprint"
 pubDate: 2016-06-15T03:20:18.060Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

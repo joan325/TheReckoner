@@ -1,7 +1,7 @@
 ---
 title: "V3N2 Pieces"
 pubDate: 2014-11-08T03:10:59.462Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

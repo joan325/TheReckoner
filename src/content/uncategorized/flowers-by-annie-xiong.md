@@ -1,10 +1,10 @@
 ---
 title: "\"flowers\" by Annie Xiong"
 pubDate: 2021-04-28T01:22:53.416Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 flowers are always so beautiful  

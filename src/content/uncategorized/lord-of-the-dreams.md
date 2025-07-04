@@ -1,7 +1,7 @@
 ---
 title: "Lord of the Dreams"
 pubDate: 2014-12-10T02:54:48.865Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

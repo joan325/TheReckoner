@@ -1,7 +1,7 @@
 ---
 title: "Letter to University Applicants"
 pubDate: 2017-06-12T01:21:35.675Z
-description: "Article about stuff."
+description: "Article."
 author: "julien_lin"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

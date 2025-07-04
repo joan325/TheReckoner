@@ -1,9 +1,9 @@
 ---
 title: "Scholarships "
 pubDate: 2015-10-17T03:35:56.531Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

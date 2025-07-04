@@ -1,10 +1,10 @@
 ---
 title: "The Board that Failed Toronto Students"
 pubDate: 2020-12-20T04:45:19.806Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Editorial"]
 ---
 
 The Board that Failed Toronto Students  

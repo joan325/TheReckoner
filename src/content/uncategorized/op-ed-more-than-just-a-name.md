@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: More Than Just a Name"
 pubDate: 2016-04-18T22:42:06.776Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Editorial"]
 ---
 
 Op-Ed: More Than Just a Name  

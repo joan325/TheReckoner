@@ -1,9 +1,9 @@
 ---
 title: "Editorial: GM Foods"
 pubDate: 2015-05-23T02:27:37.859Z
-description: "Article about stuff."
+description: "Article."
 author: "metroidude"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

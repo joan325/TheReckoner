@@ -1,9 +1,9 @@
 ---
 title: "Grade 11 Conference"
 pubDate: 2017-05-14T01:50:47.248Z
-description: "Article about stuff."
+description: "Article."
 author: "henrytang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

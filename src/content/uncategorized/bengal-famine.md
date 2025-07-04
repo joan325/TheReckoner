@@ -1,7 +1,7 @@
 ---
 title: "Bengal Famine"
 pubDate: 2017-05-14T04:41:02.147Z
-description: "Article about stuff."
+description: "Article."
 author: "torvarun"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

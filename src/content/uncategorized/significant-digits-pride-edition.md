@@ -1,9 +1,9 @@
 ---
 title: "Significant  Digits: Pride Edition"
 pubDate: 2021-06-02T03:45:18.811Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Halloween Happenings at MGCI"
 pubDate: 2018-11-10T22:47:51.602Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 *“It was a graveyard smash\!”* MGCI was spellbound by the spooky festivities organized by Student Activity Council (SAC) for the annual Halloween Spirit Day, which took place on 31 October 2018 in the cafeteria at lunch. SAC advertised its initiatives in the weeks prior to Halloween via posters and social media posts. Students were encouraged to dress up in costumes or wear black and orange clothing to earn house colour points.

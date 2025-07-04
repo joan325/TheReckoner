@@ -1,9 +1,9 @@
 ---
 title: "MGCI Codes Its Way to Success at ECOO"
 pubDate: 2018-06-02T17:16:05.561Z
-description: "Article about stuff."
+description: "Article."
 author: "aimanzaltaf"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

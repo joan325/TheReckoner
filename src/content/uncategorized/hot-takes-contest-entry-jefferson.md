@@ -1,10 +1,10 @@
 ---
 title: "Hot Takes Contest Entry - Jefferson"
 pubDate: 2021-06-25T00:09:27.264Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 **Why the course requirements need to change**

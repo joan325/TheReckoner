@@ -1,9 +1,9 @@
 ---
 title: "Introducing Fall Fest: Autumn with a Bang"
 pubDate: 2016-10-30T20:56:10.199Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

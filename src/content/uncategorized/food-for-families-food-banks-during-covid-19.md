@@ -1,10 +1,10 @@
 ---
 title: "Food For Families: Food Banks During COVID-19"
 pubDate: 2021-03-27T14:20:10.443Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Despite the numerous challenges of COVID-19, food banks around Toronto remain open to serve families in need. However, just like the communities they assist, food banks have also had to adapt to the pandemic. Many food banks, such as Flemingdon Park Food Bank and Community Share Food Bank, which was established in 2004, operate under reduced hours or have had to handle distribution with fewer volunteers.  

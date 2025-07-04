@@ -1,9 +1,9 @@
 ---
 title: "News: Montreal Massacre"
 pubDate: 2014-12-08T03:49:37.342Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

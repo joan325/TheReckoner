@@ -1,7 +1,7 @@
 ---
 title: "Lauren's piece (life)"
 pubDate: 2014-11-12T00:36:14.788Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

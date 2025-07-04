@@ -1,10 +1,10 @@
 ---
 title: "What They Aren't Telling You About: COVID-19 Vaccines"
 pubDate: 2021-04-03T22:55:47.331Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Editorial"]
 ---
 
 What They Aren't Telling You About: COVID-19 Vaccines  

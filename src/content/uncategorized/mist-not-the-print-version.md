@@ -1,9 +1,9 @@
 ---
 title: "MIST (not the print version)"
 pubDate: 2015-03-23T01:20:45.250Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Wikipedia > Librarians :^) - Tazik"
 pubDate: 2018-03-18T20:22:06.262Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

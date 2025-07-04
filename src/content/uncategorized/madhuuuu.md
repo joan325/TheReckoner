@@ -1,7 +1,7 @@
 ---
 title: "MADHUUUU"
 pubDate: 2018-10-11T02:06:03.031Z
-description: "Article about stuff."
+description: "Article."
 author: "tazik_shahjahan"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

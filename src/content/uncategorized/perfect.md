@@ -1,9 +1,9 @@
 ---
 title: "Perfect"
 pubDate: 2016-01-11T02:54:45.847Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

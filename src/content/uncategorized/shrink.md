@@ -1,9 +1,9 @@
 ---
 title: "Shrink"
 pubDate: 2014-12-05T22:48:34.503Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

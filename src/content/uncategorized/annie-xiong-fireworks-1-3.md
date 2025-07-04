@@ -1,10 +1,10 @@
 ---
 title: "Annie Xiong - fireworks (1/3)"
 pubDate: 2021-03-31T17:23:18.131Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 i always loved fireworks  

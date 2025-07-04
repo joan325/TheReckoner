@@ -1,10 +1,10 @@
 ---
 title: "Healthcare and Hardware at HOSA SLC"
 pubDate: 2019-04-13T21:04:39.987Z
-description: "Article about stuff."
+description: "Article."
 author: "jessicaxiong"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Bustling students took over the Metro Toronto Convention Centre on 25 and 26 March to attend the HOSA Spring Leadership Conference (SLC). 

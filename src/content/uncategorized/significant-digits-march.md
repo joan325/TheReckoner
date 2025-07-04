@@ -1,9 +1,9 @@
 ---
 title: "Significant Digits-March"
 pubDate: 2019-04-24T16:52:22.459Z
-description: "Article about stuff."
+description: "Article."
 author: "rqgoob"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

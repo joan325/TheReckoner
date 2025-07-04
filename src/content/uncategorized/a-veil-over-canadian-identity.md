@@ -1,10 +1,10 @@
 ---
 title: "Editorial: A Veil over Canadian Identity"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 Recently, the Federal Courts of Canada lifted the ban on the wearing of niqabs during the citizenship oath. Niqabs are full face covering veils worn by Muslim women for religious reasons.  

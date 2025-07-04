@@ -1,9 +1,9 @@
 ---
 title: "The Niner’s Guide to MGCI"
 pubDate: 2015-10-10T16:34:05.694Z
-description: "Article about stuff."
+description: "Article."
 author: "sqiu"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

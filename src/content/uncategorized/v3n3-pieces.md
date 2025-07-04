@@ -1,9 +1,9 @@
 ---
 title: "V3N3 Pieces"
 pubDate: 2014-12-08T02:08:38.051Z
-description: "Article about stuff."
+description: "Article."
 author: "sqiu"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

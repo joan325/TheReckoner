@@ -1,9 +1,9 @@
 ---
 title: "Is Clickbait Dead? Click Here to Find Out!"
 pubDate: 2017-02-05T05:00:44.670Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

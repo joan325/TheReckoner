@@ -1,9 +1,9 @@
 ---
 title: "Cross Country Cities"
 pubDate: 2016-10-30T20:28:20.323Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

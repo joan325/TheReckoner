@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: Why the SAT is a Waste of Time"
 pubDate: 2015-10-12T03:31:41.444Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Editorial"]
 ---
 
 Why the SAT is a Waste of Time  

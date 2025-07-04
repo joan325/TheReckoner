@@ -1,9 +1,9 @@
 ---
 title: "World Weekly Example"
 pubDate: 2016-01-09T16:07:38.088Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

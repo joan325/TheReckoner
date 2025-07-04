@@ -1,9 +1,9 @@
 ---
 title: "Tim Hortons, eh"
 pubDate: 2016-03-23T05:42:54.304Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

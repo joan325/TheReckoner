@@ -1,10 +1,10 @@
 ---
 title: "Hot Takes Contest Entry - Nuha Khan"
 pubDate: 2021-06-25T00:13:23.103Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 I believe in Dil To Pagal Hai soundtrack supremacy. A tale of love, friendship, and a passion for music, the soundtrack of this 90s Bollywood hit encapsulates exactly that. Bollywood’s evergreen romantic Yash Chopra created some of the best love stories with flawless soundtracks for multiple generations of fans. For those who love Bollywood music, to those looking for the perfect soundtrack to start with, the contemporary and traditional fusion in this soundtrack is the best place to start, and in my opinion the perfect representation of Bollywood for those unfamiliar with it. The energy, instrumentals, indulgence in romanticism, and soulful vocals found here is what makes Bollywood what it is. The movie was originally launched as “Mohabbat Kar Le”, which was later renamed as “Dil to Pagal Hai”, and became immortalized in Bollywood history. Following its release, professional dance groups were popularized, Shahrukh Khan's status as the King of Bollywood was cemented, and the movie’s album took its place as 2nd on the list of Top 10 Bollywood song album sales of all time, with 12.5 Million sales worldwide \[1\].

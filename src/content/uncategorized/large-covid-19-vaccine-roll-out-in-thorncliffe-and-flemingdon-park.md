@@ -1,9 +1,9 @@
 ---
 title: "Large COVID-19 Vaccine Roll Out In Thorncliffe and Flemingdon Park"
 pubDate: 2021-05-01T21:47:55.501Z
-description: "Article about stuff."
+description: "Article."
 author: "zahra_ahmed"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

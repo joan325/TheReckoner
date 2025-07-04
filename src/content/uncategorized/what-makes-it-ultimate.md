@@ -1,9 +1,9 @@
 ---
 title: "What Makes It Ultimate"
 pubDate: 2015-05-26T00:45:48.356Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

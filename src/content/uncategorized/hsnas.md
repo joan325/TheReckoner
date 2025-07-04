@@ -1,9 +1,9 @@
 ---
 title: "HSNAs"
 pubDate: 2016-06-15T04:20:21.777Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "News: The Race to Cure"
 pubDate: 2015-10-13T01:28:37.213Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

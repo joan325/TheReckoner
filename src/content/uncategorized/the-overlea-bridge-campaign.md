@@ -1,9 +1,9 @@
 ---
 title: "The Overlea Bridge Campaign"
 pubDate: 2021-06-25T00:18:36.633Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

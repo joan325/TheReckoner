@@ -1,7 +1,7 @@
 ---
 title: "Mr. Mirza TF"
 pubDate: 2016-06-17T23:12:49.491Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

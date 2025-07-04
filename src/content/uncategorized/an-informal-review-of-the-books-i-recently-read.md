@@ -1,9 +1,9 @@
 ---
 title: "An Informal Review of the Books I Recently Read "
 pubDate: 2016-01-11T06:07:56.222Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

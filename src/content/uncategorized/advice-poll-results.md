@@ -1,9 +1,9 @@
 ---
 title: "Advice Poll Results"
 pubDate: 2017-06-10T15:33:51.044Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

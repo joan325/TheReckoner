@@ -1,10 +1,10 @@
 ---
 title: "Life (As We Know It) – A Review"
 pubDate: 2016-05-02T22:12:27.637Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 This is probably the first review of Life in existence, which is pretty surprising, until you consider just how difficult reviewing, and indeed, any attempt whatsoever at *discussing* Life is (this sentence is a really good example of what I’m trying to say). Ever tried thinking about thinking? It’s kind of like that, but even more thought-provokingly painful. I decided to take a sling at it *anyway* as it is an original idea and I don’t have too many of those. Note that I will try to be as objective as possible, since a subjective review would be a tad bit too angsty for the common palate.  

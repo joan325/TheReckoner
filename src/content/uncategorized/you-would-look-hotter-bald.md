@@ -1,10 +1,10 @@
 ---
 title: "You Would Look Hotter Bald"
 pubDate: 2020-12-05T04:52:09.990Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 You Would Look Hotter Bald  

@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature: Kenny"
 pubDate: 2017-01-23T15:19:24.939Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

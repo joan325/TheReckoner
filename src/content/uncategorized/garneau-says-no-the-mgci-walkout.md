@@ -1,10 +1,10 @@
 ---
 title: "Garneau Says No: The MGCI Walkout"
 pubDate: 2019-04-14T18:04:44.873Z
-description: "Article about stuff."
+description: "Article."
 author: "jackie_huo"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 Classrooms were empty as 1 500 Garneau students walked out of school at 12:20 pm on 4 April 2019 to protest against Ontario Premier Doug Ford’s proposed changes to Ontario’s education plan. Bright placards were waved around while chants of protest and cars honking in support could be heard throughout the neighbourhood.

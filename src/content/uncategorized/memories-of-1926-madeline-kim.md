@@ -1,9 +1,9 @@
 ---
 title: "Memories of 1926 - Madeline Kim"
 pubDate: 2017-02-04T03:34:53.087Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Debate Column: Soccer Hooliganism"
 pubDate: 2017-04-10T21:58:28.310Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

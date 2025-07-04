@@ -1,9 +1,9 @@
 ---
 title: "Significant Digits: April showers bring May...Elections?"
 pubDate: 2019-06-08T03:37:42.724Z
-description: "Article about stuff."
+description: "Article."
 author: "rqgoob"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

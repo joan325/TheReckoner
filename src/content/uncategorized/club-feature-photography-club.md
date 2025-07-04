@@ -1,10 +1,10 @@
 ---
 title: "Club Feature: Photography Club"
 pubDate: 2018-02-25T02:48:49.567Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 In the age of digital photography, learning how to take a good photo is a great asset.  

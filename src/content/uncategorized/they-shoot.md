@@ -1,9 +1,9 @@
 ---
 title: "News - They Shoot...They Score!"
 pubDate: 2014-11-07T20:24:14.370Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

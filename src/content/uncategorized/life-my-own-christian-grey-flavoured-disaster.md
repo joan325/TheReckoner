@@ -1,10 +1,10 @@
 ---
 title: "Life: My Own Christian Grey Flavoured Disaster"
 pubDate: 2015-04-19T03:46:06.312Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 Fifty Shades of Grey has quickly become a cultural phenomenon, and has driven many to take sides. Some are enamored with the so-called 'mommy porn', while others are critical of the significance of its popularity, and what it teaches us about our society. Others are wary of the book's graphic sexual content, while some trash the writing style.  

@@ -1,10 +1,10 @@
 ---
 title: "A Mental Roadblock"
 pubDate: 2020-12-05T04:55:53.848Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
+description: "Article."
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 A Mental Roadblock  

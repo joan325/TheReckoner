@@ -1,9 +1,9 @@
 ---
 title: "Spirit's Up at Garneau"
 pubDate: 2018-04-15T04:03:11.993Z
-description: "Article about stuff."
+description: "Article."
 author: "jessicaguo"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

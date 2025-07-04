@@ -1,9 +1,9 @@
 ---
 title: "Trudeau in India"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "News: Pink Triangles for Solidarity"
 pubDate: 2015-04-22T02:54:38.915Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

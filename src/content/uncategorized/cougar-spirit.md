@@ -1,9 +1,9 @@
 ---
 title: "Cougar Spirit!"
 pubDate: 2016-10-11T17:38:28.677Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

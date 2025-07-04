@@ -1,10 +1,10 @@
 ---
 title: "Food Review"
 pubDate: 2016-06-18T21:55:03.429Z
-description: "Article about stuff."
+description: "Article."
 author: "metroidude"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 There’s a lot of places to get food around MGCI, and some are better than others. Trust me, I’ve been buying lunch every school day for four years. Here are my thoughts after many meals and dollars spent. The number before each restaurant indicates its position on the map, not its ranking. 3 and 6 are Subway and McDonald’s, respectively. I’ve omitted those because you already know all about them. 

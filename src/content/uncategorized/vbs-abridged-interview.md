@@ -1,9 +1,9 @@
 ---
 title: "vB's Abridged Interview"
 pubDate: 2015-04-23T02:53:22.942Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

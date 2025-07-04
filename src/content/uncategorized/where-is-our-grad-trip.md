@@ -1,9 +1,9 @@
 ---
 title: "Where is Our Grad Trip?"
 pubDate: 2015-06-12T05:27:48.133Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

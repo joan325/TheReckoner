@@ -1,9 +1,9 @@
 ---
 title: "Ask The Reckoner- June"
 pubDate: 2017-06-10T21:19:40.223Z
-description: "Article about stuff."
+description: "Article."
 author: "areebasghar"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

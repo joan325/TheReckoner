@@ -1,10 +1,10 @@
 ---
 title: "Fall Cleanup Hosted By Don’t Mess with the Don"
 pubDate: 2021-10-23T04:26:17.036Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 Fall Cleanup Hosted By Don’t Mess with the Don

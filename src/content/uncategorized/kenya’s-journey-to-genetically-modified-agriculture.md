@@ -1,10 +1,10 @@
 ---
 title: "Kenya’s Journey To Genetically Modified Agriculture "
 pubDate: 2021-10-23T04:28:16.481Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 **Kenya’s Journey To Genetically Modified Agriculture** 

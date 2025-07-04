@@ -1,10 +1,10 @@
 ---
 title: "CRISPR: An Analysis of its Future and Ethics"
 pubDate: 2021-06-02T14:15:35.007Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Editorial"]
 ---
 
 CRISPR: An Analysis of its Future and Ethics  

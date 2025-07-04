@@ -1,9 +1,9 @@
 ---
 title: "Copy of shards (as i remember it)"
 pubDate: 2017-04-09T20:23:36.592Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

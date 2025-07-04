@@ -1,10 +1,10 @@
 ---
 title: "Growing Old"
 pubDate: 2015-10-19T05:07:23.369Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 Moujan Saderi

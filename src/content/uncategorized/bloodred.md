@@ -1,10 +1,10 @@
 ---
 title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 The stars on their flag are yellow  

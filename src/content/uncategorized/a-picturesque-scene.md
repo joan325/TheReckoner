@@ -1,10 +1,10 @@
 ---
 title: "A Picturesque Scene"
 pubDate: 2021-10-22T19:40:56.638Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 A Picturesque Scene  

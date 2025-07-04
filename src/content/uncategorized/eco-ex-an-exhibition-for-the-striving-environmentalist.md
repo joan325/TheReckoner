@@ -1,10 +1,10 @@
 ---
 title: "Eco-Ex: An Exhibition for the Striving Environmentalist"
 pubDate: 2018-12-09T19:27:36.654Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 When the bell rang to signal the start of lunch on 22 and 23 November 2018, students passing through the galleria slowed their steps for MGCI EcoTeam’s annual Eco-Ex as the aroma of hot chocolate drifted through the air and brightly colored signs advertising taste testing caught their eyes.

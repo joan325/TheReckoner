@@ -1,9 +1,9 @@
 ---
 title: "Gardening Pro-tips: How to Care for Wallflowers"
 pubDate: 2016-05-02T22:09:04.791Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

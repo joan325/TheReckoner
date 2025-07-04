@@ -1,10 +1,10 @@
 ---
 title: "An Interview with the President"
 pubDate: 2016-11-01T01:33:06.106Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 An Interview with the President  

@@ -1,10 +1,10 @@
 ---
 title: "Akshaya Varakunan - experiment"
 pubDate: 2021-03-31T04:53:10.996Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 

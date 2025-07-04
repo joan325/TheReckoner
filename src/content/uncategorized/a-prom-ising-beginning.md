@@ -1,7 +1,7 @@
 ---
 title: "A Prom-ising Beginning"
 pubDate: 2017-06-16T12:41:12.360Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

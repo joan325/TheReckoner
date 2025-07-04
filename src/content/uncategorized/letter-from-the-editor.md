@@ -1,9 +1,9 @@
 ---
 title: "Letter from the editor"
 pubDate: 2021-06-24T22:32:31.389Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

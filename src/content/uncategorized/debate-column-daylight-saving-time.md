@@ -1,9 +1,9 @@
 ---
 title: "Debate Column: Daylight Saving Time"
 pubDate: 2017-04-11T01:06:22.466Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

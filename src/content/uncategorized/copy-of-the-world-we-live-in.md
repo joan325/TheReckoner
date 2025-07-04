@@ -1,9 +1,9 @@
 ---
 title: "Copy of The World We Live In"
 pubDate: 2016-10-31T02:03:35.976Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

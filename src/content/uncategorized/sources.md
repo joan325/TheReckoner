@@ -1,9 +1,9 @@
 ---
 title: "Sources"
 pubDate: 2017-12-09T23:38:16.936Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

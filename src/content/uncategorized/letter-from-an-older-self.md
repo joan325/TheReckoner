@@ -1,7 +1,7 @@
 ---
 title: "Letter from an Older Self"
 pubDate: 2016-04-19T04:02:30.022Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

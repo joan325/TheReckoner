@@ -1,9 +1,9 @@
 ---
 title: "Copy of Monsters"
 pubDate: 2016-10-30T21:38:04.125Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

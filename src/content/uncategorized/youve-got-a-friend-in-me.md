@@ -1,9 +1,9 @@
 ---
 title: "You've Got A Friend in Me"
 pubDate: 2016-04-18T02:36:03.395Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

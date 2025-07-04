@@ -1,10 +1,10 @@
 ---
 title: "\"Hamster\" by Sarah Li"
 pubDate: 2021-04-28T14:05:43.053Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 The little hamster ran and ran, the wheels turning and churning and creaking like frogs. The little hamster ran, and it thought about the things that it does. The little hamster ran, and thought about the things that lie. Thought about if it was lying.  

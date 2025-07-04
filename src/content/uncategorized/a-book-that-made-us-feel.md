@@ -1,7 +1,7 @@
 ---
 title: "A Book That Made Us Feel"
 pubDate: 2016-03-23T05:15:08.838Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,9 +1,9 @@
 ---
 title: "Two Towers, Three Candles"
 pubDate: 2016-06-15T03:17:00.932Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

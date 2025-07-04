@@ -1,9 +1,9 @@
 ---
 title: "Music Review: Bruno Mars (24K Magic)"
 pubDate: 2017-06-12T00:58:21.721Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

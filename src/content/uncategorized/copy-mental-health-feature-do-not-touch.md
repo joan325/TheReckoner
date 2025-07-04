@@ -1,9 +1,9 @@
 ---
 title: "Copy Mental Health Feature -- DO NOT TOUCH"
 pubDate: 2018-04-15T03:09:09.715Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

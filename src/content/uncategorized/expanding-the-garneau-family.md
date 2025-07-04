@@ -1,9 +1,9 @@
 ---
 title: "Expanding the Garneau Family"
 pubDate: 2016-06-15T05:02:08.529Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

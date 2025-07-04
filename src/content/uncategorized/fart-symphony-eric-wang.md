@@ -1,9 +1,9 @@
 ---
 title: "Fart Symphony Eric Wang"
 pubDate: 2018-07-17T00:28:01.689Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

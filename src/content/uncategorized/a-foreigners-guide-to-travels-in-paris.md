@@ -1,7 +1,7 @@
 ---
 title: "A Foreigner's Guide to Travels in Paris"
 pubDate: 2015-04-21T01:48:36.353Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

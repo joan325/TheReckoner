@@ -1,10 +1,10 @@
 ---
 title: "Goldenberg Feature"
 pubDate: 2018-12-09T04:03:25.960Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 Ten years into her tenure as Principal at Garneau, The Reckoner interviewed Ms.Goldenberg to try and get the inside scoop about her life before, during, and after Garneau. Having rappelled down city hall, visited Alaska,and won Canada's Best Principal award, she turned out to be full of both surprises and insight.

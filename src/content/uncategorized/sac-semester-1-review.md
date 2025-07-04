@@ -1,9 +1,9 @@
 ---
 title: "SAC Semester 1 Review"
 pubDate: 2017-02-05T03:49:50.451Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

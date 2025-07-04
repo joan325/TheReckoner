@@ -1,10 +1,10 @@
 ---
 title: "\"A Ghost Story\" by Maggie Pang"
 pubDate: 2021-04-28T16:02:52.791Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 The first thing that occurred to me was that I had not vanished into oblivion. 

@@ -1,9 +1,9 @@
 ---
 title: "Coming to Canada: My Brother, My Strength"
 pubDate: 2017-02-09T20:41:25.499Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

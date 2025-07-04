@@ -1,7 +1,7 @@
 ---
 title: "HOSA"
 pubDate: 2017-03-06T01:24:44.762Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

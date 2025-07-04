@@ -1,9 +1,9 @@
 ---
 title: "How can I get enough sleep while keeping up great grades, having a social life, and having spare time to do other things?"
 pubDate: 2015-06-09T02:12:19.000Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

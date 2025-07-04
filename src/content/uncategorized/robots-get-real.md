@@ -1,9 +1,9 @@
 ---
 title: "News: Robots Get Real"
 pubDate: 2017-03-01T03:53:40.928Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

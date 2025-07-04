@@ -1,7 +1,7 @@
 ---
 title: "Copy of Too Old to Play House"
 pubDate: 2017-04-11T03:15:01.327Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

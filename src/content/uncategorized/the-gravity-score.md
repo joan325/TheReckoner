@@ -1,9 +1,9 @@
 ---
 title: "The Gravity Score"
 pubDate: 2018-04-24T21:11:43.550Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

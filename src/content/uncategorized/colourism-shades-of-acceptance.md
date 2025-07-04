@@ -1,10 +1,10 @@
 ---
 title: "Colourism: Shades of Acceptance"
 pubDate: 2021-03-31T04:41:17.276Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
+description: "Article."
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 Colourism: Shades of Acceptance  

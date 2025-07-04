@@ -1,9 +1,9 @@
 ---
 title: "What Students Need"
 pubDate: 2019-06-28T02:29:59.311Z
-description: "Article about stuff."
+description: "Article."
 author: "briggitathetwelfth"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

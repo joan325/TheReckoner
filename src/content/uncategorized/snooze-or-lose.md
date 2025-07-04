@@ -1,10 +1,10 @@
 ---
 title: "Snooze or Lose?"
 pubDate: 2021-10-08T00:06:48.833Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 Snooze or Lose?  

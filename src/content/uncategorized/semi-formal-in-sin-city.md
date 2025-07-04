@@ -1,9 +1,9 @@
 ---
 title: "Semi-Formal in Sin City"
 pubDate: 2017-03-07T02:55:49.324Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "A Red Seal of Approval for MGCI’s Specialist High Skills Major Program "
 pubDate: 2019-04-14T19:23:18.322Z
-description: "Article about stuff."
+description: "Article."
 author: "jackie_huo"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

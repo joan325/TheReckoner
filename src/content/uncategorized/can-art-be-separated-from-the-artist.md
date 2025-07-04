@@ -1,10 +1,10 @@
 ---
 title: "Can Art be Separated from the Artist?"
 pubDate: 2019-04-24T12:44:06.840Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 Can Art be Separated from the Artist?  

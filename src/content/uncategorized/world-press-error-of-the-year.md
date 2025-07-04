@@ -1,7 +1,7 @@
 ---
 title: "World Press Error of the Year"
 pubDate: 2017-04-10T21:19:20.849Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

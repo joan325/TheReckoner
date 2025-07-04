@@ -1,7 +1,7 @@
 ---
 title: "Let’s Talk About Sex Education"
 pubDate: 2021-04-28T04:39:52.804Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

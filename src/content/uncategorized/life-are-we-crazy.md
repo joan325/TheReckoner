@@ -1,10 +1,10 @@
 ---
 title: "Life - Are We Crazy?"
 pubDate: 2014-11-11T23:34:51.172Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 ![are we all crazy][image1]  

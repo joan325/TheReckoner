@@ -1,9 +1,9 @@
 ---
 title: "Chemistry: A Poem"
 pubDate: 2015-10-11T23:23:32.760Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

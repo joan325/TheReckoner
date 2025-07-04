@@ -1,9 +1,9 @@
 ---
 title: "Self-Defense "
 pubDate: 2016-01-10T00:43:36.095Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Double Push"
 pubDate: 2015-06-12T03:19:21.517Z
-description: "Article about stuff."
+description: "Article."
 author: "sqiu"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

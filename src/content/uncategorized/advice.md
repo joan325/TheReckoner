@@ -1,7 +1,7 @@
 ---
 title: "Advice"
 pubDate: 2015-10-15T01:23:17.181Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

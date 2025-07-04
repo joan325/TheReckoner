@@ -1,9 +1,9 @@
 ---
 title: "Letter to the Editor: Anything but, actually!"
 pubDate: 2014-12-10T02:36:22.009Z
-description: "Article about stuff."
+description: "Article."
 author: "jc_ho"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
