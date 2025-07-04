@@ -2,13 +2,21 @@
 import PaginatedPage from '../../components/PaginatedPage.astro';
 import { getCollection } from 'astro:content';
 
-const allPostsSorted = (await getCollection('life')).sort(
+const allPosts = await getCollection('uncategorized', ({ data }) => {
+	return data.tags[0] === "Life"
+});
+
+const allPostsSorted = await allPosts.sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 	);
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
 
-	const allPostsSorted = (await getCollection('life')).sort(
+	const allPosts = await getCollection('uncategorized', ({ data }) => {
+		return data.tags[0] === "Life"
+	});
+
+	const allPostsSorted = await allPosts.sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 	);
 	
