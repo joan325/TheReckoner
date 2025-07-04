@@ -8,7 +8,7 @@ import Pagination from '../components/Pagination.astro';
 import type { CollectionEntry } from 'astro:content';
 import authors from '../../data/authors.json';
 
-type PostData = CollectionEntry<'news'> | CollectionEntry<'life'> | CollectionEntry<'editorial'> | CollectionEntry<'photography'> | CollectionEntry<'uncategorized'>;
+type PostData = CollectionEntry<'uncategorized'>;
 
 interface PageProps {
   currentPage: number;
@@ -196,7 +196,7 @@ const { category, page, allPosts } = Astro.props;
 						<ul>
 							{allPosts[0] && (
 								<li class="featured">
-									<a href={`/${allPosts[0].id}/`}>
+									<a href={`/${allPosts[0].slug}/`}>
 										<img src={allPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{allPosts[0].data.title}</h5>
 										<p class="date">
@@ -208,7 +208,8 @@ const { category, page, allPosts } = Astro.props;
 
 							{allPosts.slice(1, 6).map((post) => (
 								<li class="highlighted">
-									<a href={`/${post.id}/`}>
+									<a href={`/${post.slug}/`}>
+									
 										<img src={post.data.heroImage} alt="" />
 										<div class="highlighted-info"> <!-- possibly remove this? -->
 											<h5 class="title">{post.data.title}</h5>
@@ -227,8 +228,9 @@ const { category, page, allPosts } = Astro.props;
 				<ul>
 					{page.data.map((post) => (
 						<li>
-							<a href={`/${post.id}/`}>
+							<a href={`/${post.slug}/`}>
 								<img src={post.data.heroImage} alt="" />
+								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">
 									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
