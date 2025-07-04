@@ -1,10 +1,10 @@
 ---
 title: "\"forlorn figures\" by Annie Xiong"
 pubDate: 2021-06-02T12:33:49.700Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 the wind is a traitor  

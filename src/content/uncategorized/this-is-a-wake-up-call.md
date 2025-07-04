@@ -1,9 +1,9 @@
 ---
 title: "This is a Wake-Up Call"
 pubDate: 2017-04-10T21:19:10.144Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

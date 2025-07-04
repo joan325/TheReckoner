@@ -1,10 +1,10 @@
 ---
 title: "EcoTeam Green Canvas Project"
 pubDate: 2021-03-30T14:49:55.411Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["News"]
 ---
 
 Winner: Hiba Mulla  

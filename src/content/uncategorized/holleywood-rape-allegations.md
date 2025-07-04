@@ -1,10 +1,10 @@
 ---
 title: "Holleywood Rape Allegations"
 pubDate: 2017-12-09T05:09:13.792Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Editorial"]
 ---
 
 With the current slew of celebrity accusations of rape and sexual misconduct, social media has been brimming with demands, apologies, or a futile defense of one’s behaviour. Though perpetrators of sexual violence should undoubtedly be dealt justice, a bigger problem arises when the generalization and prejudice of all accused men appears.

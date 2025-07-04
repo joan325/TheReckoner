@@ -1,10 +1,10 @@
 ---
 title: "Snowden: Vindicated by History"
 pubDate: 2021-02-27T00:38:47.830Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Editorial"]
 ---
 
 Snowden: Vindicated by History  

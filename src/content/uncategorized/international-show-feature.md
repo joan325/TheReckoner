@@ -1,7 +1,7 @@
 ---
 title: "International Show Feature"
 pubDate: 2017-04-09T23:11:09.726Z
-description: "Article about stuff."
+description: "Article."
 author: "julie_xiao"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

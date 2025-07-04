@@ -1,10 +1,10 @@
 ---
 title: "Emily Lai - Sadness in the Sky"
 pubDate: 2021-03-31T17:23:33.493Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 Movies had told him that the saddest days were stormy. It wasn’t until the sky was grey, booming with thunder and pouring rain, that they’d show the most tragic scene. It rained during the funeral of the main character's best friend. It rained as heartbroken lovers split ways. It rained when a soldier died fighting nobly. It rained in the saddest, most dramatic times because falling rain carried the angst of a million angels' tears.

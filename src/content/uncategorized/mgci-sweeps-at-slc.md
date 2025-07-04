@@ -1,9 +1,9 @@
 ---
 title: "MGCI Sweeps at SLC"
 pubDate: 2018-04-23T23:12:02.210Z
-description: "Article about stuff."
+description: "Article."
 author: "jessicaguo"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

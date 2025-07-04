@@ -1,10 +1,10 @@
 ---
 title: "Life: Forever"
 pubDate: 2015-03-24T02:17:45.136Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 I ran my hands through her tangled tresses, the moonlight bathing the locks in its bright glory. Her ebony skin was cold and smooth, her velvet cheeks in my tender grip. Her long lashes were laid out on her skin, innocence evident in her cherry lips.  

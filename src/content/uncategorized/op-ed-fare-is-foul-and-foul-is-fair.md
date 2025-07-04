@@ -1,10 +1,10 @@
 ---
 title: "Editorial: Op-Ed: Fare is Foul and Foul is Fair"
 pubDate: 2015-04-15T11:00:40.662Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Editorial"]
 ---
 
 Fare is Foul and Foul is Fair  

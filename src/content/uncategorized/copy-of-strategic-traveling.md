@@ -1,9 +1,9 @@
 ---
 title: "Copy of Strategic Traveling "
 pubDate: 2016-12-04T22:37:18.476Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

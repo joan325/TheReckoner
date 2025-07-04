@@ -1,9 +1,9 @@
 ---
 title: "Copy of TDSB Redefines Equity"
 pubDate: 2018-02-05T00:15:43.887Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

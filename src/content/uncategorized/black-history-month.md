@@ -1,9 +1,9 @@
 ---
 title: "Black History Month"
 pubDate: 2017-03-07T01:38:17.151Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

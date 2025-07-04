@@ -1,10 +1,10 @@
 ---
 title: "Discovering Debating in Debate Club’s Discord"
 pubDate: 2021-02-04T04:46:24.853Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 What do models, POIs, table banging, case construction, and whipping have in common?   

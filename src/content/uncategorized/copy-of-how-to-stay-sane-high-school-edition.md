@@ -1,9 +1,9 @@
 ---
 title: "Copy of How to Stay Sane-High School Edition"
 pubDate: 2016-10-30T21:34:10.078Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

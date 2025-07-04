@@ -1,10 +1,10 @@
 ---
 title: "DECA Provincials: Where Dreams Come True"
 pubDate: 2019-03-02T19:15:57.267Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 The 2019 DECA Ontario Provincial competition was held at the Sheraton Center Hotel in downtown Toronto on 8 and 9 February 2019\. Over 7 000 students competed for a chance to represent Ontario at the International Career Development Conference (ICDC). This year, ICDC will be held in Orlando, Florida from 25 April to 2 May 2019\.

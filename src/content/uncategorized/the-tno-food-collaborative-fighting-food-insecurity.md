@@ -1,10 +1,10 @@
 ---
 title: "The TNO Food Collaborative: Fighting Food Insecurity"
 pubDate: 2021-03-31T00:19:55.732Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 When thousands of residents of Flemingdon and Thorncliffe Park were put out of their jobs and struggled to put food on the table, community groups banded together and launched the Food Collaborative to help. The food bank project has since helped provide food for over eight hundred households \[1\]. 

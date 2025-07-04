@@ -1,9 +1,9 @@
 ---
 title: "Hockey4Youth"
 pubDate: 2017-04-24T05:34:24.843Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

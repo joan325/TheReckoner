@@ -1,7 +1,7 @@
 ---
 title: "SAC Behind the Scenes"
 pubDate: 2019-03-03T19:23:53.128Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

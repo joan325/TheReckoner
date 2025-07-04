@@ -1,9 +1,9 @@
 ---
 title: "Potent Post-Election Pettiness"
 pubDate: 2021-06-02T14:55:07.294Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

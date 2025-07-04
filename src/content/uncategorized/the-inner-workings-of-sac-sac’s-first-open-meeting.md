@@ -1,9 +1,9 @@
 ---
 title: "The Inner Workings of SAC: SAC’s First Open Meeting"
 pubDate: 2017-12-10T16:28:31.068Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

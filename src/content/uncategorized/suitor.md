@@ -1,10 +1,10 @@
 ---
 title: "Suitor"
 pubDate: 2021-06-24T23:01:40.922Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 Bright white metal, grainy smooth light that flits down like helicopter seeds. Everybody inside their homes, talking with the sound off. Walking yourself home down the warm street when nobody else knows. A purplish stomach inside you, lightening with unease. It’s making you so angry that you can’t describe it just right.

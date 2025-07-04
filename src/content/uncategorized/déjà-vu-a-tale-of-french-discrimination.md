@@ -1,10 +1,10 @@
 ---
 title: "Déjà Vu: A Tale of French Discrimination "
 pubDate: 2020-12-15T04:07:56.647Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+description: "Article."
+author: "reckoner_staff"
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Editorial"]
 ---
 
 Déjà Vu: A Tale of French Discrimination   

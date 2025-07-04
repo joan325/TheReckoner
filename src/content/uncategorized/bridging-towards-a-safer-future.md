@@ -1,10 +1,10 @@
 ---
 title: "Bridging Towards a Safer Future"
 pubDate: 2021-10-23T04:30:06.625Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["News"]
 ---
 
 Being splashed by slush and rainwater. Squeezing through narrow walkways. Walking under dim, inconsistent lighting. These are only some of the problems that plague the thousands of students and residents who cross the Charles H. Hiscott Bridge—also known as the Overlea Bridge—every single day.

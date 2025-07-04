@@ -1,9 +1,9 @@
 ---
 title: "So You Think You Can Small Talk"
 pubDate: 2016-01-14T05:05:26.619Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

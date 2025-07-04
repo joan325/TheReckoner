@@ -1,10 +1,10 @@
 ---
 title: "Board Ed: SAC Popularity Contest"
 pubDate: 2015-05-26T00:42:11.710Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 MGCI’s Annual Popularity Contest (Editorial, by Daniel Pekar)

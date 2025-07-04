@@ -1,9 +1,9 @@
 ---
 title: "From the Editor"
 pubDate: 2018-06-10T03:20:35.082Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

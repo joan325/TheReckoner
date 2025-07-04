@@ -1,9 +1,9 @@
 ---
 title: "Tickling Funny Bones With Comedy Club "
 pubDate: 2021-06-06T01:36:52.463Z
-description: "Article about stuff."
+description: "Article."
 author: "zahra_ahmed"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

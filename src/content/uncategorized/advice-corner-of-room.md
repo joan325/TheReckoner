@@ -1,7 +1,7 @@
 ---
 title: "Advice: Corner of room"
 pubDate: 2015-03-23T23:36:25.116Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,10 +1,10 @@
 ---
 title: "River Wei - crash"
 pubDate: 2021-03-29T14:27:12.965Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 your mouth tastes like scrap metal  

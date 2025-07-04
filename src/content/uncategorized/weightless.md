@@ -1,9 +1,9 @@
 ---
 title: "Weightless"
 pubDate: 2014-12-05T22:48:52.581Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

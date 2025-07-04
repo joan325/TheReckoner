@@ -1,7 +1,7 @@
 ---
 title: "hog captions"
 pubDate: 2017-04-10T21:24:06.838Z
-description: "Article about stuff."
+description: "Article."
 author: "cindy_cui"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,9 +1,9 @@
 ---
 title: "News: The Resurgence of DECA MGCI by Susie Liu"
 pubDate: 2015-02-18T02:06:34.996Z
-description: "Article about stuff."
+description: "Article."
 author: "jc_ho"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

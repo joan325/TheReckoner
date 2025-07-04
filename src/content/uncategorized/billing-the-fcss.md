@@ -1,9 +1,9 @@
 ---
 title: "Billing the FCSS"
 pubDate: 2017-04-24T05:35:44.915Z
-description: "Article about stuff."
+description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

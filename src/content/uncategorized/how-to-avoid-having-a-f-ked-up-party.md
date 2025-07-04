@@ -1,9 +1,9 @@
 ---
 title: "How to avoid having a F**ked up Party"
 pubDate: 2015-05-25T02:53:21.178Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

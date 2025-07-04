@@ -1,9 +1,9 @@
 ---
 title: "Relationship Advice"
 pubDate: 2014-12-10T03:17:16.449Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

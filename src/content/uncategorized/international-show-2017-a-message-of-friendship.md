@@ -1,9 +1,9 @@
 ---
 title: "International Show 2017: A Message of Friendship"
 pubDate: 2017-05-14T02:23:08.950Z
-description: "Article about stuff."
+description: "Article."
 author: "henrytang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

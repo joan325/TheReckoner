@@ -1,7 +1,7 @@
 ---
 title: "DIY Duct Tape Wallets"
 pubDate: 2015-10-12T19:51:03.452Z
-description: "Article about stuff."
+description: "Article."
 author: "sqiu"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

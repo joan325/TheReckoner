@@ -1,9 +1,9 @@
 ---
 title: "cambridge analytica"
 pubDate: 2018-04-24T05:23:35.150Z
-description: "Article about stuff."
+description: "Article."
 author: "e_wai"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Life: Pillow Fight Toronto 2015 "
 pubDate: 2015-04-19T02:57:43.354Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 Carry a pillow while strolling down Yonge Street any day of the year and people will look at you funny. They’ll probably think you’re insecure, and a little crazy too. But on one day every year – International Pillow Fight Day – it’s the exact opposite.  

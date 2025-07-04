@@ -1,9 +1,9 @@
 ---
 title: "Coming To Canada: 14 Years in Dhaka, 14 Months in Toronto"
 pubDate: 2016-10-11T17:41:00.451Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

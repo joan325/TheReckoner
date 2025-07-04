@@ -1,9 +1,9 @@
 ---
 title: "Mazzaferro TF"
 pubDate: 2015-06-12T06:09:02.662Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

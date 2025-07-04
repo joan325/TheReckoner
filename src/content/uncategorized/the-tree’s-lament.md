@@ -1,10 +1,10 @@
 ---
 title: "The Tree’s Lament"
 pubDate: 2021-10-22T19:42:19.710Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 The Tree’s Lament

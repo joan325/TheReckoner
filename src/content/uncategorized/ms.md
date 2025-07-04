@@ -1,10 +1,10 @@
 ---
 title: "Ms. Sawh’s Persistent Path to Vice Principal"
 pubDate: 2021-03-30T23:48:00.041Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["News"]
 ---
 
 In September of 2020, Marc Garneau Collegiate Institute welcomed a new Grade 10 Vice Principal, Ms. Sawh, into the school. For this edition, Anne Liu interviewed her.

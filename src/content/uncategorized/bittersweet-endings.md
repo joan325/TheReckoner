@@ -1,9 +1,9 @@
 ---
 title: "Bittersweet Endings"
 pubDate: 2015-06-12T05:36:41.511Z
-description: "Article about stuff."
+description: "Article."
 author: "jc_ho"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

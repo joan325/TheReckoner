@@ -1,7 +1,7 @@
 ---
 title: "Sledge Hockey"
 pubDate: 2016-11-28T05:33:28.161Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

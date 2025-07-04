@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: A Need for Change – The Legal System and Sexual Assault"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Editorial"]
 ---
 
 On 26 November 2014, Jian Ghomeshi, a prominent Canadian figure and former host of *Q*, a widely popular CBC radio show, was charged with 4 counts of sexual assault.  What set this case apart from all other cases of sexual assault is not just that it involved a famous person; it’s the fact that the proceedings initially began outside the domain of our judicial system. By not taking the usual path of reporting the assault to police and instead going to the media, the then anonymous victims gave the public an opportunity to deliver a verdict. And so they did. After furious online discussions where boisterous individuals posted their opinions, and bashed others who disagreed with them, the majority sentiment emerged to be one that sided with the unnamed victims.  

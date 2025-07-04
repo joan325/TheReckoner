@@ -1,9 +1,9 @@
 ---
 title: "Setting Up for Success: Junior Boys Volleyball "
 pubDate: 2018-11-10T23:09:55.020Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

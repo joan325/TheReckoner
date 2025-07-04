@@ -1,9 +1,9 @@
 ---
 title: "SCAW Night to End a Plight"
 pubDate: 2024-03-24T00:27:21.749Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

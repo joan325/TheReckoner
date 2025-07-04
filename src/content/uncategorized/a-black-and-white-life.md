@@ -1,10 +1,10 @@
 ---
 title: "A Black and White Life"
 pubDate: 2015-10-19T05:07:59.920Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 Areeba Asghar

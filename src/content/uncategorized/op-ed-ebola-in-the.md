@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: Ebola in the News"
 pubDate: 2014-11-12T00:19:16.488Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 ## **Op-Ed: Ebola in the News – A Different Angle**

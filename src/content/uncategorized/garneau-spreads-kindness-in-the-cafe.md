@@ -1,10 +1,10 @@
 ---
 title: "Garneau Spreads Kindness in the Cafe"
 pubDate: 2018-12-03T03:17:52.676Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 On 30 November 2018, students flooded into the cafeteria at lunch and were greeted by the Kindness Cafe booth set up along the side. The Kindness Cafe is an annual event held by Undercover Kindness, through which students can express their gratitude and spread kindness.

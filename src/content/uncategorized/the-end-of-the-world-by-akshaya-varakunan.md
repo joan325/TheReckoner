@@ -1,10 +1,10 @@
 ---
 title: "\"the end of the world\" by Akshaya Varakunan"
 pubDate: 2021-06-02T02:18:04.972Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 **the end of the world**

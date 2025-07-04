@@ -1,10 +1,10 @@
 ---
 title: "Trick or Treat for UNICEF"
 pubDate: 2021-10-23T04:29:15.468Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 MGCI Key Club Goes Trick or Treating for UNICEF

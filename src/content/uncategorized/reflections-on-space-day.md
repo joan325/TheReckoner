@@ -1,9 +1,9 @@
 ---
 title: "Reflections on Space Day"
 pubDate: 2016-04-19T03:18:39.626Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

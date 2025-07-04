@@ -1,7 +1,7 @@
 ---
 title: "In It Together (Mental Health Feature) -- TOUCH THIS"
 pubDate: 2018-04-24T05:24:02.049Z
-description: "Article about stuff."
+description: "Article."
 author: "e_wai"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

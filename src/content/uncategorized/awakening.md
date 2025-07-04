@@ -1,10 +1,10 @@
 ---
 title: "Awakening"
 pubDate: 2016-01-14T05:05:04.469Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 This is the kind of sleep that feels impossible to wake up from. It takes several moments for you to shake away the drowsiness, rub the grit out of your eyes, and wait for that pins-and-needles feeling in your arms to dissolve.  

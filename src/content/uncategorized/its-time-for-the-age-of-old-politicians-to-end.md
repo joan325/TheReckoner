@@ -1,10 +1,10 @@
 ---
 title: "It's time for the age of old politicians to end"
 pubDate: 2021-04-28T04:38:45.244Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 It's Time for the Age of Old Politicians to End  

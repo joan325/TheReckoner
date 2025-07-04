@@ -1,9 +1,9 @@
 ---
 title: "Job Fair"
 pubDate: 2017-04-09T23:48:45.861Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

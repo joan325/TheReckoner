@@ -1,9 +1,9 @@
 ---
 title: "Shakespeare selfie challenge"
 pubDate: 2016-06-14T18:36:21.532Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

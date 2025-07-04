@@ -1,10 +1,10 @@
 ---
 title: "Achievement in Anaheim: MGCI DECA to ICDC"
 pubDate: 2017-05-14T02:15:19.184Z
-description: "Article about stuff."
+description: "Article."
 author: "hargun_kaur"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 # **Achievement in Anaheim: MGCI DECA to ICDC**

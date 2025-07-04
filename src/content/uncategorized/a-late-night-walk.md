@@ -1,10 +1,10 @@
 ---
 title: "A Late-Night Walk"
 pubDate: 2016-06-15T01:48:34.221Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 As I walked in the forest,  

@@ -1,10 +1,10 @@
 ---
 title: "The Grammy Awards Never Fail to Disappoint"
 pubDate: 2021-02-27T00:37:32.069Z
-description: "Article about stuff."
-author: "editorialboard_thereckoner"
+description: "Article."
+author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
 
 The Grammy Awards Never Fail to Disappoint  

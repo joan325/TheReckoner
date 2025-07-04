@@ -1,10 +1,10 @@
 ---
 title: "Talking to Taira: an Interview with the President"
 pubDate: 2021-02-03T06:40:33.578Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 As 2020 drew to a close, MGCI welcomed its new Student Activity Council (SAC). The Reckoner sat down with SAC President Taira Mehta to discuss her plans for the upcoming year.  

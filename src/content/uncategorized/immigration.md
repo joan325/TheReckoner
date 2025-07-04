@@ -1,9 +1,9 @@
 ---
 title: "Immigration Article"
 pubDate: 2016-11-01T01:25:50.624Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

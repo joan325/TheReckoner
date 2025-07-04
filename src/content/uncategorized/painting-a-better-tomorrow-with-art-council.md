@@ -1,10 +1,10 @@
 ---
 title: "Painting A Better Tomorrow With Art Council"
 pubDate: 2021-05-01T21:41:38.881Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Marc Garneau Collegiate Institute’s Art Council, led by President Hateem Fatima, is a group of MGCI students who gather weekly to enjoy the process of creating art, as well as raise awareness for change needed in the community. Regardless of  their skill level, these art lovers meet to appreciate art with one another for fun. The club aims to provide a friendly and open environment where people can enjoy themselves, learn, and forge meaningful connections.

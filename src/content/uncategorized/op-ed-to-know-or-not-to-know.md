@@ -1,10 +1,10 @@
 ---
 title: "Op Ed: To Know, or Not to Know"
 pubDate: 2016-03-21T03:08:04.857Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 To Know, or Not to Know  

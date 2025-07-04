@@ -1,9 +1,9 @@
 ---
 title: "Copy of Bridget's Viola Piece Which Currently Doesn't Have A Name"
 pubDate: 2016-12-09T14:27:50.200Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

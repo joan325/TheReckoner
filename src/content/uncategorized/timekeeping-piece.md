@@ -1,9 +1,9 @@
 ---
 title: "Timekeeping piece "
 pubDate: 2017-05-07T18:38:58.410Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

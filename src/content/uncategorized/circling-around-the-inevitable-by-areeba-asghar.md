@@ -1,9 +1,9 @@
 ---
 title: "Circling Around the Inevitable by Areeba Asghar"
 pubDate: 2017-04-10T05:27:28.650Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

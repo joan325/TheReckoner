@@ -1,10 +1,10 @@
 ---
 title: "Lover Letter- Bridget Huh"
 pubDate: 2019-11-01T03:06:34.977Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Life"]
 ---
 
 To Whom It May Concern:

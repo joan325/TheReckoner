@@ -1,10 +1,10 @@
 ---
 title: "A Tasteless Macron"
 pubDate: 2021-06-04T05:32:51.206Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Editorial"]
 ---
 
 A Tasteless Macron  

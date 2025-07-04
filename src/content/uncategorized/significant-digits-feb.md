@@ -1,9 +1,9 @@
 ---
 title: "Significant Digits Feb.24 (everything is shit edition)"
 pubDate: 2019-03-03T03:57:03.192Z
-description: "Article about stuff."
+description: "Article."
 author: "rqgoob"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Garneau Rallied Up"
 pubDate: 2018-02-24T04:39:10.073Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["News"]
 ---
 
 **Garneau Rallied Up (?)**

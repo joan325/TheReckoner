@@ -1,9 +1,9 @@
 ---
 title: "We Are (Not) Awake"
 pubDate: 2015-05-25T05:24:52.151Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

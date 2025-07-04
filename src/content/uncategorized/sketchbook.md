@@ -1,10 +1,10 @@
 ---
 title: "sketchbook"
 pubDate: 2021-06-24T22:31:36.356Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 sketchbook

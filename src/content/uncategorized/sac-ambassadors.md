@@ -1,9 +1,9 @@
 ---
 title: "SAC Ambassadors"
 pubDate: 2016-12-03T01:26:47.693Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

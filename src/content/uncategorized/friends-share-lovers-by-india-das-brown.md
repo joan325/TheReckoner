@@ -1,10 +1,10 @@
 ---
 title: "\"friends share lovers\" by India Das-Brown"
 pubDate: 2021-04-27T20:11:11.860Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 Friends share lovers and  

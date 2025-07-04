@@ -1,9 +1,9 @@
 ---
 title: "The New SAC Constitution and What It Means for Its Constituents"
 pubDate: 2018-06-10T09:00:48.562Z
-description: "Article about stuff."
+description: "Article."
 author: "tazik_shahjahan"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

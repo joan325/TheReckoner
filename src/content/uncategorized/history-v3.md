@@ -1,9 +1,9 @@
 ---
 title: "History v3.docx"
 pubDate: 2016-01-10T05:08:01.824Z
-description: "Article about stuff."
+description: "Article."
 author: "micklepickle"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

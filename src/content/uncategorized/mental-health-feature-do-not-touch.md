@@ -1,9 +1,9 @@
 ---
 title: "Mental Health Feature -- DO NOT TOUCH"
 pubDate: 2018-04-15T03:05:27.818Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

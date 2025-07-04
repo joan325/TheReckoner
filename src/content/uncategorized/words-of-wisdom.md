@@ -1,9 +1,9 @@
 ---
 title: "News - Words of Wisdom"
 pubDate: 2014-11-12T01:46:29.760Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "SCAW Night"
 pubDate: 2018-12-02T02:14:23.466Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

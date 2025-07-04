@@ -1,9 +1,9 @@
 ---
 title: "The Sound of Sound"
 pubDate: 2015-02-18T02:24:39.800Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "News - A Haunted Halloween in Garneau’s Halls"
 pubDate: 2014-11-12T01:47:28.673Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "McLaughlin's Fence - Xin Niu Zhanf"
 pubDate: 2015-02-17T01:35:07.252Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

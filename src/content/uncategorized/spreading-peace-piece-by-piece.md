@@ -1,9 +1,9 @@
 ---
 title: "Spreading Peace, Piece by Piece"
 pubDate: 2017-11-05T02:01:15.881Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

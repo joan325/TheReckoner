@@ -1,9 +1,9 @@
 ---
 title: "Ballin’ for Turtle House"
 pubDate: 2017-06-11T19:29:19.193Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

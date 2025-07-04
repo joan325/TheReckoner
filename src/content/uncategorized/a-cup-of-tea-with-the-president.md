@@ -1,10 +1,10 @@
 ---
 title: "A Cup of Tea with the President"
 pubDate: 2015-10-13T01:15:19.431Z
-description: "Article about stuff."
+description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["News"]
 ---
 
 *The Reckoner sat down with SAC president Ejay Vidad, who gave insight on SAC’s goals for the year.*  

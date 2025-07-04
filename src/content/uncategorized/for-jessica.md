@@ -1,9 +1,9 @@
 ---
 title: "FOR JESSICA"
 pubDate: 2016-10-11T20:21:22.478Z
-description: "Article about stuff."
+description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

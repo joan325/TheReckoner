@@ -1,9 +1,9 @@
 ---
 title: "Cricket"
 pubDate: 2017-06-11T19:31:43.129Z
-description: "Article about stuff."
+description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Judgement Day"
 pubDate: 2019-11-01T03:06:34.978Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

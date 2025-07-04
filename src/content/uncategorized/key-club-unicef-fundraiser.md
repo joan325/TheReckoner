@@ -1,9 +1,9 @@
 ---
 title: "Key Club UNICEF Fundraiser"
 pubDate: 2017-04-18T02:57:56.118Z
-description: "Article about stuff."
+description: "Article."
 author: "jjlkang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

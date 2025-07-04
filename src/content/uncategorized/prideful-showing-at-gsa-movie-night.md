@@ -1,9 +1,9 @@
 ---
 title: "Prideful Showing at GSA Movie Night"
 pubDate: 2018-06-09T23:59:35.447Z
-description: "Article about stuff."
+description: "Article."
 author: "e_wai"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

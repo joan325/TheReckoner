@@ -1,7 +1,7 @@
 ---
 title: "Why the New Food Guide Matters"
 pubDate: 2019-04-14T19:46:57.155Z
-description: "Article about stuff."
+description: "Article."
 author: "andrewzouli"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

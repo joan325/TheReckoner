@@ -1,9 +1,9 @@
 ---
 title: "Julien Lin"
 pubDate: 2018-06-12T03:51:33.746Z
-description: "Article about stuff."
+description: "Article."
 author: "tazik_shahjahan"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

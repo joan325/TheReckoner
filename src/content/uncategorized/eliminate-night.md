@@ -1,9 +1,9 @@
 ---
 title: "News: Eliminate Night"
 pubDate: 2014-12-10T02:21:50.332Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

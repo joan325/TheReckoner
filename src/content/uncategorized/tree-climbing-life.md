@@ -1,9 +1,9 @@
 ---
 title: "Tree Climbing (Life)"
 pubDate: 2015-02-14T02:32:09.212Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

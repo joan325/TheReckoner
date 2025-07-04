@@ -1,10 +1,10 @@
 ---
 title: "Life: Footprints"
 pubDate: 2015-04-22T02:42:10.911Z
-description: "Article about stuff."
+description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-1.jpg"
+tags: ["Life"]
 ---
 
 My life is just the same as yours,  

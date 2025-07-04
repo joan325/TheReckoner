@@ -1,9 +1,9 @@
 ---
 title: "Art Smarts: Music & Arts Night 2015"
 pubDate: 2016-01-12T06:43:39.504Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

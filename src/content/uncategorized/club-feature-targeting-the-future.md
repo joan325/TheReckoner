@@ -1,10 +1,10 @@
 ---
 title: "Club Feature: Targeting the Future"
 pubDate: 2017-12-09T02:28:12.395Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["News"]
 ---
 
 As we grow up, we will all have to manage our money and wealth. But how exactly can we manage it effectively? How can we make sure that we’re investing in the right places, and spending money on what truly matters? These are the difficult questions that Target Alpha members answer.

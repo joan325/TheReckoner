@@ -1,9 +1,9 @@
 ---
 title: "Advice V4NO2"
 pubDate: 2016-01-12T05:37:44.661Z
-description: "Article about stuff."
+description: "Article."
 author: "sqiu"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 

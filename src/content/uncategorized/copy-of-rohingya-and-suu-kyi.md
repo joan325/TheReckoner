@@ -1,9 +1,9 @@
 ---
 title: "Copy of Rohingya and Suu Kyi"
 pubDate: 2017-11-23T03:40:58.402Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

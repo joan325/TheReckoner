@@ -1,9 +1,9 @@
 ---
 title: "Rounding Ideas at the Round Table"
 pubDate: 2017-02-04T02:38:02.358Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

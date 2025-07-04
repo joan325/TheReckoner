@@ -1,9 +1,9 @@
 ---
 title: "Chalk It Up to Art Council: MGCI's Fifth Annual Doodle Fest"
 pubDate: 2018-06-10T03:13:22.521Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

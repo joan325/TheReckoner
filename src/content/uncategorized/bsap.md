@@ -1,7 +1,7 @@
 ---
 title: "BSAP"
 pubDate: 2015-06-12T04:54:14.011Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

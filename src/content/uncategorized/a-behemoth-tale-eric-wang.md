@@ -1,10 +1,10 @@
 ---
 title: "A Behemoth Tale Eric Wang "
 pubDate: 2017-03-04T03:38:04.543Z
-description: "Article about stuff."
+description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Life"]
 ---
 
 A behemoth tale  

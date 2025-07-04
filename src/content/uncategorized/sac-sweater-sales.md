@@ -1,9 +1,9 @@
 ---
 title: "SAC Sweater Sales"
 pubDate: 2017-04-11T00:26:36.050Z
-description: "Article about stuff."
+description: "Article."
 author: "henrytang"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

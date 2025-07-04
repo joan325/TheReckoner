@@ -1,7 +1,7 @@
 ---
 title: "Semi-Formal: A Night of Love"
 pubDate: 2019-03-02T15:45:18.497Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

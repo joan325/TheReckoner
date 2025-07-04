@@ -1,10 +1,10 @@
 ---
 title: "\"I found a red star\" by Fatima Sharipova"
 pubDate: 2021-05-31T18:52:45.733Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 **I found a red star**

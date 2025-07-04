@@ -1,9 +1,9 @@
 ---
 title: "Iftar With ISNA"
 pubDate: 2021-05-01T21:42:45.310Z
-description: "Article about stuff."
+description: "Article."
 author: "zahra_ahmed"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 

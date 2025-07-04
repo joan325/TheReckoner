@@ -1,9 +1,9 @@
 ---
 title: "Why the pandemic showed we can do more to stop climate change"
 pubDate: 2021-03-31T04:48:21.709Z
-description: "Article about stuff."
+description: "Article."
 author: "chenjeffersonbox"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 

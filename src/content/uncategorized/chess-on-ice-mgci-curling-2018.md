@@ -1,10 +1,10 @@
 ---
 title: "Chess on Ice: MGCI Curling 2018"
 pubDate: 2018-04-15T03:16:13.882Z
-description: "Article about stuff."
+description: "Article."
 author: "aimanzaltaf"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Curling—called “chess on ice” by some—has gained popularity at Marc Garneau in the last couple of years under the coaching of Ms. Wiltenburg. This year, the Girls B, Boys A, and Co-ed B teams performed particularly well, progressing to the final stages in their respective tournaments.

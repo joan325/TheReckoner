@@ -1,10 +1,10 @@
 ---
 title: "Op-Ed: Public Promposals"
 pubDate: 2015-05-25T05:27:46.975Z
-description: "Article about stuff."
+description: "Article."
 author: "metroidude"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-4.jpg"
+tags: ["Editorial"]
 ---
 
 The Public Promposal (Editorial, by Susie Liu)

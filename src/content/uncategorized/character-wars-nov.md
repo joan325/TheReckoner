@@ -1,9 +1,9 @@
 ---
 title: "Character Wars: Nov."
 pubDate: 2019-11-01T03:06:34.977Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "And All I Am"
 pubDate: 2021-10-23T16:44:09.216Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+heroImage: "/blog-placeholder-2.jpg"
+tags: ["Life"]
 ---
 
 And All I Am  

@@ -1,7 +1,7 @@
 ---
 title: "News: Soldiers, We Remember"
 pubDate: 2014-11-12T02:47:57.265Z
-description: "Article about stuff."
+description: "Article."
 author: "jc_ho"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

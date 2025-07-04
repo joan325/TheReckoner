@@ -1,7 +1,7 @@
 ---
 title: "Ranked Ballots - Title TBD"
 pubDate: 2014-12-05T22:50:31.097Z
-description: "Article about stuff."
+description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
