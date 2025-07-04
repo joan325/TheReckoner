@@ -11,7 +11,7 @@ type Props = CollectionEntry<'uncategorized'>['data'];
 const { title, description, author, pubDate, updatedDate, heroImage } = Astro.props;
 
 const authorObj = authors.find(a => a.id === author) ?? {
-  id: 'unknown',
+  id: author,
   name: author,
   guard: '',
   bio: 'No biography available.',
@@ -129,7 +129,7 @@ const authorName = authorObj['name'];
 				<div class="author-box">
 					<img src=`${authorObj['image']}` class="author-img">
 					<div class="author-info">
-						<p><strong>{authorName}</strong></p>
+						<a href=`/member/${authorObj['id']}` style="text-decoration: none;"><p><strong>{authorName}</strong></p></a>
 						<p>{authorObj['bio']}</p>
 					</div>
 				</div>

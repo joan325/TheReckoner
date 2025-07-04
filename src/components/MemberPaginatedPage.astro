@@ -1,0 +1,151 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import FormattedDate from '../components/FormattedDate.astro'; 
+import Pagination from '../components/Pagination.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import authors from '../../data/authors.json';
+
+type PostData = CollectionEntry<'uncategorized'>;
+
+interface PageProps {
+  currentPage: number;
+  lastPage: number;
+  data: PostData[];
+  url: {
+    current: string;
+    prev?: string;
+    next?: string;
+    first: string;
+    last: string;
+  };
+}
+
+interface Props {
+  name: string;
+  page: PageProps;
+  allPosts: PostData[];
+}
+
+const { name, page, allPosts } = Astro.props;
+
+// authors.find(a => a.id === post.data.author)['name'] ?? (post.data.author);
+---
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+			}
+
+			/* Regular posts */
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(100% / 3 - 2rem);
+				background-color: white;
+				border-radius: 3px;
+				box-shadow: var(--box-shadow-2);
+			}
+			ul li:hover {
+				box-shadow: var(--box-shadow);
+			}
+			ul li img {
+				margin-bottom: 0.5rem;
+				border-radius: 0px;
+			}
+			ul li a {
+				display: block;
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			.title {
+				margin: 0rem 1rem;
+				color: rgb(var(--accent-dark));
+				line-height: 1;
+			}
+			.date {
+				margin: 0rem 1rem 1rem;
+				color: rgb(var(--gray));
+			}
+            /*
+			ul li a:hover h5,
+			ul li a:hover .date {
+				color: rgb(var(--accent));
+			}
+			ul a:hover img {
+				box-shadow: var(--box-shadow);
+			}
+            */
+
+			@media (max-width: 720px) {
+				ul,
+				.latest-box {
+					display: block;
+				}
+				ul li,
+				.latest-box .highlighted,
+				.latest-box .featured {
+					width: 100%;
+					text-align: center;
+					margin-bottom: 1rem;
+				}
+				.latest-box .highlighted {
+					flex-direction: column;
+					align-items: center;
+				}
+				.latest-box .highlighted img {
+					width: 80%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<h2>Posts by {name}:</h2>
+				<br>
+				<!-- All posts -->
+				<ul>
+					{page.data.map((post) => (
+						<li>
+							<a href={`/${post.slug}/`}>
+								<img src={post.data.heroImage} alt="" />
+								
+								<h5 class="title">{post.data.title}</h5>
+								<p class="date">
+									by {post.data.author} | <FormattedDate date={post.data.pubDate} />
+								</p>
+							</a>
+						</li>
+					))}
+				</ul>
+
+				<Pagination 
+						length={page.lastPage}
+						currentUrl={page.url.current}
+						currentPage={page.currentPage}
+						firstUrl={page.url.first}
+						prevUrl={page.url.prev}
+						nextUrl={page.url.next}
+						lastUrl={page.url.last}
+					/>
+
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
