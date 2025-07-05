@@ -1,9 +1,21 @@
 ---
 import MemberPaginatedPage from '../../../components/MemberPaginatedPage.astro';
 import { getCollection } from 'astro:content';
+import Redirect1 from '../../../components/Redirect-1.astro';
+// export const prerender = false;
 
 const { page } = Astro.props;
-const { member } = Astro.params;
+const { member, page: pageParam } = Astro.params;
+
+let redirectUrl = '';
+let redirect = false;
+
+console.log('0');
+if (Array.isArray(pageParam) && pageParam[0] === "1") {
+	redirectUrl = `members/${member}`;
+	redirect = true;
+	console.log(`redirect: ${member}`);
+}
 
 const allPosts = await getCollection('uncategorized', ({ data }) => {
 	return data.author === member;
@@ -33,10 +45,21 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 		});
 
 		allPaginatedPaths.push(...paginatedPaths);
+		
+		allPaginatedPaths.push({
+      		params: { member, page: "1" },
+    	});
 	}
+
+	
 
 	return allPaginatedPaths;
 }
 ---
 
-<MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
+{redirect ? (
+	<Redirect1 category={redirectUrl}></Redirect1>
+	) : (
+		<MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
+	)
+}

@@ -181,6 +181,7 @@ const authorObj = authors.find(a => a.id === name) ?? {
 					<div class="author-box">
 						<img src=`${authorObj['image']}` class="author-img">
 						<div class="author-info">
+							<p><strong>{authorObj['name']}</strong></p>
 							<p>{authorObj['bio']}</p>
 						</div>
 					</div>
