@@ -2,12 +2,10 @@
 title: "To Unify Or To Divide?"
 pubDate: 2019-04-17T22:51:38.790Z
 description: "Article."
-author: "nicknelson_lee"
+author: "nick_nelson_lee"
 heroImage: "/blog-placeholder-5.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
-
-**To Unify or to Divide?**
 
 On 16 June 2015, Donald J. Trump started his US presidential campaign by alienating a significant portion of the electorate, saying, “\[Mexicans are\] bringing drugs, they’re bringing crime, they’re rapists.” Despite many saying that such narrative marked the ridiculousness and the death of the campaign — before it really started — Trump railed on, promising to build a grand wall dividing the U.S. border with Mexico to keep aliens out. It was no surprise then that on election day, his competitor Hillary Clinton won 66% of the Latino vote \[1\].  
 
