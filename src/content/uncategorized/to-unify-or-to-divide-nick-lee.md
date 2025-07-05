@@ -1,0 +1,61 @@
+title: "To Unify Or To Divide?"
+pubDate: 2019-04-17T22:51:38.790Z
+description: "Article."
+author: "nicknelson_lee"
+heroImage: "/blog-placeholder-5.jpg"
+tags: ["Uncategorized"]
+---
+
+**To Unify or to Divide?**
+
+On 16 June 2015, Donald J. Trump started his US presidential campaign by alienating a significant portion of the electorate, saying, “\[Mexicans are\] bringing drugs, they’re bringing crime, they’re rapists.” Despite many saying that such narrative marked the ridiculousness and the death of the campaign — before it really started — Trump railed on, promising to build a grand wall dividing the U.S. border with Mexico to keep aliens out. It was no surprise then that on election day, his competitor Hillary Clinton won 66% of the Latino vote \[1\].  
+
+Thanks to previous election results and his continued attitude towards Mexico, Donald Trump winning the Latino vote in the future seems ludicrous, but it is possible. For the President to win the Latinos vote, he needs to change how Latinos perceive him. So how would the President put himself in a favourable light? 
+
+The President should avoid lumping Latinos in one group, promote a stronger border without offending who. He should talk about his economic successes for Latinos as President. He needs to become more nuanced on his rhetoric and phrasing on illegal migrants. 
+
+Currently, President Trump lumps law-abiding Latinos citizens and permanent residents all under the same umbrella as illegal immigrants and gang members. By addressing the different groups of Latinos under one term, he alienates Latino immigrants who are American citizens—the only group of Latinos that vote in American elections. 
+
+The President may lose some votes from extreme anti-immigrant voters, but generally, this change in messaging would drum up more support for Trump. Most Trump voters already rally behind his idea to secure the border. Reducing the number of illegal border crossings will also curb illegal drug trafficking revenue from cross-border gangs and create the perception of a strong and secure southern border. The President’s “tough on crime” rhetoric would win. 
+
+To engage Latin-Americans in his cause, the President should call upon law-abiding Latinos citizens to help him keep the border secure and safe. This may seem counterintuitive at first, but there are many reasons why Latinos may want a stronger border. Many Latin-American citizens came to America to escape troubles in their home countries. 
+
+People, especially families, flee to America to escape authoritarian regimes or run away from unjust persecution. In one story reported in National Geographic, Espana, the father of a two-year-old child, was willing to risk separation at the border than to return Honduras and face a likely death from criminals and gang members \[2\]. Espana’s story is similar to countless other stories of asylum seekers from Central America’s Northern Triangle of Honduras, Guatemala, and El Salvador. These countries have significant gang populations, and not coincidentally, the three have among the highest murder rates in the world.
+
+Citizens who live in border states would appreciate the reduction of potential crime and criminals entering their neighbourhoods and communities. Like all families, Latino families wish to raise their children in safe environments. Fewer gang members crossing the border has clear benefits: less crime, fewer drugs, and less violence. Safe communities offer stability, opportunity, and prevents children from falling into cycles of poverty or crime.
+
+The President’s other selling point is the economy. Demographically, Latinos are working lower to middle-class citizens, meaning many would be open to plans hoping to end the cycle of poverty, an opportunity that the President could and should exploit. Already, the President has some numbers to give him credibility in the Latino community. Rasmussen Reports states that the President’s economic policies have driven down unemployment for Latinos non-college graduates to its lowest level since the early 1970s. Non-managerial wages have also increased 2.7 percent in the last year \[3\]. The Bureau of Economic Analysis reports that over 3.6 million Americans have been lifted off of food stamps since Trump was elected \[3\]. Though voters may not forgive his early rhetoric, if Trump can further help improve the economic lives of Latinos—and advertise it—Latino families and voters would thank them in votes \[3\]. 
+
+Repeating these figures enough times will change the public’s view on the President’s handling of the economy. The wage growth and reduced unemployment are noticeably felt in Latinos communities. Also, the general American electorate—and Latinos voters—will not remember that the President’s economic successes were a result of President Obama’s economic policies. The optics would be in the President’s favour. President Trump, the “New York businessman,” made all these economic gains possible. He can also counter the Democratic Party’s promises and platform of creating economic opportunities for the disadvantaged and claim that he too, can help out minorities by creating jobs and opportunities.
+
+Another factor worth playing up is how the President’s tax cuts help out Latino businesses. Latinos are the most entrepreneurial demographic in the United States. The United States Census Bureau reports that the number of US businesses owned by Latinos grew by over one million firms from 2007 to 2012 \[4\]. The President’s tax cut has helped generate more revenue for these small businesses, a fact that the President should tout. 
+
+However, the evaluation of the President and how he can win the Latino has one major flaw: we referred to Latinos as one large, homogenous group. Keep in mind Latinos voters are not single-issue voters. They do not vote as a bloc just based on immigration; the economy, healthcare, and jobs are often much more critical to Hispanic-American citizens. It is clear to distinguish between different groups of Latinos: Mexicans, Central Americans, Caribbeans, Cubans, South Americans and more. There are further distinctions and differences within each group. Thus, this plan would not be as effective on some Latinos groups compared to others.
+
+Floridian Cuban Americans are one of the staunchest Republicans groups in the country, while in communities like El Paso, Texas, Mexican Americans vote for the Democrats in a ratio of 4:1 \[5\]. This shows that for Latinos to vote for Trump, the President must have his local field operatives directing his message specific to each Latinos group. The President cannot use his enormous media presence to win other single-issue groups like White Evangelicals. 
+
+The President would need to continuously repeat the main pillars to promote this plan effectively. This not only will this convince Latinos voters to vote for him, but consistently erode his current stance on Latinos. During his reelection campaign, the President should also highlight this message when in border states. This will maximize the number of Latinos votes he gets. 
+
+However, the President is very unlikely to promote this message in 2020\. When campaigning for the 2018 midterm elections, the President used fear-mongering tactics instead of unifying Americans to win over supporters. He campaigned on the angst of “immigrants pouring over the border” and a caravan of poor people marching to cross the US border. He has deployed over fifteen thousand troops on the border to stop Central American asylum seekers from legally entering the United States. Emboldened by the sweeping victory of candidates he campaigned for, it is likely the President will continue his fear-driven message to win over non-Latinos voters because it riles up his base. 
+
+His rhetoric will not help the Republican Party in the future; in fact, it may actually hurt them. America’s demographics are changing. Key Republican states like Arizona or Texas are becoming from diverse, progressive, and inclusive. America is projected to become a minority-majority country by 2045, meaning that visible minorities would be the majority \[6\]. The President’s key voting base: white, uneducated, evangelical male voters is shrinking. When the President slowly disappears from the national stage in 2020 or 2024, how will the Republican Party win elections and retain power?
+
+It is time for the President to include rather than to divide, so that he can boost his chances of winning, but also set America back on track to being a diverse nation where minorities and Latinos can enjoy the American Dream. 
+
+\[1\]  [http://www.pewresearch.org/fact-tank/2016/10/14/key-facts-about-the-latino-vote-in-2016/](http://www.pewresearch.org/fact-tank/2016/10/14/key-facts-about-the-latino-vote-in-2016/)  
+
+\[2\] [https://www.nationalgeographic.com/photography/proof/2018/06/mexico-immigration-children-parents-border-separation-culture/](https://www.nationalgeographic.com/photography/proof/2018/06/mexico-immigration-children-parents-border-separation-culture/)     
+
+\[3\] [https://www.dailysignal.com/2018/08/03/fact-check-trump-says-3-5-million-people-have-been-lifted-off-food-stamps/](https://www.dailysignal.com/2018/08/03/fact-check-trump-says-3-5-million-people-have-been-lifted-off-food-stamps/)   
+
+\[4\]  
+
+[https://www.census.gov/newsroom/blogs/random-samplings/2016/12/hispanic-owned\_busin.html](https://www.census.gov/newsroom/blogs/random-samplings/2016/12/hispanic-owned_busin.html)  
+
+\[5\]  
+
+[https://www.reuters.com/article/us-usa-election-texas/democrat-orourke-winning-the-hispanic-vote-in-texas-but-its-not-enough-idUSKCN1MS1F4](https://www.reuters.com/article/us-usa-election-texas/democrat-orourke-winning-the-hispanic-vote-in-texas-but-its-not-enough-idUSKCN1MS1F4)  
+
+\[6\]  
+
+[https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/](https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/)
