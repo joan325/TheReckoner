@@ -4,18 +4,15 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import FormattedDate from '../components/FormattedDate.astro'; 
-import Pagination from '../components/Pagination.astro';
 import type { CollectionEntry } from 'astro:content';
 import authors from '../../data/authors.json';
 
 type PostData = CollectionEntry<'uncategorized'>;
 
 interface PageProps {
-  currentPage: number;
   lastPage: number;
   data: PostData[];
   url: {
-    current: string;
     prev?: string;
     next?: string;
     first: string;
@@ -24,15 +21,15 @@ interface PageProps {
 }
 
 interface Props {
-  category: string;
   page: PageProps;
   allPosts: PostData[];
+  newsPosts: PostData[];
+  editorialPosts: PostData[];
+  lifePosts: PostData[];
+  photographyPosts: PostData[];
 }
 
-const { category, page, allPosts } = Astro.props;
-
-
-
+const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts } = Astro.props;
 
 ---
 
@@ -103,7 +100,7 @@ const { category, page, allPosts } = Astro.props;
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
-                border-top: 3px solid var(--accent);
+                border-top: 3px solid var(--accent); /* new *** */
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));
@@ -198,14 +195,13 @@ const { category, page, allPosts } = Astro.props;
 		<Header />
 		<main>
 			<section>
-				<!-- First 6 posts (featured + highlighted) -->
-				{page.currentPage === 1 && (
-					<div class="latest-box">
-					<h4>{category.toUpperCase()}</h4>
-					<hr>
+				<!-- All posts -->
+				<div class="latest-box">
+                <h4>ALL POSTS</h4>
+                <hr>
 						<ul>
 							{allPosts[0] && (
-								<li class="featured">
+                                <li class="featured">    
 									<a href={`/${allPosts[0].slug}/`}>
 										<img src={allPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{allPosts[0].data.title}</h5>
@@ -252,45 +248,172 @@ const { category, page, allPosts } = Astro.props;
 							))}
 						</ul>
 					</div>
-				)}
 
-				<!-- Rest of posts -->
-				<ul>
-					{page.data.map((post) => (
-						<li>
-							<a href={`/${post.slug}/`}>
-								<img src={post.data.heroImage} alt="" />
-								
-								<h5 class="title">{post.data.title}</h5>
-								<p class="date">
-									by {(
-										authors.find(a => a.id === post.data.author) ??
-										(
-											{
-												id: post.data.author,
-												name: post.data.author,
-												guard: '',
-												bio: 'No biography available.',
-												image: '/author-images/default.jpg'
-											}
-										))['name']} | <FormattedDate date={post.data.pubDate} />
-								</p>
-							</a>
-						</li>
-					))}
-				</ul>
+                    
+				<!-- News posts -->
+				<div class="latest-box">
+                <h4>NEWS</h4>
+                <hr>
+						<ul>
+							{newsPosts[0] && (
+								<li class="featured">
+									<a href={`/${newsPosts[0].slug}/`}>
+										<img src={newsPosts[0].data.heroImage} alt="" />
+										<h5 class="title">{newsPosts[0].data.title}</h5>
+										<p class="date">
+											by {(
+												authors.find(a => a.id === newsPosts[0].data.author) ??
+												(
+													{
+														id: newsPosts[0].data.author,
+														name: newsPosts[0].data.author,
+														guard: '',
+														bio: 'No biography available.',
+														image: '/author-images/default.jpg'
+													}
+												))['name']} | <FormattedDate date={newsPosts[0].data.pubDate} />
+										</p>
+									</a>
+								</li>
+							)}
 
-				<Pagination 
-						length={page.lastPage}
-						currentUrl={page.url.current}
-						currentPage={page.currentPage}
-						firstUrl={page.url.first}
-						prevUrl={page.url.prev}
-						nextUrl={page.url.next}
-						lastUrl={page.url.last}
-					/>
+							{newsPosts.slice(1, 6).map((post) => (
+								<li class="highlighted">
+									<a href={`/${post.slug}/`}>
+									
+										<img src={post.data.heroImage} alt="" />
+										<div class="highlighted-info"> <!-- possibly remove this? -->
+											<h5 class="title">{post.data.title}</h5>
+											<p class="date">
+												by {(
+													authors.find(a => a.id === post.data.author) ??
+													(
+														{
+															id: post.data.author,
+															name: post.data.author,
+															guard: '',
+															bio: 'No biography available.',
+															image: '/author-images/default.jpg'
+														}
+													))['name']} | <FormattedDate date={post.data.pubDate} />
+											</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
 
-			</section>
+                    
+				<!-- Editorial posts -->
+				<div class="latest-box">
+                <h4>EDITORIAL</h4>
+                <hr>
+						<ul>
+							{editorialPosts[0] && (
+								<li class="featured">
+									<a href={`/${editorialPosts[0].slug}/`}>
+										<img src={editorialPosts[0].data.heroImage} alt="" />
+										<h5 class="title">{editorialPosts[0].data.title}</h5>
+										<p class="date">
+											by {(
+												authors.find(a => a.id === editorialPosts[0].data.author) ??
+												(
+													{
+														id: editorialPosts[0].data.author,
+														name: editorialPosts[0].data.author,
+														guard: '',
+														bio: 'No biography available.',
+														image: '/author-images/default.jpg'
+													}
+												))['name']} | <FormattedDate date={editorialPosts[0].data.pubDate} />
+										</p>
+									</a>
+								</li>
+							)}
+
+							{editorialPosts.slice(1, 6).map((post) => (
+								<li class="highlighted">
+									<a href={`/${post.slug}/`}>
+									
+										<img src={post.data.heroImage} alt="" />
+										<div class="highlighted-info"> <!-- possibly remove this? -->
+											<h5 class="title">{post.data.title}</h5>
+											<p class="date">
+												by {(
+													authors.find(a => a.id === post.data.author) ??
+													(
+														{
+															id: post.data.author,
+															name: post.data.author,
+															guard: '',
+															bio: 'No biography available.',
+															image: '/author-images/default.jpg'
+														}
+													))['name']} | <FormattedDate date={post.data.pubDate} />
+											</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
+				
+                    
+				<!-- Life posts -->
+				<div class="latest-box">
+                <h4>LIFE</h4>
+                <hr>
+						<ul>
+							{lifePosts[0] && (
+								<li class="featured">
+									<a href={`/${lifePosts[0].slug}/`}>
+										<img src={lifePosts[0].data.heroImage} alt="" />
+										<h5 class="title">{lifePosts[0].data.title}</h5>
+										<p class="date">
+											by {(
+												authors.find(a => a.id === lifePosts[0].data.author) ??
+												(
+													{
+														id: lifePosts[0].data.author,
+														name: lifePosts[0].data.author,
+														guard: '',
+														bio: 'No biography available.',
+														image: '/author-images/default.jpg'
+													}
+												))['name']} | <FormattedDate date={lifePosts[0].data.pubDate} />
+										</p>
+									</a>
+								</li>
+							)}
+
+							{lifePosts.slice(1, 6).map((post) => (
+								<li class="highlighted">
+									<a href={`/${post.slug}/`}>
+									
+										<img src={post.data.heroImage} alt="" />
+										<div class="highlighted-info"> <!-- possibly remove this? -->
+											<h5 class="title">{post.data.title}</h5>
+											<p class="date">
+												by {(
+													authors.find(a => a.id === post.data.author) ??
+													(
+														{
+															id: post.data.author,
+															name: post.data.author,
+															guard: '',
+															bio: 'No biography available.',
+															image: '/author-images/default.jpg'
+														}
+													))['name']} | <FormattedDate date={post.data.pubDate} />
+											</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
+
 		</main>
 		<Footer />
 	</body>
