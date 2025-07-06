@@ -2,64 +2,62 @@
 import MemberPaginatedPage from '../../../components/MemberPaginatedPage.astro';
 import { getCollection } from 'astro:content';
 import Redirect1 from '../../../components/Redirect-1.astro';
-// export const prerender = false;
+import type { string } from 'astro:schema';
 
 const { page } = Astro.props;
 const { member, page: pageParam } = Astro.params;
 
-let redirectUrl = '';
 let redirect = false;
+let redirectUrl = '';
 
-console.log('0');
-if (Array.isArray(pageParam) && pageParam[0] === "1") {
-	redirectUrl = `members/${member}`;
-	redirect = true;
-	console.log(`redirect: ${member}`);
+console.log(pageParam);
+if (pageParam === "1") {
+  redirectUrl = `/member/${member}/`;
+  redirect = true;
 }
 
+console.log('page param:', Astro.params.page, Array.isArray(Astro.params.page));
+
+
 const allPosts = await getCollection('uncategorized', ({ data }) => {
-	return data.author === member;
+  return data.author === member;
 });
 
 const allPostsSorted = allPosts.sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
-	const allPosts = await getCollection('uncategorized');
+  const allPosts = await getCollection('uncategorized');
 
-	const uniqueMembers = [...new Set(allPosts.map(post => post.data.author))];
+  const uniqueMembers = [...new Set(allPosts.map(post => post.data.author))];
+  const allPaginatedPaths = [];
 
-	const allPaginatedPaths = [];
+  for (const member of uniqueMembers) {
+    const postsByMember = allPosts.filter(post => post.data.author === member);
+    const postsSorted = postsByMember.sort(
+      (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+    );
 
-	for (const member of uniqueMembers) {
-		const postsByMember = allPosts.filter(post => post.data.author === member);
+    const paginatedPaths = paginate(postsSorted, {
+      pageSize: 15,
+      params: { member },
+    });
 
-		const postsSorted = postsByMember.sort(
-			(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-		);
+    allPaginatedPaths.push(...paginatedPaths);
 
-		const paginatedPaths = paginate(postsSorted, {
-			pageSize: 15,
-			params: { member },
-		});
+    allPaginatedPaths.push({
+      params: { member, page: "1" },
+    });
+  }
 
-		allPaginatedPaths.push(...paginatedPaths);
-		
-		allPaginatedPaths.push({
-      		params: { member, page: "1" },
-    	});
-	}
 
-	
-
-	return allPaginatedPaths;
+  return allPaginatedPaths;
 }
 ---
 
 {redirect ? (
-	<Redirect1 category={redirectUrl}></Redirect1>
-	) : (
-		<MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
-	)
-}
+  <Redirect1 category={redirectUrl} />
+) : (
+  <MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
+)}
