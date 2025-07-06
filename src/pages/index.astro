@@ -6,7 +6,7 @@ import { getCollection } from 'astro:content';
 // All
 const allPostsSorted = (await getCollection('uncategorized')).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+).slice(0,6);
 
 
 // News
@@ -15,7 +15,7 @@ const newsPosts = await getCollection('uncategorized', ({ data }) => {
 });
 const newsPostsSorted = (newsPosts).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+).slice(0,6);
 
 // Editorial
 const editorialPosts = await getCollection('uncategorized', ({ data }) => {
@@ -23,7 +23,7 @@ const editorialPosts = await getCollection('uncategorized', ({ data }) => {
 });
 const editorialPostsSorted = (editorialPosts).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+).slice(0,6);
 
 // Life
 const lifePosts = await getCollection('uncategorized', ({ data }) => {
@@ -31,7 +31,7 @@ const lifePosts = await getCollection('uncategorized', ({ data }) => {
 });
 const lifePostsSorted = (lifePosts).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+).slice(0,6);
 
 // Photography
 const photographyPosts = await getCollection('uncategorized', ({ data }) => {
@@ -39,21 +39,7 @@ const photographyPosts = await getCollection('uncategorized', ({ data }) => {
 });
 const photographyPostsSorted = (photographyPosts).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
-
-	
-// remove below later
-export async function getStaticPaths({ paginate }: { paginate: any }) {
-
-	const allPostsSorted = (await getCollection('uncategorized')).sort(
-		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-	);
-	
-	// Skip highlighted posts showed on page 1
-	const rest = allPostsSorted.slice(6);
-
-	return paginate(rest, { pageSize: 15 });
-}
+).slice(0,6);
 
 const { page } = Astro.props;
 ---

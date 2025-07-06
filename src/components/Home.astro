@@ -79,18 +79,8 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 				margin: 0rem 1rem 1rem;
 				color: rgb(var(--gray));
 			}
-            /*
-			ul li a:hover h5,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-            */
-
 			/* Contains featured + 5 more posts */
-			.latest-box {
+			.latest-box:not(.all) {
 				display: grid;
 				grid-template-columns: 1fr 1fr;
 				width: calc(100% - 2rem);
@@ -100,7 +90,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
-                border-top: 3px solid var(--accent); /* new *** */
+                border-top: 3px solid var(--accent);
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));
@@ -127,7 +117,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 			.latest-box ul li:hover {
 				box-shadow: none;
 			}
-			.latest-box .featured {
+			.latest-box:not(.all) .featured {
 				grid-column: 1;
 				text-align: left;
                 grid-row: span 5;
@@ -135,8 +125,12 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
                 list-style: none;
                 height: 100%;
 			}
-			.latest-box .featured img {
+            
+			.latest-box:not(.all) .featured img {
 				width: calc(100% - 2rem);
+			}
+
+            .latest-box .featured img {
                 margin: 1rem 1rem 0rem;
 				border-radius: 0px;
 			}
@@ -160,13 +154,50 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
                 margin-top: 1rem;
             }
 
-            .featured, .highlighted {
+            .featured:not(.all), .highlighted {
                 outline: 1px solid rgb(var(--gray-light));
             }
 
-            .latest-box h4 { /* new *** */
+            .latest-box h4 {
                 padding: 0.6em 0.6em 0.1em 1em;
 				color: rgb(var(--black));
+            }
+
+            .all.latest-box {
+                display: block;
+				align-items: start;
+                background-color: rgb(var(--white));
+				border-radius: 3px;
+				box-shadow: var(--box-shadow-2);
+                border-top: 3px solid var(--accent);
+                width: calc(100% - 2.2em);
+                margin-bottom: 3em;
+            }
+            .all .featured {
+                grid-row: 1;
+            }
+            .all.latest-box > ul {
+                display: flex;
+                flex-direction: row;
+                scroll-snap-type: x mandatory;
+                overflow-x: auto;
+            }
+            ::-webkit-scrollbar {
+                display: none;
+                scrollbar-width: 0;
+            }
+            .all li {
+                outline: none;
+                flex: 0 0 auto;
+                list-style: none;
+                scroll-snap-align: start;
+            }
+            .all img {
+                width: 500px;
+            }
+            .all hr {
+                margin: 0;
+                padding: 0;
             }
 
 			@media (max-width: 720px) {
@@ -196,34 +227,12 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 		<main>
 			<section>
 				<!-- All posts -->
-				<div class="latest-box">
-                <h4>ALL POSTS</h4>
+				<div class="all latest-box">
+                <h4>LATEST POSTS</h4>
                 <hr>
 						<ul>
-							{allPosts[0] && (
-                                <li class="featured">    
-									<a href={`/${allPosts[0].slug}/`}>
-										<img src={allPosts[0].data.heroImage} alt="" />
-										<h5 class="title">{allPosts[0].data.title}</h5>
-										<p class="date">
-											by {(
-												authors.find(a => a.id === allPosts[0].data.author) ??
-												(
-													{
-														id: allPosts[0].data.author,
-														name: allPosts[0].data.author,
-														guard: '',
-														bio: 'No biography available.',
-														image: '/author-images/default.jpg'
-													}
-												))['name']} | <FormattedDate date={allPosts[0].data.pubDate} />
-										</p>
-									</a>
-								</li>
-							)}
-
-							{allPosts.slice(1, 6).map((post) => (
-								<li class="highlighted">
+							{allPosts.slice(0, 6).map((post) => (
+								<li class="featured">
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
