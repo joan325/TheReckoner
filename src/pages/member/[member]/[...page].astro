@@ -7,13 +7,8 @@ import type { string } from 'astro:schema';
 const { page } = Astro.props;
 const { member, page: pageParam } = Astro.params;
 
-let redirect = false;
-let redirectUrl = '';
-
-console.log(pageParam);
 if (pageParam === "1") {
-  redirectUrl = `/member/${member}/`;
-  redirect = true;
+  return Astro.redirect(`/member/${member}/`, 301);
 }
 
 console.log('page param:', Astro.params.page, Array.isArray(Astro.params.page));
@@ -56,8 +51,4 @@ export async function getStaticPaths({ paginate }: { paginate: any }) {
 }
 ---
 
-{redirect ? (
-  <Redirect1 category={redirectUrl} />
-) : (
-  <MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
-)}
+<MemberPaginatedPage page={page} name={member} allPosts={allPostsSorted} />
