@@ -27,9 +27,10 @@ interface Props {
   editorialPosts: PostData[];
   lifePosts: PostData[];
   photographyPosts: PostData[];
+  featuredPosts: PostData[];
 }
 
-const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts } = Astro.props;
+const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, featuredPosts } = Astro.props;
 
 ---
 
@@ -79,14 +80,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 				margin: 0rem 1rem 1rem;
 				color: rgb(var(--gray));
 			}
+            .featured .date {
+                margin-bottom: 0;
+                padding-bottom: 1rem;
+            }
 			/* Contains featured + 5 more posts */
 			.latest-box:not(.all) {
-				display: grid;
-				grid-template-columns: 1fr 1fr;
-				width: calc(100% - 2rem);
+				width: calc(50% - 1rem); /* new *** */
 				align-items: start;
 				margin-bottom: 3rem;
-                grid-auto-rows: auto;
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
@@ -109,18 +111,18 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 			ul li.featured {
 				border-radius: 0px;
 				box-shadow: none;
+                margin: 0;
 			}
 			ul li.highlighted {
 				border-radius: 0px;
 				box-shadow: none;
+                margin: 0;
 			}
 			.latest-box ul li:hover {
 				box-shadow: none;
 			}
 			.latest-box:not(.all) .featured {
-				grid-column: 1;
 				text-align: left;
-                grid-row: span 5;
                 width: 100%;
                 list-style: none;
                 height: 100%;
@@ -128,6 +130,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
             
 			.latest-box:not(.all) .featured img {
 				width: calc(100% - 2rem);
+                align-items: flex-start;
 			}
 
             .latest-box .featured img {
@@ -136,7 +139,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 			}
 
 			.latest-box .highlighted {
-				grid-column: 2;
 				display: flex;
 				align-items: center;
                 width: 100%;
@@ -170,7 +172,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
                 border-top: 3px solid var(--accent);
-                width: calc(100% - 2.2em);
+                width: calc(100% - 0.2em);
                 margin-bottom: 3em;
             }
             .all .featured {
@@ -195,9 +197,22 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
             .all img {
                 width: 500px;
             }
-            .all hr {
+            hr {
                 margin: 0;
                 padding: 0;
+            }
+
+            .box1 {
+                display: flex;
+                align-items: flex-start;
+                gap: 2em;
+            }
+
+            .news {
+                
+            }
+            .ed {
+                
             }
 
 			@media (max-width: 720px) {
@@ -258,9 +273,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 						</ul>
 					</div>
 
-                    
+                <div class="box1">
 				<!-- News posts -->
-				<div class="latest-box">
+				<div class="latest-box news">
                 <h4>NEWS</h4>
                 <hr>
 						<ul>
@@ -315,7 +330,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 
                     
 				<!-- Editorial posts -->
-				<div class="latest-box">
+				<div class="latest-box ed">
                 <h4>EDITORIAL</h4>
                 <hr>
 						<ul>
@@ -367,6 +382,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts }
 							))}
 						</ul>
 					</div>
+                </div>
 				
                     
 				<!-- Life posts -->

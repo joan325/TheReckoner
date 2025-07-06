@@ -41,7 +41,16 @@ const photographyPostsSorted = (photographyPosts).sort(
 		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 ).slice(0,6);
 
+// Featured
+const featuredPosts = await getCollection('uncategorized', ({ data }) => {
+	return data.tags.length > 1 && data.tags[1] === "Featured"
+});
+const featuredPostsSorted = (featuredPosts).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+).slice(0,6);
+
+
 const { page } = Astro.props;
 ---
 
-<Home page={page} allPosts={allPostsSorted} newsPosts={newsPostsSorted} editorialPosts={editorialPostsSorted} lifePosts={lifePostsSorted} photographyPosts={photographyPostsSorted} />
+<Home page={page} featuredPosts={featuredPostsSorted} allPosts={allPostsSorted} newsPosts={newsPostsSorted} editorialPosts={editorialPostsSorted} lifePosts={lifePostsSorted} photographyPosts={photographyPostsSorted} />
