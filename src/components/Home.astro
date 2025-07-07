@@ -164,7 +164,10 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 padding: 0.6em 0.6em 0.1em 1em;
 				color: rgb(var(--black));
             }
-
+            .all.latest-box h4.title {
+                color: var(--accent);
+                padding: 0;
+            }
             .all.latest-box {
                 display: block;
 				align-items: start;
@@ -178,6 +181,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
             .all .featured {
                 grid-row: 1;
             }
+
             .all.latest-box > ul {
                 display: flex;
                 flex-direction: row;
@@ -219,31 +223,37 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 background-color: rgba(0, 0, 0, 0.5);
                 margin: 0;
                 padding-top: 1em;
+                padding-left: 0em;
                 padding-bottom: 0;
                 z-index: 10;
                 position: absolute;
-                top: calc(430px - 69.2px);
+                top: calc(430px - 77.18px);
                 left: 0;
                 width: 100%;
+                font-size: 1.15em;
             }
             .features .highlighted-info p {
                 color: rgb(var(--white));
             }
             .features ul li {
                 width: 100%;
-                height: auto;
+                height: fit-content;
             }
             .features ul li img {
                 margin: 0;
                 padding: 0;
                 z-index: 1;
                 width: 100%;
+                height: 430px; /* previously 100% */
             }
             .features ul li a {
                 margin: 0;
                 padding: 0;
                 width: 100%;
                 height: 430px;
+            }
+            .features .title {
+                font-weight: 400;
             }
 
 			@media (max-width: 720px) {
@@ -315,7 +325,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									
 										<img src={post.data.heroImage} alt="" />
 										<div class="highlighted-info"> <!-- possibly remove this? -->
-											<h5 class="title">{post.data.title}</h5>
+											<h4 class="title">{post.data.title}</h4>
 											<p class="date">
 												by {(
 													authors.find(a => a.id === post.data.author) ??

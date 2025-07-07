@@ -104,10 +104,11 @@ input {
 table {
 	width: 100%;
 }
-img {
+img { /* update this */
 	max-width: 100%;
 	height: auto;
-	border-radius: 0px; /* previously 8px */
+	border-radius: 0px;
+	object-fit: cover;
 }
 code {
 	padding: 2px 5px;

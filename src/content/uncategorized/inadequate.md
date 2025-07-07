@@ -1,9 +1,9 @@
 ---
-title: "“inadequate” by Abbinaya Parakaran"
+title: "inadequate"
 pubDate: 2021-05-31T18:56:06.123Z
 description: "Article."
-author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+author: "abbinaya_parakaran"
+heroImage: "/article-images/inadequate_elizabeth_wei.png"
 tags: ["Life", "Featured"]
 ---
 

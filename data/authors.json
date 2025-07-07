@@ -16,6 +16,14 @@
     },
 
     {
+        "id": "abbinaya_parakaran",
+        "name": "Abbinaya Parakaran",
+        "guard": "",
+        "bio": "Abbinaya Parakaran is a writer for The Reckoner's Life Board. She is a passionate reader and writer. She's also an amazing procrastinator. In her free time, she loves to eat snacks and binge watch TV shows.",
+        "image": "/author-images/Abbinaya_Parakaran.jpg"
+    },
+
+    {
         "id": "parnika_godkhindi",
         "name": "Parnika Godkhindi",
         "guard": "4",
