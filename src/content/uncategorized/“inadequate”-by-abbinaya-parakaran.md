@@ -4,7 +4,7 @@ pubDate: 2021-05-31T18:56:06.123Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "/blog-placeholder-1.jpg"
-tags: ["Life"]
+tags: ["Life", "Featured"]
 ---
 
 *inadequate*

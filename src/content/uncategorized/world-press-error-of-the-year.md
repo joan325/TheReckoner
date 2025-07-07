@@ -2,9 +2,9 @@
 title: "World Press Error of the Year"
 pubDate: 2017-04-10T21:19:20.849Z
 description: "Article."
-author: "lawrence_pang"
+author: "david_li"
 heroImage: "/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["Uncategorized", "Featured"]
 ---
 
 By: David Li 
