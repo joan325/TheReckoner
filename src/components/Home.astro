@@ -69,7 +69,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			ul li a {
 				display: block;
 				text-decoration: none;
-				transition: 0.2s ease;
 			}
 			.title {
 				margin: 0rem 1rem;
@@ -199,7 +198,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 scroll-snap-align: start;
             }
             .all img {
-                width: 500px;
+                width: 100%;
+				max-height: 192px;
+				object-fit: cover;
             }
             hr {
                 margin: 0;
@@ -227,7 +228,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 padding-bottom: 0;
                 z-index: 10;
                 position: absolute;
-                top: calc(430px - 77.18px);
+                bottom: 0;
                 left: 0;
                 width: 100%;
                 font-size: 1.15em;
@@ -257,6 +258,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
             }
 
 			@media (max-width: 720px) {
+				.all img {
+					width: calc(100% - 2em) !important;
+				}
 				ul,
 				.latest-box {
 					display: block;
@@ -275,6 +279,54 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				.latest-box .highlighted img {
 					width: 80%;
 				}
+				.box1 {
+					flex-direction: column;
+					gap: 0;
+					width: 100%;
+				}
+				.box1 > .latest-box {
+					width: 100%;
+					margin-bottom: 1.5em;
+				}
+				.features ul {
+					width: 100%;
+					margin-bottom: 2em;
+				}
+				.features ul li img {
+					height: 250px;
+				}
+				.features ul li a {
+					height: 250px;
+				}
+				.features .highlighted-info {
+					font-size: 1em;
+					padding-top: 0.5em;
+				}
+				.latest-box .highlighted {
+					display: block;
+					width: 100%;
+					text-align: left;
+					margin-bottom: 1rem;
+					border-radius: 0px;
+					box-shadow: none;
+				}
+				.latest-box .highlighted img {
+					width: calc(100% - 2rem);
+					margin-right: 1rem;
+					border-radius: 0px;
+					border: none;
+				}
+				.latest-box .highlighted a {
+					display: block;
+					margin: 0 !important;
+				}
+				.latest-box .highlighted .highlighted-info {
+					position: static;
+					background: none;
+					color: inherit;
+					padding: 0;
+					padding-bottom: 0.5em;
+				}
 			}
 		</style>
 	</head>
@@ -292,7 +344,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
 												by {(
@@ -324,7 +376,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h4 class="title">{post.data.title}</h4>
 											<p class="date">
 												by {(
@@ -379,7 +431,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
 												by {(
@@ -434,7 +486,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
 												by {(
@@ -489,7 +541,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
 												by {(

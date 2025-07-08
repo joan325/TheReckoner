@@ -123,9 +123,25 @@ const authorObj = authors.find(a => a.id === name) ?? {
 			}
 
 			@media (max-width: 720px) {
+				main {
+					width: 100%;
+					padding: 0 1em;
+				}
+				h2 {
+					margin-top: 2rem;
+					margin-bottom: -2rem;
+				}
+				.date {
+					padding-bottom: 1rem;
+				}
 				ul,
 				.latest-box {
 					display: block;
+					background: none;
+					margin-top: 2rem;
+					width: 100%;
+					grid-template-columns: none;
+					grid-auto-rows: none;
 				}
 				ul li,
 				.latest-box .highlighted,
@@ -134,12 +150,58 @@ const authorObj = authors.find(a => a.id === name) ?? {
 					text-align: center;
 					margin-bottom: 1rem;
 				}
+				.latest-box img {
+					margin: 0 !important;
+					padding: 0 !important;
+				}
+				.latest-box .featured,
 				.latest-box .highlighted {
+					all: unset;
+					display: block;
+					width: 100%;
+					text-align: center;
+					margin-bottom: 1rem;
+					background-color: white;
+					border-radius: 3px;
+					box-shadow: var(--box-shadow-2);
+				}
+				.latest-box .featured img,
+				.latest-box .highlighted img {
+					width: 100%;
+					margin-bottom: 0.5rem;
+					max-height: 200px;
+					height: auto;
+				}
+				.latest-box .featured a,
+				.latest-box .highlighted a {
+					display: block;
+					text-decoration: none;
+					transition: 0.2s ease;
+					padding: 0;
+				}
+				.latest-box .featured .highlighted-info,
+				.latest-box .highlighted .highlighted-info {
+					all: unset;
+				}
+				.author-box {
 					flex-direction: column;
 					align-items: center;
+					text-align: center;
 				}
-				.latest-box .highlighted img {
-					width: 80%;
+				.author-img {
+					width: auto;
+					height: 8em;
+					margin: 1em 0;
+				}
+				.author-info {
+					padding: 0 1em;
+				}
+				.author-box-full {
+					width: 100%;
+					margin: 1.5em 0;
+				}
+				.mobile-latest {
+					background-color: rgb(var(--white));
 				}
 			}
 		</style>

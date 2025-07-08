@@ -91,6 +91,46 @@ const authorName = authorObj['name'];
 				padding: 1em 1em 0.3em;
 				color: rgb(var(--black));
 			}
+
+			@media (max-width: 720px) {
+				main {
+					width: 100%;
+					padding: 0 0em;
+				}
+				.article-box {
+					width: 100%;
+					margin: 1em 0;
+				}
+				.prose {
+					max-width: 100%;
+					padding: 2em 1em;
+					
+				}
+				.hero-image img {
+					width: 100%;
+					height: auto;
+				}
+				.title h1 {
+					font-size: 1.5em;
+				}
+				.author-box {
+					flex-direction: column;
+					align-items: center;
+					text-align: center;
+				}
+				.author-img {
+					width: auto;
+					height: 8em;
+					margin: 1em 0;
+				}
+				.author-info {
+					padding: 0 1em;
+				}
+				.author-box-full {
+					width: 100%;
+					margin: 1.5em 0;
+				}
+			}
 		</style>
 	</head>
 
