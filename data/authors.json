@@ -2,988 +2,1359 @@
   {
     "id": "reckoner_staff",
     "name": "Reckoner Staff",
-    "guard": "-1",
+    "guard": "",
     "bio": "No bio available",
     "image": "/author-images/default.jpg"
   },
   {
-    "id": "tom_liu",
-    "name": "Tom Liu",
-    "guard": "6",
-    "bio": "Tom Liu is a news writer at The Reckoner. He spends his free time reading, gaming, and is always looking for an adventure. He also enjoys playing sports such as badminton, basketball and soccer. Usually, Tom is lazy and pretty laid back, but he somehow manages to always get things done. Failure is not an option for him. Tom knows about all the news going on around the school, however, just don’t ask him about his life. He has no clue about what he is doing.",
-    "image": "/author-images/Tom_Liu.jpg"
+    "id": "akshaya_harendran",
+    "name": "Akshaya Harendran",
+    "guard": "13",
+    "bio": "Akshaya Harendran is a print board member and a grade 10 student. She's married to her Spotify (and Alex Turner), likes reading (since her life lacks a lot), singing, sleeping, and is always capturing moments with her loved ones.",
+    "image": "/author-images/akshaya_harendran.jpg"
   },
   {
-    "id": "parnika_godkhindi",
-    "name": "Parnika Godkhindi",
-    "guard": "4",
-    "bio": "",
-    "image": "/author-images/default.jpg"
+    "id": "alvin_pan",
+    "name": "Alvin Pan",
+    "guard": "13",
+    "bio": "Alvin Pan, currently Grade 10 student is a member of the News board and editorial at the Reckoner, this is his first year as a part of the team. He loves playing chess and you're most likely to see him roaming the nearest McDonald's.",
+    "image": "/author-images/alvin_pan.jpg"
   },
   {
-    "id": "edward_khari_thomas",
-    "name": "Edward Khari Thomas",
-    "guard": "6",
-    "bio": "Khari Thomas is a senior writer at The Reckoner. He enjoys anything and everything to do with soccer, and holds interests in the law, environment, biology, and manga. Well, technically not everything, but almost everything to do with soccer. He isn't a big fan of lawn moving techniques, building contracts, or shirt manufacturing. Well, actually, he can't be sure, since he hasn't deeply delved into these topics as of yet. But if he hasn't delved into these fields yet, then he can't say that he enjoys them, can he? He also tends to get lost in the details...",
-    "image": "/author-images/default.jpg"
+    "id": "andrew_xu",
+    "name": "Andrew Xu",
+    "guard": "13",
+    "bio": "Andrew Xu is a grade 12 Editorial Board writer.",
+    "image": "/author-images/andrew_xu.jpg"
   },
   {
-    "id": "grace_xiong",
-    "name": "Grace Xiong",
-    "guard": "6",
-    "bio": "Grace Xiong is an Editorial Board Staff writer for The Reckoner. A perfectionist at heart, Grace is often debating everything from the deep, philosophical questions of the world, to why she is forever lost in the frantic mess that is her brain. In her free time, she enjoys singing, writing and watching baby pandas attempt to climb trees. Although her peers describe her as the loud one, she likes to believe otherwise. Don’t be fooled by her seemingly calm demeanour. You, like many others will quickly realize that she never stops talking. Ever.",
-    "image": "/author-images/default.jpg"
+    "id": "annabella_pang",
+    "name": "Annabella Pang",
+    "guard": "13",
+    "bio": "Annabella is a grade 9 student that is part of the photography board. She enjoys reading, hanging out with friends, watching movies, and of course, taking pictures. Annabella loves making new friends so don't be afraid to reach out to her! Her favourite quote is \"We may encounter many defeats but we must not be defeated.\" -Maya Angelou",
+    "image": "/author-images/annabella_pang.jpg"
   },
   {
-    "id": "megan_niu",
-    "name": "Megan Niu",
-    "guard": "6",
-    "bio": "Megan Niu is a grade 11 student on the Editorial board. She has not updated her Reckoned biography for the past two years, and she must admit to a lie that her grade 9 self had written. She, for a fact, does not read fiction unless she has English class and it is a cumpolsory reading. The only reading she does for leisure is reading sheet music and opinion articles. She mains the French horn and the piano is her side chick. Hit her up if you want to learn how to spend more time thinking about work than actually completing work.",
-    "image": "/author-images/default.jpg"
+    "id": "anne_liu",
+    "name": "Anne Liu",
+    "guard": "13",
+    "bio": "Anne Liu is a Grade 12 student and the News Manager for the Thirteenth Guard. She loves ballet, listening to music, and making her own bubble tea. If you ever see her in the halls, don't be afraid to say hi!",
+    "image": "/author-images/anne_liu.jpg"
   },
   {
-    "id": "faizan_malik",
-    "name": "Faizan Malik",
-    "guard": "6",
-    "bio": "In my life i have accomplished nothing. As such there is nothing of note to put in my biography. In particular however i look to use my medium at the Reckoner to show disdain for the pathetically politically correct culture at Marc Garneau and its adverse affects on basic conversation and intellectual debate. Other than that there is nothing particularly interesting about me. Shout out to 3DOWN you already know i'm on the editorial board fam.",
-    "image": "/author-images/default.jpg"
+    "id": "caroline_cheng",
+    "name": "Caroline Cheng",
+    "guard": "13",
+    "bio": "Caroline Cheng is one of the Print Managers of the Reckoner. She enjoys watching anime and she thinks that tea is way better than coffee. Her bio seems to have gotten shorter over the years.",
+    "image": "/author-images/caroline_cheng.jpg"
   },
   {
-    "id": "angela_pang",
-    "name": "Angela Pang",
-    "guard": "6",
-    "bio": "Angela Pang is an Editorial Board Staff writer at The Reckoner. An unfortunate combination of a perfectionist and a procrastinator, she possesses an alarmingly loud laugh and far too many stacks of piano books. She is a friendly soul, but will not hesitate to use violence if you insult Harry Potter or any of her favourite books. In her spare time, Angela can be found singing off_key Adele songs, dancing around her room, and enjoying cheesy puns. In the future, she hopes to stop taking so many Buzzfeed quizzes, and to devour more slices of cheesecake.",
-    "image": "/author-images/default.jpg"
+    "id": "chang_li",
+    "name": "Chang Li",
+    "guard": "13",
+    "bio": "Chang is a grade 11 student at Marc Garneau Collegiate Institute, and will be your 13th Guard Editorial Manager. Outside of obsessing over school and talking in a high-pitched nasally voice, Chang enjoys to sew, play chess, complete jigsaw puzzles, and even just hang out with his friends— although they're probably getting a bit tired of him at this point. Feel free to say hi to him in the hallways, just don't bring up anything related to height or he might break down in tears.",
+    "image": "/author-images/chang_li.jpg"
   },
   {
-    "id": "charmaine_chang",
-    "name": "Charmaine Chang",
-    "guard": "6",
-    "bio": "Charmaine Chang is Lauren Chang's sister. Lauren is, in general, the insensitive sister. Lauren attended a workshop and got to use a power drill on an assortment of foam bones, and is now the proud owner of an assortment of foam femur, humerus and radius bones. Lauren has never cried at school. Lauren wishes that people would not send her articles that she has previously written for the Reckoner, because that was a different time and she was a different person. Lauren also goes by many different names, and answers to none of them at all. Nice to meet you.",
-    "image": "/author-images/default.jpg"
+    "id": "corey_dai",
+    "name": "Corey Dai",
+    "guard": "13",
+    "bio": "Corey Dai. This kid doesn't know what he's doing. He's just there.",
+    "image": "/author-images/corey_dai.jpg"
   },
   {
-    "id": "emma_wai",
-    "name": "Emma Wai",
-    "guard": "6",
-    "bio": "Emma Wai is a writer for the News and Editorial boards at the Reckoner. She loves dynamite sushi rolls, Italian pasta and just about any type of frozen yogurt. She also enjoys figure skating, trampoline and learning weird or new things. In her spare time, her favourite thing to do is re_read books (over and over again) or obsess over new phone games.",
-    "image": "/author-images/default.jpg"
+    "id": "daniel_long",
+    "name": "Daniel Long",
+    "guard": "13",
+    "bio": "Daniel is a Grade 12 student who is a member of the web board. He likes skating, programming, and making things look cool on screens. In case one needs proof of his ability as a web team member, just look at his glasses. All computer guys have glasses.",
+    "image": "/author-images/daniel_long.jpg"
   },
   {
-    "id": "tazik_shahjahan",
-    "name": "Tazik Shahjahan",
-    "guard": "6",
-    "bio": "Tazik Shahjahan is a grade 10 student with a penchant for complaining. Though labelled a 'tryhard' by many, Tazik is the farthest thing from keen. Despite not having much in the way of artistic ability, his greatest passion lies in oral poetry. When he is not busy turning off lights, Tazik can be found looking up the Latin roots of everyday words, frantically scribbling his ideas on whatever happens to be nearby, or just complaining about his most recent marks.",
-    "image": "/author-images/default.jpg"
+    "id": "don_tran",
+    "name": "Don Tran",
+    "guard": "13",
+    "bio": "Don Tran?? Oh, that guy. Yeah he's an 11er and member of both Outreach and Print boards. He plays volleyball and violin in his free time , while also barely holding together the threads of his social life outside of school. He prays every night that the upcoming tests will be sleepable (they aren't) and has trouble starting assignments more than 12 hours before due. All good. Not that serious.",
+    "image": "/author-images/don_tran.jpg"
   },
   {
-    "id": "paul_oh",
-    "name": "Paul Oh",
-    "guard": "6",
-    "bio": "Paul Oh is a Staff Writer of Editorial Board at The Reckoner. He is a Grade 11 student at Marc Garneau Collegiate Institute and is part of the TOPS program. He strives to do well on his academics, relaxes by stargazing, and devises hilarious jokes/puns for his friends. If you see him in the hallways or bus, say hi to him; he loves meeting new people.",
-    "image": "/author-images/default.jpg"
+    "id": "elizabeth_wei",
+    "name": "Elizabeth Wei",
+    "guard": "13",
+    "bio": "Elizabeth is a grade 12 artist for the life board and enjoys lying down next to her cats, hoping they will tolerate her. Her hobbies include drawing, crocheting, playing volleyball, and meticulously time blocking every event and assignment in their master calendar. Her favourite series is Mob Psycho 100, and she likes collecting keychains that she’ll never use.",
+    "image": "/author-images/elizabeth_wei.jpg"
   },
   {
-    "id": "david_chen_li",
-    "name": "David Chen_Li",
-    "guard": "6",
-    "bio": "David doesn't talk much, but when he does he usually voices his opinion, or he tell stories. It doesn't matter whose story it is. If he found it interesting and worth remembering, he'll definitely find somewhere to tell it, whether through writing or the lens of his camera.",
-    "image": "/author-images/default.jpg"
+    "id": "emilee_zhang",
+    "name": "Emilee Zhang",
+    "guard": "13",
+    "bio": "Emilee Zhang is an individual who identifies as a female and goes by pronouns she/her, currently in 10th grade. She enjoys doing art and playing video games in her spare time.",
+    "image": "/author-images/emilee_zhang.jpg"
   },
   {
-    "id": "julien_lin",
-    "name": "Julien Lin",
-    "guard": "6",
-    "bio": "“Never lucky” – Julien’s favourite catchphrase when things don’t go his way. You can probably guess that writing these post_deadline biographies and articles are all a product of bad luck. Because it is - duh. Currently at the Reckoner, he’s a pretty much a two_trick pony, chilling at the Editorial and Media boards as a photographer and writer. When he’s not scrambling to finish his late assignments, Julien can often be found cheering on his favourite teams, the Toronto Blue Jays, Vancouver Canucks, and Fnatic, or browsing subreddits to find internet food to feed his curiosity.",
-    "image": "/author-images/default.jpg"
+    "id": "emily_guo",
+    "name": "Emily Guo",
+    "guard": "13",
+    "bio": "Emily is a Grade 9 TOPS student at MGCI. She is in Print and Web Development, where she puts aesthetics onto aesthetics to make something aesthetic. She enjoys a variety of things, including the sciences (+ computer science!!), anime, and grinding mobile games. Emily is also a manga enthusiast who needs to read less manga and focus more on school (please do your work).",
+    "image": "/author-images/emily_guo.jpg"
   },
   {
-    "id": "jasmine_kang",
-    "name": "Jasmine Kang",
-    "guard": "6",
-    "bio": "Jasmine Kang is a writer at the Reckoner. She is an introverted but inquisitive person who spends most of her time zoning out and contemplating life. She enjoys playing basketball against her brother, who is (irritatingly) six inches taller than her, doodling cartoon cats, and reading.",
-    "image": "/author-images/default.jpg"
+    "id": "emily_ma",
+    "name": "Emily Ma",
+    "guard": "13",
+    "bio": "Emily is part of the Editorial Board at The Reckoner. She enjoys reading, hanging out with friends, and watching musicals.",
+    "image": "/author-images/emily_ma.jpg"
   },
   {
-    "id": "zain_rashid",
-    "name": "Zain Rashid",
-    "guard": "6",
-    "bio": "Zain is a grade 12 student and part of the Editorial and Outreach Board at The Reckoner. He absolutely loves sports; basically all of them except golf (Is it even a sport?). In his spare time, he likes to play FIFA and chess, or write stories with his sisters. He is also a passionate poet; his poems can range from critical political analysis to his fantasy “kingdoms” for his fantasy stories. He’s also the President of The Business Society of MGCI. Living in Toronto reminds him of his childhood where he spent his days strolling in beautiful and quiet farmlands.",
-    "image": "/author-images/default.jpg"
+    "id": "emily_pan",
+    "name": "Emily Pan",
+    "guard": "13",
+    "bio": "Hey Garneau! Meet Emily Pan, one of the illustrators for the Reckoner. Stay tuned for super awesome art from the illustration board!",
+    "image": "/author-images/emily_pan.jpg"
   },
   {
-    "id": "rafiq_habib",
-    "name": "Rafiq Habib",
-    "guard": "6",
-    "bio": "Rafiq is a human who can have very strong (dare he say “interesting”) opinions. Maybe they all come from the President’s Choice chocolate chip granola bar he eats religiously at 10:30 am every day. Does it control him? No one knows. But everyone knows chocolate makes him happy. Perhaps if you disagree with Rafiq’s ideas you could slip him a piece of chocolate or two. Perhaps it would change something (but probably not). Either way, you should give him chocolate when you see him. Nothing good comes from an unappeased writer and a newspaper, after all.",
-    "image": "/author-images/default.jpg"
+    "id": "eric_tang",
+    "name": "Eric Tang",
+    "guard": "13",
+    "bio": "Imagine having a seasoned darts player, lover of Chipotle burrito bowls, and a guy that can wiggle his ears working on The Reckoner. Meet Eric. He’s a Grade 12 student and one of the Print Board’s Co-Directors. He’s a big fan of British bands; The Narcissist by Blur is his current song on repeat. He also enjoys bingeing movies. In his opinion, Cars 2 is the best sequel ever made. Eric’s grand goal in life is to own every Lego Star Wars set ever produced and to visit all of America’s national parks. Join the print board!",
+    "image": "/author-images/eric_tang.jpg"
   },
   {
-    "id": "adil_haider",
-    "name": "Adil Haider",
-    "guard": "6",
-    "bio": "​Adil Haider is an editorial writer and outreacher for The Reckoner. He's a love him or hate him kind of guy, but he hopes you make the right choice. He fancies himself a historian,geographer and politico, but is really just a nerd. His crippling tea addiction will catch up to him one day, but until then he'll drink the queen under the table. He is a proud member of the brown squad, and will yell Pakistan Zindabad until the day he dies. He currently lives with Bismarck's ghost. He is, the least interesting man in the world",
-    "image": "/author-images/default.jpg"
+    "id": "faseeh_ahmed",
+    "name": "Faseeh Ahmed",
+    "guard": "13",
+    "bio": "Faseeh is a grade 11 student who loves baking, playing video games and editing videos. When he's not doing any of those he tries to stay active by going to the gym or to the local park. On a side note, ducks are the best animal!",
+    "image": "/author-images/faseeh_ahmed.jpg"
   },
   {
-    "id": "madeline_kim",
-    "name": "Madeline Kim",
-    "guard": "6",
-    "bio": "Madeline Kim is a Life Board artist for the Reckoner. If someone described Madeline in three ways, they would likely say soft_spoken, a little shy, and eyebrows. Madeline grew up in a quiet suburban neighbourhood and has played soccer ever since she can remember. In her spare time, she listens to repetitive instrumentals on Soundcloud and create art. The majority of her art is about her past experiences (she has an oddly sharp memory) or her teenage angst. Madeline hopes that one day she will be able to let go of the past and start making art about the future.",
-    "image": "/author-images/default.jpg"
+    "id": "fiona_chan",
+    "name": "Fiona Chan",
+    "guard": "13",
+    "bio": "Fiona is a grade ten student for the Illustrations board. She enjoys listening to music, scrolling on Pinterest and online stores, and drawing.",
+    "image": "/author-images/fiona_chan.jpg"
   },
   {
-    "id": "monami_sina",
-    "name": "Monami Sina",
-    "guard": "6",
+    "id": "glenn_huang",
+    "name": "Glenn Huang",
+    "guard": "13",
+    "bio": "Glenn Huang is a grade 10 student at MGCI and a member of the print board. In his spare time, he enjoys listening to music and scrolling endlessly through reels. His goals for this year are to reduce his screen time and become less socially awkward.",
+    "image": "/author-images/glenn_huang.jpg"
+  },
+  {
+    "id": "grace_pu",
+    "name": "Grace Pu",
+    "guard": "13",
+    "bio": "Grace Pu is a grade 12 writer for the Significant Digits News Board. Her hobbies include biking, reading, and watching YouTube.",
+    "image": "/author-images/grace_pu.jpg"
+  },
+  {
+    "id": "grace_zhu",
+    "name": "Grace Zhu",
+    "guard": "13",
+    "bio": "absolutely insane about everything",
+    "image": "/author-images/grace_zhu.jpg"
+  },
+  {
+    "id": "grant_ou",
+    "name": "Grant Ou",
+    "guard": "13",
+    "bio": "Grant is pro",
+    "image": "/author-images/grant_ou.jpg"
+  },
+  {
+    "id": "han_fang",
+    "name": "Han Fang",
+    "guard": "13",
+    "bio": "Han is a grade 12 student at MGCI, and is a part of the Print Development and Web Development Boards on the Reckoner. He likes to play sports, chess, watch YouTube, and has (in time of writing) recently learned how to play poker.",
+    "image": "/author-images/han_fang.jpg"
+  },
+  {
+    "id": "hania_ahmed",
+    "name": "Hania Ahmed",
+    "guard": "13",
+    "bio": "Hania Ahmed is in Grade 10 and is an artist for the Life Board. She enjoys painting, writing, and sketching. She is passionate about creating art.",
+    "image": "/author-images/hania_ahmed.jpg"
+  },
+  {
+    "id": "hanna_naseri",
+    "name": "Hanna Naseri",
+    "guard": "13",
+    "bio": "Hanna Naseri, driven by a passion for writing and journalism, has officially become a member of the editorial board for The Reckoner, MGCI school newspaper. She demonstrates a strong belief in equitable work and ethical journalism. She promotes meticulous fact-checking, impartial coverage, and responsible reporting, serving as an important board member and a source of journalistic inspiration within our community.",
+    "image": "/author-images/hanna_naseri.jpg"
+  },
+  {
+    "id": "hannah_xu",
+    "name": "Hannah Xu",
+    "guard": "13",
+    "bio": "Hannah is a Grade 11 artist for Life Board! She loves shopping, amusement parks, jigsaw puzzles, and cotton candy.",
+    "image": "/author-images/hannah_xu.jpg"
+  },
+  {
+    "id": "harris_abraham",
+    "name": "Harris Abraham",
+    "guard": "13",
+    "bio": "Harris Abraham is a sophomore Editorial Board writer. He's known in the school for his energetic personality and charisma, and aims to bring engaging literature to the student body.",
+    "image": "/author-images/harris_abraham.jpg"
+  },
+  {
+    "id": "jeffrey_zhu",
+    "name": "Jeffrey Zhu",
+    "guard": "13",
+    "bio": "Jeffrey is a grade 11 student who enjoys taking pictures. If he isn't flying his drone or camping in minus 30-degree temperatures, you can find him in room 102 acquiring character with a 120-pound metal robot. He also enjoys taking too many risks and ambulance rides.",
+    "image": "/author-images/jeffrey_zhu.jpg"
+  },
+  {
+    "id": "jerry_hong",
+    "name": "Jerry Hong",
+    "guard": "13",
+    "bio": "Jerry Hong is a grade 11 student trying to figure out why school got so hard. He is a writer for the Life Board at The Reckoner. He likes to spend his free time practicing piano, going outside with his friends, and playing badminton.",
+    "image": "/author-images/jerry_hong.jpg"
+  },
+  {
+    "id": "jessica_sun",
+    "name": "Jessica Sun",
+    "guard": "13",
+    "bio": "Jessica Sun is a Grade 11 student on the Outreach Board for her third year. On her own time, she listens to audiobooks and observes her gardening progress.",
+    "image": "/author-images/jessica_sun.jpg"
+  },
+  {
+    "id": "justin_wei",
+    "name": "Justin Wei",
+    "guard": "13",
+    "bio": "Justin is a Grade 12 student and the photography manager for The Reckoner. He likes to read the news every day (maybe that's why he wrote for Significant Digits the past three years) and needs to touch grass every other day. If you ever see him outside, Justin is probably on his bike or hiking. Check out his photos on Unsplash!",
+    "image": "/author-images/justin_wei.jpg"
+  },
+  {
+    "id": "kenny_zheng",
+    "name": "Kenny Zheng",
+    "guard": "13",
+    "bio": "From the urbanely sprawling Region of Greater Golden Horseshoe, it's the controversially acclaimed Kenster Avenger. 416-439-0000. Grade 11. Life. Eat Fresh.",
+    "image": "/author-images/kenny_zheng.jpg"
+  },
+  {
+    "id": "komal_dagar",
+    "name": "Komal Dagar",
+    "guard": "13",
+    "bio": "With over 20,000 photos in her camera roll, Komal captures a photo in any moment. Grateful to be accepted into the Reckoner photography board, shes ready to capture a photo for any moment.",
+    "image": "/author-images/komal_dagar.jpg"
+  },
+  {
+    "id": "ladan_hassan",
+    "name": "Ladan Hassan",
+    "guard": "13",
+    "bio": "Ladan Hassan is a Grade 11 writer on the Life Board. She enjoys reading, writing and solving puzzles. She is also in desperate need of new books to read. So feel free to recommend any if you happen to see her.",
+    "image": "/author-images/ladan_hassan.jpg"
+  },
+  {
+    "id": "lillian_li",
+    "name": "Lillian Li",
+    "guard": "13",
+    "bio": "Lillian Li is a Grade 11 student and the Outreach Manager for The Reckoner. She spends the majority of her time panicking, running away from discussions about test answers, getting lost (and forgetting to use Google Maps), asking for more pages (she was not informed that there was a finite number of sheets she could print with school printers on her account), and making study sheets.",
+    "image": "/author-images/lillian_li.jpg"
+  },
+  {
+    "id": "lovely_gebeyehu",
+    "name": "Lovely Gebeyehu",
+    "guard": "13",
+    "bio": "Lovely Gebeyehu, a 9th grade student, is a Life Board writer and hopes to give you a look into her thoughts, opinions, and mind. Not because their relevant or revolutionary, but rather because wants to prove that what's going on up there in our minds is both lovely and yet not - not half and half, but everything in between. Just as life isn't - can be, but endures to not.",
+    "image": "/author-images/lovely_gebeyehu.jpg"
+  },
+  {
+    "id": "maxim_mohareb",
+    "name": "Maxim Mohareb",
+    "guard": "13",
+    "bio": "Maxim Mohareb is a writer. Maxim Mohareb is a thinker. Maxim Mohareb is a little bit radical. That's the best three adjectives Maxim can use to describe himself for Reckoner this the school year. He likes to write about things that irritate him as a way to figure them out more, and hope that you , as a reader, gain a different perspective on existing topics or learn about a new idea altogether while reading.",
+    "image": "/author-images/maxim_mohareb.jpg"
+  },
+  {
+    "id": "michael_yang",
+    "name": "Michael Yang",
+    "guard": "13",
+    "bio": "Michael is a G12 student.",
+    "image": "/author-images/michael_yang.jpg"
+  },
+  {
+    "id": "mohammad.husein",
+    "name": "Mohammad.Husein",
+    "guard": "13",
+    "bio": "Meet Mohammad.Husein, a soccer enthusiast and devoted Canary lover. Whether kicking a ball on the field or cherishing the melodies of his Canaries, he finds joy in life's simple pleasures. With an adventurous spirit and boundless passion, he navigates the world, embracing every moment with enthusiasm.",
+    "image": "/author-images/mohammad.husein.jpg"
+  },
+  {
+    "id": "nevetha_arullinkam",
+    "name": "Nevetha Arullinkam",
+    "guard": "13",
     "bio": "No bio available",
+    "image": "/author-images/nevetha_arullinkam.jpg"
+  },
+  {
+    "id": "oriana_zhou",
+    "name": "Oriana Zhou",
+    "guard": "13",
+    "bio": "Oriana is a writer on the editorial and news boards. As a grade 11 student, she can be found listening to music, reading, drawing, or taking a walk in the halls of Marc Garneau.",
+    "image": "/author-images/oriana_zhou.jpg"
+  },
+  {
+    "id": "patricia_zhang",
+    "name": "Patricia Zhang",
+    "guard": "13",
+    "bio": "Patricia is a grade 11 student that loves writing, philosophy, and photography! In her free time she enjoys shopping and visiting cute cafes downtown.",
+    "image": "/author-images/patricia_zhang.jpg"
+  },
+  {
+    "id": "paul_shur",
+    "name": "Paul Shur",
+    "guard": "13",
+    "bio": "Paul Shur is a grade 12 student who is currently the Editor In Chief of the Reckoner, and he's ecstatic for the upcoming school year. In his spare time, Paul likes to stand in front of a mirror and give himself pep talks. He enjoys reading and dislikes bubble tea. Feel free to say hi if you see him in the halls!",
+    "image": "/author-images/paul_shur.jpg"
+  },
+  {
+    "id": "sahana_sakthivel",
+    "name": "Sahana Sakthivel",
+    "guard": "13",
+    "bio": "Sahana Sakthivel is an incredibly questionable student who loves to get creative with art. sketching Portraits is her favorite thing to do, and she's not bad at drawing and sketching either. Unfortunately, she doesn't have the same success with painting. Watercolour painting is particularly is difficult for her, but she still manages to express her creativity in her art in other ways. Tip, don’t ever ask her to paint something for you, she will traumatize you for life!",
+    "image": "/author-images/sahana_sakthivel.jpg"
+  },
+  {
+    "id": "salena_fatima",
+    "name": "Salena Fatima",
+    "guard": "13",
+    "bio": "Salena Fatima is an 11th grade writer for the Significant Digits board. She enjoys hiking, reading, and writing post apocalyptic stories in her free time. She can't wait for you guys to read the pieces she will be writing for The Reckoner this year!",
+    "image": "/author-images/salena_fatima.jpg"
+  },
+  {
+    "id": "sarah_rodrigues",
+    "name": "Sarah Rodrigues",
+    "guard": "13",
+    "bio": "Sarah is part of the Photography board for the Reckoner. Her hobbies include procrastinating, reading, and convincing herself that Lana Del Rey is an underground artist. On the weekend, you can find her aimlessly walking around, hoping to see something interesting. She can't wait for high school to be over, but she knows she'll feel nostalgic for it in the future.",
+    "image": "/author-images/sarah_rodrigues.jpg"
+  },
+  {
+    "id": "shiloh_zheng",
+    "name": "Shiloh Zheng",
+    "guard": "13",
+    "bio": "Shiloh is an 11th grader on the Illustrations board. Strong enough to move a pebble (probably).",
+    "image": "/author-images/shiloh_zheng.jpg"
+  },
+  {
+    "id": "soha_sakhiani",
+    "name": "Soha Sakhiani",
+    "guard": "13",
+    "bio": "Soha, lovingly called 'the Brit', thrives most when she's alone swallowed inside her comforters or in the absolute shining chaotic spotlighted centre of attention. There is no in between. When Soha is not rooting for the anti-hero she is binge watching 2000s sitcoms wishing she was a 90s baby.",
+    "image": "/author-images/soha_sakhiani.jpg"
+  },
+  {
+    "id": "sonia_ravindran",
+    "name": "Sonia Ravindran",
+    "guard": "13",
+    "bio": "Sonia is a Grade 11 Illustrator at the Reckoner. She enjoys making art, watching television/films and listening to music but usually works through her endless amount of homework. She would like to work in the architectural field or the film industry. You can find her either overthinking, being overdramatic or sleeping.",
+    "image": "/author-images/sonia_ravindran.jpg"
+  },
+  {
+    "id": "susannah_welke",
+    "name": "Susannah Welke",
+    "guard": "13",
+    "bio": "Susannah is a grade 10 student on the Editorial board of the Reckoner’s 13th guard. She spends her spare time contemplating her existence pre-elamad test and watching Shameless. She is excited for another year with the Reckoner :)",
+    "image": "/author-images/susannah_welke.jpg"
+  },
+  {
+    "id": "syeda_sadaf_jaffary",
+    "name": "Syeda Sadaf Jaffary",
+    "guard": "13",
+    "bio": "A passionate artist and editor apart of the reckoners illustrations & print development board. In her free time, Sadaf listens to music, binges Netflix, reads books and spends time with her friends.",
+    "image": "/author-images/syeda_sadaf_jaffary.jpg"
+  },
+  {
+    "id": "tessa_nitescu",
+    "name": "Tessa Nitescu",
+    "guard": "13",
+    "bio": "Tessa Nitescu is a Grade 10 student. She is usually listening to a carefully cultivated ten hour playlist.",
+    "image": "/author-images/tessa_nitescu.jpg"
+  },
+  {
+    "id": "thanusa_paskaran",
+    "name": "Thanusa Paskaran",
+    "guard": "13",
+    "bio": "Thanusa Paskaran is a Grade 11 student who joined the Reckoner to pursue her love of literature. She enjoys reading, writing, listening to music, and watching anything horror related with the little free time that she has. When she isn't she overthinking, you can find her binging anything and everything on Netflix. Thanusa aspires to travel more and explore the world as much as she can in the future!",
+    "image": "/author-images/thanusa_paskaran.jpg"
+  },
+  {
+    "id": "veronica_davey-young",
+    "name": "Veronica Davey-Young",
+    "guard": "13",
+    "bio": "Veronica is a Grade 10 writer for the Editorial board. She is often found playing ultimate frisbee or trying to convince people to join the MGCI team and is always happy to talk about anything school, sports, or baking show-related!",
+    "image": "/author-images/veronica_davey-young.jpg"
+  },
+  {
+    "id": "yameen_aziz",
+    "name": "Yameen Aziz",
+    "guard": "13",
+    "bio": "Yameen is a grade 12 student serving on the Photography Board for the Reckoner. He spends his weekends nervously watching Arsenal matches, a long-standing tradition of his, as well as crying through recurring Scuderia Ferrari strategy mishaps. He enjoys quiet evenings with a good Albert Camus book, but is also known to jump at the opportunity to hang out with friends and family. If there is one thing to know about him, it's that asking him about his conflicting university choices is a one-way ticket to hours-long, dull monologue.",
+    "image": "/author-images/yameen_aziz.jpg"
+  },
+  {
+    "id": "yolanda_zhou",
+    "name": "Yolanda Zhou",
+    "guard": "13",
+    "bio": "i really like cats",
+    "image": "/author-images/yolanda_zhou.jpg"
+  },
+  {
+    "id": "yuewen_gao",
+    "name": "Yuewen Gao",
+    "guard": "13",
+    "bio": "Yuewen is the Illustrations Manager of the Twelfth Guard. She enjoys reading ridiculous Wikipedia pages, listening to music, sleeping, drawing, and scrolling endlessly through Tumblr.",
+    "image": "/author-images/yuewen_gao.jpg"
+  },
+  {
+    "id": "zaeem_mustafa",
+    "name": "Zaeem Mustafa",
+    "guard": "13",
+    "bio": "Zaeem Mustafa is a grade 09 student. He is a news writer. In his free time, he plays badminton and he likes to solve puzzles. He enjoys playing sports, talking to friends. He loves meeting new people. Say hi to him in the halls!",
+    "image": "/author-images/zaeem_mustafa.jpg"
+  },
+  {
+    "id": "aamena_koya",
+    "name": "Aamena Koya",
+    "guard": "12",
+    "bio": "Aamena Koya is a grade 11 student. If shes not chugging her iced coffee shes probably dreaming about getting one. In her free time she is listening to podcasts, lifting at the gym, and reading books. Besides stressing about school she works on personal development and growing her bank account :)",
+    "image": "/author-images/aamena_koya.jpg"
+  },
+  {
+    "id": "aishani_indu",
+    "name": "Aishani Indu",
+    "guard": "12",
+    "bio": "Aishani is the third-shortest person in Grade 11, anyone who tells you otherwise (perhaps people whose names start with M or H) are LYING. She enjoys looking for hiding spiders so that she can run away from that room immediately, and stubbing her foot in every sharp corner she doesn't notice.",
+    "image": "/author-images/aishani_indu.jpg"
+  },
+  {
+    "id": "akshaya_varakunan",
+    "name": "Akshaya Varakunan",
+    "guard": "12",
+    "bio": "Akshaya Varakunan is a Grade 12 student and member of the Life Board. As you are reading this, there is a 50% chance she is playing Word Blitz.",
+    "image": "/author-images/akshaya_varakunan.jpg"
+  },
+  {
+    "id": "allan_li",
+    "name": "Allan Li",
+    "guard": "12",
+    "bio": "Allan is a Grade 12 at MGCI. He enjoys taking photos of his friends. Check his photos out on his Instagram at @allan.liphotos. He is so excited to be a part of the Reckoner this year.",
+    "image": "/author-images/allan_li.jpg"
+  },
+  {
+    "id": "alvin_young",
+    "name": "Alvin Young",
+    "guard": "12",
+    "bio": "Alvin Young is writer and artist for the Life Board. He likes to draw and write (shocking!), play tennis, and dream. Dreams are a fascinating thing to him, and perhaps one day he'll discover one in real life.",
+    "image": "/author-images/alvin_young.jpg"
+  },
+  {
+    "id": "amy_long",
+    "name": "Amy Long",
+    "guard": "12",
+    "bio": "Amy Long has not a single intelligent thought behind those eyes.",
+    "image": "/author-images/amy_long.jpg"
+  },
+  {
+    "id": "andrew_chen",
+    "name": "Andrew Chen",
+    "guard": "12",
+    "bio": "Andrew Chen is a grade 10 student at MGCI trying his best... He enjoys playing sports, listening to music, talking to friends and not worrying about tests. He loves meeting new people, writing stories and capturing life in the little things. Say hi to him around the halls!",
+    "image": "/author-images/andrew_chen.jpg"
+  },
+  {
+    "id": "andy_sun",
+    "name": "Andy Sun",
+    "guard": "12",
+    "bio": "Andy is a part-time tenner and a full-time idiot. Sometimes, he’s also a writer in editorial and news. Most of the time, he can be found performing a magic trick - making his free time vanish. He aspires to aspire, and to reach 6 feet (the only thing preventing him is the ruler you measure with !)",
+    "image": "/author-images/andy_sun.jpg"
+  },
+  {
+    "id": "anjali_gupta",
+    "name": "Anjali Gupta",
+    "guard": "12",
+    "bio": "Anjali is a Grade 9 student at MGCI. She's most often found with her nose in a book and her head in the clouds. She loves dogs, the color purple, singing, and a billion other unrelated things. She loves making friends so reach out to her anytime!",
+    "image": "/author-images/anjali_gupta.jpg"
+  },
+  {
+    "id": "annie_xiong",
+    "name": "Annie Xiong",
+    "guard": "12",
+    "bio": "Annie is a 12th grade writer for the Life Board. She enjoys browsing Pinterest boards and online stores, jotting down poem ideas she’ll never write, and stockpiling blackmail photos of her friends. If anyone wants to cry together to Taylor Swift’s discography, she urges you to reach out.",
+    "image": "/author-images/annie_xiong.jpg"
+  },
+  {
+    "id": "arabhi_kulamurugan",
+    "name": "Arabhi Kulamurugan",
+    "guard": "12",
+    "bio": "Arabhi is a grade 12 student and is excited to work with the Reckoner. She's a music enthusiast - especially for The Weeknd - and loves anything to do with the sky such as sunsets, constellations, and rain. Her favourite show is Brooklyn 99 which she intends to rewatch after submitting this bio.",
+    "image": "/author-images/arabhi_kulamurugan.jpg"
+  },
+  {
+    "id": "bailey_min",
+    "name": "Bailey Min",
+    "guard": "12",
+    "bio": "Bailey Min is a ninth grader at Marc Garneau C.I. Favourite activities of his include engaging with unfunny humour, reading, and staring blankly at walls. Email and pigeon are both accepted contact modes.",
+    "image": "/author-images/bailey_min.jpg"
+  },
+  {
+    "id": "chang_chang_li",
+    "name": "Chang Chang Li",
+    "guard": "12",
+    "bio": "Chang is a grade 10 student at Marc Garneau Collegiate Insitute, a member of both the Editorial and Outreach Board. Whether it's scrawling down the strings of incoherency he considers writing or fumbling around attempting to finish all of his work, he's constantly in a state of entropic shock.",
+    "image": "/author-images/chang_chang_li.jpg"
+  },
+  {
+    "id": "colleen_chang",
+    "name": "Colleen Chang",
+    "guard": "12",
+    "bio": "Colleen Chang is a member of the Reckoner’s illustration board. She enjoys walking through neighborhoods, figure drawing, and finding cool movies that she keeps telling herself she’ll “watch later.” She hopes to one day improve her slow typing speed and become a professional illustrator.",
+    "image": "/author-images/colleen_chang.jpg"
+  },
+  {
+    "id": "daniel_fan",
+    "name": "Daniel Fan",
+    "guard": "12",
+    "bio": "Daniel is the worst photographer to exist. He has a crippling addiction to nestea that you can abuse if you want him to get work done. Daniel likes to play clash royale in every class he can until his mark drops below 40. Don't be like Daniel.",
+    "image": "/author-images/daniel_fan.jpg"
+  },
+  {
+    "id": "donna_zhang",
+    "name": "Donna Zhang",
+    "guard": "12",
+    "bio": "Donna started following you.",
+    "image": "/author-images/donna_zhang.jpg"
+  },
+  {
+    "id": "dustin_xu",
+    "name": "Dustin Xu",
+    "guard": "12",
+    "bio": "Dustin likes Starbucks. He also finds difficulty in straining his neck down to talk to anyone below 165cm.",
+    "image": "/author-images/dustin_xu.jpg"
+  },
+  {
+    "id": "eileen_kuang",
+    "name": "Eileen Kuang",
+    "guard": "12",
+    "bio": "Eileen is a 10th grade Editorial writer for The Reckoner. She likes to play painful sports, solve painful problems, as well as find any excuse to use painfully particular diction. She hopes to someday achieve healthy posture and wake up at her first alarm of five.",
+    "image": "/author-images/eileen_kuang.jpg"
+  },
+  {
+    "id": "elliot_ngo",
+    "name": "Elliot Ngo",
+    "guard": "12",
+    "bio": "Elliot is a grade 12 student and a member of the print board at the Reckoner.",
+    "image": "/author-images/elliot_ngo.jpg"
+  },
+  {
+    "id": "emily_liu",
+    "name": "Emily Liu",
+    "guard": "12",
+    "bio": "Emily Liu is a grade 12 student and a long time member of the Life Board. She can usually be found playing Word Blitz or the NYT Crossword/Spelling Bee, when she's not busy on the grind. Feel free to say hi to her; she loves to meet people!",
+    "image": "/author-images/emily_liu.jpg"
+  },
+  {
+    "id": "enoch_he",
+    "name": "Enoch He",
+    "guard": "12",
+    "bio": "Enoch He is a senior in the Web Development Board of The Reckoner. He is constantly battling procrastination every hour of the day, in high hopes of being productive. When Enoch is not worrying about his grades, he is wondering what he will be eating for his next meal.",
+    "image": "/author-images/enoch_he.jpg"
+  },
+  {
+    "id": "flora_chen",
+    "name": "Flora Chen",
+    "guard": "12",
+    "bio": "Flora is in the 12th grade and writes crosswords for The Reckoner. She enjoys reading, running, watching hockey, listening to Taylor Swift & Ella Fitzgerald, and staring very vainly at her own handwriting.",
+    "image": "/author-images/flora_chen.jpg"
+  },
+  {
+    "id": "ivy_liu",
+    "name": "Ivy Liu",
+    "guard": "12",
+    "bio": "Ivy is a Grade 10 student at MGCI, and she is part of the Illustrations Board here at The Reckoner. She likes to travel, sleep for 12 hours straight, draw, and reread What If? by Randall Munroe for the 60th time (she should probably get the sequel already).",
+    "image": "/author-images/ivy_liu.jpg"
+  },
+  {
+    "id": "jeremy_dai",
+    "name": "Jeremy Dai",
+    "guard": "12",
+    "bio": "Jeremy is in Grade 11, which means that he gets all the privileges of being in the older half of high school: Working until 2 am to finish projects, bossing niners and tenners around, and chatting anyone up in the halls. Unfortunately, he has not escaped being a corporate slave to high marks.",
+    "image": "/author-images/jeremy_dai.jpg"
+  },
+  {
+    "id": "lisa_zhang",
+    "name": "Lisa Zhang",
+    "guard": "12",
+    "bio": "Lisa is a writer for the life board. She can usually be found procrastinating and complaining about her “lack of time” in the same sentence. When she manages to salvage free time, you can find her chugging questionable amounts of bubble tea for the sugar rush or binging every Noah Kahan song ever.",
+    "image": "/author-images/lisa_zhang.jpg"
+  },
+  {
+    "id": "maggie_pang",
+    "name": "Maggie Pang",
+    "guard": "12",
+    "bio": "Hello, this person is a g11 writer for the life board. She was so excited to distance herself from her last year's bio, but recently read it and realised she really hasn't changed. So she will instead use this space to tell you she can be found every Friday lunch in room 307 at bridge club.",
+    "image": "/author-images/maggie_pang.jpg"
+  },
+  {
+    "id": "",
+    "name": "Mahnoor Irfan",
+    "guard": "12",
+    "bio": "Mahnoor is a member of the Print Development Board at The Reckoner. She spends every day like it's her birthday. Her spare time is spent binge-watching k-dramas and complaining about having no spare time *Insert rolling eye emoji*. Her all-time favorite hobby is sleeping, which she deprives herself due to her very unfortunate habit of procrastinating. Additionally, She has a huge obsession with collecting old coins and hopes to make a fortune out of them one day.",
+    "image": "/author-images/.jpg"
+  },
+  {
+    "id": "mahyar_yousefzadeh",
+    "name": "Mahyar Yousefzadeh",
+    "guard": "12",
+    "bio": "Mahyar Yousefzadeh is a member of MGCI Reckoner's Web board. At school, he can be seen reading, scrolling through reading, or listening to music. He can also be seen outside of school in parks and on trails, admiring the nature around him.",
+    "image": "/author-images/mahyar_yousefzadeh.jpg"
+  },
+  {
+    "id": "mana_kheirkhah",
+    "name": "Mana Kheirkhah",
+    "guard": "12",
+    "bio": "Mana Kheirkhah is a new grade 9 student at Marc Garneau Collegiate Institute. She is a studious and creative person with a wide range of interests including writing, sports, and music. Some things she especially enjoys doing include hanging out with friends, listening to music, and reading.",
+    "image": "/author-images/mana_kheirkhah.jpg"
+  },
+  {
+    "id": "miranda_zhao",
+    "name": "Miranda Zhao",
+    "guard": "12",
+    "bio": "Miranda; 12th grader, editorial board. She is concise. (but mostly just lazy)",
+    "image": "/author-images/miranda_zhao.jpg"
+  },
+  {
+    "id": "omar_memon",
+    "name": "Omar Memon",
+    "guard": "12",
+    "bio": "Omar Memon is a Grade 12 student at MGCI. He is passionate about reading, and math, and loves to complain about anything he can find to complain about. When he is not having an existential crisis, he is surprisingly fun! Feel free to reach out to him on Instagram at @omarsnotokay!",
+    "image": "/author-images/omar_memon.jpg"
+  },
+  {
+    "id": "paromita_roy",
+    "name": "Paromita Roy",
+    "guard": "12",
+    "bio": "Paromita Roy is a writer on the Editorial Board. In her free time, she enjoys writing, music, and crying about how much she loves the band TXT. You'll find her in the halls running between meetings, or being chased by her friends who insist on calling out her full name every time they see her.",
+    "image": "/author-images/paromita_roy.jpg"
+  },
+  {
+    "id": "raheemah_patel",
+    "name": "Raheemah Patel",
+    "guard": "12",
+    "bio": "Raheemah is a Grade 12 student & what most might consider an old soul. She loves books, baking, movies, cats, & more. A night owl & procrastinator by nature, she's often running on sleep (but aren’t we all?). She’s a little quiet, but loves meeting new people, so don’t be afraid to say hi!",
+    "image": "/author-images/raheemah_patel.jpg"
+  },
+  {
+    "id": "richard_xiong",
+    "name": "Richard Xiong",
+    "guard": "12",
+    "bio": "Richard Xiong is a Grade 9 photographer at the Reckoner. His routine for success is Discord modding for the day and starting assignments at 1 am. He enjoys playing the violin, speedcubing, being clownish, and annoying people online. Although he is short, he has a very good personality!!",
+    "image": "/author-images/richard_xiong.jpg"
+  },
+  {
+    "id": "rida_manjoo",
+    "name": "Rida Manjoo",
+    "guard": "12",
+    "bio": "Rida is a member of the Print Development Board at The Reckoner. Rida enjoys skating, reading, and travelling. When she's not scrolling through subreddits or playing music on repeat, she's drowning in a never-ending stream of sorrow. She truly can do it all!",
+    "image": "/author-images/rida_manjoo.jpg"
+  },
+  {
+    "id": "saivenkat_jilla",
+    "name": "Saivenkat Jilla",
+    "guard": "12",
+    "bio": "Sai is a Grade 12 student in the TOPS program whose pastimes include gaming, swimming, and watching Youtube videos. He hopes to get a proper sleep schedule (never ask him when he slept—you don’t want to know) and improve his handwriting. You can usually find him running to his next class.",
+    "image": "/author-images/saivenkat_jilla.jpg"
+  },
+  {
+    "id": "sam_li",
+    "name": "Sam Li",
+    "guard": "12",
+    "bio": "Sam is a writer on the Reckoner—at least for now. He uses his limited free time on any, and everything related to debate. You'll find him wandering the halls chatting with his friends about basketball, games, and test results because he has nothing better to do, so come say hi if you see him.",
+    "image": "/author-images/sam_li.jpg"
+  },
+  {
+    "id": "sophie_yee",
+    "name": "Sophie Yee",
+    "guard": "12",
+    "bio": "Sophie is a member of the Reckoner's Print Development team. Her hobbies include reading, winning, getting free stuff, playing games, listening to music, running, and hanging out with family and friends. She will shower you with praise if you present her with anything IKEA, sushi, or bubble tea!",
+    "image": "/author-images/sophie_yee.jpg"
+  },
+  {
+    "id": "stephanie_chan",
+    "name": "Stephanie Chan",
+    "guard": "12",
+    "bio": "Stephanie Chan is a Grade 11 student and a photographer for the Reckoner. She’s an avid fan of winter runs and can often be found listening to music or taking pictures of her friends. Her talents include being able to name a Taylor Swift song within 10 seconds and sending indecipherable texts.",
+    "image": "/author-images/stephanie_chan.jpg"
+  },
+  {
+    "id": "stephie_liu",
+    "name": "Stephie Liu",
+    "guard": "12",
+    "bio": "Stephie Liu is an author for the News Board. She is currently in Grade 12. Her hobbies include reading and gaming (occasionally). She also enjoys sleeping, sketching, listening to music, eating midnight snacks, and writing random short stories. She loves talking to others and making friends!",
+    "image": "/author-images/stephie_liu.jpg"
+  },
+  {
+    "id": "sumit_paul",
+    "name": "Sumit Paul",
+    "guard": "12",
+    "bio": "Sumit Paul is a member of the Editorial Board at The Reckoner.",
+    "image": "/author-images/sumit_paul.jpg"
+  },
+  {
+    "id": "tom_sharma",
+    "name": "Tom Sharma",
+    "guard": "12",
+    "bio": "Tom Sharma is a grade 9 student of MGCI and a member of Outreach and Significant digits. He sleeps a mere 4 hours a night and is an expert in the art of doing every assignment the night before. He enjoys snowboarding, competitive programming, excessive studying and contemplating poor life choices.",
+    "image": "/author-images/tom_sharma.jpg"
+  },
+  {
+    "id": "vicky_wen",
+    "name": "Vicky Wen",
+    "guard": "12",
+    "bio": "Vicky Wen is a member of both the Outreach and Editorial boards. In their free time, they like to snap polaroids, have something mint on them at all times, and collect a horrendous amount of keychains.",
+    "image": "/author-images/vicky_wen.jpg"
+  },
+  {
+    "id": "vivien_xiang",
+    "name": "Vivien Xiang",
+    "guard": "12",
+    "bio": "Vivien Xiang is a grade 12 Life Board writer who's still surprised she made it this far. Her interests include thinking about murder, artificial intelligence, rhythm games, and uncomfortably large novels. If you say hi to her, she will say hi back and then promptly forget your existence.",
+    "image": "/author-images/vivien_xiang.jpg"
+  },
+  {
+    "id": "zaid_azhar",
+    "name": "Zaid Azhar",
+    "guard": "12",
+    "bio": "Zaid is in grade 10 and is a member of the illustrations board. He enjoys drawing and has been drawing since birth. He also loves reading manga, listening to music and wandering around the city with his friends. He aspires to improve in art, to get good marks and to become a black belt in taekwondo.",
+    "image": "/author-images/zaid_azhar.jpg"
+  },
+  {
+    "id": "zixuan_xu",
+    "name": "Zixuan Xu",
+    "guard": "12",
+    "bio": "Zixuan is a writer for the Life Board of the Reckoner. She wants everybody reading this to know that tomorrow is a new day, and it'll all be okay! You can visit her blog at https://wordsbyzi.tumblr.com/ for more poetry and short pieces.",
+    "image": "/author-images/zixuan_xu.jpg"
+  },
+  {
+    "id": "bala_venkataraman",
+    "name": "Bala Venkataraman",
+    "guard": "11",
+    "bio": "Bala Venkataraman is a grade 9 member of the photography board, who enjoys doing any kind of programming, from solving a CCC problem to making a TensorFlow neural network, solving problems in Math and Physics, playing videogames and taking cool pictures. He is usually seen on his computer, or with a camera in his hand.",
+    "image": "/author-images/bala_venkataraman.jpg"
+  },
+  {
+    "id": "lucy_qi",
+    "name": "Lucy Qi",
+    "guard": "11",
+    "bio": "Lucy is a grade 11 Life artist and illustrator at the Reckoner. During her free time, you can find her playing volleyball, sleeping on her piano, doing karate, and drawing! Her goal for this year is to try to sleep at least 6 hours a day and procrastinate less, which is why she is submitting her bio 2 weeks early.",
+    "image": "/author-images/lucy_qi.jpg"
+  },
+  {
+    "id": "jefferson_chen",
+    "name": "Jefferson Chen",
+    "guard": "11",
+    "bio": "Jefferson Chen is the Deputy Editor-In-Chief and Manager for the Editorial Board for The Reckoner. Aside from his usual commitment to school, he serves as the Chief Warrant Officer at 110 Squadron of the Royal Canadian Air Cadets. Out of the academic world, Jefferson can usually be found on the piano, binge watching YouTube, or playing games on his 2013 PC. His games of choice are Minecraft and League of Legends.",
+    "image": "/author-images/jefferson_chen.jpg"
+  },
+  {
+    "id": "rain_yeyang",
+    "name": "Rain Yeyang",
+    "guard": "11",
+    "bio": "Rain Yeyang is a grade 11 student. She is not good at writing bios.",
+    "image": "/author-images/rain_yeyang.jpg"
+  },
+  {
+    "id": "amy_jia",
+    "name": "Amy Jia",
+    "guard": "11",
+    "bio": "Amy Jia is on the Editorial, Photography, and News boards in The Reckoner. This is her third year on The Reckoner now, but the only part of her that has changed is her height. However, she decided not to recycle her old biography just to spice things up. If you like reading, bubble tea, music, food, or squirrel pictures, then you know you definitely have something in common with her. She’s always happy to make new friends, so don’t be afraid to say hi or strike up a conversation!",
+    "image": "/author-images/amy_jia.jpg"
+  },
+  {
+    "id": "laksha_sivakumar",
+    "name": "Laksha Sivakumar",
+    "guard": "11",
+    "bio": "Laksha Sivakumar is a dedicated ninth-grade student from Toronto, Canada. She was the recipient of the Science Award when she graduated elementary and the Academic Award when she completed middle school. Her dreams lived upon the stars since she was a child, which piqued her interest in astronomy. She aspires to work for the Canadian Space Agency. Along with her interest in STEM, she enjoys writing her life events, with each stage in a separate volume and play basketball. Overall, she is a well-rounded and goal-oriented individual who is delighted to work with The Reckoner's Editorial Board.",
+    "image": "/author-images/laksha_sivakumar.jpg"
+  },
+  {
+    "id": "rand_alahmad",
+    "name": "Rand Alahmad",
+    "guard": "11",
+    "bio": "Rand Alahmad, professional bodybuilder.",
     "image": "/author-images/default.jpg"
   },
   {
-    "id": "hellen_li",
-    "name": "Hellen Li",
-    "guard": "6",
-    "bio": "Hellen Li is a Life Artist at The Reckoner. She loves children, animals and shoes. Although she possesses great passion for science and mathematics, her ultimate love is for shopping. From the young age of 5, she had expressed her perspectives not only through her work yet through her fashion sense as well. If you ask her what she wants to be, she might answer biologist, veterinarian or an accountant. But actually, she secretly dreams of becoming a fashion designer…",
+    "id": "ray_hang",
+    "name": "Ray Hang",
+    "guard": "11",
+    "bio": "Ray is a human being who is trying to learn how to properly manage time. Ray is in grade 11, and is part of the print and news boards. You should wave to Ray in the hallways. Ray likes indie pop music and classical/instrumental music. Ray also likes hugs, but COVID is a thing. Ray can usually be found hovering around several friend groups at the same time, as Ray cannot decide who to talk to.",
+    "image": "/author-images/ray_hang.jpg"
+  },
+  {
+    "id": "bill_yan",
+    "name": "Bill Yan",
+    "guard": "11",
+    "bio": "Bill Yan is a member of the Photography, Print, and Life boards at The Reckoner. He is a curious student who loves doing math, playing the piano, taking pictures, designing, writing and exercising. During the quarantine, Bill has been exceptionally bored, has practiced writing sentences with too many commas, and tried to reduce his run-on sentences. He likes taking naps in his spare time as well. Bill is excited to be a member of the Eleventh guard this year.",
+    "image": "/author-images/bill_yan.jpg"
+  },
+  {
+    "id": "brian_li",
+    "name": "Brian Li",
+    "guard": "11",
+    "bio": "Brian Li is a Grade 10 student at Marc Garneau Collegiate institute, and a writer for the Editorial Board of The Reckoner's Eleventh Guard. He has previously written in the News Board. His hobbies include sleeping and playing games as quite possibly the most generic pastimes one can have. He is once again predicting an overt surplus of Reckoner biographies with the same Self-deprecating jokes™ concerning procrastination, the lack of spare time, and bubble tea.",
+    "image": "/author-images/brian_li.jpg"
+  },
+  {
+    "id": "max_lu",
+    "name": "Max Lu",
+    "guard": "11",
+    "bio": "Max is an illustrator who picked up his interest in art the same time his peers dropped it. You can often find him clicking his keyboard to the beat of Japanese songs by hovering over RedcXca#4332. He has not taken a selfie since grade 10 but if you see a short man with long hair holding a hotdog and a Pepsi cup at lunch, that is him. He will give you a :thumbsup: and quickly run to his next class.",
+    "image": "/author-images/max_lu.jpg"
+  },
+  {
+    "id": "iris_ma",
+    "name": "Iris Ma",
+    "guard": "11",
+    "bio": "Iris is a writer for the News and Significant Digits boards this year. Accompanied by her signature banana bucket hat, you can often find her rambling on about some nonsense or babbling incoherently. She is best known for her unhealthy obsession over cookies and ramen, as well as an undying passion to become an infamous mafia boss. When talking to her, you may notice that she wiggles about frequently and seems to be incapable of pronouncing common vocabulary terms (resulting in a series of random noises).",
+    "image": "/author-images/iris_ma.jpg"
+  },
+  {
+    "id": "zahra_suhail",
+    "name": "Zahra Suhail",
+    "guard": "11",
+    "bio": "While many may say Zahra's sarcasm is the only humor she has, she seems to have a lot more in store. Writing is her way of expression and the vision she has of the world. It's where words just perfectly melt together in a beautiful creation of art. She's glad to be a part of the Life Board, hoping her words will be heard, and most importantly, touch the hearts of many others.",
+    "image": "/author-images/zahra_suhail.jpg"
+  },
+  {
+    "id": "hiba_mulla",
+    "name": "Hiba Mulla",
+    "guard": "11",
+    "bio": "Hiba Mulla Is an illustrator for The Reckoner. She loves to draw a lot. If you ever look at her homework, that's probably all you’ll ever see. If she’s not drawing you can find her playing games, binging an anime series, or running away from homework. She really likes sports such as volleyball, soccer, and karate. Otherwise she can be found procrastinating on assignments and homework. She’s unsure about the future but knows she wants to do something with art.",
+    "image": "/author-images/hiba_mulla.jpg"
+  },
+  {
+    "id": "angelina_wang",
+    "name": "Angelina Wang",
+    "guard": "11",
+    "bio": "Angelina Wang is a chipper and cheery Grade 10 student at Marc Garneau CI. She enjoys creating writing and poetry, sharing strong opinions, and making sick rhymes. She also likes spending her time playing sports and making music.",
+    "image": "/author-images/angelina_wang.jpg"
+  },
+  {
+    "id": "james_zhang",
+    "name": "James Zhang",
+    "guard": "11",
+    "bio": "James Zhang is a Grade 9 student who was bored and decided to join Significant Digits and The Reckoner so he can do stuff. Life is quite boring for him. All he does is wake up, go to school, do work, eat, and sleep. He wishes that time could slow down so he has time do all his favourite activities, of which there are too many. Some of his include playing instruments, fiddling with technology, and doing lots of work. The internet is his source of life and without it, he would probably go insane.",
+    "image": "/author-images/james_zhang.jpg"
+  },
+  {
+    "id": "carrie_jiang",
+    "name": "Carrie Jiang",
+    "guard": "11",
+    "bio": "Carrie Jiang is a Grade 11 member of the Outreach Board. For the past two years being in The Reckoner, she found herself stumped on writing a simple biography, but was reminded that she could easily rant about her spiraling addiction to Netflix. However, this year is different. She would like to mention that she is months sober from Netflix (excluding a short relapse for Squid Game) and now spends more time doing other things that she enjoys. She loves hanging out with friends, reading, playing piano, making extremely funny jokes, and sleeping (something she rarely gets to do).",
+    "image": "/author-images/carrie_jiang.jpg"
+  },
+  {
+    "id": "nuha_samen",
+    "name": "Nuha Samen",
+    "guard": "11",
+    "bio": "Nuha Samen is a grade 10 student and is a part of the Print Development Board at The Reckoner. At school, she loves learning about space and computers. In her free time, Nuha is either baking, listening to true crime podcasts, or redecorating her room for the 30080126th time. She is also willing to sell her soul for a British Shorthair Cat (preferably with a British accent). <3",
+    "image": "/author-images/nuha_samen.jpg"
+  },
+  {
+    "id": "wenzhao_pan",
+    "name": "Wenzhao Pan",
+    "guard": "11",
+    "bio": "Wenzhao is a grade 11 student at Marc Garneau CI, and a member of the Outreach and Editorial boards. In his spare time, he likes to play basketball, destroy people at iMessage games, and annoy his friends. When he isn't doing any of these, he is probably procrastinating or listening to his Spotify liked songs on shuffle (or both). Please feel free to reach out to him anytime, he loves making new friends!",
+    "image": "/author-images/wenzhao_pan.jpg"
+  },
+  {
+    "id": "selvahini_kamalarajan",
+    "name": "Selvahini Kamalarajan",
+    "guard": "11",
+    "bio": "Selvahini Kamalarajan is a grade 10 student at Marc Garneau CI. Her hobbies include playing the keyboard, reading and browsing the dark depths of the internet. She is obsessed with the crash course philosophy series and searches up random things in her free time. Selvahini often ponders about the existence of extraterrestrial life and contemplates her life choices. On the rare occasion where she isn’t having an existential crisis, you can probably catch her being busy doing nothing. Selvahini hopes to achieve clarity in her life and know the answer to why her name autocorrects to “selvamani” on google docs.",
+    "image": "/author-images/selvahini_kamalarajan.jpg"
+  },
+  {
+    "id": "javeria_sajid",
+    "name": "Javeria Sajid",
+    "guard": "11",
+    "bio": "Javeria Sajid is a writer for the Life Board at the Reckoner. She’s addicted to reading and you’ll always find her with a book - even when she has a hundred other things to do. When she’s not reading, she chooses to spend her time by baking delicious treats, eating them, and lazing about. Her mind is a jumble of random thoughts and worlds. Pages upon pages of notes, ideas, and one-sentence-drafts waiting to be let out in a flurry of repressed potential, which she then translates into written pieces.",
+    "image": "/author-images/javeria_sajid.jpg"
+  },
+  {
+    "id": "julia_shen",
+    "name": "Julia Shen",
+    "guard": "11",
+    "bio": "Julia Shen is a member of the Reckoner’s Print Development Board. She loves eating snacks, listening to music, and power-napping on every car ride possible. If she’s not busy questioning some aspect of her life (her wack music taste being the latest cause for concern) while stress-folding cranes (the only origami she knows how to make), she’s probably lamenting her lack of progress in her quest to catch up on all the anime she promised to binge. Family, friends, and plushies are the loves of her life, though she often struggles to express her appreciation for the first two.",
+    "image": "/author-images/julia_shen.jpg"
+  },
+  {
+    "id": "derek_chen",
+    "name": "Derek Chen",
+    "guard": "11",
+    "bio": "Derek is in grade 10, and is a writer for the Editorial Board. He claims he has goals in life, but if you ask him about them, he has to think on the spot. His passions include fencing and playing the violin, and he is bad at both. He is a dad joke enthusiast and loves to annoy his friends with punny jokes and watch them cringe. To find him, search in corners where he could be crying.",
+    "image": "/author-images/derek_chen.jpg"
+  },
+  {
+    "id": "yusra_mukhtar",
+    "name": "Yusra Mukhtar",
+    "guard": "11",
+    "bio": "Yusra Mukhtar is a writer for The Reckoner. She loves to read, write, and eat. She’s someone who gets too emotionally invested in books and the different worlds authors create. More than half of her conversations are about books, and once she starts, you won’t be able to get her to stop. Yusra can’t help but procrastinate when it comes to work, no matter how guilty she feels afterward.",
+    "image": "/author-images/yusra_mukhtar.jpg"
+  },
+  {
+    "id": "gavin_xue",
+    "name": "Gavin Xue",
+    "guard": "11",
+    "bio": "Gavin Xue is a writer for the Significant Digits Board at The Reckoner. He plays the piano, which is his go-to fact about himself for introductions, along with getting separated from his parents on a subway in China. When not chipping away at work, you’ll find him surfing the web, playing games, writing, and of course, regretting not doing the work.",
+    "image": "/author-images/gavin_xue.jpg"
+  },
+  {
+    "id": "ada_aksoy",
+    "name": "Ada Aksoy",
+    "guard": "11",
+    "bio": "Ada Aksoy is a writer for the Reckoner's Editorial Board. Ada loves thinking about the most controversial things to write in his head, and you'll occasionally find him bothering other people during lunch. He likes reading, discussing, debating, and anything like that. Fortunately, it is hard to find him because he is part of a collection of individuals who refer to themselves as John.",
     "image": "/author-images/default.jpg"
   },
   {
-    "id": "caryn_qian",
-    "name": "Caryn Qian",
-    "guard": "6",
-    "bio": "Caryn is a member of the life board at The Reckoner. She absolutely adores travelling, but be warned! Ask about any one of her trips, and you may find yourself snoring through her impressively lengthy descriptions. Perhaps for a safer and less painfully drawn_out narrative, try consulting her backpack: the practical residence for her humungous keychain collection. Her biggest dream is to set foot on each one of the seven continents. That, and to have high fived one child from every place she’s been to (penguins will have to do in Antarctica).",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jessica_zhu",
-    "name": "Jessica Zhu",
-    "guard": "6",
-    "bio": "Jessica Zhu is a writer for the Life Board at the Reckoner. At school, she is often sighted playing bridge at lunch or at a club that allows one to eat comfortably upon tables as they conduct a meeting. When she isn't desperately studying for the test she has next period, you can find her jotting down story ideas on loose sheets of paper at the back of her binder, English or otherwise.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "dora_greaton_tan",
-    "name": "Dora Greaton Tan",
-    "guard": "6",
-    "bio": "Greaton Tan doesn’t understand how he became a comic artist for the Reckoner. He doesn’t think it’s because of his love of soccer. He is sure it’s not because of his overuse of puns. Perhaps it’s his obsession with wordplay, satire, and dark humour. In any case, he hopes it’s not because of the trance he’s been in ever since he sold his sleep schedule to the devil.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "roger_li",
-    "name": "Roger Li",
-    "guard": "6",
-    "bio": "Roger Li creates art for the Life Board. He enjoys reading, listening to music, drawing, and watching movies. He also likes to write, compose, and draw, though you should be wary of the results. Roger has many projects on the go and all he wants is to finally finish his stories, songs, and sketches. Roger does some amounts of math, but will do his best to avoid it. That is why he has cleverly committed his math time and portions of his other time towards doodling for The Reckoner instead of finishing those creative ventures.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "eric_wang",
-    "name": "Eric Wang",
-    "guard": "6",
-    "bio": "Eric Wang is a life writer at The Reckoner. His time is often devoted to exploring the latest pc games when he should instead be studying diligently. He considers himself to be an average Bob and enjoys his monotonous life nonchalantly. However, to occasionally spice things up, Eric tells peppery jokes and revives long buried facebook posts to embarrass friends all the while laughing heartily, clapping loudly and slapping his knee. Descriptions and commentary are the bane of his existence so he hammers straight into writer’s block.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "bridget_huh",
-    "name": "Bridget Huh",
-    "guard": "6",
-    "bio": "Bridget is a staff writer for the life board. She is a vigorous advocator of viola equality and hopes that one day, violists may be viewed among violinists as equals. Bridget does not care about foam bones and frankly isn’t sure why anyone would. Bridget cannot understand why people watch videos of baby pandas climbing trees; in fact, she finds them quite depressing as all the pandas ever do is fall. In her spare time, Bridget enjoys kicking things. And people. There isn’t much of a difference anyway.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "amy_chen",
-    "name": "Amy Chen",
-    "guard": "6",
-    "bio": "Amy Chen is a Life Writer for The Reckoner. She enjoys reading novels and watching movies where she is immersed in a world that is not her own. She has a love_hate relationship with cliffhangers and with sad endings. She is a lover of art and the beauty found in even the most commonplace activities. She fantasizes of performing many absurd feats such as entering into a black hole. In the meantime, she’s content with travelling and exploring the world while eating delicious delicacies from each culture.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "hannah_nie",
-    "name": "Hannah Nie",
-    "guard": "6",
-    "bio": "Hannah Nie is a Writer for the Life Board. She takes pride in being mediocre at things ranging from ocarina_playing to artsy photography to writing half_finished novels. Hannah dreams of becoming immune to procrastination---but, realistically, she wants to travel the world, adopt a cat, and finish a writing a novel for once.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "rahim_dhalla",
-    "name": "Rahim Dhalla",
-    "guard": "6",
-    "bio": "Rahim Dhalla is a writer for the life board at The Reckoner. Fascinated by different cultures and ways of life, Rahim loves to travel and learn languages. His hobbies/interests include playing guitar, reading, running, and eating Oreos. He has numerously been criticized with the overuse of “litt” but still says it whenever the opportunity presents itself. Rahim also really likes food. If he’s not eating something, he’s probably telling someone how litt something is.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "firaz_khan",
-    "name": "Firaz Khan",
-    "guard": "6",
-    "bio": "A world traveler, animal lover, aspiring poet, and political enthusiast. Those are among the many titles that describe Firaz. Coming from a very mixed heritage and in the process of discovering more about his background, Firaz had pushed his boundaries and became the world traveler he is today with different experiences in more than 120 countries. Always looking to share and express the knowledge gained from these travels, Firaz is very optimistic and content with being a writer in the Life Board.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "anjing_li",
-    "name": "Anjing Li",
-    "guard": "6",
-    "bio": "Anjing Li is a Life Board writer for The Reckoner. She is usually in the school library perusing through the fiction section, listening to punk rock through her earbuds, or freaking out about the latest season of a TV show. Anjing is passionate about her hobbies; examples being the violin, swimming, and writing. She also spends an absurd amount of time watching anime instead of working, and is an avid procrastinator. In her spare time, Anjing can frequently be found telling her friends that they are a “scrub”, wandering around lost in the hallways of MGCI, or eating cupcakes.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "amy_chen",
-    "name": "Amy Chen",
-    "guard": "6",
-    "bio": "Amy Chen is a Life Board writer for the Reckoner. You can usually find her laughing obnoxiously at her own terrible jokes, or curled up in a quiet corner with a good book. Every time she wakes up in the morning, she grapples for any memory of her dreams and thus spends an unhealthy amount of time trying to analyse them. She loves crime thriller movies and TV shows, her favourite colour is the sky, and don’t let her adventurous and mildly disgusting taste in junk food distract you from the fact that she's a hard_core foodie.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "ayman_arik_kazi",
-    "name": "Ayman Arik Kazi",
-    "guard": "6",
-    "bio": "Ayman Arik Kazi is a writer for the Reckoner and a Grade 11 student at Marc Garneau. He is kind of slobby and his room can be found perpetually littered with KitKat wrappers and dirty clothes waiting to be picked up. Ayman likes to write about obscure yet integral concepts with the world and its people as his muse. Despite being hard to swallow, his pieces try to bring to light the very things we try to ignore and hide. At first sight, he seems abrasive and quick to judge. However, those who know him know that he only means well.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "areeba_asghar",
-    "name": "Areeba Asghar",
-    "guard": "6",
-    "bio": "Areeba Asghar is a Life and Editorial writer at The Reckoner. She is an enthusiast of words and gets an inexplicable sort of satisfaction when her mind pieces them together and her hands paint them on parchment. A rather poetic person, Areeba is quite passionate about writing and is a true supporter of sad endings. In her opinion, the happily ever after days are long gone.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "lindsey_jin",
-    "name": "Lindsey Jin",
-    "guard": "6",
-    "bio": "Lindsey Jin is an illustrator for the Reckoner. She enjoys sleeping, reading, and wasting away hours on the internet instead of being productive. Lindsey's favourite astronomer is George Ellery Hale. Coincidentally, she also has a fish named George Ellery Hale. Lindsey's favourite book isWatership Down by Richard Adams. It's an absolutely fantastic and thrilling novel, and she recommends that you all try reading it!",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jeffrey_liu",
-    "name": "Jeffrey Liu",
-    "guard": "6",
-    "bio": "Jeffrey Liu is an illustrator at The Reckoner and a grade 11 student in TOPS. He enjoys many things, such as drawing, doing math problems, and playing video games. Just kidding, no one likes doing math problems. His electives this year include finance 12, ICS, and astronomy. Speaking of astronomy, Jeffrey has an upcoming examination which limits the quality of this biography. For further contact, Jeffrey can be found after school in the space resource centre serving detention for McMac.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "sheri_kim",
-    "name": "Sheri Kim",
-    "guard": "6",
-    "bio": "Sheri Kim is an illustrator at the Reckoner. She is known for her awesome \"Korean_looking\" glasses and loving milk. Sheri can eat endless tubs of Baskin Robbins ice cream and is always in her comfortable sweats and hoodie. She loves the arts, especially dance and enjoys watching and playing sports. Sheri has a deep interest in the health sciences and learning new things. Amidst her busy schedule, Sheri is a perfectionist, but in her free time, she loves jamming to her favorite Korean songs.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "amy_yan",
-    "name": "Amy Yan",
-    "guard": "6",
-    "bio": "Amy Yan is an Illustrator for the Reckoner. In her free time she enjoys drawing, sleeping and reading comics. Her favourite comic book character is The Amazing Spiderman. She can often be found doodling on the margins of handouts or eating.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jenna_wong",
-    "name": "Jenna Wong",
-    "guard": "6",
-    "bio": "Jenna Wong is a photographer for the Reckoner. Petite and sweet, don’t let her small stature fool you. Her tiny frame can pass through 50m of water in under 30 seconds. When not swimming, she is most likely worrying about the future or questioning the meaning of life. Jenna may seem very quiet, but once you get to know her, you’ll wonder how you ever thought that. A lover of art, music and singing completely off_key, she likes to spend her spare time picking her guitar or ukulele or playing the piano. Oh, and she loves food!",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "sophia_liu",
-    "name": "Sophia Liu",
-    "guard": "6",
-    "bio": "Sophia Liu is a photographer for The Reckoner. She is currently in grade 11 and is having a blast by worrying more than ever before about her uncertain future and what she wants to do in life. In her spare time, she likes reading, petting dogs, dying, and drawing. Sophia really hopes that the economy and the education system is fixed soon.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "matthew_tse",
-    "name": "Matthew Tse",
-    "guard": "6",
-    "bio": "Matthew Tse is a photographer on the Media Board at The Reckoner. The only things that he loves more than traveling around the world and taking pictures, is eating Japanese food in Japan and “Ferrari Red” Ferraris. When he has nothing to do at home, he can often be found watching Big Bang Theory, vines, or clips from various late night shows. During the winter, Matthew can be found skiing and on Youtube fail videos because he wipes out a lot. Matthew has never written an article for The Reckoner because he can’t English.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "justin_ye",
-    "name": "Justin Ye",
-    "guard": "6",
-    "bio": "Justin Ye is a photographer for the Media Board of The Reckoner. He is a grade 9 student who aspires to be someone who knows what they’re doing with their life. Justin enjoys cross country running -- that is, of course, until his legs start dying and he begins to seriously question his life choices. In his spare time, Justin can frequently be found wandering around lost in the hallways of MGCI, playing board games online, or telling his friends that they are a “merp”.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "kevin_russell_ijaya",
-    "name": "Kevin Russell Ijaya",
-    "guard": "6",
-    "bio": "Russell Ijaya is a photographer and print developer at the Reckoner. What are you going to with your life? Ask him and you’re guaranteed a response full of ambiguity. He’s putting that question off for now, but that doesn’t mean he’s a procrastinator. Word on the street is that he’s pretty “artsy”, one of the vaguest descriptions that could ever be given. Through his rather small lens, he hopes to inspire others to search for what they haven’t seen. He is recognized by his absurdly long hair… you can think what you want about it.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jessica_guo",
-    "name": "Jessica Guo",
-    "guard": "6",
-    "bio": "Jessica Guo is a writer for the News board at the Reckoner. She can be found binge_watching shows on Netflix and listening to songs on repeat until she hates them. She enjoys swimming, hanging out with friends, and collecting Happy Meal toys from McDonald's. She likes to travel and would love to see the world. If you find her wandering the halls she is most likely lost, and greatly appreciates a “hi” and directions.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "dylan_xiao",
-    "name": "Dylan Xiao",
-    "guard": "6",
-    "bio": "Dylan Xiao is a News writer for The Reckoner and is in Grade 9. He loves playing tennis, practicing violin, and being outside. Dylan spends his time eating, sleeping, and procrastinating. In his free time, he catches up on Game of Thrones and reads books. Dylan can often be found wandering the halls of Garneau or daydreaming.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "marzan_hamid",
-    "name": "Marzan Hamid",
-    "guard": "6",
-    "bio": "Marzan is a News writer at the Reckoner. She enjoys watching cooking videos for hours on end, pondering paradoxical theories and signing her name with permanent marker on practically every surface she can find. She owns a collection of many watches and glasses, many of which she never dares to wear. Marzan is a procrastinator by nature, but also a person with a great fear of failure. When she isn’t baking, cramming, or doodling, she is usually volunteering. She is always smiling, even if she is running on one hour of sleep (which is most of the time).",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "henry_tang",
-    "name": "Henry Tang",
-    "guard": "6",
-    "bio": "Henry is a News Writer for The Reckoner. In his spare time, he enjoys playing the piano, swimming, reading, and experimenting with his collection of nine calculators. However, nothing can surpass his love of sleep. He is adamant about getting at least eight hours of peaceful bedtime every night and will usually remain unmoving until 11 am the next morning unless his alarm clock happens to ring. Unfortunately for him, the clock most often rings slightly earlier than when he would prefer to crawl out of his bed. He also has a strange passion for bugs.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "ruknoon_dinder",
-    "name": "Ruknoon Dinder",
-    "guard": "6",
-    "bio": "4 things matter most in Ruknoon’s life- Model UN, sleep, food and soccer (Arsenal and Toronto FC for life). A dedicated lover of hard rock and metal, he loves giving huge speeches about how great the genre is. He will watch any movie, TV show, read any book he finds as long as he finds it interesting for 5 minutes. He’s very shy of people but makes friends easily once he gets to know you. He has an unhealthy obsession with Russian Federation so don't go around speaking ill about Putin when he’s around unless you want to debate him.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "joel_vidad",
-    "name": "Joel Vidad",
-    "guard": "6",
-    "bio": "Joel is a news writer on the News Board of The Reckoner. He is a Grade 10 BSAP student and he aspires to do something related to business in the future. During his spare time, you could find him volunteering in the neighbourhood, doing his homework, chilling with his friends, or sleeping. He LOVES to sleep, though he never gets enough of it. (He partially blames Netflix; specifically \"The Office.\") He's pretty good at procrastinating and trying at life, but he still gets the job done. Overall, he's pretty determined and hard_working like his brother, EJ.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "aiman_altaf",
-    "name": "Aiman Altaf",
-    "guard": "6",
-    "bio": "Aiman Altaf is a News writer at The Reckoner and is a niner at MGCI. She likes to watch crime shows or dive into a new book when she is not busy sitting in the bus, doing homework, practicing piano, playing hide and seek with her 2 year old sister, or arguing with her other sister. When she has time to think, Aiman ponders the purpose of life and remembers the happy days when sleep had no value.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "ryan_chiungting_lin",
-    "name": "Ryan (Chiungting) Lin",
-    "guard": "6",
-    "bio": "Ryan Lin is a Toronto Star High School Newspaper Award_winning reporter and senior News Board writer for The Reckoner. For him, the only thing better than reporting on new things is actually doing them. He is much like an electron in that, at any given moment in time, you might find him: hustling around the diamond, freezing on curling ice, pretending to be good at the violin, silently cursing his CAD software, checking Tesla stocks, reading the latest Supreme Court ruling or wondering what new experiences the future may hold. Maybe all of these things. Maybe none.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "mei_yi_niu",
-    "name": "Mei Yi Niu",
-    "guard": "6",
-    "bio": "Mei Yi Niu is a News Board writer for The Reckoner. She loves the buzz of weekends in big cities, the freshness of fields of grass, the warmth of autumn teas, and the serenity of late_night stargazing. She lives for her everyday adventures, surprises, and excitement. She hopes to someday be a posh French lady sitting in a posh French café reading a posh French book eating posh French chocolate. In Paris, obviously. It probably won’t happen, but a girl can dream.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jeffrey_qiu",
-    "name": "Jeffrey Qiu",
-    "guard": "6",
-    "bio": "Jeffrey Qiu is a news writer for The Reckoner. Usually found on the ice, he is an avid hockey player and thrives in Canada’s fifth season. With a lively and energetic personality, Jeffrey would never back down from a competition. He also runs, swims and plays badminton. While not battling it out in a match he is probably lounging around with friends. He enjoys the company of others and will rarely be found alone. An outgoing but friendly person, you will always know when he’s nearby!",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "arani_kulamurugan",
-    "name": "Arani Kulamurugan",
-    "guard": "6",
-    "bio": "Arani Kulamurugan is a writer at The Reckoner, and is a grade 11 student at MGCI. She can be seen either singing, listening to insanely loud rap music, frantically studying for a test, or just chilling with her friends in the hall. She may look like a shy person, but she's actually really crazy once you get to know her and is often heard before seen. Besides spending her time \"fangirl_ing\" over Harry Potter and Game of Thrones, she also enjoys writing, and learning more about neuroscience.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "julie_xiao",
-    "name": "Julie Xiao",
-    "guard": "6",
-    "bio": "Julie Xiao is a News writer for The Reckoner. Although Julie usually has tons of homework, she spends most of her time watching crime TV shows, completing jigsaw puzzles, and going for runs. Her goals for the future include studying to be a mixologist, attempting a layout, and becoming fluent in French.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "hargun_kaur",
-    "name": "Hargun Kaur",
-    "guard": "6",
-    "bio": "Hargun Kaur is a news writer at the Reckoner. Her day starts off with pressing the snooze button at least 10 times and ends with a promise to sleep earlier tonight. When she’s not endorsed in school work, she’s usually catching up on sleep or listening to Adele. She doesn't love anything more than listening to a good song while taking a little snooze. Music is her first love and sleep is her long lost friend. If you ever see her in the hallway, remember to say, “Hello from the other side.”",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "varun_venkataramanan",
-    "name": "Varun Venkataramanan",
-    "guard": "6",
-    "bio": "Varun Venkataramanan is a news writer and web & app developer at The Reckoner. He is a grade 11 student who loves going on runs as long as his last name. A big music fan, he likes to pretend he is the frontman of the Grammy winning band Varoon 5. Although spring is his favourite season, it normally involves him crying over the Washington Capitals' latest playoff failure or Derrick Rose's next knee injury. Other than that, Varun can usually be found curled up with a book, coding out a new project, or playing with his luscious locks.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "nelson_lee",
-    "name": "Nelson Lee",
-    "guard": "6",
-    "bio": "Nelson Lee is an Outreach board member at Marc Garneau Collegiate Institute. He has a distinct habit of keeping things organized and on tasks. When not keeping things in place and order, Nelson likes to read, his favourite book is: “All the light we Cannot see”. Other than reading well_written novels, he likes to talk to people and hopefully the latest Magic the Gathering cards he bought went up in value. Nelson Lee never procrastinates and always likes doing things early so he can reward himself with free time. He’s always diligent to get the work done.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "raluca_gondor",
-    "name": "Raluca Gondor",
-    "guard": "6",
-    "bio": "Raluca Gondor is an Outreach Board member. An avid traveller, she enjoys visiting new places and experiencing wacky things. Raluca's friendly, but you may want to steer clear while she’s eating. She’s an adrenaline junkie and can be found doing crazy things that usually result in her getting injured. One day, she hopes to go skydiving and backpacking along the Inca Trail. Her hobbies include bingeing shows, lip syncing, and doing things ironically until they’re no longer ironic. If you feed her, you automatically become her friend and will be subjected to her awful puns. She’s Gon(e)dor.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "lisa_wang",
-    "name": "Lisa Wang",
-    "guard": "6",
-    "bio": "Lisa Wang is an Outreach Board Member at The Reckoner. She enjoys Netflix, volleyball, playing piano, and the arts- visual in particular. You may find her doing homework, turning off unnecessary lights, or biking with friends, although her partial sense of direction has a tendency to get her lost more often than not. When she isn't consumed with her work or actually consuming food, Lisa is attempting to make other laugh, and the world a greener place.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "roger_vivian_ly",
-    "name": "Roger Vivian Ly",
-    "guard": "6",
-    "bio": "Vivian is a member of the Outreach Board. In her free time, she enjoys acrobatics and reading. While some say she doesn't look like it, she loves listening to rock, alternative, and punk music, though she dabbles in all genres. She is a die_hard member of many different fandoms and you could probably call her a total geek for many things. Her love for TV and books give her pain when conflicting with the need to study and do work but she strives to do her best.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "abirami_sivakanthan",
-    "name": "Abirami Sivakanthan",
-    "guard": "6",
-    "bio": "Abirami Sivakanthan is a member of the Outreach Board at the Reckoner. When she is not complaining about her homework, she enjoys running, swimming and playing the piano. Her day starts out with her false promise to sleep earlier and ends with her desperately trying to finish the homework that she procrastinated on. The rest of her day is filled with her amazing friends, teachers and brutal yet hilarious swim coach. If you ever see her in the halls make sure to say hi to her, she's cool I promise.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jeremy_phy",
-    "name": "Jeremy Phy",
-    "guard": "6",
-    "bio": "Jeremy Phy is a member of the Outreach board.  Your typical asian guy, he’s skinny, tall, has glasses and is great at being average. What sets him out of the rest is not his sharp wits but rather his angular jaw. Test its edge with something other than a finger. He loves making robots, throwing frisbees with friends and has a strange liking for making things rhyme. He also enjoys an adventure on his spare time.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jennifer_yu",
-    "name": "Jennifer Yu",
-    "guard": "6",
-    "bio": "Jennifer is a member of the Outreach Board. Her favourite hobbies are finding cool things to look at and jenerating ridiculistly long lists of puns. In an emerjency situation, never rely on Jennifer; her fear of everything will take over. Her favourite animals are giraffes because she aspires to be as tall as them when she grows up. She likes to believe that she's short because of her jenetics. Jennifer is jenerally quite approachable (if you can spot her in a crowd of tall people), and people love her. Don't forget, Jennifer’s a very jenerous, jentle, intellijent and dillijent worker.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "jenny_bai",
-    "name": "Jenny Bai",
-    "guard": "6",
-    "bio": "Jenny Bai is a member of the Outreach Board at The Reckoner. With a minor passion for etymology and a major passion in deceiving others into regarding highly of her, her favourite words are: floccinaucinihilipilification, hippopotomonstrosesquippedaliophobia and flabbergasted, respectively. Her least favourite word is: lit. Just don’t say (l)it. Now that you know her favourite and least favourite words, consider yourself blessed by the one and only, Senbai. If you happen to see her in the hallways, don’t hesitate to shower her with words of praise and admiration; please don't.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "frank_chen",
-    "name": "Frank Chen",
-    "guard": "6",
-    "bio": "Frank Chen is a member of the Outreach Board at the Reckoner. In his spare time, he enjoys eating and sleeping, as well as confusing people with his name and the abundance of Franks in his school. He is adamantly not keen and cannot be convinced otherwise. Frank is generally un_creative and in_imaginative, and now must stop writing his biography to study for his multiple AP exams.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "sylvia_chong",
-    "name": "Sylvia Chong",
-    "guard": "6",
-    "bio": "Sylvia is a member of the Outreach Board for The Reckoner. Her favourite things to do include travelling and spending quality time with friends. One day she wishes to travel the entire world and try new food every single day. Although she is a laid back person, she is also a social and hardworking student when she wants to be.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "maheen_razi",
-    "name": "Maheen Razi",
-    "guard": "6",
-    "bio": "Maheen is a staff at the Outreach Board of  The Reckoner. Her hobbies include listening to the latest music, watching TV shows and movies, and indulging in a fine novel. Her favourite genres to look for in movies and novels are horror and fantasy. She can go on about anything horror related forever. She loves reading about crime cases especially murder for some reason. She is a very social person and loves talking to people of all different age groups. She one day hopes to travel to all the countries around the world at least once.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "azra_alavi",
-    "name": "Azra Alavi",
-    "guard": "6",
-    "bio": "Azra Alavi is a grade 11 student and print developer for the Reckoner. She enjoys long walks to her fridge, Studio Ghibli movies and roller coasters. In her free time she usually sleeps or binge watches Netflix, which often times, result to major procrastination and poor life decisions. Her goal in life is to get accepted into Hogwarts.",
-    "image": "/author-images/default.jpg"
-  },
-  {
-    "id": "anthony_chang",
-    "name": "Anthony Chang",
-    "guard": "6",
-    "bio": "Anthony Chang is a member of the Print Development Board at The Reckoner. He enjoys playing sports, learning, listening to music, and trying out new things. If you pass him in the hallways, make sure to say hi. He'll probably respond. If he's not in a rush. But he usually is. When he isn't busy with homework, playing badminton, or surfing the web, he can be found watching old movies and TV shows he should have definitely seen a long time ago but never did. (He still has never watched Star Wars VII). Actually, that's a great idea. He's going to go watch that right now.",
-    "image": "/author-images/default.jpg"
+    "id": "joshua_zhuang",
+    "name": "Joshua Zhuang",
+    "guard": "11",
+    "bio": "Josh is a grade 9 writer for the Editorial and SigDig boards. He enjoys travelling, writing, and complaining about life to his friends. Cilantro and math are his two worst enemies, and at this point in life procrastination is pretty much his hobby. In his spare time, you can find him napping, catching the latest movie, or mindlessly wandering around downtown. He likes downtown maybe just a little bit too much.",
+    "image": "/author-images/joshua_zhuang.jpg"
   },
   {
     "id": "helen_lin",
     "name": "Helen Lin",
-    "guard": "6",
-    "bio": "Helen is part of The Reckoner’s Print Development Board. Her extracurricular life revolves around piano lessons, sports practices, and volunteer shifts. On the rare occasion where she has spare time, she likes to think. Sometimes she thinks herself into existential crises, and other times she immerses herself into the world of innovation. She believes her it is minimalistic attitude which allows her to have more freedom to pursue her love for ideas, and she hopelessly dreams of becoming the next Elon Musk.",
-    "image": "/author-images/default.jpg"
+    "guard": "11",
+    "bio": "Helen is a grade 10 photographer for The Reckoner and your local genshin addict. In her free time, you can catch her staring at her phone, lost in a game of Genshin Impact, or scrolling through Instagram and looking at her beloved Hamilton memes. Contrary to popular belief, she actually does do work, albeit with a lot of procrastination, and occasionally finishes it. What happens to the work she doesn’t finish... no one dares question the ashes that float through the sky at night.",
+    "image": "/author-images/helen_lin.jpg"
   },
   {
-    "id": "gabriel_luo",
-    "name": "Gabriel Luo",
-    "guard": "6",
-    "bio": "Gabriel is a grade 10 student part of the Print Development board. When he is not busy staring at a computer screen, he loves to listen to music, swim, and make terrible jokes. You will often find him screaming in the halls about something... though most of the time it's hard to tell what it's about. For some reason, he always seems to be full of energy.",
-    "image": "/author-images/default.jpg"
+    "id": "hateem_fatima",
+    "name": "Hateem Fatima",
+    "guard": "11",
+    "bio": "Hateem Fatima is a writer for the Life Board. During her free time, she likes to watch videos of true crime. She's always fascinated by the criminal mind. Anyway, if you ever see her at school, don't be shy to say hi!",
+    "image": "/author-images/hateem_fatima.jpg"
   },
   {
-    "id": "andrew_li",
-    "name": "Andrew Li",
-    "guard": "6",
-    "bio": "Andrew Li is part of the Print Development Board at the Reckoner. In his free time, he is usually listening or making music, designing digital art, or playing sports with his friends. He enjoys writing and science the most, with a strong interest in computers and mathematics as well. He adores penguins and the colour of a pleasant blue sky. Andrew enjoys experiencing and learning new things, although most of his time is actually devoted to sleeping.",
-    "image": "/author-images/default.jpg"
+    "id": "nishtha_patel",
+    "name": "Nishtha Patel",
+    "guard": "11",
+    "bio": "Nishtha Patel is a Grade 11 student part of the Editorial and Outreach boards on The Reckoner this year. Over quarantine, she has found a greater appreciation for journalism which is what drew her to The Reckoner. When she isn’t reading a book, she is imagining herself in the book because she has several complaints about reality. Nishtha loves to play sports or do outdoor activities but can also be found finishing 18 season-long shows within days. She has immaculate music taste so feel free to reach out any time for recommendations...she is very friendly!",
+    "image": "/author-images/nishtha_patel.jpg"
   },
   {
-    "id": "hanlin_cheng",
-    "name": "Hanlin Cheng",
-    "guard": "6",
-    "bio": "Hanlin Cheng is a print developer and illustrator at The Reckoner and a normal student in Marc Garneau. She absolutely despises having to wake up early in the morning to take the TTC and desperately avoids anything that has to do with the number six. Oftentimes when not trying to finish all the work that she procrastinated on, she likes to doodle on the margins of her planner or try to find a book that is actually interesting to read. She also doesn’t know what to write for her biography and so will end it abruptly at this point.",
-    "image": "/author-images/default.jpg"
+    "id": "iffat_iqbal",
+    "name": "Iffat Iqbal",
+    "guard": "11",
+    "bio": "Iffat Iqbal is a Grade 9 student at MGCI. He also happens to be a a member of the Editorial Board. He is normally found procrastinating, producing blood cells, breathing, and contemplating the meaning of life! His favourite animal is the chimpanzee and he dislikes the concept behind chocolate cake.",
+    "image": "/author-images/iffat_iqbal.jpg"
   },
   {
-    "id": "roger_fu",
-    "name": "Roger Fu",
-    "guard": "6",
-    "bio": "Roger Fu is part of the Web Development Board at the Reckoner. At school, he normally has a laptop open and is trolling coding on it. When he’s not scrambling to finish his homework, he can be seen on Slack, adding problems to DMOJ, writing scripts for dubious purposes, or explaining why coffee is the elixir of life.",
-    "image": "/author-images/default.jpg"
+    "id": "rena_liu",
+    "name": "Rena Liu",
+    "guard": "11",
+    "bio": "Rena is a grade 12 student at MGCI and a senior news writer for The Reckoner. Her hobbies include vibing to music, sleeping (read: not getting enough sleep), reading, playing games, and procrastinating. You can probably find her suffering from math, physics, or chemistry on a regular basis.",
+    "image": "/author-images/rena_liu.jpg"
   },
   {
-    "id": "jason_huang",
-    "name": "Jason Huang",
-    "guard": "6",
-    "bio": "Jason Huang is a web developer at The Reckoner. Despite being born here in Toronto, he is constantly discovering novel and inspirational aspects of the city and its people. Jason is always interested and actively participating in many Toronto events. He has mastered the art of skateboarding through endless hours of practice around his neighbourhood. He greatly enjoys programming, composing poetry, and playing his electric guitar and violin. He also values spending time with his family, from watching the newest box office hits to travelling throughout the world. And he never turns down a delicious bowl of hot chicken soup.",
-    "image": "/author-images/default.jpg"
+    "id": "samaya_sadiq",
+    "name": "Samaya Sadiq",
+    "guard": "11",
+    "bio": "Samaya Sadiq is a Life Writer for The Reckoner. She is mostly procrastinating and stressing over everything at the same time. She enjoys baking, but only when no one is in the kitchen bothering her, reading and talking to her online friends. Recently, all she's been doing is obsessing over Harry Styles's love on tour outfits and being jealous of everyone who gets to see him live.",
+    "image": "/author-images/samaya_sadiq.jpg"
   },
   {
-    "id": "kevin_huang",
-    "name": "Kevin Huang",
-    "guard": "6",
-    "bio": "Kevin Huang is a web developer at The Reckoner. He enjoys reading, writing and watching movies and TV. His favourite colour and fruit is orange.",
-    "image": "/author-images/default.jpg"
+    "id": "brian_yan",
+    "name": "Brian Yan",
+    "guard": "11",
+    "bio": "Brian Yan is a Grade 11 developer for The Reckoner’s Web and App Development board. In his spare time, he enjoys competitive programming, solving math problems, and playing basketball.",
+    "image": "/author-images/brian_yan.jpg"
   },
   {
-    "id": "wesley_cassidy",
-    "name": "Wesley Cassidy",
-    "guard": "6",
-    "bio": "Wesley Cassidy is a web developer at The Reckoner. He enjoys curling, coding, and canoe trips. When he isn't stressing out about homework, he can usually be found talking with friends or geeking out about space.",
-    "image": "/author-images/default.jpg"
+    "id": "luck_xing",
+    "name": "Luck Xing",
+    "guard": "11",
+    "bio": "Luck is a grade 9 writer for the Life and Editorial boards with a great talent in time management, submitting his work on an average of four seconds before the due date. He enjoys torturing himself with math and fissiks as a side hobby and can’t stop talking about how hot and curvy sine functions are. He has a cat and a furry Instagram page – the cat’s cute, though. And as a licensed iMessage games addict, he will bet his life on eight ball. But please, don’t send him any word games; he will literally cry.",
+    "image": "/author-images/luck_xing.jpg"
   },
   {
-    "id": "edward_shen",
-    "name": "Edward Shen",
-    "guard": "6",
-    "bio": "Meet Edward Shen in the Web & App Board of the Reckoner, a willful happy_go_lucky denizen of the planet Earth. He’s a huge tech fan with a large collection of programming books on his bookshelf and even a couple in his backpack. He enjoys hobbies like digital painting & animation, reading books, and playing chess. His dream is to build a robot that does everything for him. His favorite movie character is Emperor Palpatine from Star Wars and his favorite quote from that character is: “Everything is proceeding as I have foreseen.”",
-    "image": "/author-images/default.jpg"
+    "id": "leah_huang",
+    "name": "Leah Huang",
+    "guard": "11",
+    "bio": "Leah’s a member of Outreach. She’s a manic pixie dream girl without the manic, pixie and dream parts. She’s unfortunately in Gr. 10. True lover of night time photos and sunrise acro-yoga sessions. She prefers dawn but admits that dusk is a prettier word. Hit her up if you want to talk about fashion, baking, chemistry, sports or pretty girls. Win her over using flattery.",
+    "image": "/author-images/leah_huang.jpg"
   },
   {
-    "id": "dora_su",
-    "name": "Dora Su",
-    "guard": "6",
-    "bio": "Dora Su is part of the Web Board at the Reckoner. Quite the savage, she has a slight obsession of playing with dangerous things such as matches and knives. She keeps herself busy by playing badminton 4_5 times a week, studying, and reading books. As an avid traveler, she loves to go on vacation and has been to many places with Alaska as an example. Dora is usually a hard_working soul who tries not to procrastinate and tends to sleep early unless there’s a comeback from her favourite K_pop groups. In the future, she hopes to not accidentally take down this website.",
-    "image": "/author-images/default.jpg"
+    "id": "samara_rahman",
+    "name": "Samara Rahman",
+    "guard": "11",
+    "bio": "Samara is a Grade 10 illustrator for The Reckoner. In her free time, she enjoys biking, binge watching anime and overplanning every aspect of her life. At night she avoids sleep at all costs, often chilling to Spotify, scramming to finish work due in a few hours (such as this biography), procrastinating even more or talking to her friends on Discord, frequently all 4 at the same time.",
+    "image": "/author-images/samara_rahman.jpg"
+  },
+  {
+    "id": "aaron_zhang",
+    "name": "Aaron Zhang",
+    "guard": "11",
+    "bio": "A member of the editorial board, he cannot bear to type his own name. Likely holds the opinion that the best immortality timeline exists in the \"Arc of a Scythe\" book series by Neal Shusterman and that luck is made, not had. He can be seen recreationally wearing a tie.",
+    "image": "/author-images/aaron_zhang.jpg"
+  },
+  {
+    "id": "anthony_chen",
+    "name": "Anthony Chen",
+    "guard": "11",
+    "bio": "Anthony Chen loves coding, so it’s no surprise that he’s been a developer for the Reckoner’s Web Development Board for the past three years running. When he’s not dealing with angry complaints that the Reckoner’s website is down, you can find him either plotting against his allies at the Diplomacy club or abusing robots at the Robotics club. If you ever want to distract him, just start a conversation about open source software, geopolitics, cryptocurrency, or all three at once.",
+    "image": "/author-images/anthony_chen.jpg"
+  },
+  {
+    "id": "angela_xu",
+    "name": "Angela Xu",
+    "guard": "11",
+    "bio": "Angela Xu is a Grade 11 photographer for the Reckoner. As the professional procrastinator that she is, she started writing this the night before it was due. She enjoys many activities including soccer, people-watching, word hunt, and drinking bubble tea, all of which she did while putting off writing this bio.",
+    "image": "/author-images/angela_xu.jpg"
+  },
+  {
+    "id": "richard_zhu",
+    "name": "Richard Zhu",
+    "guard": "11",
+    "bio": "Richard Zhu is a grade 12 student at Marc Garneau. He loves his bed, but rarely ever gets to sleep in it for more than 5 hours each night. He also loves his backpack, for that is where he puts his belongings. Last but not least, he loves his clothes, so much so that he wears them almost every day.",
+    "image": "/author-images/richard_zhu.jpg"
+  },
+  {
+    "id": "emma_wai",
+    "name": "Emma Wai",
+    "guard": "8",
+    "bio": "Emma Wai is the Editor in Chief of The Reckoner. She spends her days eating, studying, and editing. (Also, not sleeping enough, which she tends to deprive herself of due to her unfortunate habit of procrastinating.) Although Emma is often busy jumping around on a trampoline or pretending to study for her next test, she's always available if you need to talk, argue, and/or complain about the latest headline. You can find her hanging around in bubble tea shops, sleeping on the TTC, getting obsessed with phone games for short periods of time, or coming up with chat nicknames that everyone—well, mostly Emma—finds hilarious.",
+    "image": "/author-images/emma_wai.jpg"
+  },
+  {
+    "id": "fatima_sharipova",
+    "name": "Fatima Sharipova",
+    "guard": "11",
+    "bio": "Fatima Sharipova is a Life Writer for the Reckoner. She is currently a senior. Believe it or not, she is actually extroverted—she loves to talk and meet new people, although you probably won’t catch her doing it. Lately, you can find her catching up on schoolwork on the bus, at bus stops, and on the streets on Saturdays. She will try to find a library to camp at between shifts moving forward. Hide your cultures, look both ways before you cross the street (she might be behind the wheel), and please go skating with her immediately.",
+    "image": "/author-images/fatima_sharipova.jpg"
+  },
+  {
+    "id": "ajita_kanthathasan",
+    "name": "Ajita Kanthathasan",
+    "guard": "11",
+    "bio": "Ajita Kanthathasan is an illustrator for The Reckoner. In her final year of high school, she is both incredibly motivated and completely sapped of every last bit of her energy. She's simultaneously ready to write an essay on why south Asian sweets are in fact the best type of dessert and take a three week long nap. The only thing truly keeping her going is hopping from one hyperfixation to the next, but don't ask her about it as she will completely forget every single one of her interests the minute she is questioned about them.",
+    "image": "/author-images/ajita_kanthathasan.jpg"
+  },
+  {
+    "id": "michelle_zhou",
+    "name": "Michelle Zhou",
+    "guard": "11",
+    "bio": "Michelle is a member of the Print Development Board. She joined the Reckoner during the last semester of her last year of high school as a form of closure after being rejected in the first semester of her first year of high school. What she lacks in her Mandarin Chinese abilities is made up for by her ever-growing assortment of Amusing Anseriforme Apparel (or Wacky Waterfowl Wear :D) Want to know more about Michelle? She will trade you one fun fact about herself in return for one business card for her collection.",
+    "image": "/author-images/michelle_zhou.jpg"
+  },
+  {
+    "id": "zayaan_ikram",
+    "name": "Zayaan Ikram",
+    "guard": "11",
+    "bio": "Zayaan is a writer who’s pretty blunt in his writing, because that’s just his style. He does not know how to pose for photos, and that will be the death of him. If you find him, hesitate to say hi. He is very socially inept.",
+    "image": "/author-images/zayaan_ikram.jpg"
+  },
+  {
+    "id": "nikolas_zahariadis",
+    "name": "Nikolas Zahariadis",
+    "guard": "11",
+    "bio": "Nikolas is a photographer for the Reckoner. He is regularly found wandering the streets with his camera trying to capture the city from his own perspective. He is an adrenaline junkie and loves mountain biking and flying, as well as anything that has an engine in it. He is also very petit, standing at 6’3 and towering over everyone. When he isn’t actively looking for activities that will kill him, he is commonly found napping. Although you may think he is crazy, his dream is to become a photographer and express himself through his photography.",
+    "image": "/author-images/nikolas_zahariadis.jpg"
   },
   {
     "id": "aadila_ali_sabry",
     "name": "Aadila Ali Sabry",
-    "guard": "6",
+    "guard": "10",
     "bio": "Aadila is a member of the Web Board at The Reckoner. Some of her talents include: pulling all-nighters without coffee, doing handstands against the wall, and spelling antidisestablishmentarianism backwards. This is not an exhaustive list.",
     "image": "/author-images/aadila_ali_sabry.jpg"
   },
   {
     "id": "abbinaya_parakaran",
     "name": "Abbinaya Parakaran",
-    "guard": "6",
+    "guard": "10",
     "bio": "Abbinaya Parakaran is a writer for The Reckoner's Life Board. She is a passionate reader and writer. She's also an amazing procrastinator. In her free time, she loves to eat snacks and binge watch TV shows.",
     "image": "/author-images/abbinaya_parakaran.jpg"
   },
   {
-    "id": "ajita_kanthathasan",
-    "name": "Ajita Kanthathasan",
-    "guard": "6",
-    "bio": "Ajita Kanthathasan is an illustrator for The Reckoner. As a restless and disordered gallivanter, she finds her interests and passions change by the day. She enjoys drawing inspiration from unorthodox things; writing a colour, illustrating a song, creating movie-like animations in her head after witnessing a split second scene of a TV show. Her mind is a funky void, but she finds the funk is worth it when creative ideas emerge from it.",
-    "image": "/author-images/ajita_kanthathasan.jpg"
-  },
-  {
     "id": "akil_huang",
     "name": "Akil Huang",
-    "guard": "6",
-    "bio": "Akil Huang is a member of The Reckoner's Editorial Board. He heads the MGCI Debate Club and works tirelessly to make sure that everyone knows it. He can be found playing the Kalimba, buying clothes, or talking about his Kindle. Message Akil to discuss fashion and politics. ",
+    "guard": "10",
+    "bio": "Akil Huang is a member of The Reckoner's Editorial Board. He heads the MGCI Debate Club and works tirelessly to make sure that everyone knows it. He can be found playing the Kalimba, buying clothes, or talking about his Kindle. Message Akil to discuss fashion and politics.",
     "image": "/author-images/akil_huang.jpg"
-  },
-  {
-    "id": "akshaya_varakunan",
-    "name": "Akshaya Varakunan",
-    "guard": "6",
-    "bio": "Akshaya Varakunan is a Life Board writer and Illustrations Board artist, but also identifies as a meme creator, bubble tea addict, and professional procrastinator. In fact, as you’re reading this, there’s a very high chance she’s stressing over an assignment but procrastinating it anyway. She tried to procrastinate writing this, too, but she found herself writing this the day that it’s due. While she occasionally forgets a few things - sleeping before 4 am, starting her homework early, and responding to messages within a week—one thing she never forgets to do is bringing her best efforts to The Reckoner.",
-    "image": "/author-images/akshaya_varakunan.jpg"
-  },
-  {
-    "id": "allan_li",
-    "name": "Allan Li",
-    "guard": "6",
-    "bio": "Allan Li is currently a Grade 10 student at MGCI. As an aspiring bubble tea connoisseur, Allan enjoys biking around his neighbourhood in hopes of searching for the best places to sit down and order tea. He also enjoys playing the piano- mostly pieces from the anime Your Lie In April, which he loves to rewatch every so often. Currently, Allan finds himself preoccupied at home trying to fix his sleep schedule all while finding the time to binge watch the Netflix shows he never got to finish. All in all, Allan is excited to be part of The Reckoner!",
-    "image": "/author-images/allan_li.jpg"
   },
   {
     "id": "allyson_wu",
     "name": "Allyson Wu",
-    "guard": "6",
+    "guard": "10",
     "bio": "Allyson Wu is a Grade 10 student at MGCI and the head of the Outreach Board at The Reckoner. During her free time, she can usually be found listening to music on Spotify, drawing on her phone, or curled up with a book. Her current aspirations include becoming more fluent in Mandarin, improving her messy handwriting, and trying to increase her Among Us win rate. Feel free to reach out to her anytime, even if it's just to say hi - she loves making friends!",
     "image": "/author-images/allyson_wu.jpg"
   },
   {
-    "id": "alvin_young",
-    "name": "Alvin Young",
-    "guard": "6",
-    "bio": "Alvin Young is a member of the Life board and the Print board of the Reckoner. In his free time, enjoys tennis, table tennis, and cooking. He hopes to be funnier than the average grandpa, as well as wiser. He likes to daydream, and wonder about the future. If you ever want some advice, he'll be happy to offer some. It's up to you to assess how useful it is. His dream is to one day find his passion. ",
-    "image": "/author-images/alvin_young.jpg"
-  },
-  {
     "id": "alviya_siddiqui",
     "name": "Alviya Siddiqui",
-    "guard": "6",
+    "guard": "10",
     "bio": "Alviya Siddiqui is a member of the Outreach Board at The Reckoner. Alviya is usually busy trying to keep up with the latest Netflix shows, though she is always within easy reach to obsess over fictional characters, rant about the homework she always, somehow, fails to complete, and discuss abstract concepts, such as career pathways. From academics and extracurriculars acting as Serotonin to family and friends acting as Dopamine, together these make up a perfect blend of balance in Alviya’s life.",
     "image": "/author-images/alviya_siddiqui.jpg"
   },
   {
-    "id": "amy_jia",
-    "name": "Amy Jia",
-    "guard": "6",
-    "bio": "Amy Jia is a writer and photographer for The Reckoner. She fills her schedule with a balanced combination of food, procrastination, internet, laughter, music, and books. Amy can typically be found rooting through the kitchen for snacks, browsing through her phone, getting too emotionally attached to music, or binge watching photography channels on youtube. Many things make her happy, some of which include bubble tea, dogs, and making new friends. ",
-    "image": "/author-images/amy_jia.jpg"
-  },
-  {
-    "id": "angela_xu",
-    "name": "Angela Xu",
-    "guard": "6",
-    "bio": "Angela Xu is a Grade 10 photographer for the Reckoner. As the professional procrastinator that she is, she started writing this the night before it was due. She enjoys many activities including watching netflix, playing soccer, and taking naps, all of which she did while putting off writing this bio.",
-    "image": "/author-images/angela_xu.jpg"
-  },
-  {
     "id": "anirudh_goel",
     "name": "Anirudh Goel",
-    "guard": "6",
-    "bio": "Anirudh Goel is a Grade 11 writer for The Reckoner’s Significant Digits board. His day usually starts off with a missed workout session substituted with an additional hour of sleep. He loves to travel the world and try out new experiences all while listening to either English or Bollywood music. He can often be seen fixing his hairstyle or turning on comedian mode for his friends. He tries to live in the moment so be sure to be around him for a fun time. Feel free to hit him up on Instagram where even KSI follows him!! @_anirudhgoel ",
+    "guard": "10",
+    "bio": "Anirudh Goel is a Grade 11 writer for The Reckoner’s Significant Digits board. His day usually starts off with a missed workout session substituted with an additional hour of sleep. He loves to travel the world and try out new experiences all while listening to either English or Bollywood music. He can often be seen fixing his hairstyle or turning on comedian mode for his friends. He tries to live in the moment so be sure to be around him for a fun time. Feel free to hit him up on Instagram where even KSI follows him!! @_anirudhgoel",
     "image": "/author-images/anirudh_goel.jpg"
-  },
-  {
-    "id": "anne_liu",
-    "name": "Anne Liu",
-    "guard": "6",
-    "bio": "Anne is a Grade 9 writer for the Editorial and News board. She enjoys writing, listening to music, and challenging herself. On the rare occasion she isn’t busy, you can find her obsessing over a book, talking to friends or family, or trying to learn something new. She takes pleasure in planning out everything and loves the mere feeling of having her life in place, whether it’s true or not.",
-    "image": "/author-images/anne_liu.jpg"
-  },
-  {
-    "id": "annie_xiong",
-    "name": "Annie Xiong",
-    "guard": "6",
-    "bio": "Annie is a writer for the Life Board. Her day job is being a full-time student at Marc Garneau, but by night she is the leader of a cult who worships garlic bread and mango green bubble tea. During her spare time she likes to challenge her friends to a game of Word Blitz, by which will inevitably lead to said friends stealing all her trophies and leave her in a dejected state about her lack of spamming skills and fast wifi.",
-    "image": "/author-images/annie_xiong.jpg"
-  },
-  {
-    "id": "anthony_chen",
-    "name": "Anthony Chen",
-    "guard": "6",
-    "bio": "Anthony Chen is a Grade 10 developer for The Reckoner’s Web and App Development Board. In his spare time he enjoys reading xkcd, coding, and gaming. He can be found plotting against his allies at Diplomacy club, playing Minecraft at the Computer Science club, capturing flags at the Capture the Flag club, or hunched over his phone in the hallway, trying to fix thereckoner.ca.",
-    "image": "/author-images/anthony_chen.jpg"
-  },
-  {
-    "id": "bill_yan",
-    "name": "Bill Yan",
-    "guard": "6",
-    "bio": "Bill Yan is a member of both the photography and print board at the Reckoner. He is a curious student who loves doing math, playing the piano, taking pictures, designing, and exercising. During the quarantine, Bill has been exceptionally bored and he is excited to be a member of the Tenth guard. Although Bill may be busy taking naps, he is always available to discuss, or just chat with.",
-    "image": "/author-images/bill_yan.jpg"
   },
   {
     "id": "brasen_xu",
     "name": "Brasen Xu",
-    "guard": "6",
-    "bio": "Having been somehow accepted onto The Reckoner, Brasen Xu is now a writer for the Life board. In his limited free time, Brasen mindlessly watches YouTube videos. Brasen also enjoys doing DMOJ problems (AKA banging his head against a brick wall). His other hobbies include reading web novels and playing guitar. Brasen’s favourite fruit is the tangerine, and his favourite music is Mongolian throat singing. If he could be any country, Brasen would probably be Latvia, a country with 12,000 rivers and 3,000 small lakes. If you spot him in the hallway, he is probably sleepwalking.   ",
+    "guard": "10",
+    "bio": "Having been somehow accepted onto The Reckoner, Brasen Xu is now a writer for the Life board. In his limited free time, Brasen mindlessly watches YouTube videos. Brasen also enjoys doing DMOJ problems (AKA banging his head against a brick wall). His other hobbies include reading web novels and playing guitar. Brasen’s favourite fruit is the tangerine, and his favourite music is Mongolian throat singing. If he could be any country, Brasen would probably be Latvia, a country with 12,000 rivers and 3,000 small lakes. If you spot him in the hallway, he is probably sleepwalking.",
     "image": "/author-images/brasen_xu.jpg"
-  },
-  {
-    "id": "brian_li",
-    "name": "Brian Li",
-    "guard": "6",
-    "bio": "Brian is a 9th grader at Marc Garneau CI. He previously attended Parkland Public school before high school. He is a writer for the News board at the Reckoner.",
-    "image": "/author-images/brian_li.jpg"
-  },
-  {
-    "id": "brian_yan",
-    "name": "Brian Yan",
-    "guard": "6",
-    "bio": "Brian Yan is a Grade 10 developer for The Reckoner’s Web and App Development board. In his spare time, he enjoys competitive programming, solving math problems, and playing basketball. He enjoys creating modifications and programs to increase the amount of features for certain applications. ",
-    "image": "/author-images/brian_yan.jpg"
-  },
-  {
-    "id": "caroline_cheng",
-    "name": "Caroline Cheng",
-    "guard": "6",
-    "bio": "Caroline Cheng is a Grade 9 member of the News Board and Print Development Board at The Reckoner. In her free time, she loves reading, watching YouTube, and playing badminton. She makes it through high school by enjoying the little things in life, like drinking bubble tea and listening to Spotify while working. Caroline prefers talking with friends to doing homework, and procrastination is a close friend of hers.",
-    "image": "/author-images/caroline_cheng.jpg"
-  },
-  {
-    "id": "carrie_jiang",
-    "name": "Carrie Jiang",
-    "guard": "6",
-    "bio": "Carrie Jiang is a member of the Outreach Board of The Reckoner. She’s extremely ambitious (too ambitious for her own good) and wants to join literally every single club. However, she also likes to watch an unhealthy amount of Netflix. This may seem like Carrie has immaculate time management skills, but in reality, she doesn’t, which is what eventually drives her into an evil hole of procrastination dug by herself. On a happier note, Carrie loves to play the piano, debate, and cook (burning the kitchen down). She has tried almost every sport, but can’t guarantee she’s good at them.",
-    "image": "/author-images/carrie_jiang.jpg"
   },
   {
     "id": "chen_peng",
     "name": "Chen Peng",
-    "guard": "6",
+    "guard": "10",
     "bio": "Chen Peng is a Grade 11 is a programmer for The Reckoner’s Web and App Development board. Although it may be strenuous to comprehend from the look of his profile page, Chen enjoys playing sports and going out with his friends. The quarantine has not been kind to him so he plans to start shaving off the bulk once he manages to pass one of Ms. Hermanovsky’s biology examinations. Thus to our dismay, one may conclude he will not be hitting the weights any time soon.",
     "image": "/author-images/chen_peng.jpg"
   },
   {
-    "id": "colleen_chang",
-    "name": "Colleen Chang",
-    "guard": "6",
-    "bio": "Colleen Chang is a member of the Illustrations board on The Reckoner. She spends most of her spare time listening to music, chatting with friends on her socials, and thinking about drawing (more so than actually drawing). If she’s not in her room taking amateur photos of the weird lighting her window makes, she’s probably finally taking a walk after spending most of the past 6 months in the same room. Colleen considers herself a lover of all things creative and enjoys capturing bits of her life with your go-to pencil and paper.",
-    "image": "/author-images/colleen_chang.jpg"
-  },
-  {
     "id": "conner_lee",
     "name": "Conner Lee",
-    "guard": "6",
-    "bio": "Conner’s a shut in who barely left his house for the past nine months due to COVID-19,  which works out pretty nicely because of his extreme distaste for sunlight and exercise. He should probably be writing about his quirks and hobbies in this section of the bio but does anyone actually read this thing? ",
+    "guard": "10",
+    "bio": "Conner’s a shut in who barely left his house for the past nine months due to COVID-19, which works out pretty nicely because of his extreme distaste for sunlight and exercise. He should probably be writing about his quirks and hobbies in this section of the bio but does anyone actually read this thing?",
     "image": "/author-images/conner_lee.jpg"
   },
   {
     "id": "cynthia_wang",
     "name": "Cynthia Wang",
-    "guard": "6",
+    "guard": "10",
     "bio": "Cynthia Wang is the Director of Web Development of The Reckoner. Since the beginning of quarantine, she's pretty much spent her entire life playing video games. During the rare times she decides to be productive, she is probably making tiny study notes, jamming to music while reading boring English literature, squinting at math formulas with Twitch streams on in the background, or crying in a corner over the (at the time of writing this biography) broken state of thereckoner.ca. Although she will assert dominance on you if necessary, you can usually win her over with cheesecake.",
     "image": "/author-images/cynthia_wang.jpg"
   },
   {
     "id": "daniel_neagu",
     "name": "Daniel Neagu",
-    "guard": "6",
+    "guard": "10",
     "bio": "Daniel is a senior writer for Life and Editorial at The Reckoner. He enjoys rap music and can be found nodding along to Kanye West. Overall he's pretty Kanye fresh. His hobbies include tax evasion, world domination and eventually beating Minecraft. During his time at Garneau he's successfully mastered the art of missing the 925 bus home, and then the next one after that. Dmoney ultimately hopes that one day the pandemic will end and the hotdog stand will come back. Until then, he wishes you Kanye's best.",
     "image": "/author-images/daniel_neagu.jpg"
   },
   {
-    "id": "derek_chen",
-    "name": "Derek Chen",
-    "guard": "6",
-    "bio": "Derek Chen is part of the TOPS program at Marc Garneau Collegiate Institute. He enjoys writing and is part of the Editorial Board at The Reckoner. His other passions include fencing, reading, and playing the violin. Being in The Reckoner and being able to connect with people who share his passions is an experience in which he truly values.",
-    "image": "/author-images/derek_chen.jpg"
-  },
-  {
-    "id": "donna_zhang",
-    "name": "Donna Zhang",
-    "guard": "6",
-    "bio": "Donna Zhang is an artist for the Life Board. ",
-    "image": "/author-images/donna_zhang.jpg"
-  },
-  {
     "id": "edward_yang",
     "name": "Edward Yang",
-    "guard": "6",
-    "bio": "Edward Yang was born at a very young age. His childhood was spent in Mississauga, but he moved to Markham right before he started Grade 4. Edward is currently in Grade 9, and enjoys fencing, reading about the latest science news, and talking to his friends on Discord. ",
+    "guard": "10",
+    "bio": "Edward Yang was born at a very young age. His childhood was spent in Mississauga, but he moved to Markham right before he started Grade 4. Edward is currently in Grade 9, and enjoys fencing, reading about the latest science news, and talking to his friends on Discord.",
     "image": "/author-images/edward_yang.jpg"
-  },
-  {
-    "id": "elizabeth_wei",
-    "name": "Elizabeth Wei",
-    "guard": "6",
-    "bio": "Elizabeth Wei is a Grade 9 student who somehow made it into the tenth guard. She has many interests, such as speed reading webcomics and manga, bingeing anime, and eating. Oh, she also plays volleyball and used to do synchronized swimming for five years. With a creative mind and love for design, Elizabeth is a member of illustrations and print. If you need her, you will find her reading something on her phone, probably crying because she is an emotional mess.",
-    "image": "/author-images/elizabeth_wei.jpg"
   },
   {
     "id": "emily_lai",
     "name": "Emily Lai",
-    "guard": "6",
-    "bio": "Emily Lai is a writer for the Life Board and an Illustrator of The Reckoner. In her spare time, she plays piano, reads classic novels, and makes a valiant attempt at learning foreign languages. In another life, she imagines herself living quietly in the countryside with an abundance of good tea, books, and plenty of trees to read under. ",
+    "guard": "10",
+    "bio": "Emily Lai is a writer for the Life Board and an Illustrator of The Reckoner. In her spare time, she plays piano, reads classic novels, and makes a valiant attempt at learning foreign languages. In another life, she imagines herself living quietly in the countryside with an abundance of good tea, books, and plenty of trees to read under.",
     "image": "/author-images/emily_lai.jpg"
-  },
-  {
-    "id": "emily_ma",
-    "name": "Emily Ma",
-    "guard": "6",
-    "bio": "Emily is part of the Editorial Board and News Board of The Reckoner. She enjoys reading books (currently reading Trials of Apollo), skiing/snowboarding, and chilling with her friends. Emily can be found screaming the lyrics to Hamilton, trying to control leaf tornadoes, and getting lost in the halls. Something she should stop doing is procrastinating so much (but I guess I could do that tomorrow…).",
-    "image": "/author-images/emily_ma.jpg"
-  },
-  {
-    "id": "emily_ma",
-    "name": "Emily Ma",
-    "guard": "6",
-    "bio": "Emily is part of the Editorial Board and News Board of the Reckoner. She enjoys reading books (currently reading Trials of Apollo), skiing/snowboarding, and chilling with her friends. Emily can be found screaming the lyrics to Hamilton, trying to control leaf tornadoes, and getting lost in the halls. Something she should stop doing is procrastinating so much (but I guess I could do that tomorrow…).",
-    "image": "/author-images/emily_ma.jpg"
-  },
-  {
-    "id": "enoch_he",
-    "name": "Enoch He",
-    "guard": "6",
-    "bio": "Enoch He is a sophomore in the Web and App Development Board of The Reckoner. He is constantly battling procrastination every hour of the day, in high hopes of being productive. When Enoch is not worrying about his grades, he is either wondering what he will be eating for his next meal or socializing with his friends.",
-    "image": "/author-images/enoch_he.jpg"
   },
   {
     "id": "evelyn_jiang",
     "name": "Evelyn Jiang",
-    "guard": "6",
-    "bio": "Evelyn is a photographer and news writer at The Reckoner.  Her notable talents include starting assignments at 12 am and sleeping through all of her alarms. Evelyn is also proud to announce that she has traded her bubble tea addiction for a Chipotle obsession. She aspires to one day be 5’3 and achieve a first grade level of fluency in Mandarin. ",
+    "guard": "10",
+    "bio": "Evelyn is a photographer and news writer at The Reckoner. Her notable talents include starting assignments at 12 am and sleeping through all of her alarms. Evelyn is also proud to announce that she has traded her bubble tea addiction for a Chipotle obsession. She aspires to one day be 5’3 and achieve a first grade level of fluency in Mandarin.",
     "image": "/author-images/evelyn_jiang.jpg"
   },
   {
     "id": "fatima_gulab",
     "name": "Fatima Gulab",
-    "guard": "6",
+    "guard": "10",
     "bio": "Fatima Gulab is an artist for the Life Board. She spends her time grieving Achilles and Patroclus and wondering what Sanrio character she is most like (probably cinnamonroll). Convincing her friends to listen to The Smiths is one of her hardest struggles but she is able to find middle ground with TWICE. Unlike most people, Fatima has seen two pretty best friends.",
     "image": "/author-images/fatima_gulab.jpg"
   },
   {
-    "id": "fatima_sharipova",
-    "name": "Fatima Sharipova",
-    "guard": "6",
-    "bio": "Fatima Sharipova is a Life Writer for The Reckoner. Recently, she’s been enjoying falling asleep in her online classes and waking up completely lost. Time management for her is just a work in progress. She’s also made a hobby of handing her assignments in late enough for Google Classroom to congratulate her with a “Phew, just in time!” message.",
-    "image": "/author-images/fatima_sharipova.jpg"
-  },
-  {
-    "id": "flora_chen",
-    "name": "Flora Chen",
-    "guard": "6",
-    "bio": "Flora Chen is a member of the Life board at The Reckoner. She is currently attending Grade 10 at Marc Garneau Collegiate Institute. During her free time, she enjoys reading, baking, and rewatching Brooklyn 99. Her achievements include being able to do three non-consecutive pushups, knowing how to spell the word \"sincerely\", and making it through the entire Shrek 2 movie without weeping. Flora is, quite ironically, probably allergic to flowers.",
-    "image": "/author-images/flora_chen.jpg"
-  },
-  {
-    "id": "hateem_fatima",
-    "name": "Hateem Fatima",
-    "guard": "6",
-    "bio": "Hateem Fatima is a writer for the life board, as well as a member for the print board. When she isn’t cracking bad dad jokes with her friends, she’s most likely raging on Among Us. (Which isn’t a pretty sight to see, but she firmly believes that pink is ALWAYS sus!) Don’t worry though; she’s pretty friendly too, so if you see her around, feel free to say hi! ",
-    "image": "/author-images/hateem_fatima.jpg"
-  },
-  {
-    "id": "helen_lin",
-    "name": "Helen Lin",
-    "guard": "6",
-    "bio": "Helen is a photographer who’s very amazed she somehow got accepted into the media board at The Reckoner. She’s currently in a bit of a Marvel Cinematic Universe (stan Loki) and BBC Sherlock (Sherlock is adorable) phase, but most think she’ll eventually get over it. She also enjoys Hamilton, especially the animatics. Contrary to popular belief, she does do work, albeit with a lot of procrastination, and is occasionally even good at it. She wishes to express the world through her photos, and is hopeful in her ability to do so.",
-    "image": "/author-images/helen_lin.jpg"
-  },
-  {
     "id": "helen_sun",
     "name": "Helen Sun",
-    "guard": "6",
+    "guard": "10",
     "bio": "Helen Sun is an Illustrator at The Reckoner. She loves the colour yellow, bridge, astronomy, podcasts, pop art, and book prose. She can be found fooling around with the motion blur functions in her art program instead of actually working on the piece. Her current concern: everyone around her has god-like handwriting and she desperately wants in.",
     "image": "/author-images/helen_sun.jpg"
   },
   {
     "id": "howard_ou",
     "name": "Howard Ou",
-    "guard": "6",
+    "guard": "10",
     "bio": "Howard Ou is a Grade 11 Editorial writer for the Reckoner. He enjoys playing badminton, which he has been playing for over 5 years, reading science fiction novels, and computer programming. In his free time, Howard can almost always be found playing diep.io.",
     "image": "/author-images/howard_ou.jpg"
   },
   {
-    "id": "india_das_brown",
-    "name": "India Das Brown",
-    "guard": "6",
+    "id": "india_das-brown",
+    "name": "India Das-Brown",
+    "guard": "10",
     "bio": "India writes for both the Life and Editorial boards at The Reckoner. She is a writer who writes what she reckons and a reckoner who reckons herself a writer. When bored, India likes to walk around town. She also enjoys looking at things, being with people, astral travelling, and the cemetery. !!",
-    "image": "/author-images/india_das_brown.jpg"
-  },
-  {
-    "id": "iris_ma",
-    "name": "Iris Ma",
-    "guard": "6",
-    "bio": " Iris is a writer for the News and Significant Digits Board as well as a member in Outreach. You can often find her procrastinating throughout the day and promoting her own cult to anyone and everyone. At night, she avoids sleep at all costs, spending her time watching anime and doing homework that is probably due  within minutes. When talking to people, you may notice that she wiggles her arms frequently, a defence mechanism that originates from mild social awkwardness. ",
-    "image": "/author-images/iris_ma.jpg"
+    "image": "/author-images/india_das-brown.jpg"
   },
   {
     "id": "jacqueline_huo",
     "name": "Jacqueline Huo",
-    "guard": "6",
+    "guard": "10",
     "bio": "Jacqueline Huo is the Editor in Chief of The Reckoner. She’s developed some bad habits, most notably procrastinating on assignments by watching sitcoms and writing run-on sentences, especially when talking about her interests, including, but not limited to, Animal Crossing, the Simon Snow book series, and the musical Hamilton—which she’s been obsessed with since she first listened to the cast recording in middle school, back when she still had a blue streak in her hair and a decent sleep schedule that didn’t involve being awake after midnight or needing caffeine to function like a normal human being.",
     "image": "/author-images/jacqueline_huo.jpg"
   },
   {
-    "id": "javeria_sajid",
-    "name": "Javeria Sajid",
-    "guard": "6",
-    "bio": "Javeria Sajid is a writer for the Life Board at The Reckoner. She’s addicted to reading and you can never not find her with her nose in a book. When she’s not reading, she’s either sleeping or eating. She also enjoys making pottery, baking, embroidery, and playing Mario Kart. She loves creative writing because of the way she can put her voice into her piece, weave intricate details into her work, build emotion, and create a specific atmosphere just from a few clicks on her keyboard. ",
-    "image": "/author-images/javeria_sajid.jpg"
-  },
-  {
-    "id": "jefferson_chen",
-    "name": "Jefferson Chen",
-    "guard": "6",
-    "bio": "Jefferson Chen is a writer for the Editorial Board at The Reckoner. Some of his favorite hobbies include playing the piano, playing video games... oh, and playing with figures within his own imagination. Aside from his usual commitment to school, he serves as the Deputy Squadron Warrant Officer at 110 Squadron of the Royal Canadian Air Cadets. Unfortunately, he lives with some individuals that enjoy making him do things he doesn't like... such as math, and physics, and chemistry...gross.",
-    "image": "/author-images/jefferson_chen.jpg"
-  },
-  {
     "id": "jeffrey_cheung",
     "name": "Jeffrey Cheung",
-    "guard": "6",
-    "bio": "He is the Director of Print Development. He attends Marc Garneau Collegiate Institute, and is also a part of The Reckoner. He has hobbies. Sometimes, he browses internet websites and other such things. Other times, he will do the occasional activity or hear a song. He is just like you. He works hard, enjoys things, and pumps blood from his heart around his body roughly 115,200 times per day. His favourite animal is the frog and he is in Grade 11. ",
+    "guard": "10",
+    "bio": "He is the Director of Print Development. He attends Marc Garneau Collegiate Institute, and is also a part of The Reckoner. He has hobbies. Sometimes, he browses internet websites and other such things. Other times, he will do the occasional activity or hear a song. He is just like you. He works hard, enjoys things, and pumps blood from his heart around his body roughly 115,200 times per day. His favourite animal is the frog and he is in Grade 11.",
     "image": "/author-images/jeffrey_cheung.jpg"
   },
   {
     "id": "jessica_xiong",
     "name": "Jessica Xiong",
-    "guard": "6",
-    "bio": "Jessica Xiong is the Photography Manager for The Reckoner. She is a Grade 12 student who aspires to make the world a better place and to stop procrastinating (but she always leaves that for another day). She enjoys playing the violin, taking photos, listening to music, and playing with her two cats. In the rare opportunity of something called “Free Time,” she can be found madly trying to catch up on TV shows and Webtoons while eating junk food, spamming her friends online, and taking long naps. ",
+    "guard": "10",
+    "bio": "Jessica Xiong is the Photography Manager for The Reckoner. She is a Grade 12 student who aspires to make the world a better place and to stop procrastinating (but she always leaves that for another day). She enjoys playing the violin, taking photos, listening to music, and playing with her two cats. In the rare opportunity of something called “Free Time,” she can be found madly trying to catch up on TV shows and Webtoons while eating junk food, spamming her friends online, and taking long naps.",
     "image": "/author-images/jessica_xiong.jpg"
   },
   {
-    "id": "julia_shen",
-    "name": "Julia Shen",
-    "guard": "6",
-    "bio": "Julia Shen is a member of the Illustrations and Print Development boards. She enjoys drawing (with Crayola Twistables), swimming, and eating apples. If she’s not listening to music or sleeping past her bus stop, then she’s probably procrastinating while munching on Asian snacks. She’s absolutely clueless about what she wants to do in the future, but she hopes that working on her life-long goal of becoming a better person is okay for now. She’s eternally grateful to her family and friends ‘cause they always brighten up her day, and she hopes to be able to do the same for them. ",
-    "image": "/author-images/julia_shen.jpg"
-  },
-  {
-    "id": "justin_wei",
-    "name": "Justin Wei",
-    "guard": "6",
-    "bio": "Justin Wei does photography as a hobby. Some of his other hobbies include editing those photos, and playing the guitar, the classical guitar. So don’t beg him to strum random chords or sing a song. He is very quirky and much, unlike others. Justin likes to spend time by himself, immersing himself into his mind - thinking… He has a love-hate relationship with technology. ‘It would be very difficult to do anything without technology’. But he also says that tech is a constant distraction. Education and sleep are his priorities, but he also wishes for a good social life.",
-    "image": "/author-images/justin_wei.jpg"
-  },
-  {
     "id": "kelly_wang_",
-    "name": "Kelly Wang ",
-    "guard": "6",
+    "name": "Kelly Wang",
+    "guard": "10",
     "bio": "Kelly Wang is a writer for The Reckoner’s Life Board. She enjoys cooking and baking, but especially, the part after, when she gets to eat. One of her talents is being able to binge TV shows at incredible speeds; currently, she is on a One Piece binge. In the future, she hopes to travel to Europe and figure out what she actually wants to do in life. She loves going out, whether that is getting bubble tea or going thrift shopping, she enjoys every second. She finds school passable, but would much rather be at home, cuddling with her dog.",
     "image": "/author-images/kelly_wang_.jpg"
   },
   {
     "id": "kevin_wang",
     "name": "Kevin Wang",
-    "guard": "6",
-    "bio": "Kevin Wang is a writer for the Significant Digits Column, where he reports on numbers abstractions world events weekly.  He was born at a young age in a third-person country, which partially explains why he’s writing like this.  (As a bonus, it makes him sound very official.)  He spends his unfree time fighting corona beer virus by drinking water and tapioca instead, writing on his blog Definitely Integrals, and plotting to free Marc Garneau from the display case outside the office. If he had more time he would have written a shorter bio.",
+    "guard": "10",
+    "bio": "Kevin Wang is a writer for the Significant Digits Column, where he reports on numbers abstractions world events weekly. He was born at a young age in a third-person country, which partially explains why he’s writing like this. (As a bonus, it makes him sound very official.) He spends his unfree time fighting corona beer virus by drinking water and tapioca instead, writing on his blog Definitely Integrals, and plotting to free Marc Garneau from the display case outside the office. If he had more time he would have written a shorter bio.",
     "image": "/author-images/kevin_wang.jpg"
   },
   {
     "id": "lauren_liu_",
-    "name": "Lauren Liu ",
-    "guard": "6",
-    "bio": "Lauren Liu is the Illustrations Manager at The Reckoner. When she is not busy with schoolwork and extracurricular activities, she can be found reading a good novel, eating yummy food, or watching Netflix. She believes that art is one of the many powerful mediums that can be used for de-stressing while self-expressing as well as for bringing a community together. If you ever see her on a walk outside in her neighbourhood, you can find her contemplating about life and how the world works. ",
+    "name": "Lauren Liu",
+    "guard": "10",
+    "bio": "Lauren Liu is the Illustrations Manager at The Reckoner. When she is not busy with schoolwork and extracurricular activities, she can be found reading a good novel, eating yummy food, or watching Netflix. She believes that art is one of the many powerful mediums that can be used for de-stressing while self-expressing as well as for bringing a community together. If you ever see her on a walk outside in her neighbourhood, you can find her contemplating about life and how the world works.",
     "image": "/author-images/lauren_liu_.jpg"
-  },
-  {
-    "id": "leah_huang",
-    "name": "Leah Huang",
-    "guard": "6",
-    "bio": "Leah is a grade 9 outreach board member whose personality relies on being mean by accident and mentioning that she’s a god in every convo. She applied for a spot on The Reckoner so that she would have an excuse to take 200 photos of herself for the biography picture. She already does that on a daily basis, but now there’s a decent reason, right? She enjoys playing sports, baking, listening to music, and watching TV; she's currently bingeing Skins at a rate of 2 episodes per month.",
-    "image": "/author-images/leah_huang.jpg"
   },
   {
     "id": "linda_cai",
     "name": "Linda Cai",
-    "guard": "6",
+    "guard": "10",
     "bio": "Linda is a member of the outreach board. She enjoys binge-watching anime and silly videos when she needs to get things done. For example now while writing this bio. She is also able to survive up to 18 hours with no sleep or coffee, but that can ends up with her sleeping for another 14 hours straight.",
     "image": "/author-images/linda_cai.jpg"
   },
   {
-    "id": "lucy_qi",
-    "name": "Lucy Qi",
-    "guard": "6",
-    "bio": "Lucy Qi is a 10 illustrator for the life and illustrations board at the Reckoner. She enjoys playing volleyball, drawing, playing piano, and karate. When she isn’t consumed in homework or eating cup noodles, you can find her making a new Spotify playlist or going on a long run in her neighborhood.",
-    "image": "/author-images/lucy_qi.jpg"
+    "id": "maryam_mobashir",
+    "name": "Maryam Mobashir",
+    "guard": "10",
+    "bio": "Maryam Mobashir is a writer for The Reckoner's Editorial Board and an artist for the Life Board. She is usually sleep deprived because of her extremely busy schedule and her tendency to stay up late reading. In her free time, she can be found immersed in a book, watching an episode of a show, or staring blankly into space occupied with her thoughts, oblivious to the world around her.",
+    "image": "/author-images/maryam_mobashir.jpg"
   },
   {
-    "id": "maggie_pang",
-    "name": "Maggie Pang",
-    "guard": "6",
-    "bio": "Maggie is a Grade 9 writer for the life and editorial boards. She likes to say that she has exactly two personality traits, sarcasm and awkwardness, although some of her acquaintances agree that her only personality trait is actually math. As such, she had trouble writing a long enough bio that would make her sound more interesting than she actually is. Her favourite book is 1984, which is just as pessimistic as she is. She also enjoys questioning life and cornering people in an effort to make them join band - brass is the best section, by the way.",
-    "image": "/author-images/maggie_pang.jpg"
+    "id": "nuha_khan",
+    "name": "Nuha Khan",
+    "guard": "10",
+    "bio": "Nuha Khan is a writer for the Editorial Board at The Reckoner. Her hobbies include sketching on everything from napkins to math notebooks, incessantly reading fantasies, and Taekwondo. She tried getting into basketball at one point, but sports aren’t really her thing. When not reading or writing up something new, you’ll probably find her taking a morning walk while listening to BTS songs, or overplanning her life on Notion, if that’s a thing. Her friends think it’s crazy, but she prides herself on waking up at 5 am every day since middle school - someone please get her some coffee.",
+    "image": "/author-images/nuha_khan.jpg"
   },
   {
-    "id": "mahyar_yousefzadeh",
-    "name": "Mahyar Yousefzadeh",
-    "guard": "6",
-    "bio": "Mahyar Yousefzadeh is a member of MGCI Reckoner's Web and Outreach boards. At school, he can be seen reading, scrolling through reading, or listening to music. He can also be seen outside of school in parks and on trails, admiring the nature around him. Occasionally, he also spends time sitting about with friends and family to binge tv-shows or to talk about local gossip. ",
-    "image": "/author-images/mahyar_yousefzadeh.jpg"
+    "id": "prithika_piratheepan",
+    "name": "Prithika Piratheepan",
+    "guard": "10",
+    "bio": "Prithika is a member of the Print Board who truly enjoys graphic designing (though after designing the yearbook during the pandemic she constantly rethinks that). During her free time, and especially the winter, she enjoys reading while snuggled in bed with hot chocolate by her bedside. If you ever see her around you could probably find her silently crying due to the death of her favourite characters in books. She is always looking to meet new friends so stop by and talk to her about books or the NBA!",
+    "image": "/author-images/prithika_piratheepan.jpg"
   },
   {
-    "id": "emily_liu",
-    "name": "Emily Liu",
-    "guard": "",
-    "bio": "Emily Liu is a grade 12 student and a long time member of the Life Board. She can usually be found playing Word Blitz or the NYT Crossword/Spelling Bee, when she's not busy on the grind. Feel free to say hi to her; she loves to meet people!",
-    "image": "/author-images/emily_liu.jpg"
+    "id": "river_wei",
+    "name": "River Wei",
+    "guard": "10",
+    "bio": "River Wei is a writer for the Life and Editorial boards. A majority of their time is spent on social media or experiencing secret emotions—often both at the same time. A majority of their character has been built from the multiple failed assassination attempts against them. It’s recommended that you stay at least five feet away from them at any given time in case they start oozing toxic waste. Just to be safe.",
+    "image": "/author-images/river_wei.jpg"
+  },
+  {
+    "id": "sarah_ali",
+    "name": "Sarah Ali",
+    "guard": "10",
+    "bio": "Sarah Ali is the Editorial Manager. She enjoys writing about rising technologies and social and human rights issues. She tends to write unnecessarily harsh criticisms of anything and everything. Sarah also loves to discuss different issues with her peers, which is a dangerous game to play considering how she cries in every argument. She can often be found aimlessly wandering the halls and walking in and out of random clubs, although she now mostly cries in the comfort of her own home. She wishes to someday have a cat that can soothe her incessant weeping.",
+    "image": "/author-images/sarah_ali.jpg"
+  },
+  {
+    "id": "sarah_li",
+    "name": "Sarah Li",
+    "guard": "10",
+    "bio": "Sarah Li is an energetic tenner neck-deep in nonsense and daydreams. She's spent the past eight years of her life dedicating all of her time and energy to her novel series in-planning \"CDP\" and has essentially merged her soul with the thing. She landed herself as an illustrator and life board creator for the Reckoner by disguising the CDP as content. When she's not drafting up character arcs, rewriting physics, or finding increasingly creative ways to work around residual plotholes from Grade 2, she's... still thinking about the CDP. Seriously dude, get a hobby.",
+    "image": "/author-images/sarah_li.jpg"
+  },
+  {
+    "id": "sophie_yang",
+    "name": "Sophie Yang",
+    "guard": "10",
+    "bio": "Sophie Yang is an illustrator for the Reckoner‘s life board. She lives the hard life of a fangirl, which entails the unfortunate combination of a constant lack of sleep and being perpetually broke from buying songs and concert tickets. Her greatest aspirations include using her art to make a social and cultural impact, and of course—meeting Harry Styles.",
+    "image": "/author-images/sophie_yang.jpg"
+  },
+  {
+    "id": "sumedh_dhanvanthry",
+    "name": "Sumedh Dhanvanthry",
+    "guard": "10",
+    "bio": "Sumedh Dhanvanthry is the manager of the Life Board. He’s in Grade 11, and struggles to recall how he got here. He speculates that learning to drive will teach him to be more focused on the journey than the destination. One can find him engaged in some task or another, sometimes writing, sometimes unthinking. He often waits to take his turn. His life often takes weighty turns. You might run into him, or he’ll run into you. He contains multitudes, but he’s constantly cucumber-cool. You know him well now— that’s all there is to it.",
+    "image": "/author-images/sumedh_dhanvanthry.jpg"
+  },
+  {
+    "id": "sunyah_tehreem",
+    "name": "Sunyah Tehreem",
+    "guard": "10",
+    "bio": "Sunyah Tehreem is an editorial board writer at The Reckoner. She usually gets really absorbed in the moment while she's doing something she likes, so sorry if she doesn't reply to your texts right away. She loves reading, almost all sports, the outdoors, and debating her friends and family on almost anything. Her friends and family call her “stubborn, ” but what she thinks they mean is opinionated. She hopes that she can write meaningfully for The Reckoner.",
+    "image": "/author-images/sunyah_tehreem.jpg"
+  },
+  {
+    "id": "theodore_lam",
+    "name": "Theodore Lam",
+    "guard": "10",
+    "bio": "Theodore Lam is a Grade 10 student at MGCI. His skills include procrastinating, spilling food, and losing his personal possessions. In his free time, he can be found reading Wikipedia articles, doing crossword puzzles, and looking for his personal possessions. He would tell you more about himself, but his home is currently being invaded by an army of rabid wallabies.",
+    "image": "/author-images/theodore_lam.jpg"
+  },
+  {
+    "id": "tina_ma",
+    "name": "Tina Ma",
+    "guard": "10",
+    "bio": "Tina Ma is a writer for the Editorial Board at The Reckoner. She enjoys jumping rope, moving things around her room and calling it “cleaning”, and looking through her friends’ Spotify playlists. She’s currently unable to wave at people who won’t wave back to her in the hallways since she’s attending virtual school, though she’s happy to report that her reply game has improved since Grade 10. In her spare time, she can be found editing videos for her new YouTube channel. She hopes that one day she’ll become internet famous and rich enough to buy a Maserati.",
+    "image": "/author-images/tina_ma.jpg"
+  },
+  {
+    "id": "tina_wei",
+    "name": "Tina Wei",
+    "guard": "10",
+    "bio": "Tina Wei is a writer for the Life and Editorial boards. A majority of their time is spent on social media or experiencing secret emotions—often both at the same time. A majority of their character has been built from the multiple failed assassination attempts against them. It’s recommended that you stay at least five feet away from them at any given time in case they start oozing toxic waste. Just to be safe.",
+    "image": "/author-images/tina_wei.jpg"
+  },
+  {
+    "id": "urooba_shaikh",
+    "name": "Urooba Shaikh",
+    "guard": "10",
+    "bio": "Urooba Shaikh is a Grade 12 student at MGCI and a writer for the news and editorial boards at The Reckoner. She can usually be found scrambling to finish the homework she should have done earlier. In her spare time she likes to do many things that she is not good at, such as playing sports, singing, painting, and cooking. The three things she loves most in the world are food, books, and sleep, but she usually doesn’t get enough of any of them. She hopes to one day write something that will make the world a better place.",
+    "image": "/author-images/urooba_shaikh.jpg"
+  },
+  {
+    "id": "wing_chang",
+    "name": "Wing Chang",
+    "guard": "10",
+    "bio": "Wing Chang is a Grade 9 writer for the News Board. As a Zigzabob alien from Mars, she enjoys binge-reading (a mostly healthy obsession) and playing all the latest Google Doodle games, a.k.a. Magic Cat Academy.",
+    "image": "/author-images/wing_chang.jpg"
+  },
+  {
+    "id": "zahra_ahmed",
+    "name": "Zahra Ahmed",
+    "guard": "10",
+    "bio": "Zahra Ahmed is a Grade 10 student at MGCI and a news writer for The Reckoner. If she's not sipping coffee during the school day, she's probably planning her next coffee run. She usually complains about having too much work to do, or the opposite, having absolutely nothing to do. Sometimes, both at the same time. She takes pride in having taken a selfie with a llama, her obsession with to-do lists, and laughing uncontrollably.",
+    "image": "/author-images/zahra_ahmed.jpg"
+  },
+  {
+    "id": "zarmeen_yaqoob",
+    "name": "Zarmeen Yaqoob",
+    "guard": "10",
+    "bio": "Zarmeen Yaqoob is the News Manager at The Reckoner. Some of her special talents include overthinking and making jokes that she thinks are hilarious (though some may disagree). Even though she has taken on way more responsibilities than she probably should, she still has masterfully perfected the art of procrastination. When she is not busy overcomplicating everything, she can be found obsessing over a book, hanging out with friends, or stressing over nothing; sometimes all three at the same time. In any other circumstances, she would have loved to meet you in the school hallways, but it’s kind of illegal right now so probably best not to.",
+    "image": "/author-images/zarmeen_yaqoob.jpg"
+  },
+  {
+    "id": "zoe_cheng",
+    "name": "Zoe Cheng",
+    "guard": "10",
+    "bio": "Zoe is a Grade 11 illustrator for the Reckoner. She is always looking for new learning opportunities and loves to help others. In her free time, Zoe enjoys various artistic activities and sports like skiing or boxing. She is also an outdoorsy person, so expect to see her going on a lot of camping/wilderness trips. She hopes to study biomedical engineering in the future, and be able to convey emotions to people through her art for The Reckoner.",
+    "image": "/author-images/zoe_cheng.jpg"
   }
 ]

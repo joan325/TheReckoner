@@ -2,72 +2,71 @@
 title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
 description: "Article."
-author: "reckoner_staff"
+author: "lisa_zhang"
 heroImage: "/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
 
-The stars on their flag are yellow  
+The stars on their flag are yellow
 
-Yellow like their skin  
+Yellow like their skin
 
-Yellow   
+Yellow
 
-Like my skin   
+Like my skin
 
-The stars on our flag are yellow   
+The stars on our flag are yellow
 
-Red   
+Red
 
-Our flag is red   
+Our flag is red
 
-Red like the clothes we wear   
+Red like the clothes we wear
 
-Red like the lanterns we hang   
+Red like the lanterns we hang
 
-The firecrackers we light   
+The firecrackers we light
 
-With the matches  
+With the matches
 
-We ignite   
+We ignite
 
-The fires in their homes   
+The fires in their homes
 
-The fires in my home  
+The fires in my home
 
-Crack  
+Crack
 
-The firecrackers sparkle   
+The firecrackers sparkle
 
-Crack   
+Crack
 
-A head hits the floor    
+A head hits the floor
 
-Bang   
+Bang
 
-The firecrackers echo through the courtyard   
+The firecrackers echo through the courtyard
 
-Bang   
+Bang
 
-The bullets whiz through the plaza   
+The bullets whiz through the plaza
 
-Bang  
+Bang
 
-The speakers shake the classroom floor   
+The speakers shake the classroom floor
 
-Click   
+Click
 
-The light comes on   
+The light comes on
 
-The stares won’t fade  
+The stares won’t fade
 
 My lunch smells like their contempt that day
 
-Our skin is all yellow like the stars in our sky   
+Our skin is all yellow like the stars in our sky
 
-But my red is the blood on their blades   
+But my red is the blood on their blades
 
-Not the blood of their veins   
+Not the blood of their veins
 
-They are not my people 
-
+They are not my people
