@@ -347,17 +347,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
-												by {(
-													authors.find(a => a.id === post.data.author) ??
-													(
-														{
-															id: post.data.author,
-															name: post.data.author,
-															guard: '',
-															bio: 'No biography available.',
-															image: '/author-images/default.jpg'
-														}
-													))['name']} | <FormattedDate date={post.data.pubDate} />
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -379,17 +377,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<div class="highlighted-info">
 											<h4 class="title">{post.data.title}</h4>
 											<p class="date">
-												by {(
-													authors.find(a => a.id === post.data.author) ??
-													(
-														{
-															id: post.data.author,
-															name: post.data.author,
-															guard: '',
-															bio: 'No biography available.',
-															image: '/author-images/default.jpg'
-														}
-													))['name']} | <FormattedDate date={post.data.pubDate} />
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -410,17 +406,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<img src={newsPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{newsPosts[0].data.title}</h5>
 										<p class="date">
-											by {(
-												authors.find(a => a.id === newsPosts[0].data.author) ??
-												(
-													{
-														id: newsPosts[0].data.author,
-														name: newsPosts[0].data.author,
-														guard: '',
-														bio: 'No biography available.',
-														image: '/author-images/default.jpg'
-													}
-												))['name']} | <FormattedDate date={newsPosts[0].data.pubDate} />
+											by {
+											[
+												(authors.find(a => a.id === newsPosts[0].data.author)?.name ?? newsPosts[0].data.author),
+												...(newsPosts[0].data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+											}
+											| <FormattedDate date={newsPosts[0].data.pubDate} />
 										</p>
 									</a>
 								</li>
@@ -434,17 +428,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
-												by {(
-													authors.find(a => a.id === post.data.author) ??
-													(
-														{
-															id: post.data.author,
-															name: post.data.author,
-															guard: '',
-															bio: 'No biography available.',
-															image: '/author-images/default.jpg'
-														}
-													))['name']} | <FormattedDate date={post.data.pubDate} />
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -465,17 +457,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<img src={editorialPosts[0].data.heroImage} alt="" />
 										<h5 class="title">{editorialPosts[0].data.title}</h5>
 										<p class="date">
-											by {(
-												authors.find(a => a.id === editorialPosts[0].data.author) ??
-												(
-													{
-														id: editorialPosts[0].data.author,
-														name: editorialPosts[0].data.author,
-														guard: '',
-														bio: 'No biography available.',
-														image: '/author-images/default.jpg'
-													}
-												))['name']} | <FormattedDate date={editorialPosts[0].data.pubDate} />
+											by {
+											[
+												(authors.find(a => a.id === editorialPosts[0].data.author)?.name ?? editorialPosts[0].data.author),
+												...(editorialPosts[0].data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+											}
+											| <FormattedDate date={editorialPosts[0].data.pubDate} />
 										</p>
 									</a>
 								</li>
@@ -489,17 +479,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
-												by {(
-													authors.find(a => a.id === post.data.author) ??
-													(
-														{
-															id: post.data.author,
-															name: post.data.author,
-															guard: '',
-															bio: 'No biography available.',
-															image: '/author-images/default.jpg'
-														}
-													))['name']} | <FormattedDate date={post.data.pubDate} />
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -520,17 +508,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<img src={lifePosts[0].data.heroImage} alt="" />
 										<h5 class="title">{lifePosts[0].data.title}</h5>
 										<p class="date">
-											by {(
-												authors.find(a => a.id === lifePosts[0].data.author) ??
-												(
-													{
-														id: lifePosts[0].data.author,
-														name: lifePosts[0].data.author,
-														guard: '',
-														bio: 'No biography available.',
-														image: '/author-images/default.jpg'
-													}
-												))['name']} | <FormattedDate date={lifePosts[0].data.pubDate} />
+											by {
+											[
+												(authors.find(a => a.id === lifePosts[0].data.author)?.name ?? lifePosts[0].data.author),
+												...(lifePosts[0].data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+											}
+											| <FormattedDate date={lifePosts[0].data.pubDate} />
 										</p>
 									</a>
 								</li>
@@ -544,17 +530,15 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
-												by {(
-													authors.find(a => a.id === post.data.author) ??
-													(
-														{
-															id: post.data.author,
-															name: post.data.author,
-															guard: '',
-															bio: 'No biography available.',
-															image: '/author-images/default.jpg'
-														}
-													))['name']} | <FormattedDate date={post.data.pubDate} />
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>

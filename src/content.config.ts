@@ -6,6 +6,7 @@ const blog = z.object({
   author: z.string(),
   additionalAuthors: z.array(z.string()).optional(),
   imageCredit: z.array(z.string()).optional(),
+  imageType: z.string().optional().default("Photo"),
   description: z.string(),
   // Transform string to Date object
   pubDate: z.coerce.date(),

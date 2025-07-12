@@ -3,6 +3,8 @@ title: "SAC Begins Club Check-Ins"
 pubDate: 2022-04-26T03:00:46.689Z
 description: "Article."
 author: "emma_wai"
+imageType: "Photo"
+imageCredit: ["david_chen-li"]
 heroImage: "/article-images/club_checkins_david_chen_li.png"
 tags: ["News"]
 ---

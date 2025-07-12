@@ -3,6 +3,8 @@ title: "And All I Am"
 pubDate: 2021-10-23T16:44:09.216Z
 description: "Article."
 author: "emily_liu"
+imageCredit: ["helen_sun"]
+imageType: "Art"
 heroImage: "/article-images/and_all_i_am_helen_sun.png"
 tags: ["Life"]
 ---

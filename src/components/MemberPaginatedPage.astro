@@ -223,17 +223,15 @@ const authorObj = authors.find(a => a.id === name) ?? {
 								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">
-									by {(
-										authors.find(a => a.id === post.data.author) ??
-										(
-											{
-												id: post.data.author,
-												name: post.data.author,
-												guard: '',
-												bio: 'No biography available.',
-												image: '/author-images/default.jpg'
-											}
-										))['name']} | <FormattedDate date={post.data.pubDate} />
+									by {
+									[
+									(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+									...(post.data.additionalAuthors ?? []).map(id =>
+										authors.find(a => a.id === id)?.name ?? id
+									)
+									].join(', ')
+									}
+									| <FormattedDate date={post.data.pubDate} />
 								</p>
 							</a>
 						</li>
