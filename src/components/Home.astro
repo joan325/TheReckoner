@@ -39,6 +39,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
 		<style>
 			main {
 				width: 1280px;
@@ -187,19 +188,20 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 scroll-snap-type: x mandatory;
                 overflow-x: auto;
             }
-            ::-webkit-scrollbar {
-                display: none;
-                scrollbar-width: 0;
-            }
             .all li {
                 outline: none;
                 flex: 0 0 auto;
+				width: calc((100% - 1em) / 3);
                 list-style: none;
                 scroll-snap-align: start;
             }
+			/* fix? */
+			.all li:last-child img {
+				width: calc(100% - 1em);
+			}
             .all img {
                 width: 100%;
-				max-height: 192px;
+				height: 192px;
 				object-fit: cover;
             }
             hr {
@@ -214,11 +216,124 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 flex-wrap: wrap;
             }
 
-            .features ul {
-                margin-bottom: 3em;
-                position: relative;
+			/* latest carousel */
+			.carousel-wrapper {
+				position: relative;
+				width: 100%;
+			}
+
+			.carousel-wrapper #carouselLatest {
+				scroll-behavior: smooth;
+			}
+
+			#scrollRightLatest {
+				position: absolute;
+				top: 50%;
+				right: 0.8em;
+				transform: translateY(-50%);
+				z-index: 10;
+				background: rgba(255, 255, 255, 0.7);
+				border: none;
+				cursor: pointer;
+				font-size: 2em;
+				padding: 0.25em 0.5em;
+				box-shadow: var(--box-shadow);
+			}
+
+			#scrollLeftLatest {
+				position: absolute;
+				top: 50%;
+				left: 0.8em;
+				transform: translateY(-50%);
+				z-index: 10;
+				background: rgba(255, 255, 255, 0.7);
+				border: none;
+				cursor: pointer;
+				font-size: 2em;
+				padding: 0.25em 0.5em;
+				box-shadow: var(--box-shadow);
+			}
+
+			#carouselLatest {
+				overflow-x: auto;
+				scroll-snap-type: x mandatory;
+				-ms-overflow-style: none;
+				scrollbar-width: none;
+			}
+
+			#carouselLatest::-webkit-scrollbar {
+				display: none;
+			}
+
+			/* features carousel */
+			.features {
+				position: relative;
+                height: 430px;
                 width: 860px;
-            }
+                scroll-snap-type: x mandatory;
+                overflow: hidden;
+				display: flex;
+				flex-direction: row;
+				margin: 0 0 2em;
+				padding: 0;
+			}
+
+			.features-track {
+				display: flex;
+				flex-direction: row;
+				width: max-content;
+				transition: transform 0.3s ease;
+				flex-wrap: nowrap;
+				margin: 0;
+				padding: 0;
+			}
+
+			#featuresNext {
+				position: absolute;
+				top: 50%;
+				right: 0.8em;
+				transform: translateY(-50%);
+				z-index: 10;
+				background: rgba(255, 255, 255, 0.7);
+				border: none;
+				cursor: pointer;
+				font-size: 2em;
+				padding: 0.25em 0.5em;
+				box-shadow: var(--box-shadow);
+			}
+
+			#featuresPrev {
+				position: absolute;
+				top: 50%;
+				left: 0.8em;
+				transform: translateY(-50%);
+				z-index: 10;
+				background: rgba(255, 255, 255, 0.7);
+				border: none;
+				cursor: pointer;
+				font-size: 2em;
+				padding: 0.25em 0.5em;
+				box-shadow: var(--box-shadow);
+			}
+
+			.features-slide {
+				flex: 0 0 100%;
+				position: relative;
+				box-sizing: border-box;
+                z-index: 1;
+                height: 430px;
+				width: 100%;
+				margin-right: -2rem !important;
+				padding: 0;
+			}
+
+			.features-slide li, .features-slide img {
+                height: 430px;
+				width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+			
             .features .highlighted-info {
                 color: rgb(var(--white));
                 background-color: rgba(0, 0, 0, 0.5);
@@ -236,22 +351,11 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
             .features .highlighted-info p {
                 color: rgb(var(--white));
             }
-            .features ul li {
-                width: 100%;
-                height: fit-content;
-            }
-            .features ul li img {
-                margin: 0;
-                padding: 0;
-                z-index: 1;
-                width: 100%;
-                height: 430px; /* previously 100% */
-            }
             .features ul li a {
                 margin: 0;
                 padding: 0;
                 width: 100%;
-                height: 430px;
+                height: 100%;
             }
             .features .title {
                 font-weight: 400;
@@ -289,7 +393,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					margin-bottom: 1.5em;
 				}
 				.features ul {
-					width: 100%;
 					margin-bottom: 2em;
 				}
 				.features ul li img {
@@ -337,10 +440,10 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
 
 				<!-- Featured posts -->
-				<div class="features">
-						<ul>
-							{featuredPosts.slice(0, 1).map((post) => (
-								<li class="featured">
+				<div class="features"> <!--for carousel-->
+						<ul class="features-track">
+							{featuredPosts.slice(0, 3).map((post) => (
+								<li class="featured features-slide">
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
@@ -362,17 +465,18 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								</li>
 							))}
 						</ul>
+						<button id="featuresPrev" aria-label="Scroll to previous" type="button">&lsaquo;</button>
+						<button id="featuresNext" aria-label="Scroll to next" type="button">&rsaquo;</button>
 					</div>
 
 				<!-- All posts -->
-				<div class="all latest-box">
+				<div class="all latest-box carousel-wrapper">
                 <h4>LATEST</h4>
                 <hr>
-						<ul>
+						<ul id="carouselLatest">
 							{allPosts.slice(0, 6).map((post) => (
 								<li class="featured">
 									<a href={`/${post.slug}/`}>
-									
 										<img src={post.data.heroImage} alt="" />
 										<div class="highlighted-info">
 											<h4 class="title">{post.data.title}</h4>
@@ -392,6 +496,8 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								</li>
 							))}
 						</ul>
+						<button id="scrollLeftLatest" aria-label="Scroll left" type="button">&lsaquo;</button>
+						<button id="scrollRightLatest" aria-label="Scroll right" type="button">&rsaquo;</button>
 					</div>
 
                 <div class="box1">
@@ -550,5 +656,42 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
 		</main>
 		<Footer />
+		<script>
+			const leftButton = document.getElementById("scrollLeftLatest");
+			const rightButton = document.getElementById("scrollRightLatest");
+			const carousel = document.getElementById("carouselLatest");
+			const width = carousel?.offsetWidth;
+
+			if (rightButton && carousel && width) {
+				rightButton.onclick = () => {
+					carousel.scrollLeft += width / 3;
+				};
+			}
+			if (leftButton && carousel && width) {
+				leftButton.onclick = () => {
+					carousel.scrollLeft -= width / 3;
+				};
+			}
+		</script>
+		<script>
+			let currentIndex = 0;
+			const track = document.querySelector('.features-track') as HTMLElement;;
+			const slides = document.querySelectorAll('.features-track .featured');
+
+			document.getElementById('featuresNext')?.addEventListener('click', () => {
+				if (currentIndex < slides.length - 1) currentIndex++;
+				updateCarousel();
+			});
+
+			document.getElementById('featuresPrev')?.addEventListener('click', () => {
+				if (currentIndex > 0) currentIndex--;
+				updateCarousel();
+			});
+
+			function updateCarousel() {
+				const offset = -currentIndex * 100;
+				track.style.transform = `translateX(${offset}%)`;
+			}
+		</script>
 	</body>
 </html>

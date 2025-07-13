@@ -10,9 +10,6 @@ if (pageParam === "1") {
   return Astro.redirect(`/member/${member}/`, 301);
 }
 
-console.log('page param:', Astro.params.page, Array.isArray(Astro.params.page));
-
-
 const allPosts = await getCollection('uncategorized', ({ data }) => {
   return data.author === member;
 });
