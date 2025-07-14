@@ -39,7 +39,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
 			main {
 				width: 1280px;
@@ -86,7 +86,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
             }
 			/* Contains featured + 5 more posts */
 			.latest-box:not(.all) {
-				width: calc(100% / 3 - 2rem / 3); /* new *** */
 				align-items: start;
 				margin-bottom: 3rem;
                 background-color: rgb(var(--white));
@@ -175,7 +174,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
                 border-top: 3px solid var(--accent);
-                width: calc(100% - 0.2em);
+                width: 100%;
                 margin-bottom: 3em;
             }
             .all .featured {
@@ -209,12 +208,53 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 padding: 0;
             }
 
-            .box1 {
-                display: flex;
-                align-items: flex-start;
+            .board-box {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 1em;
+				align-items: stretch;
+            }
+
+			.board-col ul {
+				background: white;
+				display: flex;
+				flex-direction: column;
+				width: 100%;
+			}
+			
+            .box2 {
+				display: flex;
+                align-items: flex;
                 gap: 1em;
                 flex-wrap: wrap;
             }
+
+			.box2 .feedback, .box2 .photos {
+				position: inline-block;
+			}
+
+			.box2 .feedback {
+				display: flex;
+				height: 430px;
+				width: calc(100% - 1em - 860px)
+			}
+
+			.box1 {
+				display: flex;
+                align-items: flex;
+                gap: 1em;
+                flex-wrap: wrap;
+			}
+
+			.box1 .features, .box2 .print-highlight {
+				position: inline-block;
+			}
+
+			.box1 .print-highlight {
+				display: flex;
+				height: 430px;
+				width: calc(100% - 1em - 860px)
+			}
 
 			/* latest carousel */
 			.carousel-wrapper {
@@ -274,7 +314,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 overflow: hidden;
 				display: flex;
 				flex-direction: row;
-				margin: 0 0 2em;
+				margin: 0 0 3em;
 				padding: 0;
 			}
 
@@ -288,7 +328,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				padding: 0;
 			}
 
-			#featuresNext {
+			#featuresNext, #photographyNext {
 				position: absolute;
 				top: 50%;
 				right: 0.8em;
@@ -302,7 +342,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				box-shadow: var(--box-shadow);
 			}
 
-			#featuresPrev {
+			#featuresPrev, #photographyPrev {
 				position: absolute;
 				top: 50%;
 				left: 0.8em;
@@ -329,7 +369,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
 			.features-slide li, .features-slide img {
                 height: 430px;
-				width: 100%;
+				width: 100% !important;
 				margin: 0;
 				padding: 0;
 			}
@@ -361,6 +401,14 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 font-weight: 400;
             }
 
+			.features ul {
+				width: 100% !important;
+			}
+
+			.feedback {
+				width: 20%;
+			}
+
 			@media (max-width: 720px) {
 				.all img {
 					width: calc(100% - 2em) !important;
@@ -383,12 +431,12 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				.latest-box .highlighted img {
 					width: 80%;
 				}
-				.box1 {
+				.board-box {
 					flex-direction: column;
 					gap: 0;
 					width: 100%;
 				}
-				.box1 > .latest-box {
+				.board-box > .latest-box {
 					width: 100%;
 					margin-bottom: 1.5em;
 				}
@@ -425,7 +473,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				}
 				.latest-box .highlighted .highlighted-info {
 					position: static;
-					background: none;
 					color: inherit;
 					padding: 0;
 					padding-bottom: 0.5em;
@@ -439,8 +486,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			<section>
 
 
-				<!-- Featured posts -->
-				<div class="features"> <!--for carousel-->
+				<div class="box1">
+					<!-- Featured posts -->
+					<div class="features first"> <!--for carousel-->
 						<ul class="features-track">
 							{featuredPosts.slice(0, 3).map((post) => (
 								<li class="featured features-slide">
@@ -448,7 +496,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 									
 										<img src={post.data.heroImage} alt="" />
 										<div class="highlighted-info">
-											<h5 class="title">{post.data.title}</h5>
+											<h5 class="title" style="font-weight: 700;">{post.data.title}</h5>
 											<p class="date">
 												by {
 												[
@@ -458,7 +506,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 												)
 												].join(', ')
 												}
-												| <FormattedDate date={post.data.pubDate} />
+												| <FormattedDate date={post.data.pubDate} /> | {post.data.tags[0]}
 											</p>
 										</div>
 									</a>
@@ -468,6 +516,12 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 						<button id="featuresPrev" aria-label="Scroll to previous" type="button">&lsaquo;</button>
 						<button id="featuresNext" aria-label="Scroll to next" type="button">&rsaquo;</button>
 					</div>
+
+					<div class="print-highlight">
+						<img src="/blog-placeholder-4.jpg">
+					</div>
+
+				</div>
 
 				<!-- All posts -->
 				<div class="all latest-box carousel-wrapper">
@@ -489,7 +543,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 												)
 												].join(', ')
 												}
-												| <FormattedDate date={post.data.pubDate} />
+												| <FormattedDate date={post.data.pubDate} /> | {post.data.tags[0]}
 											</p>
 										</div>
 									</a>
@@ -500,9 +554,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 						<button id="scrollRightLatest" aria-label="Scroll right" type="button">&rsaquo;</button>
 					</div>
 
-                <div class="box1">
+                <div class="board-box">
 				<!-- News posts -->
-				<div class="latest-box news">
+				<div class="latest-box board-col" id="news">
                 <h4>NEWS</h4>
                 <hr>
 						<ul>
@@ -553,7 +607,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
                     
 				<!-- Editorial posts -->
-				<div class="latest-box ed">
+				<div class="latest-box board-col" id="editorial">
                 <h4>EDITORIAL</h4>
                 <hr>
 						<ul>
@@ -604,28 +658,28 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				
                     
 				<!-- Life posts -->
-				<div class="latest-box">
-                <h4>LIFE</h4>
-                <hr>
-						<ul>
-							{lifePosts[0] && (
-								<li class="featured">
-									<a href={`/${lifePosts[0].slug}/`}>
-										<img src={lifePosts[0].data.heroImage} alt="" />
-										<h5 class="title">{lifePosts[0].data.title}</h5>
-										<p class="date">
-											by {
-											[
-												(authors.find(a => a.id === lifePosts[0].data.author)?.name ?? lifePosts[0].data.author),
-												...(lifePosts[0].data.additionalAuthors ?? []).map(id =>
-													authors.find(a => a.id === id)?.name ?? id
-												)
-												].join(', ')
-											}
-											| <FormattedDate date={lifePosts[0].data.pubDate} />
-										</p>
-									</a>
-								</li>
+				<div class="latest-box board-col" id="life">
+					<h4>LIFE</h4>
+					<hr>
+					<ul>
+						{lifePosts[0] && (
+							<li class="featured">
+								<a href={`/${lifePosts[0].slug}/`}>
+									<img src={lifePosts[0].data.heroImage} alt="" />
+									<h5 class="title">{lifePosts[0].data.title}</h5>
+									<p class="date">
+										by {
+										[
+											(authors.find(a => a.id === lifePosts[0].data.author)?.name ?? lifePosts[0].data.author),
+											...(lifePosts[0].data.additionalAuthors ?? []).map(id =>
+												authors.find(a => a.id === id)?.name ?? id
+											)
+											].join(', ')
+										}
+										| <FormattedDate date={lifePosts[0].data.pubDate} />
+									</p>
+								</a>
+							</li>
 							)}
 
 							{lifePosts.slice(1, 6).map((post) => (
@@ -654,6 +708,49 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					</div>
                 </div>
 
+				<div class="box2">
+					<div class="feedback latest-box">
+						<div class="featured">
+							<h4>Give us feedback!</h4>
+							<hr>
+							<img src="/blog-placeholder-3.jpg">	
+							<div class="highlighted-info">
+								<p class="date" style="color: black">Fill out our feedback form for a chance to win a gift card!</p>
+							</div>
+						</div>
+					</div>
+
+					<!--photography-->
+					<div class="features photos"> <!--for carousel-->
+						<ul class="features-track photos">
+							{photographyPosts.slice(0, 3).map((post) => (
+								<li class="featured features-slide">
+									<a href={`/${post.slug}/`}>
+									
+										<img src={post.data.heroImage} alt="" />
+										<div class="highlighted-info">
+											<h5 class="title" style="font-weight: 700;">{post.data.title}</h5>
+											<p class="date">
+												by {
+												[
+												(authors.find(a => a.id === post.data.author)?.name ?? post.data.author),
+												...(post.data.additionalAuthors ?? []).map(id =>
+													authors.find(a => a.id === id)?.name ?? id
+												)
+												].join(', ')
+												}
+												| <FormattedDate date={post.data.pubDate} /> | {post.data.tags[0]}
+											</p>
+										</div>
+									</a>
+								</li>
+							))}
+						</ul>
+						<button id="photographyPrev" aria-label="Scroll to previous" type="button">&lsaquo;</button>
+						<button id="photographyNext" aria-label="Scroll to next" type="button">&rsaquo;</button>
+					</div>
+				</div>
+
 		</main>
 		<Footer />
 		<script>
@@ -675,8 +772,8 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 		</script>
 		<script>
 			let currentIndex = 0;
-			const track = document.querySelector('.features-track') as HTMLElement;;
-			const slides = document.querySelectorAll('.features-track .featured');
+			const track = document.querySelector('.first .features-track') as HTMLElement;
+			const slides = document.querySelectorAll('.first .features-track .featured');
 
 			document.getElementById('featuresNext')?.addEventListener('click', () => {
 				if (currentIndex < slides.length - 1) currentIndex++;
@@ -691,6 +788,26 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			function updateCarousel() {
 				const offset = -currentIndex * 100;
 				track.style.transform = `translateX(${offset}%)`;
+			}
+		</script>
+		<script>
+			let currentIndex2 = 0;
+			const track2 = document.querySelector('.features-track.photos') as HTMLElement;
+			const slides2 = document.querySelectorAll('.photos .features-track .featured');
+
+			document.getElementById('photographyNext')?.addEventListener('click', () => {
+				if (currentIndex2 < slides2.length - 1) currentIndex2++;
+				updateCarousel();
+			});
+
+			document.getElementById('photographyPrev')?.addEventListener('click', () => {
+				if (currentIndex2 > 0) currentIndex2--;
+				updateCarousel();
+			});
+
+			function updateCarousel() {
+				const offset = -currentIndex2 * 100;
+				track2.style.transform = `translateX(${offset}%)`;
 			}
 		</script>
 	</body>
