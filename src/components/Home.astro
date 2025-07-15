@@ -239,6 +239,10 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				width: calc(100% - 1em - 860px)
 			}
 
+			.feedback p {
+				padding: 0 2em;
+			}
+
 			.box1 {
 				display: flex;
                 align-items: flex;
@@ -246,19 +250,24 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 flex-wrap: wrap;
 			}
 
-			.box1 .features, .box2 .print-highlight {
+			.box1 .features {
 				position: inline-block;
 			}
 
 			.box1 .print-highlight {
 				display: flex;
 				height: 430px;
-				width: calc(100% - 1em - 860px)
+				width: calc(100% - 1em - 860px);
+				position: relative;
 			}
 
 			.box1 .print-highlight img {
 				width: 100%;
-				object-fit: cover;
+				object-fit: contain;
+			}
+
+			.box1 .print-highlight .highlighted-info {
+				display: none;
 			}
 
 			/* latest carousel */
@@ -345,6 +354,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				font-size: 2em;
 				padding: 0.25em 0.5em;
 				box-shadow: var(--box-shadow);
+				display: none;
+				-webkit-animation: fadeinout 0.3s linear forwards;
+				animation: fadeinout 0.3s linear forwards;
 			}
 
 			#featuresPrev, #photographyPrev {
@@ -359,6 +371,27 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				font-size: 2em;
 				padding: 0.25em 0.5em;
 				box-shadow: var(--box-shadow);
+				display: none;
+				-webkit-animation: fadeinout 0.3s linear forwards;
+				animation: fadeinout 0.3s linear forwards;
+			}
+
+			@-webkit-keyframes fadeinout {
+				0% {
+					opacity: 0;
+				}
+				100% {
+					opacity: 1;
+				}
+			}
+
+			@keyframes fadeinout {
+				0% {
+					opacity: 0;
+				}
+				100% {
+					opacity: 1;
+				}
 			}
 
 			.features-slide {
@@ -393,7 +426,23 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 width: 100%;
                 font-size: 1.15em;
             }
-            .features .highlighted-info p {
+
+			.print-highlight .highlighted-info {
+                color: rgb(var(--white));
+                background-color: rgba(0, 0, 0, 0.5);
+                margin: 0;
+                padding-top: 1em;
+                padding-left: 0em;
+                padding-bottom: 0;
+                z-index: 10;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                font-size: 1.15em;
+            }
+			
+            .features .highlighted-info p, .print-highlight .highlighted-info p {
                 color: rgb(var(--white));
             }
             .features ul li a {
@@ -523,11 +572,11 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					</div>
 
 					<div class="print-highlight">
-						<img src="/print-covers/cover-V12N4.png"><!-- 
+						<img src="/print-covers/cover-V12N4.png">
 						<div class="highlighted-info">
 							<h5 class="title" style="font-weight: 700;">VOLUME 12 ISSUE 4</h5>
 							<p class="date">Out now</p>
-						</div> -->
+						</div>
 					</div>
 
 				</div>
@@ -722,7 +771,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 						<div class="featured">
 							<h4>Give us feedback!</h4>
 							<hr>
-							<img src="/blog-placeholder-3.jpg">	
+							<img src="/question.jpg">	
 							<div class="highlighted-info">
 								<p class="date" style="color: black">Fill out our feedback form for a chance to win a gift card!</p>
 							</div>
@@ -748,7 +797,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 												)
 												].join(', ')
 												}
-												| <FormattedDate date={post.data.pubDate} /> | {post.data.tags[0]}
+												| <FormattedDate date={post.data.pubDate} />
 											</p>
 										</div>
 									</a>
@@ -780,43 +829,91 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			}
 		</script>
 		<script>
-			let currentIndex = 0;
-			const track = document.querySelector('.first .features-track') as HTMLElement;
-			const slides = document.querySelectorAll('.first .features-track .featured');
+			function initCarousel({
+				containerSelector,
+				trackSelector,
+				slideSelector,
+				nextId,
+				prevId,
+			}: {
+				containerSelector: string;
+				trackSelector: string;
+				slideSelector: string;
+				nextId: string;
+				prevId: string;
+			}) {
+				let currentIndex = 0;
 
-			document.getElementById('featuresNext')?.addEventListener('click', () => {
-				if (currentIndex < slides.length - 1) currentIndex++;
+				const container = document.querySelector(containerSelector);
+				const track = container?.querySelector(trackSelector) as HTMLElement;
+				const slides = container?.querySelectorAll(slideSelector);
+				const next = document.getElementById(nextId);
+				const prev = document.getElementById(prevId);
+
+				if (!container || !track || !slides || slides.length === 0) return;
+
+				function updateCarousel() {
+					const offset = -currentIndex * 100;
+					track.style.transform = `translateX(${offset}%)`;
+
+					if (next && prev && slides) {
+						next.style.display = currentIndex < slides.length - 1 ? 'block' : 'none';
+						prev.style.display = currentIndex > 0 ? 'block' : 'none';
+					}
+				}
+
+				next?.addEventListener('click', () => {
+					if (currentIndex < slides.length - 1) {
+						currentIndex++;
+						updateCarousel();
+					}
+				});
+
+				prev?.addEventListener('click', () => {
+					if (currentIndex > 0) {
+						currentIndex--;
+						updateCarousel();
+					}
+				});
+
+				container.addEventListener('mouseover', updateCarousel);
+				container.addEventListener('mouseout', () => {
+					if (next) next.style.display = 'none';
+					if (prev) prev.style.display = 'none';
+				});
+
 				updateCarousel();
-			});
-
-			document.getElementById('featuresPrev')?.addEventListener('click', () => {
-				if (currentIndex > 0) currentIndex--;
-				updateCarousel();
-			});
-
-			function updateCarousel() {
-				const offset = -currentIndex * 100;
-				track.style.transform = `translateX(${offset}%)`;
 			}
+
+			// Initialize both carousels
+			initCarousel({
+				containerSelector: '.features.first',
+				trackSelector: '.features-track',
+				slideSelector: '.features-track .featured',
+				nextId: 'featuresNext',
+				prevId: 'featuresPrev',
+			});
+
+			initCarousel({
+				containerSelector: '.features.photos',
+				trackSelector: '.features-track',
+				slideSelector: '.features-track .featured',
+				nextId: 'photographyNext',
+				prevId: 'photographyPrev',
+			});
 		</script>
 		<script>
-			let currentIndex2 = 0;
-			const track2 = document.querySelector('.features-track.photos') as HTMLElement;
-			const slides2 = document.querySelectorAll('.photos .features-track .featured');
+			const container = document.querySelector('.print-highlight');
+			const info = container?.querySelector('.highlighted-info') as HTMLElement;
 
-			document.getElementById('photographyNext')?.addEventListener('click', () => {
-				if (currentIndex2 < slides2.length - 1) currentIndex2++;
-				updateCarousel();
-			});
+			if (info) {
+				container?.addEventListener('mouseover', (event) => {
+					info.style.display = 'block';
+				});
 
-			document.getElementById('photographyPrev')?.addEventListener('click', () => {
-				if (currentIndex2 > 0) currentIndex2--;
-				updateCarousel();
-			});
-
-			function updateCarousel() {
-				const offset = -currentIndex2 * 100;
-				track2.style.transform = `translateX(${offset}%)`;
+				container?.addEventListener('mouseout', (event) => {
+					info.style.display = 'none';
+				});
 			}
 		</script>
 	</body>
