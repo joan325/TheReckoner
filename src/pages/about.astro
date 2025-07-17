@@ -1,24 +1,61 @@
 ---
 import Layout from "../layouts/About.astro";
+import guards from "../../data/guards.json";
 ---
 
+<style>
+  li a p {
+    margin: 0;
+  }
+</style>
+
 <Layout
-	title="About Me"
-	author="Reckoner Staff"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date("August 08 2021")}
-	heroImage="/blog-placeholder-about.jpg"
+  title="Who We Are"
+  author="Fifteenth Guard Staff"
+  description=""
+  pubDate={new Date("August 15 2025")}
+  heroImage="/blog-placeholder-about.jpg"
+  imageType="Placeholder"
+  tags={new Array("Uncategorized")}
 >
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo
-		integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu
-		turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus
-		sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget
-		magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius
-		sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque
-		sagittis purus sit amet.
-	</p>
+  <p>
+    (Fifteenth Guard description) Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+    aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
+    viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi
+    quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum.
+    Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis
+    egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum
+    lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst
+    quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
+    quisque sagittis purus sit amet.
+  </p>
+  <p>
+    (General description) Lorem ipsum dolor sit amet, consectetur adipiscing
+    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Vitae ultricies leo integer malesuada nunc vel risus commodo viverra.
+    Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis
+    eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum.
+    Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis
+    egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum
+    lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst
+    quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
+    quisque sagittis purus sit amet.
+  </p>
+
+  <p>
+    Below are the members of The Reckoner's Fifteenth Guard. Previous
+    guards can be found here:
+  </p>
+  <ul>
+    {
+      guards.map(({ guard_name, guard_title }) => (
+        (guard_title !== "Fifteenth Guard") && (<li> <!--change to const current in import -->
+          <a href={`/about/${guard_name}`}>
+            <p>{guard_title}</p>
+          </a>
+        </li>)
+      ))
+    }
+  </ul>
 </Layout>

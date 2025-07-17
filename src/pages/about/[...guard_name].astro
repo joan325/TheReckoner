@@ -1,0 +1,57 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import Guard from "../../layouts/Guard.astro";
+import { render } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import authors from "../../../data/authors.json";
+import guards from "../../../data/guards.json";
+
+export async function getStaticPaths() {
+  return guards.map(({ guard_name, guard_num, guard_title }) => {
+    return {
+      params: { guard_name },
+      props: { guard_name, guard_num, guard_title },
+    };
+  });
+}
+
+const { guard_name, guard_num, guard_title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={`Who We Are | ${guard_title}`} description={""} />
+    <style>
+      main {
+        width: calc(100% - 2em);
+        max-width: 100%;
+        margin: 0;
+      }
+      .article-box {
+        width: 85%;
+        margin: 2em auto;
+        background-color: rgb(var(--white));
+      }
+      .prose {
+        max-width: calc(100% - 8em);
+        margin: auto;
+        padding: 4em;
+        color: rgb(var(--black));
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <div class="article-box">
+        <div class="prose">
+          <Guard name={guard_name} num={guard_num} title={guard_title} />
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

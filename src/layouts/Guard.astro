@@ -1,0 +1,262 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+import { render } from "astro:content";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import authors from "../../data/authors.json";
+import guards from "../../data/guards.json";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
+const { name, num, title } = Astro.props;
+
+const guard_info = guards.find((g) => g.guard_num === num);
+
+const members = guard_info?.members;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        list-style-type: none;
+        margin: 1em;
+        padding-left: 3em;
+        padding-right: 3em;
+        justify-content: center;
+      }
+      li {
+        width: 165px;
+        background-color: white;
+        border-radius: 3px;
+        box-shadow: var(--box-shadow-2);
+        margin: 1em;
+        padding-bottom: 1em;
+      }
+      ul li:hover {
+        box-shadow: var(--box-shadow);
+      }
+      ul li a {
+        display: block;
+        text-decoration: none;
+      }
+      .name {
+        margin: 0rem 1rem;
+        color: rgb(var(--accent-dark));
+        line-height: 1;
+        font-weight: 700;
+        text-align: center;
+      }
+      .title {
+        margin: 0rem 1rem 1rem;
+        color: rgb(var(--gray-dark));
+        margin-bottom: 0;
+        padding-bottom: 1rem;
+        line-height: 1;
+        padding-top: 0.5em;
+        text-align: center;
+      }
+      img {
+        width: 165px;
+        height: 165px;
+        margin-bottom: 0.5rem;
+        border-radius: 0px;
+        object-fit: cover;
+      }
+      h1, h2 {
+        margin: 1em 0 1em 0;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>{title}</h1>
+
+    <h2>Managers</h2>
+    <ul class="EIC">
+      {
+        guard_info?.editor_in_chief &&
+          guard_info.editor_in_chief.map((person) => (
+            <li>
+              <img
+                src={
+                  authors.find((a) => a.id === person)?.image ??
+                  "/author-images/default.jpg"
+                }
+              />
+              <a
+                href={`/member/${authors.find((a) => a.id === person)?.id ?? "reckoner_staff"}`}
+              >
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Editor-in-chief</p>
+            </li>
+          ))
+      }
+    </ul>
+
+    <ul class="manager">
+      {
+        guard_info?.news_manager &&
+          guard_info.news_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">News Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.editorial_manager &&
+          guard_info.editorial_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Editorial Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.life_manager &&
+          guard_info.life_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Life Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.illustrations_manager &&
+          guard_info.illustrations_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Illustrations Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.photography_manager &&
+          guard_info.photography_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Photography Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.outreach_manager &&
+          guard_info.outreach_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Outreach Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.print_manager &&
+          guard_info.print_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Print Manager</p>
+            </li>
+          ))
+      }
+
+      {
+        guard_info?.web_manager &&
+          guard_info.web_manager.map((person) => (
+            <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+              <p class="title">Web Manager</p>
+            </li>
+          ))
+      }
+    </ul>
+
+    <h2>Members</h2>
+    <ul class="members">
+      {
+        members?.map((person) => (
+          <li>
+              <img
+                src={authors.find((a) => a.id === person)?.image ?? person}
+              />
+              <a href={`/member/${person}`}>
+                <p class="name">
+                  {authors.find((a) => a.id === person)?.name ?? person}
+                </p>
+              </a>
+            </li>
+        ))
+      }
+    </ul>
+  </body>
+</html>

@@ -21,7 +21,6 @@ const allPostsSorted = allPosts.sort(
 export async function getStaticPaths({ paginate }: { paginate: any }) {
   const allPosts = await getCollection('uncategorized');
 
-  // Step 1: Gather all unique member IDs
   const memberSet = new Set<string>();
 
   for (const post of allPosts) {

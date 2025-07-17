@@ -12,7 +12,7 @@ const blog = z.object({
   pubDate: z.coerce.date(),
   updatedDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),
-  tags: z.array(z.string()),
+  tags: z.array(z.string()).optional().default(["Uncategorized"]),
   featured: z.boolean().optional(),
 });
 
