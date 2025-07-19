@@ -235,12 +235,14 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
 			.box2 .feedback {
 				display: flex;
-				height: 430px;
-				width: calc(100% - 1em - 860px)
+				min-height: 430px;
+				width: calc(100% - 1em - 860px);
 			}
 
-			.feedback p {
-				padding: 0 2em;
+			.box2 .feedback p.content {
+				margin: 0rem 1rem 1rem;
+				color: rgb(var(--gray));
+				padding: 0 2em 2em;
 			}
 
 			.box1 {
@@ -475,8 +477,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				.latest-box .highlighted,
 				.latest-box .featured {
 					width: 100%;
-					text-align: center;
-					margin-bottom: 1rem;
+					padding-bottom: 1rem;
 				}
 				.latest-box .highlighted {
 					flex-direction: column;
@@ -487,21 +488,16 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				}
 				.board-box {
 					flex-direction: column;
-					gap: 0;
+					grid-template-columns: none;
+					grid-template-rows: repeat(3, 1fr);
 					width: 100%;
+					align-items: stretch; /* Change */
 				}
 				.board-box > .latest-box {
 					width: 100%;
-					margin-bottom: 1.5em;
 				}
 				.features ul {
 					margin-bottom: 2em;
-				}
-				.features ul li img {
-					height: 250px;
-				}
-				.features ul li a {
-					height: 250px;
 				}
 				.features .highlighted-info {
 					font-size: 1em;
@@ -511,7 +507,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					display: block;
 					width: 100%;
 					text-align: left;
-					margin-bottom: 1rem;
+					padding-top: 1rem;
 					border-radius: 0px;
 					box-shadow: none;
 				}
@@ -530,6 +526,16 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					color: inherit;
 					padding: 0;
 					padding-bottom: 0.5em;
+				}
+				.box1 .print-highlight {
+					width: 100%;
+					margin-bottom: 2em;
+				}
+				.box1 .print-highlight .highlighted-info {
+					display: show; /* Edit js */
+				}
+				.box2 .feedback {
+					width: 100%;
 				}
 			}
 		</style>
@@ -772,8 +778,8 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 							<h4>FEEDBACK</h4>
 							<hr>
 							<img src="/question.jpg">	
-							<div class="highlighted-info">
-								<p class="date" style="color: black">Fill out our feedback form for a chance to win a prize!</p>
+							<div class="">
+								<p class="content" style="color: black">Fill out our feedback form for a chance to win a prize!</p>
 							</div>
 						</div>
 					</div>

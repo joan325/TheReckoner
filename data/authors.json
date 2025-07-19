@@ -291,7 +291,7 @@
     "name": "Nevetha Arullinkam",
     "guard": "13",
     "bio": "No bio available",
-    "image": "/author-images/nevetha_arullinkam.jpg"
+    "image": "/author-images/nevetha_arullinkam.png"
   },
   {
     "id": "oriana_zhou",
@@ -880,6 +880,13 @@
     "guard": "11",
     "bio": "Javeria Sajid is a writer for the Life Board at the Reckoner. She’s addicted to reading and you’ll always find her with a book - even when she has a hundred other things to do. When she’s not reading, she chooses to spend her time by baking delicious treats, eating them, and lazing about. Her mind is a jumble of random thoughts and worlds. Pages upon pages of notes, ideas, and one-sentence-drafts waiting to be let out in a flurry of repressed potential, which she then translates into written pieces.",
     "image": "/author-images/javeria_sajid.jpg"
+  },
+  {
+    "id": "javeria_munawar",
+    "name": "Javeria Munawar",
+    "guard": "10",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
   },
   {
     "id": "julia_shen",
