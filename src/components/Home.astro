@@ -236,7 +236,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			.box2 .feedback {
 				display: flex;
 				min-height: 430px;
-				width: calc(100% - 1em - 860px);
+				width: 300px;
 			}
 
 			.box2 .feedback p.content {
@@ -259,7 +259,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			.box1 .print-highlight {
 				display: flex;
 				height: 430px;
-				width: calc(100% - 1em - 860px);
+				width: 300px;
 				position: relative;
 			}
 
@@ -325,7 +325,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 			.features {
 				position: relative;
                 height: 430px;
-                width: 860px;
+                width: calc(100% - 1em - 300px);
                 scroll-snap-type: x mandatory;
                 overflow: hidden;
 				display: flex;
@@ -461,9 +461,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				width: 100% !important;
 			}
 
-			.feedback {
-				width: 20%;
-			}
 
 			@media (max-width: 720px) {
 				.all img {
@@ -491,13 +488,14 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					grid-template-columns: none;
 					grid-template-rows: repeat(3, 1fr);
 					width: 100%;
-					align-items: stretch; /* Change */
+					align-items: stretch;
+					/* background-color: none; Change */
 				}
 				.board-box > .latest-box {
 					width: 100%;
 				}
-				.features ul {
-					margin-bottom: 2em;
+				.features {
+					width: 100%;
 				}
 				.features .highlighted-info {
 					font-size: 1em;
