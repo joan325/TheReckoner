@@ -175,11 +175,16 @@ const { category, page, allPosts } = Astro.props;
 				.date {
 					padding-bottom: 1rem;
 				}
+				ul {
+					margin-top: 0;
+				}
 				ul,
 				.latest-box {
 					display: block;
-					background: none;
+					background-color: transparent;
+					box-shadow: none;
 					margin-top: 2rem;
+					margin-bottom: 0;
 					width: 100%;
 					grid-template-columns: none;
 					grid-auto-rows: none;
@@ -272,7 +277,7 @@ const { category, page, allPosts } = Astro.props;
 									<a href={`/${post.slug}/`}>
 									
 										<img src={post.data.heroImage} alt="" />
-										<div class="highlighted-info"> <!-- possibly remove this? -->
+										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
 												by {
