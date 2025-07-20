@@ -8,7 +8,7 @@ import authors from '../../data/authors.json';
 
 type Props = CollectionEntry<'uncategorized'>['data'];
 
-const { title, description, author, additionalAuthors, imageCredit, imageType, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, author, additionalAuthors, imageCredit, imageType, pubDate, updatedDate, heroImage, tags } = Astro.props;
 
 const authorObj = authors.find(a => a.id === author) ?? {
   id: author,
@@ -17,6 +17,8 @@ const authorObj = authors.find(a => a.id === author) ?? {
   bio: 'No biography available.',
   image: '/author-images/default.jpg'
 };
+
+const board = tags[0];
 
 const authorName = authorObj['name'];
 ---
@@ -147,7 +149,7 @@ const authorName = authorObj['name'];
 											authors.find(a => a.id === id)?.name ?? id
 										)
 									].join(', ')
-									} | <FormattedDate date={pubDate} />
+									} | <FormattedDate date={pubDate} /> | {board}
 						</div>
 						<div class="date">
 							{

@@ -1,68 +1,44 @@
-# Astro Starter Kit: Blog
+# The Reckoner of MGCI
 
-```sh
-npm create astro@latest -- --template blog
-```
+This is the source code for the thereckoner.club website as of 2025-26.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## For future editors-in-chief, executives, and web developers
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This website was built in Astro and currently deploys using Netlify.
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+### Data
 
-Features:
+The members of the 6th and 8th-15th guards can be found at data/authors.json.
+Information on the above mentioned guards can be found at data/guards.json.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+### To add an article
 
-## 🚀 Project Structure
+Text
 
-Inside of your Astro project, you'll see the following folders and files:
+### To change the featured articles
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+Text
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### To add a print and change the featured print
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Text
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+### To edit the other highlights/feedback box
 
-Any static assets, like images, can be placed in the `public/` directory.
+Text
 
-## 🧞 Commands
+### To update the website with the new guard
 
-All commands are run from the root of the project, from a terminal:
+Text
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### To edit anything else
 
-## 👀 Want to learn more?
+Text
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Other information
 
-## Credit
+Text
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+### Contact
+
+Text
