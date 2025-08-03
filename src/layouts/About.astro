@@ -11,7 +11,7 @@ type Props = CollectionEntry<'uncategorized'>['data'];
 const { title, description, author, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="en" data-pagefind-ignore="all">
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>

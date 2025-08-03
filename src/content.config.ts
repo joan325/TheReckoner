@@ -1,5 +1,7 @@
 import { file } from "astro/loaders";
 import { defineCollection, reference, z } from "astro:content";
+import pagefind from "astro-pagefind";
+import { defineConfig } from "astro/config";
 
 const blog = z.object({
   title: z.string(),

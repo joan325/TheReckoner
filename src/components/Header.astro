@@ -15,6 +15,12 @@ import { SITE_TITLE } from '../consts';
 			<HeaderLink href="/uncategorized">All</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
+		<form method="get" action="search">
+			<div class="search-bar">
+				<input type="search" name="q" placeholder="Search">
+				<input type="submit" value="">
+			</div>
+		</form>
 		<div class="social-links">
 			<a href="https://www.instagram.com/mgci.reckoner" target="_blank">
 				<span class="sr-only">Follow us on Instagram</span>
@@ -79,6 +85,40 @@ import { SITE_TITLE } from '../consts';
 		display: flex;
 		color: rgb(var(--accent-dark));
 	}
+	input {
+		font-family: "Open Sans", sans-serif;
+	}
+	input[type=submit] {
+		background-image: url(/searchicon.png);
+		background-position: 0px 0px;
+		background-repeat: no-repeat;
+		background-size: contain;
+		width: 30px;
+		background-color: transparent;
+		border: none;
+		border-radius: 0.25em;
+		margin-left: 0.25em;
+		cursor: pointer;
+	}
+	input[type=search]:focus {
+		/* width: 100%; */
+		border: 2px solid var(--accent);
+	}
+	input[type=search]::placeholder {
+		font-style: italic;
+	}
+	.search-bar {
+	}
+	.search-bar:has(input[type=search]:focus) { /* FIX */
+		width: 100%;
+	}
+	input[type=search] {
+		padding-left: 10px;
+		background-color: white;
+		width: 200px;
+		border: 2px solid rgb(var(--gray-light));
+		border-radius: 0.5em;
+	}
 	@media (max-width: 720px) {
 		.social-links {
 			display: none;
@@ -104,6 +144,8 @@ import { SITE_TITLE } from '../consts';
 		}
 		h2 img {
 			height: 2.5em !important;
+		}	
+		.search-bar {
 		}
 	}
 </style>

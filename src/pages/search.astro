@@ -1,0 +1,115 @@
+---
+import type { CollectionEntry } from "astro:content";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import FormattedDate from "../components/FormattedDate.astro";
+import Guard from "../layouts/Guard.astro";
+
+type Props = { term: string };
+
+const { term } = Astro.props;
+const title = `Search Results`;
+---
+
+<html lang="en" data-pagefind-ignore="all">
+  <head>
+    <BaseHead title={title} description={"Search results"} />
+    <style>
+      main {
+        width: calc(100% - 2em);
+        max-width: 100%;
+        margin: 0;
+      }
+      .article-box {
+        width: 85%;
+        margin: 2em auto;
+        background-color: rgb(var(--white));
+      }
+      .prose {
+        max-width: calc(100% - 8em);
+        margin: auto;
+        padding: 4em;
+        color: rgb(var(--black));
+      }
+      .pagefind-ui__button.svelte-e9gkc3:hover {
+        border: none; /* FIX */
+      }
+      @media (max-width: 720px) {
+        main {
+          width: 100%;
+          padding: 0 0em;
+        }
+        .article-box {
+          width: 100%;
+          margin: 1em 0;
+        }
+        .prose {
+          max-width: 100%;
+          padding: 2em 1em;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <div class="article-box">
+        <article>
+          <div class="prose">
+            <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+            <script is:inline src="/pagefind/pagefind-ui.js"></script>
+            <h1>Search</h1>
+            <br>
+            <div id="search"></div>
+            <script>
+              // @ts-expect-error
+              import { PagefindUI } from "@pagefind/default-ui";
+              window.addEventListener("DOMContentLoaded", () => {
+                new PagefindUI({
+                  element: "#search",
+                  excerptLength: 15,
+                });
+                const el = document.querySelector(".pagefind-ui");
+                const input =
+                  el?.querySelector<HTMLInputElement>(`input[type="text"]`);
+                const clearButton = el?.querySelector(
+                  ".pagefind-ui__search-clear"
+                );
+                // Check if the current URL has any query params
+                const url = new URL(window.location.href);
+                const params = new URLSearchParams(url.search);
+                const query = params.get("q");
+
+                // If query exists on page load
+                if (query && input) {
+                  input.value = query;
+                  input.dispatchEvent(new Event("input", { bubbles: true }));
+                }
+                input?.addEventListener("input", (e) => {
+                  const input = e.target as HTMLInputElement;
+                  const url = new URL(window.location.href);
+                  const params = new URLSearchParams(url.search);
+                  params.set("q", input.value);
+                  window.history.replaceState(
+                    {},
+                    "",
+                    `${url.pathname}?${params}`
+                  );
+                });
+                clearButton?.addEventListener("click", () => {
+                  const url = new URL(window.location.href);
+                  const params = new URLSearchParams(url.search);
+                  params.delete("q");
+                  window.history.replaceState({}, "", `${url.pathname}`);
+                });
+              });
+            </script>
+          </div>
+        </article>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
