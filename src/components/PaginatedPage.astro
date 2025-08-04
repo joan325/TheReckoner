@@ -7,6 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Pagination from '../components/Pagination.astro';
 import type { CollectionEntry } from 'astro:content';
 import authors from '../../data/authors.json';
+import { Image } from 'astro:assets';
 
 type PostData = CollectionEntry<'uncategorized'>;
 
@@ -257,7 +258,7 @@ const { category, page, allPosts } = Astro.props;
 							{allPosts[0] && (
 								<li class="featured">
 									<a href={`/${allPosts[0].slug}/`}>
-										<img src={allPosts[0].data.heroImage} alt="" />
+										<Image src={allPosts[0].data.heroImage} alt={allPosts[0].data.heroImageAlt} loading="eager"/>
 										<h5 class="title">{allPosts[0].data.title}</h5>
 										<p class="date">
 											by {
@@ -278,7 +279,7 @@ const { category, page, allPosts } = Astro.props;
 								<li class="highlighted">
 									<a href={`/${post.slug}/`}>
 									
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} loading="eager" />
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
@@ -302,10 +303,10 @@ const { category, page, allPosts } = Astro.props;
 
 				<!-- Rest of posts -->
 				<ul>
-					{page.data.map((post) => (
+					{page.data.map((post, index) => (
 						<li>
 							<a href={`/${post.slug}/`}>
-								<img src={post.data.heroImage} alt="" />
+								<Image src={post.data.heroImage} alt={post.data.heroImageAlt} loading={(index < 3) ? "eager" : "lazy"}/>
 								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">

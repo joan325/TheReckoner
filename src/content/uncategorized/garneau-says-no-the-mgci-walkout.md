@@ -3,7 +3,7 @@ title: "Garneau Says No: The MGCI Walkout"
 pubDate: 2019-04-14T18:04:44.873Z
 description: "Article."
 author: "jackie_huo"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]
 ---
 
@@ -23,7 +23,7 @@ At approximately 1:20 pm, students began to make their way to the side of the sc
 
 Grade 9 student Cynthia Wang commented on the support shown by others during the walkout. She said, “When we stood at the side of the road, a lot more cars than I expected honked to show their support and it was really nice and empowering to see that.”
 
-In terms of organizing the event, Nelson and the thirty other walkout organizers first checked if the students of MGCI were willing to participate. They contacted  March for Our Education, a student-run group that initiated the province-wide walkout. Once Marc Garneau was registered for the walkout, the organizational team made posters and Instagram posts to promote the walkout. They also made banners, planned announcements and speeches, and held a Q\&A session. Garneau was among seven hundred other schools who participated in the walkout. All across Ontario, students of all ages walked out to demonstrate their dissatisfaction with the government.
+In terms of organizing the event, Nelson and the thirty other walkout organizers first checked if the students of MGCI were willing to participate. They contacted March for Our Education, a student-run group that initiated the province-wide walkout. Once Marc Garneau was registered for the walkout, the organizational team made posters and Instagram posts to promote the walkout. They also made banners, planned announcements and speeches, and held a Q\&A session. Garneau was among seven hundred other schools who participated in the walkout. All across Ontario, students of all ages walked out to demonstrate their dissatisfaction with the government.
 
 Nelson added, “Whenever any change is made, by the provincial government, the federal government, the municipal government, or even our own student council, they must consult everyone who will be impacted by these changes, or else we will walk out\!”
 

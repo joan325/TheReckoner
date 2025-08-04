@@ -3,7 +3,7 @@ title: "A home that was never mine"
 pubDate: 2021-10-22T19:40:41.899Z
 description: "Article."
 author: "samaya_saadiq"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]
 ---
 

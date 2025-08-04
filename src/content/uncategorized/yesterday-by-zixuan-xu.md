@@ -3,61 +3,50 @@ title: "“Yesterday” by Zixuan Xu"
 pubDate: 2021-06-02T12:33:57.012Z
 description: "Article about stuff."
 author: "life.thereckoner"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
 **Yesterday**
 
-
-
 I was not born yesterday.
 
+I punched the air in silent frustration
 
+Because i know i am a golden songbird
 
-I punched the air in silent frustration  
+And yet i am too young, too little to know
 
-Because i know i am a golden songbird  
+Anything about the real, live world
 
-And yet i am too young, too little to know  
+Can’t control that stinky life of yours
 
-Anything about the real, live world  
+Your choices make no sense to society
 
-Can’t control that stinky life of yours  
+My words just falsetto, pretty and fake
 
-Your choices make no sense to society  
-
-My words just falsetto, pretty and fake  
-
-Child, you’re innocent, straight pure  
+Child, you’re innocent, straight pure
 
 How could you possibly understand more?
 
-
-
 I am not the same girl that I was yesterday.
 
+Because my mind is a broken glass mine
 
+It reflects what i’ve learned and seen
 
-Because my mind is a broken glass mine  
+A million thousand times in full colour
 
-It reflects what i’ve learned and seen  
+And i’ve seen, and i’ve felt and i’ve hurt
 
-A million thousand times in full colour  
+And i still know i am not fully ready
 
-And i’ve seen, and i’ve felt and i’ve hurt  
+But damn, i’m bruised and i’ve climbed tall hills
 
-And i still know i am not fully ready  
+This roaring heart ain’t weak, she’s fought
 
-But damn, i’m bruised and i’ve climbed tall hills  
-
-This roaring heart ain’t weak, she’s fought  
-
-And she will not hesitate in the face  
+And she will not hesitate in the face
 
 Of a storm, no matter how wretched
 
-
-
-I am better than yesterday.  
-
+I am better than yesterday.

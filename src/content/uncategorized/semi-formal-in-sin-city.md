@@ -3,13 +3,13 @@ title: "Semi-Formal in Sin City"
 pubDate: 2017-03-07T02:55:49.324Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
-Semi-Formal in Sin City  
+Semi-Formal in Sin City
 
-By: Jessica Guo and Tom Liu  
+By: Jessica Guo and Tom Liu
 
 Photo: Matthew Tse
 
@@ -17,7 +17,7 @@ On 24 February 2017, SAC held the annual Semi-Formal dance at Celebrations Banqu
 
 In total, over two hundred people attended the dance, a number much higher than SAC’s original goal of one hundred to one hundred fifty tickets. “It was amazing that so many students wanted to participate,” said Fariha. SAC broke even with ticket sales, bringing in over eight hundred dollars in profits. Most of the revenue went towards hosting DJ Haresh, the venue, decorations, and gift bags.
 
-Upon arriving, attendees completed mandatory bag checks with the teacher supervisors. They were then given beaded necklaces and entered a room decorated with balloons, sparkles, and poker chips, following the Las Vegas and casino theme. There was also a photo booth with props for guests. 
+Upon arriving, attendees completed mandatory bag checks with the teacher supervisors. They were then given beaded necklaces and entered a room decorated with balloons, sparkles, and poker chips, following the Las Vegas and casino theme. There was also a photo booth with props for guests.
 
 SAC kicked off the evening by gathering people to participate in musical chairs, where the winners received gift cards as prizes. As promised, dinner was served in buffet style at approximately 7:00 pm. There were a variety of choices, all Halal to accommodate the attendees. Dessert consisting of ice cream, fruit, and drinks was also offered later in the night.
 

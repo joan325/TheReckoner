@@ -5,7 +5,7 @@ description: "Article."
 author: "emma_wai"
 imageType: "Photo"
 imageCredit: ["david_chen-li"]
-heroImage: "/article-images/club_checkins_david_chen_li.png"
+heroImage: "../../assets/article-images/club_checkins_david_chen_li.png"
 tags: ["News"]
 ---
 

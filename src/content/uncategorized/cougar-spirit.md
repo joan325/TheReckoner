@@ -3,15 +3,15 @@ title: "Cougar Spirit!"
 pubDate: 2016-10-11T17:38:28.677Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
-Cougar Spirit\!  
+Cougar Spirit\!
 
-By: Julie Xiao  
+By: Julie Xiao
 
-\*Insert Cindy Cui’s Photo Gallery at bottom  
+\*Insert Cindy Cui’s Photo Gallery at bottom
 
 \*Lila Huang’s Infographic on the side
 
@@ -33,5 +33,4 @@ Although a relatively low number of students participated in the Spirit Week the
 
 Overall, SAC's Spirit Convenor Czarina Facun thought Spirit Week went well, considering that it was MGCI's first Spirit Week of the year. She said, "More people participated than expected and the crowd was pretty hyped about the games." However, she believes that SAC should offer better prizes and smaller playing fees for future events.
 
-SAC has announced that upcoming spirit events include Halloween Week and the Christmas Show.  
-
+SAC has announced that upcoming spirit events include Halloween Week and the Christmas Show.

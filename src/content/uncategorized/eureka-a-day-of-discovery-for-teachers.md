@@ -3,7 +3,7 @@ title: "Eureka! A Day of Discovery for Teachers"
 pubDate: 2019-03-02T17:39:10.760Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,5 +21,4 @@ Along with a few of her students, Ms. Gunn, who teaches hospitality, prepared lu
 
 The event ended with a raffle draw for the attendees. The prizes were donated by several science companies, many of which had displayed their products in the exhibitors’ hall earlier in the day. Prizes included science equipment, textbooks, and passes to the Ontario Science Center.
 
-The Eureka\! Conference was a day where teachers had a chance to be the students. They met with like-minded professionals and learned about new teaching strategies and resources, with the common goal of provided more learning opportunities for students.  
-
+The Eureka\! Conference was a day where teachers had a chance to be the students. They met with like-minded professionals and learned about new teaching strategies and resources, with the common goal of provided more learning opportunities for students.

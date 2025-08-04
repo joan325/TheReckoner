@@ -3,164 +3,164 @@ title: "Full 10th Guard Member List"
 pubDate: 2021-06-06T22:24:36.937Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
-Zahra Ahmed  
+Zahra Ahmed
 
-Aadila Ali Sabry  
+Aadila Ali Sabry
 
-Linda Cai  
+Linda Cai
 
-Stephanie Chan  
+Stephanie Chan
 
-Colleen Chang  
+Colleen Chang
 
-Wing Chang  
+Wing Chang
 
-Anthony Chen  
+Anthony Chen
 
-Derek Chen  
+Derek Chen
 
-Flora Chen  
+Flora Chen
 
-Jefferson Chen  
+Jefferson Chen
 
-Caroline Cheng  
+Caroline Cheng
 
-Zoe Cheng  
+Zoe Cheng
 
-India Das-Brown  
+India Das-Brown
 
-Hateem Fatima  
+Hateem Fatima
 
-Anirudh Goel  
+Anirudh Goel
 
-Fatima Gulab  
+Fatima Gulab
 
-Ray Hang  
+Ray Hang
 
-Enoch He  
+Enoch He
 
-Akil Huang  
+Akil Huang
 
-Leah Huang  
+Leah Huang
 
-Mahnoor Irfan  
+Mahnoor Irfan
 
-Amy Jia  
+Amy Jia
 
-Carrie Jiang  
+Carrie Jiang
 
-Evelyn Jiang  
+Evelyn Jiang
 
-Saivenkat Jilla  
+Saivenkat Jilla
 
-Ajita Kanthathasan  
+Ajita Kanthathasan
 
-Nuha Khan  
+Nuha Khan
 
-Emily Lai  
+Emily Lai
 
-Theodore Lam  
+Theodore Lam
 
-Conner Lee  
+Conner Lee
 
-Allan Li  
+Allan Li
 
-Brian Li  
+Brian Li
 
-Helen Lin  
+Helen Lin
 
-Sarah Li  
+Sarah Li
 
-Anne Liu  
+Anne Liu
 
-Rena Liu  
+Rena Liu
 
-Stephie Liu  
+Stephie Liu
 
-Max Lu  
+Max Lu
 
-Emily Ma  
+Emily Ma
 
-Iris Ma  
+Iris Ma
 
-Tina Ma  
+Tina Ma
 
-Maryam Mobashir  
+Maryam Mobashir
 
-Javeria Munawar  
+Javeria Munawar
 
-Daniel Neagu  
+Daniel Neagu
 
-Howard Ou  
+Howard Ou
 
-Maggie Pang  
+Maggie Pang
 
-Abbinaya Parakaran  
+Abbinaya Parakaran
 
-Chen Peng  
+Chen Peng
 
-Prithika Piratheepan  
+Prithika Piratheepan
 
-Lucy Qi  
+Lucy Qi
 
-Paromita Roy  
+Paromita Roy
 
-Javeria Sajid  
+Javeria Sajid
 
-Urooba Shaikh  
+Urooba Shaikh
 
-Fatima Sharipova  
+Fatima Sharipova
 
-Julia Shen  
+Julia Shen
 
-Paul Shur  
+Paul Shur
 
-Alviya Siddiqui  
+Alviya Siddiqui
 
-Helen Sun  
+Helen Sun
 
-Sunyah Tehreem  
+Sunyah Tehreem
 
-Akshaya Varakunan  
+Akshaya Varakunan
 
-Kelly Wang  
+Kelly Wang
 
-Kevin Wang  
+Kevin Wang
 
-Elizabeth Wei  
+Elizabeth Wei
 
-Justin Wei  
+Justin Wei
 
-River Wei  
+River Wei
 
-Vicky Wen  
+Vicky Wen
 
-Annie Xiong  
+Annie Xiong
 
-Angela Xu  
+Angela Xu
 
-Brasen Xu  
+Brasen Xu
 
-Zixuan Xu  
+Zixuan Xu
 
-Bill Yan  
+Bill Yan
 
-Brian Yan  
+Brian Yan
 
-Edward Yang  
+Edward Yang
 
-Sophie Yang  
+Sophie Yang
 
-Alvin Young  
+Alvin Young
 
-Mahyar Yousefzadeh  
+Mahyar Yousefzadeh
 
-Donna Zhang  
+Donna Zhang
 
-Miranda Zhao  
+Miranda Zhao
 
 Richard Zhu

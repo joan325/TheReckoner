@@ -13,7 +13,7 @@ additionalAuthors:
     "angela_xu",
     "bill_yan",
   ]
-heroImage: "/photography/city-in-motion/allan_li.jpg"
+heroImage: "../../assets/photography/city-in-motion/allan_li.jpg"
 tags: ["Photography"]
 ---
 

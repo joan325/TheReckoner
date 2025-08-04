@@ -3,7 +3,7 @@ title: "Copy of It Is Very Difficult To Write About People"
 pubDate: 2019-11-01T03:06:34.978Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -17,4 +17,4 @@ It is very easy to write about nature. Nature like weather, the sea and the sky 
 
 But people are difficult to write about. They are not like objects, or places, or nature. They are always looking for new purposes. They will pick up and move because they feel like it, and won’t always come back to the same places. They will change their minds constantly, flinching at any sound, sight, or touch around them. People are very difficult to write about. They are not like anything we’ve ever seen before.
 
- In fact, they are not even much like each other.
+In fact, they are not even much like each other.

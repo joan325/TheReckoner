@@ -3,7 +3,7 @@ title: "Eco-Ex: An Exhibition for the Striving Environmentalist"
 pubDate: 2018-12-09T19:27:36.654Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]
 ---
 
@@ -24,4 +24,3 @@ The current EcoTeam President was not the only one who was happy with the way th
 Beyond Eco-Ex, EcoTeam is planning other eco-friendly initiatives this year, including the Trashion Show, where students are challenged to design an outfit made completely from recycled materials such as CDs, paper cups, and tin foil. In addition, the club plans to host an Eco Movie Screening, where a movie related to environmental issues will be shown.
 
 Based on the success of the two days of the exhibition, these future initiatives are sure to receive positive word-of-mouth advertising from students and attract an even larger crowd than was seen at Eco-Ex, which left students empowered and prepared to make their school and the world a better place.
-

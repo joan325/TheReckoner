@@ -3,68 +3,68 @@ title: "stardust"
 pubDate: 2021-06-24T22:30:58.104Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]
 ---
 
-*stardust*
+_stardust_
 
-i hold   
+i hold
 
-a galaxy between  
+a galaxy between
 
 my palms
 
-the heat makes my  
+the heat makes my
 
-rings melt  
+rings melt
 
-and the black holes  
+and the black holes
 
-suckle at my fingertips  
+suckle at my fingertips
 
-and lap up the molten silver  
+and lap up the molten silver
 
-that runs through the  
+that runs through the
 
 crevices of my hands
 
-extraordinary stars and planets  
+extraordinary stars and planets
 
-shine through the void  
+shine through the void
 
-of the foggy edges  
+of the foggy edges
 
-each a slightly different  
+each a slightly different
 
-color, unique,  
+color, unique,
 
-and the hues blur and blend  
+and the hues blur and blend
 
-together as i trace lines between  
+together as i trace lines between
 
 constellations with my eyes
 
-i watch as the stars implode  
+i watch as the stars implode
 
-and meteors streak  
+and meteors streak
 
-through the ethereal  
+through the ethereal
 
-leaving a flowing trail  
+leaving a flowing trail
 
-that cools the orb i hold  
+that cools the orb i hold
 
-like an ice cube dropped into  
+like an ice cube dropped into
 
 a steaming cup of tea
 
-and all i am left with  
+and all i am left with
 
-is a stinging cheek,  
+is a stinging cheek,
 
-fingers tipped with blue  
+fingers tipped with blue
 
-and for a moment  
+and for a moment
 
 the world is at peace

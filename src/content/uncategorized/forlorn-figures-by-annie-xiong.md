@@ -1,59 +1,58 @@
 ---
-title: "\"forlorn figures\" by Annie Xiong"
+title: '"forlorn figures" by Annie Xiong'
 pubDate: 2021-06-02T12:33:49.700Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
 
-the wind is a traitor  
+the wind is a traitor
 
-it whispers your dreams  
+it whispers your dreams
 
-eurus’ gales seep through inseams of torn jeans  
+eurus’ gales seep through inseams of torn jeans
 
-stripping away the undergrowth   
+stripping away the undergrowth
 
 until all that remains are forlorn figures
 
-the sun is a prayer  
+the sun is a prayer
 
-that pledges an oath fated to be broken  
+that pledges an oath fated to be broken
 
-your justifications spent like arcade tokens  
+your justifications spent like arcade tokens
 
-but when they turn their backs you turn to me  
+but when they turn their backs you turn to me
 
 and find peace in my eve
 
-your homeland is a falsity  
+your homeland is a falsity
 
-a sweet lullaby slathered in ecstacy  
+a sweet lullaby slathered in ecstacy
 
-a tonic of insouciance i willingly imbibe  
+a tonic of insouciance i willingly imbibe
 
-a state of denial, a cycle of grief  
+a state of denial, a cycle of grief
 
 a pyramid scheme built on compromise
 
-and as the hurricane stagnates  
+and as the hurricane stagnates
 
-as the sun eclipses  
+as the sun eclipses
 
-as our country is swallowed by war and sea  
+as our country is swallowed by war and sea
 
-wading through soot and debris  
+wading through soot and debris
 
 dawned an epiphany
 
-a sapling burst through the scorched earth  
+a sapling burst through the scorched earth
 
-that grew into a sacred forest  
+that grew into a sacred forest
 
-new beginnings after senseless destruction  
+new beginnings after senseless destruction
 
 history fading into fiction
 
-– *forlorn figures* by annie xiong  
-
+– _forlorn figures_ by annie xiong

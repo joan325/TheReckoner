@@ -3,7 +3,7 @@ title: "Lauren's piece (life)"
 pubDate: 2014-11-12T00:36:14.788Z
 description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -35,7 +35,7 @@ A woman is sitting across from a couple; she is a journalist. The man starts to 
 
 His husband grips onto the first man’s arm, and speaks with a tightly controlled voice.
 
-“Of course we tried to stop her; she’s my husband’s only sister. She’s part of this family; she doesn’t understand how this will affect us all. Our son doesn’t understand why his aunt, his only aunt, is going away forever. How do we explain such a concept to a kid? How will we get *through* this?”
+“Of course we tried to stop her; she’s my husband’s only sister. She’s part of this family; she doesn’t understand how this will affect us all. Our son doesn’t understand why his aunt, his only aunt, is going away forever. How do we explain such a concept to a kid? How will we get _through_ this?”
 
 The woman reaches over and hits a button on the recorder. A tense silence falls upon the room.
 
@@ -80,4 +80,3 @@ Aunt Maria swallows. “I keep reminding myself that this won’t ruin their liv
 “How are you going to do it?”
 
 “Painlessly, possibly, but probably not without pain: I’d like to remember that I was once alive.”
-

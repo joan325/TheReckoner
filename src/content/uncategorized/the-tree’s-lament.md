@@ -3,7 +3,7 @@ title: "The Tree’s Lament"
 pubDate: 2021-10-22T19:42:19.710Z
 description: "Article."
 author: "jerry_hong"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]
 ---
 

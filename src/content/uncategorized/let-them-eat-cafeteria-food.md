@@ -3,7 +3,7 @@ title: "Let them eat cafeteria food"
 pubDate: 2018-12-03T04:03:06.949Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -32,4 +32,3 @@ The snack program is currently funded by the Toronto Foundation for Student Succ
 This year, the school is trying a new system for the snack program. Instead of having individual bins for each first period class, snack bins will be placed in front of stairwells on every Tuesday and Thursday morning, so students can take what they want on their way into class. This is an eco-friendly initiative that will require fewer plastic bins and garbage bags, which were previously put into each classroom’s snack bin to avoid food waste in classrooms. The fare is the same as previous years: clementines, apples, bananas, yogurt, cheese strings, vegan muffins, and cookies.
 
 Students are excited to once again have morning snacks and cafeteria lunches. Although plans for a renovated servery is in the works, for now, students at MGCI can enjoy being well-fed.
-

@@ -4,7 +4,7 @@ pubDate: 2021-04-28T04:38:45.244Z
 description: "Article."
 author: "anne_liu"
 additionalAuthors: ["emily_ma"]
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]
 ---
 

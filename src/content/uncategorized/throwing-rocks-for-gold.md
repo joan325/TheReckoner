@@ -3,7 +3,7 @@ title: "Throwing Rocks for Gold"
 pubDate: 2019-04-14T18:33:11.030Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 

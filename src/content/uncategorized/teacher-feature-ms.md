@@ -3,7 +3,7 @@ title: "Teacher Feature: Ms.Hermanovsky"
 pubDate: 2019-03-02T15:45:37.301Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -11,7 +11,7 @@ From daily trivia competitions to dark-room lessons using glow-sticks, Ms. Herma
 
 Ms. Hermanovsky first decided to start teaching because she noticed that a lot of her friends “didn’t want to go into certain subjects because they disliked their teachers.” She said, “I was really passionate about biology so I decided I wanted to try to create some type of learning where the students were enthusiastic about it.”
 
-Reflecting on her journey towards becoming a teacher, she says it was a challenging path: “I find that there’s always a difficult facet no matter how long you’re teaching—it’s either the marking or trying to find a way to motivate students.” With challenges, however, there come rewards; she added, “My reward is the joy I get from what I do for \[the students\].  The impact it has on me is like watching my Grade 12 students graduate and pursue a subject they’re passionate about.”
+Reflecting on her journey towards becoming a teacher, she says it was a challenging path: “I find that there’s always a difficult facet no matter how long you’re teaching—it’s either the marking or trying to find a way to motivate students.” With challenges, however, there come rewards; she added, “My reward is the joy I get from what I do for \[the students\]. The impact it has on me is like watching my Grade 12 students graduate and pursue a subject they’re passionate about.”
 
 In the eight years she has spent at Garneau, Ms. Hermanovsky’s teaching style has changed substantially. At first, she said, she was “strict” but as she’s gotten more confident and comfortable, she has created a better dynamic within her class where “both students and teachers can learn from each other.” A unique teaching method she has is using “disgusting” images to accompany new and important concepts, claiming that it makes them more memorable for students as the image typically remains burned into their minds. “For example, if I’m teaching about hearing, I’m not just going to put a picture of an ear on the wall. I’m going to put a picture of an old man with hairy ears, full size, and they’ll be grossed out but now \[they’ll\] remember forever.”
 
@@ -31,5 +31,4 @@ Ms. Hermanovsky is also passionate about the future, particularly about technolo
 
 Throughout her teaching experience, Ms. Hermanovsky has gained wisdom and advice that she hopes to share with her students. Asked to share some tips for academic success, Ms. Hermanovsky advises Garneau students to: “review lessons after you have been taught, ask teachers for help, ask questions in class, and try to teach yourself or someone else what you’ve learned.” Having seen her students “shaking before tests” and “coming to school without any sleep,” Ms. Hermanovsky’s personal philosophy that she strives to embed into her students is “in order to survive the system and pursue whatever job you want to, you have to find places to have fun, to relax, and enjoy the ride. Let’s not take ourselves too seriously.”
 
-Although her job can be tough, she looks forward to waking up every day because of how much joy and laughter she gains from teaching her students. For Ms. Hermanovsky, there’s no other job she’d rather have than teaching.  
-
+Although her job can be tough, she looks forward to waking up every day because of how much joy and laughter she gains from teaching her students. For Ms. Hermanovsky, there’s no other job she’d rather have than teaching.

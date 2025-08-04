@@ -3,7 +3,7 @@ title: "A Celebration of Women"
 pubDate: 2019-04-13T01:55:47.705Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -16,4 +16,3 @@ Fatima Gulab, who signed the poster, said, “I wanted to sign it to show suppor
 Edith had originally planned to distribute bracelets but wasn’t able to due to budget constraints. Instead, she opted for purple ribbons, which were a hit with students. The Me To We poster had about sixty signatures and the club’s President Caryn Qian felt it was a definite success. She added, “We wanted to celebrate the success that has been made in gender equality and the poster was welcomed by students.”
 
 This year, women used the day to bring awareness specifically to labour rights, abortion laws, and gender violence. In addition, countries such as France honoured the perseverance and importance of women by awarding the first Simone Veil prize to Doumara Ngatansou for her activism against forced marriages. While activism for women’s rights occurred around the world during the day, Garneau celebrated International Women’s Day on a smaller scale and accomplished its goals with more plans in stock for next year.
-

@@ -3,7 +3,7 @@ title: "MGCI DECA Goes About Their Business at Provincials"
 pubDate: 2018-02-23T22:58:57.124Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,7 +21,7 @@ Unfortunately, not everything ran smoothly at the competition. In previous years
 
 When asked about the success of MGCI’s DECA chapter, President Meagan Wan said, “I think we had a really great year. Not only in terms of results and placement but I definitely saw how members improved their skills from September until now and I’m really proud of all that we’ve accomplished.”
 
-Originally, TDSB students were banned from attending ICDC due to a travel restriction to the US. However, as a result of the tremendous number of students who voiced their concerns to trustees, the board has changed the policy to allow students participating in competitions to travel to the US. 
+Originally, TDSB students were banned from attending ICDC due to a travel restriction to the US. However, as a result of the tremendous number of students who voiced their concerns to trustees, the board has changed the policy to allow students participating in competitions to travel to the US.
 
 Overall, members of Marc Garneau’s DECA chapter were very happy about the amendment of the policy. Meagan commented on the lifting of the ban: “Competing at ICDC is a wonderful experience that I think everyone should get the chance to do and I’m happy that our members will now be able to further continue their DECA experience in Atlanta.”
 

@@ -3,13 +3,13 @@ title: "One Hill of a Run"
 pubDate: 2016-06-15T03:40:14.115Z
 description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
 Feet hitting the asphalt, rushes of adrenaline, the emotional fulfilment of crossing the finish line; these are just a few of the many reasons why people love to run. The Girls Running Club of MGCI, founded by Ms. Hermanovsky, aims to provide this experience to female students at Garneau in an inclusive and competition-free environment.
 
-Two years ago, Ms. Hermanovsky noticed that amidst all the clubs and teams at Garneau, none promoted recreational exercise or offered exercise that was free of judgement, competition, or marks. 
+Two years ago, Ms. Hermanovsky noticed that amidst all the clubs and teams at Garneau, none promoted recreational exercise or offered exercise that was free of judgement, competition, or marks.
 
 “Without competition, it is a good way to show girls that it is possible to exercise for fun. Not for school, marks or anything, just for fun,” said Ms. Hermanovsky. Many of the members of the club are beginners, just learning to love running, and starting to feel a passion for exercise. Others however, are veterans who have ran for years, and are committed to improving their fitness.
 

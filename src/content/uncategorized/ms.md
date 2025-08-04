@@ -3,7 +3,7 @@ title: "Ms. Sawh’s Persistent Path to Vice Principal"
 pubDate: 2021-03-30T23:48:00.041Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]
 ---
 
@@ -19,9 +19,9 @@ I transferred from Westview Centennial SS to MGCI after two years to be closer t
 
 **Q: What attracted you to the position of Grade 10 VP here at MGCI? What are your favourite parts about this role?**
 
-A: I still keep in contact with the staff, students, and families at Westview Centennial, but was ready to face this new opportunity, being Grade 10 VP here at MGCI. I’ve always loved working with students; as the TDSB Coordinator for Science & STEM K-12, I had a unique opportunity to work with  K-12 educators, post-secondary institutions and collectively we were able to implement STEM pedagogy across many grades and disciplines.
+A: I still keep in contact with the staff, students, and families at Westview Centennial, but was ready to face this new opportunity, being Grade 10 VP here at MGCI. I’ve always loved working with students; as the TDSB Coordinator for Science & STEM K-12, I had a unique opportunity to work with K-12 educators, post-secondary institutions and collectively we were able to implement STEM pedagogy across many grades and disciplines.
 
-I’m excited to learn with the Grade 10s, moving with them as they enter Grade 11 and Grade 12, prepared to watch them grow and learn on their path. My favourite parts of this role include being able to ignite students’ passion in various subjects, co-learning with both them and teachers, and getting excited about fun opportunities both inside and outside the classroom. 
+I’m excited to learn with the Grade 10s, moving with them as they enter Grade 11 and Grade 12, prepared to watch them grow and learn on their path. My favourite parts of this role include being able to ignite students’ passion in various subjects, co-learning with both them and teachers, and getting excited about fun opportunities both inside and outside the classroom.
 
 **Q: What are some of your hobbies and favourite pastimes?**
 
@@ -29,7 +29,7 @@ A: I love to spend time with family, eat food, listen to and share stories, and 
 
 **Q: What message would you want to give to students during these challenging times?**
 
-A: I hope students are staying calm and collected. I understand that connections to the school might look a little different this year because relationships are now virtual. I urge students and families to focus on the things that make them happy, the things that they’re grateful for. Whether that be family, friends, reading a book, or watching a television show, focusing on these things would ease the stress and anxiety during these difficult times. 
+A: I hope students are staying calm and collected. I understand that connections to the school might look a little different this year because relationships are now virtual. I urge students and families to focus on the things that make them happy, the things that they’re grateful for. Whether that be family, friends, reading a book, or watching a television show, focusing on these things would ease the stress and anxiety during these difficult times.
 
 I think the pandemic has proven as an opportunity for the possible exploration of career pathways. Typically, in a busy school life, students don't have the opportunity to research career paths with the school. Now though, you have the chance to perhaps interview someone in a profession you’re interested in, and go further along this path to prepare for the future.
 

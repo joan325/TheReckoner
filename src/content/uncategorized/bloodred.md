@@ -3,7 +3,7 @@ title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
 description: "Article."
 author: "lisa_zhang"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
 

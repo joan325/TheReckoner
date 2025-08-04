@@ -3,45 +3,42 @@ title: "Strangers by Amy Chen"
 pubDate: 2017-04-09T19:13:32.922Z
 description: "Article."
 author: "laurenicious"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
+I don’t remember the words
 
+when we fought, but how the color drained
 
-I don’t remember the words  
+from my cheeks and your eyes
 
-when we fought, but how the color drained  
+became defeated as that mouth began
 
-from my cheeks and your eyes  
+to shake then smile sadly
 
-became defeated as that mouth began  
+And I’d remember everything from back in time
 
-to shake then smile sadly  
+even forward when I’d sometimes see you
 
-And I’d remember everything from back in time  
+Out of the blue when I wasn’t looking
 
-even forward when I’d sometimes see you  
+for a face in the colour of the sky
 
-Out of the blue when I wasn’t looking  
+and the shape of the clouds weren’t shifting
 
-for a face in the colour of the sky  
+in the movement of your hands and lips
 
-and the shape of the clouds weren’t shifting  
+We’d lock eyes on the street from afar, a far
 
-in the movement of your hands and lips   
+distant smile freezing across our faces
 
-We’d lock eyes on the street from afar, a far  
+as if to say: God, I’m so sorry
 
-distant smile freezing across our faces  
+But these moments are fleeting – gone
 
-as if to say: God, I’m so sorry  
+within a splitting second falling away
 
-But these moments are fleeting – gone   
-
-within a splitting second falling away  
-
-because eventually, conventionally  
+because eventually, conventionally
 
 all strangers must look away
-

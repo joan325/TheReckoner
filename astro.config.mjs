@@ -8,4 +8,10 @@ import pagefind from "astro-pagefind";
 export default defineConfig({
   site: "https://thereckoner.club",
   integrations: [mdx(), sitemap(), pagefind()],
+  image: {
+    // @ts-ignore
+    defaults: {
+      layout: "constrained",
+    },
+  },
 });

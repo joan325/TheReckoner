@@ -3,7 +3,7 @@ title: "Student Inactivity Council"
 pubDate: 2014-12-08T04:29:14.543Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,5 +21,4 @@ Part of the problem is that there are few ways to keep SAC members accountable. 
 
 One way this could be accomplished is by asking candidates to list specific tasks they will complete in order to accomplish the items in their platforms. This could include, for example, advertising sweater design contests and dance tickets in person in the hallways at lunch, as mentioned above. In addition, this will help to distinguish candidates from one another, as many students complain that the elections often boil down to a popularity contest, and that it is difficult to stand out. Finally, enforcing a task list will cause candidates to consider the responsibility that they are attempting to take on. Student council is a big commitment, and members must be able to take it seriously.
 
-1 http://thereckoner.ca/semi-marches-on-spring-fling-uncertain-2/  
-
+1 http://thereckoner.ca/semi-marches-on-spring-fling-uncertain-2/

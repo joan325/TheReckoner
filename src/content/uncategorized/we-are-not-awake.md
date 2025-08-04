@@ -3,70 +3,70 @@ title: "We Are (Not) Awake"
 pubDate: 2015-05-25T05:24:52.151Z
 description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
 We are (Not) Awake (Life, by Xin Niu Zhang)
 
-Look,  
+Look,
 
-Here are the girls in flannel  
+Here are the girls in flannel
 
-Lanky and alone.  
+Lanky and alone.
 
-Look at the rust crusting their elbows  
+Look at the rust crusting their elbows
 
-(Scraped raw)  
+(Scraped raw)
 
-The rust around the corners of their grins  
+The rust around the corners of their grins
 
-(All carved out)  
+(All carved out)
 
-The rust and spit in their sighs  
+The rust and spit in their sighs
 
-And on the songs they breathe  
+And on the songs they breathe
 
-They sing,  
+They sing,
 
-“Let them forget me.”  
+“Let them forget me.”
 
-Look,  
+Look,
 
-Here is a map  
+Here is a map
 
-To the jigsaw of blood and breaks  
+To the jigsaw of blood and breaks
 
-And bluffs  
+And bluffs
 
-On their rust red lips  
+On their rust red lips
 
-Look,  
+Look,
 
-Here is the sheet music  
+Here is the sheet music
 
-To that yawning cacophony of hope and hate and hurt in their voices  
+To that yawning cacophony of hope and hate and hurt in their voices
 
-And in the slouching shape of their shoulders.  
+And in the slouching shape of their shoulders.
 
-Well. Look again.  
+Well. Look again.
 
-Because we are not  
+Because we are not
 
-                 	hurt;  
+                 	hurt;
 
-Because this is not a  
+Because this is not a
 
-                        	bluff;  
+                        	bluff;
 
-Who is forcing you to look   a   w   a   y     	?  
+Who is forcing you to look a w a y ?
 
-Look,  
+Look,
 
-There go the girls in flannel  
+There go the girls in flannel
 
-Lanky and alone.  
+Lanky and alone.
 
-They sing,  
+They sing,
 
 “Let them damn me.”

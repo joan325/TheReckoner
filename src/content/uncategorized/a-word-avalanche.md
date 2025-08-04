@@ -3,7 +3,7 @@ title: "A Word Avalanche "
 pubDate: 2019-11-01T03:06:34.977Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life", "featured"]
 ---
 

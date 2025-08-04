@@ -3,11 +3,11 @@ title: "Club Feature: Photography Club"
 pubDate: 2018-02-25T02:48:49.567Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 
-In the age of digital photography, learning how to take a good photo is a great asset.  
+In the age of digital photography, learning how to take a good photo is a great asset.
 
 Every Wednesday at lunch in room 109, Photography Club hopes to help with that.
 
@@ -23,5 +23,4 @@ As an additional initiative, the club’s executives occasionally organize photo
 
 On what Photography Club gives to its members, Co-President Rahima Khan said, “Photography is not given as much importance and I think this club provides a platform for students to explore the art of photography and enjoy it without worrying about the grades.” Sonia added, “When you’re constantly exposed to times when you need to take a photo, whether with family, touring a place, or visiting friends, it’s essential to have the skill of how to take good photos. We provide guidelines as to how you can expand your horizons with how you take them. Digital cameras are also popular and being able to use them effectively is a good skill to have.”
 
-	Recently, the photography club created a Facebook page to showcase their photos and post announcements and opportunities. They can be found on their Facebook page, MGCI Photography Club. 
-
+    Recently, the photography club created a Facebook page to showcase their photos and post announcements and opportunities. They can be found on their Facebook page, MGCI Photography Club.

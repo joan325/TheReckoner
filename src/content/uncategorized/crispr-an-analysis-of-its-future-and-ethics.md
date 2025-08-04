@@ -3,7 +3,7 @@ title: "CRISPR: An Analysis of its Future and Ethics"
 pubDate: 2021-06-02T14:15:35.007Z
 description: "Article."
 author: "nuha_khan"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]
 ---
 

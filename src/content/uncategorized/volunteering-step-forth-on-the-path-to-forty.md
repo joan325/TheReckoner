@@ -3,7 +3,7 @@ title: "Volunteering:  Step Forth on the Path to Forty"
 pubDate: 2019-03-02T19:16:32.047Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -27,7 +27,6 @@ Unfortunately, according to Grade 9 student Axel Paraggua, some students may enc
 
 While the value of participating in community service activities was only officially recognized by Ontario in 1999, other educational programs made these activities a part of their curriculum much earlier. The International Baccalaureate (IB) is an international educational organization that was founded in 1968, and today, many Toronto schools offer the IB Diploma program. Students enrolled in the IB program are required to complete an additional one hundred fifty hours between Grade 11 and 12\. The guidelines for the completion of these hours are also more stricter than the typical Ontario requirements. The IB program requires the one hundred fifty hours to be divided evenly between community services in school, community services outside of school, and additional leadership training. In contrast, students in regular high school programs have no specifications for what types of activities are required.
 
-Although community service activities are heavily emphasized to high school students, many MGCI students find themselves working at a paid job in addition to their community service hours. Waleed Khalid is a Grade 12 student at MGCI who has both volunteer and work experience. He described both as unique experiences, adding that each required and developed very different skill sets.  Khalid said that “volunteering has really affected my perception and empathy for people—it really opens your eyes and allows you to better understand the different situations life can put anyone in.” On the other hand, he said that work experience has been more effective in teaching him to “better handle conflict, time management, task delegation and leading small teams.”
+Although community service activities are heavily emphasized to high school students, many MGCI students find themselves working at a paid job in addition to their community service hours. Waleed Khalid is a Grade 12 student at MGCI who has both volunteer and work experience. He described both as unique experiences, adding that each required and developed very different skill sets. Khalid said that “volunteering has really affected my perception and empathy for people—it really opens your eyes and allows you to better understand the different situations life can put anyone in.” On the other hand, he said that work experience has been more effective in teaching him to “better handle conflict, time management, task delegation and leading small teams.”
 
-Volunteering for community service activities is a way for high school students to explore new things and gain experience in the real world. There are many opportunities available to MGCI students and they are encouraged to take the first step by speaking with guidance counsellors to identify areas which they are passionate about and make the most of their high school volunteering experience.  
-
+Volunteering for community service activities is a way for high school students to explore new things and gain experience in the real world. There are many opportunities available to MGCI students and they are encouraged to take the first step by speaking with guidance counsellors to identify areas which they are passionate about and make the most of their high school volunteering experience.

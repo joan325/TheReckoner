@@ -3,7 +3,7 @@ title: "Kenya’s Journey To Genetically Modified Agriculture "
 pubDate: 2021-10-23T04:28:16.481Z
 description: "Article."
 author: "zahra_ahmed"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]
 ---
 

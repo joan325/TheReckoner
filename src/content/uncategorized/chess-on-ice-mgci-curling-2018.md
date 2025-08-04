@@ -3,7 +3,7 @@ title: "Chess on Ice: MGCI Curling 2018"
 pubDate: 2018-04-15T03:16:13.882Z
 description: "Article."
 author: "aimanzaltaf"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 
@@ -23,7 +23,6 @@ The girls’ gold medal game was played on 27 February against York Mills CI, an
 
 The Co-ed B team finished an undefeated season with seven wins, securing their title as TDSB regional champions of the North East Region. During their semi-final game, the opposing team resigned after the score reached 12-0 and the Garneau curlers went on to play their final game against Albert Campbell CI on 20 March. The team won the gold medal match with a score of 7-0 after going into overtime. The Co-ed A team had a winless season.
 
-When asked about what led to the success of the Team B, Charmaine Chang said, “It was definitely teamwork, we were all very supportive of each other, and we worked well together, but most importantly at the end of the day, we were there to have fun.” 
+When asked about what led to the success of the Team B, Charmaine Chang said, “It was definitely teamwork, we were all very supportive of each other, and we worked well together, but most importantly at the end of the day, we were there to have fun.”
 
 Considering the minimal amount of practice time on ice, the three teams had an excellent season. Ms. Wiltenburg was pleased with their performance, saying, “I knew that the Co-ed B team had talent, but I was very proud of how they yelled together and played like a great team. Their communication, shot making, and strategy were all quite amazing to me. I was especially impressed with the girls’ team and how successful they were as they all started playing within the past two or three years. I am very proud of what all the teams accomplished.”
-

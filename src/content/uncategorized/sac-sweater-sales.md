@@ -3,13 +3,13 @@ title: "SAC Sweater Sales"
 pubDate: 2017-04-11T00:26:36.050Z
 description: "Article."
 author: "henrytang"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
-MGCI Apparel: Dazzled Despite Delays  
+MGCI Apparel: Dazzled Despite Delays
 
-By: Hargun Kaur  
+By: Hargun Kaur
 
 Photo: Jenna Wong
 

@@ -3,7 +3,7 @@ title: "Ernesto, A Fellow"
 pubDate: 2021-10-23T04:17:43.097Z
 description: "Article."
 author: "ada_aksoy"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]
 ---
 

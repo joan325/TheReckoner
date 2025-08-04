@@ -3,7 +3,7 @@ title: "SCAW Night to End a Plight"
 pubDate: 2018-04-13T00:27:21.749Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/article-images/SCAW_dylan_xiao.jpg"
+heroImage: "../../assets/article-images/SCAW_dylan_xiao.jpg"
 tags: ["News"]
 ---
 

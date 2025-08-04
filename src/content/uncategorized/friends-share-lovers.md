@@ -3,7 +3,7 @@ title: "friends share lovers"
 pubDate: 2021-04-27T20:11:11.860Z
 description: "Article."
 author: "india_das-brown"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
 

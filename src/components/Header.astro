@@ -1,11 +1,14 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+import { Image } from 'astro:assets'
+import logo_image from '../assets/other/logo.png';
+
 ---
 
 <header>
 	<nav>
-		<h2><a href="/"><img src="/logo.png" style="height: 50px; width: auto;"></a></h2>
+		<h2><a href="/" aria-label="Reckoner Home"><Image src={logo_image} style="height: 50px; width: auto;" alt="Reckoner Logo" loading="eager"></a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/news">News</HeaderLink>
@@ -18,7 +21,7 @@ import { SITE_TITLE } from '../consts';
 		<form method="get" action="search">
 			<div class="search-bar">
 				<input type="search" name="q" placeholder="Search">
-				<input type="submit" value="">
+				<input type="submit" value="" aria-label="Search">
 			</div>
 		</form>
 		<div class="social-links">
@@ -146,6 +149,8 @@ import { SITE_TITLE } from '../consts';
 			height: 2.5em !important;
 		}	
 		.search-bar {
+			margin-top: 1.5em;
+			margin-bottom: 1.5em;
 		}
 	}
 </style>

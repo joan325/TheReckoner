@@ -3,7 +3,7 @@ title: "News: Montreal Massacre"
 pubDate: 2014-12-08T03:49:37.342Z
 description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -19,4 +19,4 @@ The school also held a white ribbon campaign, selling them to students. By buyin
 
 Although modern society has come far from the 1989 massacre, it is still far from fully accepting both genders as being equal. Aahan said, “To solve any major issue means considering the long-term or underlying causes. We have to make sure people aren’t mistreated or isolated by peers. To directly alleviate the issue it is important to allow opportunities for therapy, and of course, expand the currently existing shelters.”
 
-The proceeds from SJEC’s sales of white ribbons will go towards the December 6 Fund for  survivors of domestic abuse. “Students and teachers at MGCI signed a pledge to stop violence against women. Many bought white ribbons to support this cause, and made generous donations, which will go towards the White Ribbon campaign and the December 6 Fund,” said Hamza Shahid, co-president of SJEC.
+The proceeds from SJEC’s sales of white ribbons will go towards the December 6 Fund for survivors of domestic abuse. “Students and teachers at MGCI signed a pledge to stop violence against women. Many bought white ribbons to support this cause, and made generous donations, which will go towards the White Ribbon campaign and the December 6 Fund,” said Hamza Shahid, co-president of SJEC.

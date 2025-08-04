@@ -3,7 +3,7 @@ title: "MGCI Codes Its Way to Success at ECOO"
 pubDate: 2018-06-02T17:16:05.561Z
 description: "Article."
 author: "aimanzaltaf"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,5 +21,4 @@ In the final round, participants competed for the York University Cup and cash p
 
 Overall, MGCI had phenomenal results in the ECOO contest this year. The Girls Team had the best performance of any previous all-girls teams who participated in the contest. It also marked the first year MGCI finished in the top three for the provincial round.
 
-Many team members attributed their success to supervisors Mr. Jay and Mr. Brossard, and the Computer Science Club. Roger Fu, President of Computer Science Club, said, “I believe our teams performed exceptionally well this year due to their passion for computer science and the efforts they made to prepare for ECOO.” Additionally, Mr. Brossard commented on the results: “The teams have a knack of learning autonomously and Computer Science Club helped them complete amazing feats.”  
-
+Many team members attributed their success to supervisors Mr. Jay and Mr. Brossard, and the Computer Science Club. Roger Fu, President of Computer Science Club, said, “I believe our teams performed exceptionally well this year due to their passion for computer science and the efforts they made to prepare for ECOO.” Additionally, Mr. Brossard commented on the results: “The teams have a knack of learning autonomously and Computer Science Club helped them complete amazing feats.”

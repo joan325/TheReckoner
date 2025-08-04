@@ -3,7 +3,7 @@ title: "Fall Cleanup Hosted By Don’t Mess with the Don"
 pubDate: 2021-10-23T04:26:17.036Z
 description: "Article."
 author: "rand_alahmad"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]
 ---
 

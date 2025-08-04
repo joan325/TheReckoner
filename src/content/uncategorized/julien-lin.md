@@ -3,7 +3,7 @@ title: "Julien Lin"
 pubDate: 2018-06-12T03:51:33.746Z
 description: "Article."
 author: "tazik_shahjahan"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,7 +21,7 @@ Perhaps the most frustrating thing is that there’s always false hope. Just thi
 
 It’s the lure of the playoffs. The lure of just a couple more weeks of action. Reach the playoffs, and who knows, maybe it’ll work out. Maybe, Toronto will end up on top of the world. Except they didn’t.
 
-It’s disappointing—I expected so much from the self-labeled “best team in the NBA” that it was heartbreaking to watch their meltdown. I could blame the first game on bad luck. I could blame the second game blowout on laziness. By the fourth game though, I was out of excuses, and instead found excuses to ignore the game. I had enough, I would rather spend the night studying chemistry than watch another Raptors collapse.  
+It’s disappointing—I expected so much from the self-labeled “best team in the NBA” that it was heartbreaking to watch their meltdown. I could blame the first game on bad luck. I could blame the second game blowout on laziness. By the fourth game though, I was out of excuses, and instead found excuses to ignore the game. I had enough, I would rather spend the night studying chemistry than watch another Raptors collapse.
 
 It’s a matter of time too. If DeMar DeRozan and the Raptors reached this point in their developmental curve four years ago, everyone would be praising the team. But it’s 2018\. DeRozan is 28\. Kyle Lowry is 32\. Ibaka is “28.” The team has essentially reached its peak, and the future still holds so many uncertainties. Days after the Raptors lost to the Cavs, there were already countless fans calling for DeRozan, along with the entire Raptors core, to be traded. This seems like the clear path to take. Against all odds, why not just give it up and burn it down, and try winning in an era without Golden State or Boston or LeBron?
 
@@ -35,5 +35,4 @@ The Raptors have produced a ton of great moments too, just spread out evenly amo
 
 We should be cheering for their accomplishments.This team hasn’t realized his potential yet, not even close. The Raptors have made it to the big dance for 4 years straight. Have faith, Toronto. They will be number 1, sooner or later.
 
-In any case, no matter where I end up, they’ll have my faith.  
-
+In any case, no matter where I end up, they’ll have my faith.

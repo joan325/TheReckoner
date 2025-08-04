@@ -4,7 +4,7 @@ pubDate: 2021-06-04T05:32:51.206Z
 description: "Article."
 author: "maryam_mobashir"
 additionalAuthors: ["urooba_shaikh"]
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]
 ---
 

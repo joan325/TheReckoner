@@ -3,7 +3,7 @@ title: "Pressing Questions with the President: An Interview with SAC President A
 pubDate: 2018-11-10T22:45:40.483Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -23,5 +23,4 @@ When asked about the most prominent issue at MGCI, Areez responded that it was s
 
 Areez added that what he is looking forward to most this year is exploring the power given to SAC by the administration and the liberty to make changes that comes with it. One such example is the renowned International Show, which “is under reworks.” Expanding, Areez said, “\[SAC is\] most likely going to have a new idea suggested by the administration to rebrand the whole event. So this year, it might not be International Show, or it might. It might not be a night show either. We’ll see.”
 
-As a believer in bringing change and taking risk, Areez stressed that “it is our experiences that define us and make us into unconventional people— people who are different. Taking risks and being part of something bigger than yourself gives you a chance to have valuable experiences and see what you’re capable of. Take more risks and don’t worry about what other people think about you because at the end of the day, those risks will contribute to your success.”  
-
+As a believer in bringing change and taking risk, Areez stressed that “it is our experiences that define us and make us into unconventional people— people who are different. Taking risks and being part of something bigger than yourself gives you a chance to have valuable experiences and see what you’re capable of. Take more risks and don’t worry about what other people think about you because at the end of the day, those risks will contribute to your success.”

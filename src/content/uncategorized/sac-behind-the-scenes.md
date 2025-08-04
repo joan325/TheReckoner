@@ -3,11 +3,9 @@ title: "SAC Behind the Scenes"
 pubDate: 2019-03-03T19:23:53.128Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
-
-
 
 **Areez Khaki \- President**
 
@@ -19,7 +17,7 @@ In face of the newly-revised SAC constitution, Areez successfully conducted the 
 
 **Frank Hong \- Vice President**
 
-In his campaign, Frank promised more enjoyable events for students and a visit from the school’s namesake, Marc Garneau. This promise was fulfilled, with Marc Garneau coming to visit the school in January to run a workshop. Among his other proposals included “School-wide Olympics, more basketball and volleyball tournament\[s\] and movie screenings,” all of which he has yet to host. In the upcoming semester, Frank is responsible for establishing the elections committee to facilitate the selection of next year’s student council members. 
+In his campaign, Frank promised more enjoyable events for students and a visit from the school’s namesake, Marc Garneau. This promise was fulfilled, with Marc Garneau coming to visit the school in January to run a workshop. Among his other proposals included “School-wide Olympics, more basketball and volleyball tournament\[s\] and movie screenings,” all of which he has yet to host. In the upcoming semester, Frank is responsible for establishing the elections committee to facilitate the selection of next year’s student council members.
 
 **Hafsa Habeeb- Grad Convener**
 
@@ -47,11 +45,11 @@ Edith Nyamekye’s goal for this year was to have more visual representation and
 
 **Sumaya Mohammed \- Social Convener**
 
-Sumaya has helped organize two dances so far, Fall Fest and Semi-Formal. In past years, one of the main student complaints about the dances was the music selection, so Sumaya promised and delivered a song request table.  Another promise she made was to increase the affordability of social events, however dance ticket prices remain close to the same as last year. Sumaya is currently planning a third dance in April, the Spring Fling, but whether or not it will occur will be decided by a student vote and discussions with other SAC members.
+Sumaya has helped organize two dances so far, Fall Fest and Semi-Formal. In past years, one of the main student complaints about the dances was the music selection, so Sumaya promised and delivered a song request table. Another promise she made was to increase the affordability of social events, however dance ticket prices remain close to the same as last year. Sumaya is currently planning a third dance in April, the Spring Fling, but whether or not it will occur will be decided by a student vote and discussions with other SAC members.
 
 **Michelle Mackie \- Athletic Convener**
 
-Michelle Mackie runs athletic events and organizes the Athletic Banquet. The first of her platform proposals, Garneau All Star Week, took place at lunch from 19 to 22 February. It was a week full of various students-versus-teachers activities in the gym. She also proposed a March Madness intramurals event, but it is unclear whether this event will be executed. A first-semester ball hockey tournament, which is expected by the constitution, did not occur. This semester, Michelle is considering charging a fee for some events to fundraise for Athletic Banquet, as well as for new sports equipment and apparel. 
+Michelle Mackie runs athletic events and organizes the Athletic Banquet. The first of her platform proposals, Garneau All Star Week, took place at lunch from 19 to 22 February. It was a week full of various students-versus-teachers activities in the gym. She also proposed a March Madness intramurals event, but it is unclear whether this event will be executed. A first-semester ball hockey tournament, which is expected by the constitution, did not occur. This semester, Michelle is considering charging a fee for some events to fundraise for Athletic Banquet, as well as for new sports equipment and apparel.
 
 **Jessica Guo \- Clubs Convener**
 
@@ -59,15 +57,14 @@ As Clubs Convener, Jessica Guo’s primary goal is to involve students in Garnea
 
 **Dawood Khokhar- Outreach Coordinator**
 
-Dawood Khokhar is in charge of the production and sales of spirit apparel. His promises for this year’s merchandise were to have better quality sweaters for a lower price, as well as new spirit wear items such as sweatpants.  MGCI hoodies have already been sold, notably at $8 more than last year. The decision regarding additional spirit wear will be made by March Break or the beginning of April. His plan for second semester is to get these items finalized and sold and to create a student council website so that students have another way to reach out to their council.
+Dawood Khokhar is in charge of the production and sales of spirit apparel. His promises for this year’s merchandise were to have better quality sweaters for a lower price, as well as new spirit wear items such as sweatpants. MGCI hoodies have already been sold, notably at $8 more than last year. The decision regarding additional spirit wear will be made by March Break or the beginning of April. His plan for second semester is to get these items finalized and sold and to create a student council website so that students have another way to reach out to their council.
 
 **Samia Ahmed \- Secretary**
 
-Working behind the front lines, Samia Ahmed takes care of the meeting agendas and keeps track of all conversation. With her overall goal this year being increasing transparency with students, she had a SAC table at lunch where students could give feedback and voice any concerns. This initiative took place for about a month and another is being planned. 
+Working behind the front lines, Samia Ahmed takes care of the meeting agendas and keeps track of all conversation. With her overall goal this year being increasing transparency with students, she had a SAC table at lunch where students could give feedback and voice any concerns. This initiative took place for about a month and another is being planned.
 
 **Mohammad Dawaghreh \- Chairperson**
 
-Mohammad Dawaghreh is the first Chairperson that was chosen by the elected SAC members. This year, the student ambassador system has yet to come into fruition despite its existence in the published constitution. This has eliminated the Chairperson’s duty to represent the President at Student Ambassador meetings.  
+Mohammad Dawaghreh is the first Chairperson that was chosen by the elected SAC members. This year, the student ambassador system has yet to come into fruition despite its existence in the published constitution. This has eliminated the Chairperson’s duty to represent the President at Student Ambassador meetings.
 
-However, his primary remaining responsibilities of ensuring that meeting minutes and agendas are available and ensuring that “a monthly report of activities and feedback for publication on the Student Council’s social media sites” remain entirely unfulfilled. Requests for comment were ignored.  
-
+However, his primary remaining responsibilities of ensuring that meeting minutes and agendas are available and ensuring that “a monthly report of activities and feedback for publication on the Student Council’s social media sites” remain entirely unfulfilled. Requests for comment were ignored.

@@ -3,13 +3,13 @@ title: "Valedictorian Interview"
 pubDate: 2017-06-16T12:43:34.550Z
 description: "Article."
 author: "uknown_person"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
-Meet 2017 Valedictorian Hosna Sahak  
+Meet 2017 Valedictorian Hosna Sahak
 
-By: Aiman Altaf  
+By: Aiman Altaf
 
 Photo: Anthony Chang
 

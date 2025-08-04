@@ -3,7 +3,7 @@ title: "Where is Our Grad Trip?"
 pubDate: 2015-06-12T05:27:48.133Z
 description: "Article."
 author: "parnika_godkhindi"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -17,11 +17,11 @@ While those in the TOPS program travel to a different American city each year fo
 
 After contacting students who were involved in planning a possible graduation trip this year, we discovered the many problems that come with a grade-wide excursion and, with it, the possible solutions.
 
-Lydia Gouveia, this year’s Social Convenor, had worked hand-in-hand with Gloria Zhou, the Grad Convenor this year. She graciously explained to *The Reckoner* the challenges they had faced in planning a trip to Montreal for their grade.
+Lydia Gouveia, this year’s Social Convenor, had worked hand-in-hand with Gloria Zhou, the Grad Convenor this year. She graciously explained to _The Reckoner_ the challenges they had faced in planning a trip to Montreal for their grade.
 
 To put it simply, the main issue behind planning any grad trip is lack of participation. When these graduation trips are first proposed to the student body, many claim they are interested. Yet when the time comes to put in a deposit, all the supporters suddenly disappear. Why? This is due to one major reason: money. It makes sense: money is always a huge problem for any student in their senior year. The expenses in Grade 12 are massive, including, but definitely not limited to, social events like semi-formal and prom, graduation photos, and, of course, post-secondary school applications. With all these necessary costs to cover, it is reasonable for students to not feel eager to splurge on a graduation trip. Therefore, many sacrifice the once-in-a-lifetime opportunity.
 
-Another important reason why students are hesitant to partake in a grad trip is because the plan and itinerary must be strictly structured and organized.  For many, the idea of having to follow an agenda full of activities is unappealing; instead, they would much rather be given free time to do whatever they like, whenever they like, as teenagers so often do.
+Another important reason why students are hesitant to partake in a grad trip is because the plan and itinerary must be strictly structured and organized. For many, the idea of having to follow an agenda full of activities is unappealing; instead, they would much rather be given free time to do whatever they like, whenever they like, as teenagers so often do.
 
 Along with all of the aforementioned problems, Lydia and Gloria were also faced with the challenge of Montreal’s drinking age of 18, which did not sit well with administration. Ultimately, the combination of these hurdles rendered their efforts – hours of researching and planning – fruitless. “If anyone in the next senior year wants to attempt to plan a grad trip, good luck to them,” wishes Lydia.
 
@@ -30,4 +30,3 @@ What many do not realize is that if we were to commit to the idea of a grad trip
 This being said, there may still be hope for the Class of 2016 and even more so for the years that follow. Many students have already begun brainstorming ideas for next year, with options like camping at Algonquin Park at the top of the list. The next big step is for students to take definitive action, as previously recommended. It is also important for those interested in becoming involved to know that anyone can participate in the planning of the trip itself, so long as administration approves.
 
 High school is known for its many adversities, with few known highlights – one of them being graduation. Therefore, we should grab any opportunity we can, including a grad trip, before moving on to an entirely different journey.
-

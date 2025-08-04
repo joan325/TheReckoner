@@ -3,7 +3,7 @@ title: "Students Become Aware at Clubs Fair"
 pubDate: 2018-11-10T22:49:30.848Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -17,5 +17,4 @@ In previous years at MGCI, the Clubs Fair and the Unhealthy Foods Sale were held
 
 Saranya Varakunan, a Grade 11 student attending the Clubs Fair, thought that the fair was a successful venture: “There was a wide variety of clubs which each had their own unique things to offer. I learned a lot more about many clubs that I haven’t heard much from before.” However, she recommended that some improvements be made to make the fair less crowded in the future. “I think that the different booths can be more spread out so there can be more space for the students since it’s really crowded right now.”
 
-Jessica also thought the fair was a success. “I think it was good that so many clubs wanted to participate and there was a good student turnout,” she said. She will be organizing another Clubs Fair next semester, which, based on this one, is sure to be a hit.  
-
+Jessica also thought the fair was a success. “I think it was good that so many clubs wanted to participate and there was a good student turnout,” she said. She will be organizing another Clubs Fair next semester, which, based on this one, is sure to be a hit.

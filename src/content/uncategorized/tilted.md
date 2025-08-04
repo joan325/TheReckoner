@@ -3,7 +3,7 @@ title: "Tilted "
 pubDate: 2019-11-01T03:06:34.977Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -23,6 +23,6 @@ Buildings, roads, and skies don’t have to crash into the ground. The world in 
 
 But sometimes, your head is a little heavy. Maybe because it’s filled with heavy thoughts.
 
-So you let the world fall just a little bit more. You can stop it from falling tomorrow. 
+So you let the world fall just a little bit more. You can stop it from falling tomorrow.
 
 Maybe.

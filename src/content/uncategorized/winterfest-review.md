@@ -3,11 +3,11 @@ title: "News: Winterfest Review"
 pubDate: 2015-02-18T02:04:48.201Z
 description: "Article."
 author: "deifilia_to"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
-Winterfest Review  
+Winterfest Review
 
 **Trampoline**
 
@@ -35,15 +35,15 @@ Word is, one guy even made a rocket.
 
 Overall Rating: 4.5/5
 
-**Snow Tubing at The ROC**   
+**Snow Tubing at The ROC**
 
-Simply put, snow tubing at The ROC was fun. For two hours, students tubed down four slopes made only accessible to MGCI students. Though there were many positive comments, many participants would have preferred the event to be longer.  
+Simply put, snow tubing at The ROC was fun. For two hours, students tubed down four slopes made only accessible to MGCI students. Though there were many positive comments, many participants would have preferred the event to be longer.
 
-Tubing styles varied \- some enjoyed the slopes for larger groups, while others found the individual or pairs slopes more to their taste.  
+Tubing styles varied \- some enjoyed the slopes for larger groups, while others found the individual or pairs slopes more to their taste.
 
-“When we were traveling in pairs, we put our legs on the other person’s tube and then held each other’s boots instead of handles. It was awesome; we kept spinning round and round,” said Rabia Mahmood, Grade 12\.  
+“When we were traveling in pairs, we put our legs on the other person’s tube and then held each other’s boots instead of handles. It was awesome; we kept spinning round and round,” said Rabia Mahmood, Grade 12\.
 
-Tubes, helmets, and a pizza lunch were provided, so what more could you ask for?  According to one Grade 12 student, “One improvement could be the slopes. The higher, the better.”  
+Tubes, helmets, and a pizza lunch were provided, so what more could you ask for? According to one Grade 12 student, “One improvement could be the slopes. The higher, the better.”
 
 Overall Rating: 4.5/5
 
@@ -57,33 +57,33 @@ Final verdict—Horseshoe Valley is a must-go, but be warned that Marc Garneau t
 
 Overall Rating: 5/5
 
-**Toronto Zoo**   
+**Toronto Zoo**
 
-Though a cold weather alert was in effect, the temperature didn’t deter brave students from wandering the zoo.   
+Though a cold weather alert was in effect, the temperature didn’t deter brave students from wandering the zoo.
 
-“It was an awesome trip and I really liked how they gave us a lot of independence on the trip. It’s not every day you can see the animals without having hundreds of people shoving you aside and trying to take pictures of the animals,” said Sophia Song, Grade 11\.  
+“It was an awesome trip and I really liked how they gave us a lot of independence on the trip. It’s not every day you can see the animals without having hundreds of people shoving you aside and trying to take pictures of the animals,” said Sophia Song, Grade 11\.
 
-One Grade 12 student, Rida Fatima, even claims to have seen an alligator head emerge from an egg.  
+One Grade 12 student, Rida Fatima, even claims to have seen an alligator head emerge from an egg.
 
-It was the perfect day to visit the Toronto Zoo. Humphrey, the zoo’s baby polar bear, was spending one of his last few days in the zoo. CP24, Toronto mayor John Tory, and other news channels arrived for the memorable occasion. Good luck in the future, baby Humphrey\!  
+It was the perfect day to visit the Toronto Zoo. Humphrey, the zoo’s baby polar bear, was spending one of his last few days in the zoo. CP24, Toronto mayor John Tory, and other news channels arrived for the memorable occasion. Good luck in the future, baby Humphrey\!
 
 Overall Rating: 3.5/5
 
-**First Aid & CPR Training**   
+**First Aid & CPR Training**
 
-In case of emergency, CPR and First Aid are important skills to have.  
+In case of emergency, CPR and First Aid are important skills to have.
 
-Students who attended were impressed with the instructor, who was a firefighter. She taught them about life-saving as a profession.   
+Students who attended were impressed with the instructor, who was a firefighter. She taught them about life-saving as a profession.
 
-“I had the opportunity to learn firsthand about how to save lives, and the current techniques to employ when someone is choking or not breathing. This could really be a useful skill in the future, in case it is ever needed,” said Justina Ilevbare, Grade 12\.   
+“I had the opportunity to learn firsthand about how to save lives, and the current techniques to employ when someone is choking or not breathing. This could really be a useful skill in the future, in case it is ever needed,” said Justina Ilevbare, Grade 12\.
 
-Suggestions for future improvements included having more demonstrations to reinforce ideas taught during the session.  
+Suggestions for future improvements included having more demonstrations to reinforce ideas taught during the session.
 
 Overall Rating: 4/5
 
-**Rinx**  
+**Rinx**
 
-Students were given the opportunities to play laser tag, mini golf and a game of bumper carts. However, students felt that the availability of free choice led to long lineups and the inability to try every activity. Though it was fun, students felt that there were better options available.  
+Students were given the opportunities to play laser tag, mini golf and a game of bumper carts. However, students felt that the availability of free choice led to long lineups and the inability to try every activity. Though it was fun, students felt that there were better options available.
 
 Overall Rating: 4/5
 
@@ -145,7 +145,7 @@ Overall Rating: 4.5/5
 
 **CN Tower**
 
-A simple trip ideal for students who—for *shame*—have never visited the CN Tower.
+A simple trip ideal for students who—for _shame_—have never visited the CN Tower.
 
 Students walked around downtown Toronto, checked out the view from the famous CN Tower glass floor, and watched a video about the revolution of Toronto streetcars. New heights of excitement were surely reached.
 
@@ -174,4 +174,3 @@ Perhaps most excitingly, students were driven to the airport by Garneau’s own 
 Overall Rating: 4.5/5
 
 Unfortunately, a proper review could not be compiled for select trips. If you attended an event without a review and would like to submit one, please email news@thereckoner.ca.
-

@@ -3,7 +3,7 @@ title: "The Case for the KIA MVP"
 pubDate: 2019-06-09T13:24:41.451Z
 description: "Article."
 author: "andrew_lqh"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -13,7 +13,7 @@ With the regular season over, the decision for the NBA’s annual Most Valuable 
 
 ### James Harden
 
-The reigning MVP Harden put on an absolutely dominant NBA season. Just a few years ago, Harden was often degraded as a poor defensive player. This year, he had the second most steals in the league, demonstrating a willingness and ability to contribute on the defensive end. His steal%—how often an opponent’s possession ends with a steal from Harden—is a career-high 2.7. Harden’s defensive plus-minus, which refers to how well the Rockets defend with Harden on the court compared to when he’s off the court, is 1.2. This means that the Rockets play *better defense when Harden is playing.* “The Beard” has really smoothed out this facet of his game.
+The reigning MVP Harden put on an absolutely dominant NBA season. Just a few years ago, Harden was often degraded as a poor defensive player. This year, he had the second most steals in the league, demonstrating a willingness and ability to contribute on the defensive end. His steal%—how often an opponent’s possession ends with a steal from Harden—is a career-high 2.7. Harden’s defensive plus-minus, which refers to how well the Rockets defend with Harden on the court compared to when he’s off the court, is 1.2. This means that the Rockets play _better defense when Harden is playing._ “The Beard” has really smoothed out this facet of his game.
 
 And his offense? Harden’s offensive versatility presents a masterclass every other game: whether it’s scoring a season-high 61 points in a single game or scoring 30+ points for a historic 32 straight games, Harden has proven he’s still got it going on the offensive end. That 32 game stretch trails only the great Wilt Chamberlain’s streak from 1962\. During those games, Harden averaged 41.1 points and managed to score 40+ points on 18 separate occasions.
 
@@ -33,4 +33,4 @@ The solution? It may seem that you must prevent the Greek Freak from gathering s
 
 ### So Who Will Win?
 
-Though it’s difficult to elevate one over the other, the prize will likely go to Giannis Antetokounmpo. The past few years have demonstrated that perhaps the decades-old pattern of “best player on the best team” may already be obsolete. It might be all about the narrative of the top candidates. Harden carried his team through that 32-game stretch when multiple key players were injured, but Giannis has led his team to the best record *without another bona-fide star.* The next best Bucks’ player, Khris Middleton, can’t even create his own shot consistently. Based on this trend—that the better, more compelling narrative wins—Giannis Antetokounmpo is my pick for MVP.
+Though it’s difficult to elevate one over the other, the prize will likely go to Giannis Antetokounmpo. The past few years have demonstrated that perhaps the decades-old pattern of “best player on the best team” may already be obsolete. It might be all about the narrative of the top candidates. Harden carried his team through that 32-game stretch when multiple key players were injured, but Giannis has led his team to the best record _without another bona-fide star._ The next best Bucks’ player, Khris Middleton, can’t even create his own shot consistently. Based on this trend—that the better, more compelling narrative wins—Giannis Antetokounmpo is my pick for MVP.

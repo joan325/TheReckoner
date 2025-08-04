@@ -3,11 +3,11 @@ title: "Garneau Swim Team Races to the Finish"
 pubDate: 2019-04-24T03:17:37.283Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]
 ---
 
-**Garneau Swim Team Races to the Finish**  
+**Garneau Swim Team Races to the Finish**
 
 **By Evelyn Jiang**
 
@@ -71,5 +71,4 @@ Alex Guo: 1st place – Men 15-17 50 SC Meter Breaststroke SR High School, 2nd p
 
 Gabriel Luo: 2nd place – Men 100 SC Meter Freestyle Open, 3rd place – Men 100 SC Meter Breaststroke Open
 
-Owen Huang, Alex Guo, and Gabriel Luo will be competing at the OFSAA Swimming Championship, which will be held from 5 March and 6 March at the Toronto Pan Ams Sports Centre. The competition will wrap up another successful season for the MGCI swim team.  
-
+Owen Huang, Alex Guo, and Gabriel Luo will be competing at the OFSAA Swimming Championship, which will be held from 5 March and 6 March at the Toronto Pan Ams Sports Centre. The competition will wrap up another successful season for the MGCI swim team.

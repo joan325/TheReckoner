@@ -3,13 +3,13 @@ title: "Setting Up for Success: Junior Boys Volleyball "
 pubDate: 2018-11-10T23:09:55.020Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---
 
 Over the course of their season, MGCI’s Tier 1 Junior Boys Volleyball Team played against six other schools in Pool B of the South Region. They won their final game on 31 October 2018 against Central Toronto Academy, finishing their season with two wins and four losses.
 
-The team consisted of fifteen players in Grades 9 and 10, over half of whom were new to the team this year. Team Captain Joshua Xiao commented on how this affected the team:  “I think it took them a bit of time to get comfortable with the rest of the team, but we created an environment that would be welcoming to the new players. We had a lot of people on the team with experience from last year who could help the newer players.”
+The team consisted of fifteen players in Grades 9 and 10, over half of whom were new to the team this year. Team Captain Joshua Xiao commented on how this affected the team: “I think it took them a bit of time to get comfortable with the rest of the team, but we created an environment that would be welcoming to the new players. We had a lot of people on the team with experience from last year who could help the newer players.”
 
 Joshua also said that getting to know the other players was an important part of his experience. “The most memorable part was the bus rides and getting to know everyone more. Especially the people that I don’t see every day,” he commented. “A lot of my friends are on the team but I feel like by being part of volleyball you can travel and get to know more people, not only your friends in your class but also people that you don’t see every day at MGCI.”
 
@@ -23,5 +23,4 @@ Due to the gym scheduling, the team was only able to practice one to two times e
 
 Joshua added, “I think that it can be both discouraging and encouraging when you’re playing against a really good team that hasn’t lost a game, and you only lose by two points. That encourages you and it makes you feel like you’re at a similar level to the top team in the division. Losing a really close set also has a negative impact on you because you feel like you could have won. You reflect and think back on what you did wrong and it could affect how you play in the next game.”
 
-Throughout the season, the team bonded, improving on and off the court. “Their skills got better, their communication improved, and they really became a team over the course of the season,” noted Ms. Wiltenburg. “Their confidence in their ability to play volleyball was really obvious to me at our last game. I am very proud of how they improved their skill level and became a team.”  
-
+Throughout the season, the team bonded, improving on and off the court. “Their skills got better, their communication improved, and they really became a team over the course of the season,” noted Ms. Wiltenburg. “Their confidence in their ability to play volleyball was really obvious to me at our last game. I am very proud of how they improved their skill level and became a team.”

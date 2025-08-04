@@ -3,11 +3,9 @@ title: "The Sound of Sound"
 pubDate: 2015-02-18T02:24:39.800Z
 description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
-
-
 
 “Do you hear that?”
 
@@ -27,7 +25,7 @@ He shook his head, and looked at his friend. “But it’s just the computers. T
 
 The man didn’t know what to say to that. “It’s just silence. There’s nothing special about it…”
 
-“Bah\!” his friend grimaced, and spat at the ground. “Silence wasn’t anything special when we could get it, no problem. But we need it. *I* need it. I think I’m going crazy. All day, every day \- the chattering of voices, the clicking of the computers, car honks, the buzz, the whir, the glass clinking, teeth grinding, scratching, sliding, the sound of sound, and to no end, no pause, just on and on and on and on.” He started shivering, pacing anxiously around the room, eyeing the sleek machines working in the corners. “For God’s sake, I haven’t been calm in three decades\!”
+“Bah\!” his friend grimaced, and spat at the ground. “Silence wasn’t anything special when we could get it, no problem. But we need it. _I_ need it. I think I’m going crazy. All day, every day \- the chattering of voices, the clicking of the computers, car honks, the buzz, the whir, the glass clinking, teeth grinding, scratching, sliding, the sound of sound, and to no end, no pause, just on and on and on and on.” He started shivering, pacing anxiously around the room, eyeing the sleek machines working in the corners. “For God’s sake, I haven’t been calm in three decades\!”
 
 He turned around wildly, coat billowing behind him. “You don’t understand. You’re looking at me like I’m a madman. I suppose I am. No one thinks it’s strange, having all these computers around. Not anymore.”
 
@@ -51,15 +49,15 @@ The man pulled his coat tighter around his body. He opened his mouth to speak, p
 
 He was interrupted by an angry, miserable cry, followed by a loud crash that shook the floor. His friend had swept everything off the desk. Laptops and stationary lay strewn across the ground in pathetic, broken pieces.
 
-“What are you *doing*?” the man gasped.
+“What are you _doing_?” the man gasped.
 
 His friend merely snarled. “To hell with it all\!” He picked up the printer, and threw it at one of the machines pumping steadily in the corner. A tremendous bang sounded, and the computer shattered, electric circuits sputtering.
 
 His friend had gone insane.
 
-Again and again, computers were thrown against the wall mercilessly \- glass cracked, hardware demolished. He could only watch in horror as the room was completely destroyed.  
+Again and again, computers were thrown against the wall mercilessly \- glass cracked, hardware demolished. He could only watch in horror as the room was completely destroyed.
 
-*Crash. Smash. Boom. Crash. Smash. Boom. Crash.*
+_Crash. Smash. Boom. Crash. Smash. Boom. Crash._
 
 \---
 
@@ -69,5 +67,4 @@ And then he realized.
 
 The humming had stopped.
 
-This was the sound of silence.  
-
+This was the sound of silence.

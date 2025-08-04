@@ -3,7 +3,7 @@ title: "MGCI Bio clubs feature"
 pubDate: 2016-01-12T01:15:07.311Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -11,7 +11,7 @@ By Shirley Fan
 
 The purpose of the MGCI Biology Club is to educate students about biology, and provide them with opportunities to conduct hands-on experiments. Meetings are held every Tuesday at lunch in Room 311 for various experiments, activities, and presentations.
 
-Earlier this semester, the club organized a number of experiments. Students got the opportunity to try their hand at DNA extraction and protein denaturation, and investigated various topics, such as observing the local pond water. 
+Earlier this semester, the club organized a number of experiments. Students got the opportunity to try their hand at DNA extraction and protein denaturation, and investigated various topics, such as observing the local pond water.
 
 When asked about future projects, Pablo Gonzalez, the President of the club, said that, "We're still planning a lot of other projects, including testing for the presence carbohydrates and proteins via reagents and acids."
 

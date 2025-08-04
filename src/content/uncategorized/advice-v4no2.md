@@ -3,13 +3,13 @@ title: "Advice V4NO2"
 pubDate: 2016-01-12T05:37:44.661Z
 description: "Article."
 author: "sqiu"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
-*I fully support the arrival of the Syrian refugees here in Canada. However, my family members seem to think otherwise, and are very irritated about the entire situation. How do I convince my family members to see the positive side of things?*
+_I fully support the arrival of the Syrian refugees here in Canada. However, my family members seem to think otherwise, and are very irritated about the entire situation. How do I convince my family members to see the positive side of things?_
 
-*— Confused*
+_— Confused_
 
 Why might your family be uncomfortable with the situation at hand? Let’s break it down into several possible reasons and address each one.
 
@@ -21,7 +21,7 @@ While there is a lot of money going into the project (an estimated $876.7 millio
 
 While 25 000 may seem like a lot, it is merely a drop in the bucket, as 10 million Syrians, and counting, have been driven from their homes. We are merely helping out by providing shelter. Moreover, other European countries have been doing much more than Canada to aid Syria. Sweden has accepted 670 000 since last year. Germany? 450 000\. Even Finland, which has one seventh the size of Canada’s population, has accepted 30 000 refugees[\[3\]](http://thereckoner.ca/?post_type=faq&p=23897&preview_id=23897&preview_nonce=4edd70628a&preview=true#_ftn3).
 
-If your neighbour’s house was on fire,  wouldn’t you rush to put it out, rather than sit and think about whether the fire would spread to you?
+If your neighbour’s house was on fire, wouldn’t you rush to put it out, rather than sit and think about whether the fire would spread to you?
 
 Canada is part of the global community, and we should all be glad to be part of the solution.
 
@@ -31,15 +31,14 @@ Canada is part of the global community, and we should all be glad to be part of 
 
 [\[3\]](http://thereckoner.ca/?post_type=faq&p=23897&preview_id=23897&preview_nonce=4edd70628a&preview=true#_ftnref3) http://news.nationalpost.com/news/canada/matthew-fisher-time-for-a-reality-check-on-canadas-generosity-toward-refugees
 
-*I keep on thinking that I put my sock on backwards, inside out, or some combination of the two. I would like to check and correct it but it is socially unacceptable to do such a thing in public. Help?*
+_I keep on thinking that I put my sock on backwards, inside out, or some combination of the two. I would like to check and correct it but it is socially unacceptable to do such a thing in public. Help?_
 
-*– Hopelessly Worried*
+_– Hopelessly Worried_
 
-Your problem can be solved in a variety of ways. Firstly, consider placing small sharp hooks on the outside of your sock. This way, if they’re truly inside out, you’ll feel them digging into your skin. Alternatively, you can wear *really* big boots and a gown. This way you can nonchalantly stretch your arms down and feel your socks without looking too weird. This also has the added benefit of allowing you to discretely invert them inside the boot. If all else fails, you can find a tall friend and hide behind him/her while you check and adjust your socks.
+Your problem can be solved in a variety of ways. Firstly, consider placing small sharp hooks on the outside of your sock. This way, if they’re truly inside out, you’ll feel them digging into your skin. Alternatively, you can wear _really_ big boots and a gown. This way you can nonchalantly stretch your arms down and feel your socks without looking too weird. This also has the added benefit of allowing you to discretely invert them inside the boot. If all else fails, you can find a tall friend and hide behind him/her while you check and adjust your socks.
 
-*How long would it take for a giraffe to throw up?* 
+_How long would it take for a giraffe to throw up?_
 
-*– RealQuestions* 
+_– RealQuestions_
 
 It takes approximately 3.4561849 seconds for a giraffe to undergo emesis, give or take ten millionths of a second. “How?” you may ask. Well, housed in the intricate, complex anatomy of the giraffa camelopardalis is a specialized organ, called the vomaris convictum. It is composed of tightly coiled smooth epithelial cells in a helix formation that exert constant tension released only when bile builds up in the vomaric cavity. When in action the vomaris convictum unleashes its power, acting like a spring device that thrusts the bile up the esophagus and through the mouth. The vomit, travelling at speeds equal to 50 mph, has the power to knock out the giraffe’s teeth.
-

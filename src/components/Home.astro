@@ -6,6 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import FormattedDate from '../components/FormattedDate.astro'; 
 import type { CollectionEntry } from 'astro:content';
 import authors from '../../data/authors.json';
+import { Image } from 'astro:assets';
 
 type PostData = CollectionEntry<'uncategorized'>;
 
@@ -31,6 +32,12 @@ interface Props {
 }
 
 const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, featuredPosts } = Astro.props;
+
+/* Feedback photo path */
+import feedback_photo from "../assets/other/question.jpg";
+
+/* Replace with path for latest print cover */
+import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 
 ---
 
@@ -270,6 +277,10 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 
 			.box1 .print-highlight .highlighted-info {
 				display: none;
+			}
+
+			.box1 .print-highlight:hover .highlighted-info {
+				display: block !important;
 			}
 
 			/* latest carousel */
@@ -547,13 +558,16 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					<!-- Featured posts -->
 					<div class="features first"> <!--for carousel-->
 						<ul class="features-track">
-							{featuredPosts.slice(0, 3).map((post) => (
+							{featuredPosts.slice(0, 3).map((post, index) => (
 								<li class="featured features-slide">
 									<a href={`/${post.slug}/`}>
-									
-										<img src={post.data.heroImage} alt="" />
+										<Image
+										src={post.data.heroImage}
+										alt={post.data.heroImageAlt}
+										loading={index === 1 ? "lazy" : "eager"}
+										/>
 										<div class="highlighted-info">
-											<h5 class="title" style="font-weight: 700;">{post.data.title}</h5>
+											<p class="title" style="font-weight: 700;">{post.data.title}</p>
 											<p class="date">
 												by {
 												[
@@ -575,9 +589,9 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 					</div>
 
 					<div class="print-highlight">
-						<img src="/print-covers/cover-V12N4.png">
+						<Image src={latest_print_cover} alt="Print Cover" loading="eager"/>
 						<div class="highlighted-info">
-							<h5 class="title" style="font-weight: 700;">VOLUME 12 ISSUE 4</h5>
+							<p class="title" style="font-weight: 700;">VOLUME 12 ISSUE 4</p>
 							<p class="date">Out now</p>
 						</div>
 					</div>
@@ -592,7 +606,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 							{allPosts.slice(0, 6).map((post) => (
 								<li class="featured">
 									<a href={`/${post.slug}/`}>
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} loading="eager"/>
 										<div class="highlighted-info">
 											<h4 class="title">{post.data.title}</h4>
 											<p class="date">
@@ -621,10 +635,10 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
                 <h4>NEWS</h4>
                 <hr>
 						<ul>
-							{newsPosts[0] && (
+							{newsPosts[0] && ( /* FIX */
 								<li class="featured">
 									<a href={`/${newsPosts[0].slug}/`}>
-										<img src={newsPosts[0].data.heroImage} alt="" />
+										<Image src={newsPosts[0].data.heroImage} alt={newsPosts[0].data.heroImageAlt} />
 										<h5 class="title">{newsPosts[0].data.title}</h5>
 										<p class="date">
 											by {
@@ -645,7 +659,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								<li class="highlighted">
 									<a href={`/${post.slug}/`}>
 									
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
@@ -675,7 +689,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 							{editorialPosts[0] && (
 								<li class="featured">
 									<a href={`/${editorialPosts[0].slug}/`}>
-										<img src={editorialPosts[0].data.heroImage} alt="" />
+										<Image src={editorialPosts[0].data.heroImage} alt={editorialPosts[0].data.heroImageAlt} />
 										<h5 class="title">{editorialPosts[0].data.title}</h5>
 										<p class="date">
 											by {
@@ -696,7 +710,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								<li class="highlighted">
 									<a href={`/${post.slug}/`}>
 									
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
@@ -726,7 +740,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 						{lifePosts[0] && (
 							<li class="featured">
 								<a href={`/${lifePosts[0].slug}/`}>
-									<img src={lifePosts[0].data.heroImage} alt="" />
+									<Image src={lifePosts[0].data.heroImage} alt={lifePosts[0].data.heroImageAlt} />
 									<h5 class="title">{lifePosts[0].data.title}</h5>
 									<p class="date">
 										by {
@@ -747,7 +761,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								<li class="highlighted">
 									<a href={`/${post.slug}/`}>
 									
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 										<div class="highlighted-info">
 											<h5 class="title">{post.data.title}</h5>
 											<p class="date">
@@ -774,8 +788,8 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 						<div class="featured">
 							<h4>FEEDBACK</h4>
 							<hr>
-							<img src="/question.jpg">	
-							<div class="">
+							<Image src={feedback_photo} alt=""/>	
+							<div>
 								<p class="content" style="color: black">Fill out our feedback form for a chance to win a prize!</p>
 							</div>
 						</div>
@@ -788,7 +802,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 								<li class="featured features-slide">
 									<a href={`/${post.slug}/`}>
 									
-										<img src={post.data.heroImage} alt="" />
+										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 										<div class="highlighted-info">
 											<h5 class="title" style="font-weight: 700;">{post.data.title}</h5>
 											<p class="date">
@@ -904,20 +918,6 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 				nextId: 'photographyNext',
 				prevId: 'photographyPrev',
 			});
-		</script>
-		<script>
-			const container = document.querySelector('.print-highlight');
-			const info = container?.querySelector('.highlighted-info') as HTMLElement;
-
-			if (info) {
-				container?.addEventListener('mouseover', (event) => {
-					info.style.display = 'block';
-				});
-
-				container?.addEventListener('mouseout', (event) => {
-					info.style.display = 'none';
-				});
-			}
 		</script>
 	</body>
 </html>

@@ -3,7 +3,7 @@ title: "This is a Wake-Up Call"
 pubDate: 2017-04-10T21:19:10.144Z
 description: "Article."
 author: "lawrence_pang"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -36,4 +36,3 @@ The objective of school is to help children maximize their potential, improve st
 \[5\] [http://time.com/3162265/school-should-start-later-so-teens-can-sleep-urge-doctors/](http://time.com/3162265/school-should-start-later-so-teens-can-sleep-urge-doctors/)
 
 \[6\] [http://www.startribune.com/minn-study-later-school-start-boosts-grades-attendance-moods/249975531/](http://www.startribune.com/minn-study-later-school-start-boosts-grades-attendance-moods/249975531/)
-

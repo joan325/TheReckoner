@@ -3,7 +3,7 @@ title: "Club Feature: Targeting the Future"
 pubDate: 2017-12-09T02:28:12.395Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]
 ---
 

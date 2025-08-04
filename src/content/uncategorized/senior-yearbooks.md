@@ -3,11 +3,11 @@ title: "Senior Yearbooks"
 pubDate: 2017-04-24T05:36:48.891Z
 description: "Article."
 author: "hargun_kaur"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
 
-Operation Senior Yearbook  
+Operation Senior Yearbook
 
 By: Cheng Cheng Lin
 

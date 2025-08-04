@@ -3,77 +3,79 @@ title: "inadequate"
 pubDate: 2021-05-31T18:56:06.123Z
 description: "Article."
 author: "abbinaya_parakaran"
-heroImage: "/article-images/inadequate_elizabeth_wei.png"
+imageCredit: ["elizabeth_wei"]
+imageType: "Art"
+heroImage: "../../assets/article-images/inadequate_elizabeth_wei.png"
 tags: ["Life", "Featured"]
+featured: true
 ---
 
-*inadequate*
+_inadequate_
 
-it is never too late  
+it is never too late
 
-to start another   
+to start another
 
 chapter
 
-to fill the creases and corners  
+to fill the creases and corners
 
-with unspoken words.  
+with unspoken words.
 
-bulging,  
+bulging,
 
-fulminating,  
+fulminating,
 
-out of every which way  
+out of every which way
 
-like bursting flakes  
+like bursting flakes
 
-of glitter confetti  
+of glitter confetti
 
 from a party popper.
 
-it is never too late  
+it is never too late
 
-to make the  
+to make the
 
 right mistakes
 
-at the sacrifice   
+at the sacrifice
 
-of your desires.  
+of your desires.
 
-trying  
+trying
 
-and trying again,  
+and trying again,
 
-like bright smudges of lipstick  
+like bright smudges of lipstick
 
-imprinted on   
+imprinted on
 
-unpigmented tissue cloth.  
+unpigmented tissue cloth.
 
-irreversible  
+irreversible
 
 and unalterable.
 
-but no matter the   
+but no matter the
 
-memories that have been made,  
+memories that have been made,
 
-the secrets that had slipped in between,  
+the secrets that had slipped in between,
 
-the sugar coated smiles and  
+the sugar coated smiles and
 
 last minute gifts
 
-there is nothing,  
+there is nothing,
 
-nothing in this *world*  
+nothing in this _world_
 
-that can bring back  
+that can bring back
 
-the old,  
+the old,
 
-unabridged version  
+unabridged version
 
-of you.  
-
+of you.

@@ -3,7 +3,7 @@ title: "Prediction of Potential—The '19 ROTY prize"
 pubDate: 2019-04-14T17:30:16.161Z
 description: "Article."
 author: "andrew_lqh"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -27,7 +27,7 @@ An area he's already exceeded Lebron James in, however, may be much more surpris
 
 Enter Trae Young. Traded for Luka Dončić at the NBA 2018 draft, many saw Young’s games before January and thought that the Atlanta Hawks had made a gross blunder on draft night. Recently, however, Young has put together a solid late run at the ROTY award, including a stellar 49-point, 16-assist game against the Chicago Bulls—the first time a rookie has scored 45+ points with 10+ assists since Michael Jordan.
 
-Young struggled with three-point shooting during the first half of the season, shooting just 19.8% from three-point range in November, but he’s upped that to a eye-popping 43.7% through February. His rookie-leading 8 assists per game is fourth among *all* players in the NBA.
+Young struggled with three-point shooting during the first half of the season, shooting just 19.8% from three-point range in November, but he’s upped that to a eye-popping 43.7% through February. His rookie-leading 8 assists per game is fourth among _all_ players in the NBA.
 
 The Atlanta rookie has demonstrated marked improvement since the beginning of the season, shooting more shots and making them more often, but what’s remained constant through his early shooting struggles is his good eye for passing. He’s made some great assists by drawing multiple defenders to the perimeter before passing to teammates closer to the basket.
 

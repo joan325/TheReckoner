@@ -3,115 +3,110 @@ title: "Summer Bucket List"
 pubDate: 2016-06-18T22:02:55.860Z
 description: "Article."
 author: "cindycream"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
-Summer is here and you know what that means\! Wildness\! Partying\! Teenage shenanigans\! If you’re feeling gutsy but don’t really know where to start, *The Reckoner* has got you with a handy Summer Bucket List. Ready to get your freak on? Let’s go\!  
+Summer is here and you know what that means\! Wildness\! Partying\! Teenage shenanigans\! If you’re feeling gutsy but don’t really know where to start, _The Reckoner_ has got you with a handy Summer Bucket List. Ready to get your freak on? Let’s go\!
 
+- Bike to the beach and watch a sunset
 
+-  Eat two crepes at Krepesz, an awesome crepe café in Kensington Market
 
-* Bike to the beach and watch a sunset  
+- Perform a mashup of two songs (it doesn’t matter if you can’t sing)
 
-*  Eat two crepes at Krepesz, an awesome crepe café in Kensington Market  
+- Bike through Centre Island
 
-* Perform a mashup of two songs (it doesn’t matter if you can’t sing)  
+- Walk a friend’s dog
 
-* Bike through Centre Island  
+- Walk a friend’s cat
 
-* Walk a friend’s dog  
+- Read The Hitchhiker’s Guide to the Galaxy
 
-* Walk a friend’s cat  
+- Make a giant Ferrero Rocher
 
-* Read The Hitchhiker’s Guide to the Galaxy  
+- Go on a midnight adventure
 
-* Make a giant Ferrero Rocher  
+- Sneak into the 15th floor of a random corporate building
 
-* Go on a midnight adventure  
+- Try a beaver tail
 
-* Sneak into the 15th floor of a random corporate building  
+- Eat at a gourmet food truck
 
-* Try a beaver tail  
+- Tell your parents you love them
 
-* Eat at a gourmet food truck  
+- Walk around downtown wearing conspicuous face paint
 
-* Tell your parents you love them  
+- Attend a concert
 
-* Walk around downtown wearing conspicuous face paint  
+- Visit the CNE and try a deep fried Twix bar
 
-* Attend a concert  
+- Skateboard down the ravine near our school
 
-* Visit the CNE and try a deep fried Twix bar  
+- Listen to the entire soundtrack of Hamilton
 
-* Skateboard down the ravine near our school  
+- Go to karaoke with friends
 
-* Listen to the entire soundtrack of Hamilton  
+- Binge at a sushi bar
 
-* Go to karaoke with friends  
+- Climb over a fence
 
-* Binge at a sushi bar  
+- Set off fireworks on a night that’s not a holiday
 
-* Climb over a fence  
+- Celebrate someone’s birthday
 
-* Set off fireworks on a night that’s not a holiday  
+- Plant a cactus
 
-* Celebrate someone’s birthday  
+- Finish that book you’ve been meaning to finish
 
-* Plant a cactus  
+- Marathon a TV series
 
-* Finish that book you’ve been meaning to finish  
+- Sleepover at a friend’s house
 
-* Marathon a TV series  
+- Talk to a stranger on the subway
 
-* Sleepover at a friend’s house  
+- Give money to a homeless person
 
-* Talk to a stranger on the subway  
+- Try every type of donut in Tim Hortons
 
-* Give money to a homeless person  
+- Go to a party
 
-* Try every type of donut in Tim Hortons  
+- Learn how to do a cartwheel
 
-* Go to a party  
+- Dance to Uptown Funk in the rain
 
-* Learn how to do a cartwheel  
+- Visit the cat café before it closes
 
-* Dance to Uptown Funk in the rain  
+- Go camping with your friends
 
-* Visit the cat café before it closes  
+- Roast marshmallows over a fire
 
-* Go camping with your friends  
+- Throw a party
 
-* Roast marshmallows over a fire  
+- Enjoy a picnic at Edwards Gardens
 
-* Throw a party  
+- Go thrift shopping
 
-* Enjoy a picnic at Edwards Gardens  
+- Go out in public dressed in a onesie
 
-* Go thrift shopping  
+- Stargaze as best as you can under the city’s light pollution
 
-* Go out in public dressed in a onesie  
+- Eat at a Summerlicious restaurant (event lasts from July 8-24)
 
-* Stargaze as best as you can under the city’s light pollution  
+- Make a vlog
 
-* Eat at a Summerlicious restaurant (event lasts from July 8-24)  
+- Watch a play downtown
 
-* Make a vlog  
+- Have a lazy day in
 
-* Watch a play downtown  
+- Watch live slam poetry
 
-* Have a lazy day in  
+- Go to an outdoor movie screening
 
-* Watch live slam poetry  
+- Play Ultimate with your friends
 
-* Go to an outdoor movie screening  
+- Try exercising for a day
 
-* Play Ultimate with your friends  
+- Take a road trip to a place you’ve never been before
 
-* Try exercising for a day  
-
-* Take a road trip to a place you’ve never been before
-
-
-
-Rock on, my dudes. We’ll see you next year\!  
-
+Rock on, my dudes. We’ll see you next year\!

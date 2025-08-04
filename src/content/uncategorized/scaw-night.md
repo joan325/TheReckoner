@@ -3,7 +3,7 @@ title: "Sleeping in School for SCAW"
 pubDate: 2018-12-02T02:14:23.466Z
 description: "Article."
 author: "jessica_guo"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]
 ---
 

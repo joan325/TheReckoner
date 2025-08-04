@@ -4,7 +4,7 @@ author: "amy_jia"
 description: ""
 pubDate: 2021-04-26T01:01:46.000Z
 additionalAuthors: ["evelyn_jiang", "justin_wei", "jessica_xiong", "bill_yan"]
-heroImage: "/photography/spring-photo-series/amy_jia_1.jpg"
+heroImage: "../../assets/photography/spring-photo-series/amy_jia_1.jpg"
 tags: ["Photography"]
 ---
 

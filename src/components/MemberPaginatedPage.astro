@@ -7,6 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Pagination from '../components/Pagination.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import authors from '../../data/authors.json';
+import { Image } from 'astro:assets';
 
 type PostData = CollectionEntry<'uncategorized'>;
 
@@ -216,7 +217,7 @@ const authorObj = authors.find(a => a.id === name) ?? {
 					{page.data.map((post) => (
 						<li>
 							<a href={`/${post.slug}/`}>
-								<img src={post.data.heroImage} alt="" />
+								<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 								
 								<h5 class="title">{post.data.title}</h5>
 								<p class="date">

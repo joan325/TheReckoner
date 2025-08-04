@@ -3,7 +3,7 @@ title: "Trick or Treat for UNICEF"
 pubDate: 2021-10-23T04:29:15.468Z
 description: "Article."
 author: "anne_liu"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
 

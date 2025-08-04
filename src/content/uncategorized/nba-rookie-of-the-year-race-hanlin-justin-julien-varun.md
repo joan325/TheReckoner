@@ -3,7 +3,7 @@ title: "NBA Rookie of the Year Race - Hanlin, Justin, Julien, Varun"
 pubDate: 2019-11-01T03:14:22.270Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -21,7 +21,7 @@ The Lakers with Lonzo post the highest PACE scores of any team in the NBA. In fa
 
 Simply put, he is the do-it-all point guard who takes massive amounts of pressure off his teammates. The team, however, holds him back on all fronts.
 
-Lonzo assists on 28.7% of the Lakers baskets, with an estimated assist percentage of 39%, which would’ve been better than Simmons, if his teammates played *up to replacement level*. Replacement. The Lakers’ other four apparently are worse than most benches in the NBA. Lonzo is also the only Laker who has posted a respectable \+/-, with \+1. Meanwhile, Brandon Ingram, the Lakers star second year player, has a dreadful \-104.  
+Lonzo assists on 28.7% of the Lakers baskets, with an estimated assist percentage of 39%, which would’ve been better than Simmons, if his teammates played _up to replacement level_. Replacement. The Lakers’ other four apparently are worse than most benches in the NBA. Lonzo is also the only Laker who has posted a respectable \+/-, with \+1. Meanwhile, Brandon Ingram, the Lakers star second year player, has a dreadful \-104.
 
 Percentage-wise, Lonzo’s stats blow the other contenders out of the water because Simmons, Mitchell, and Markkannen don’t have monkeys for teammates. Lonzo Ball is doing more, with less.
 
@@ -33,6 +33,6 @@ Beyond the shooting, Markkanen is great on the glass as well. He ranks second am
 
 Lauri Markkanen is the best real rookie this year (Ben Simmons was basically in the league for a year and got to adjust to the NBA life), and sure to be a stud in the future. He had huge expectations on him after being the centrepiece of Chicago's haul in return for Jimmy Butler and he's lived up to all of it, giving Bulls' fan the hope they need to get behind their young team.
 
-Stats as of the end of games on 22 February 2018\.  
+Stats as of the end of games on 22 February 2018\.
 
-Sources: *NBA, Basketball-Reference*
+Sources: _NBA, Basketball-Reference_

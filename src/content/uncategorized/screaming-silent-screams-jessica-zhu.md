@@ -3,59 +3,58 @@ title: "Screaming Silent Screams- Jessica Zhu"
 pubDate: 2019-11-01T03:06:34.978Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
 Screaming Silent Screams
 
-I know a place where the sun's warmth cannot reach  
+I know a place where the sun's warmth cannot reach
 
-Where the light is cold  
+Where the light is cold
 
-Throwing the sharp angles of frozen stone into perspective  
+Throwing the sharp angles of frozen stone into perspective
 
-Oblong shadows seeking to drown in one another  
+Oblong shadows seeking to drown in one another
 
 Casting the world into darkness
 
-I know a place where the world stands still  
+I know a place where the world stands still
 
-As if frozen in sorrow  
+As if frozen in sorrow
 
-The rows of stone unfeeling   
+The rows of stone unfeeling
 
-All motion stopped in this quiet place  
+All motion stopped in this quiet place
 
 Unaffected by its ever-changing surroundings
 
-I know a place that ignores its surroundings  
+I know a place that ignores its surroundings
 
-Stuck in time  
+Stuck in time
 
-Unmoved by the cries of those who knelt  
+Unmoved by the cries of those who knelt
 
-Among the dew-covered grass in the early hours of morning  
+Among the dew-covered grass in the early hours of morning
 
 And stood silently in the snow
 
-I know a place that silently observes those whose screams  
+I know a place that silently observes those whose screams
 
-Cannot be heard  
+Cannot be heard
 
-Regrets drowning in the crowds of people passing by  
+Regrets drowning in the crowds of people passing by
 
-Screaming screams that never leave the lips  
-
-Unable to turn back time
-
-I know a place where you never wanted me to be  
-
-Where the light is cold  
-
-The rows of stone unfeeling   
-
-Among the dew-covered grass in the early hours of morning  
+Screaming screams that never leave the lips
 
 Unable to turn back time
 
+I know a place where you never wanted me to be
+
+Where the light is cold
+
+The rows of stone unfeeling
+
+Among the dew-covered grass in the early hours of morning
+
+Unable to turn back time

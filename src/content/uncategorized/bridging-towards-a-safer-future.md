@@ -3,7 +3,7 @@ title: "Bridging Towards a Safer Future"
 pubDate: 2021-10-23T04:30:06.625Z
 description: "Article."
 author: "rena_liu"
-heroImage: "/article-images/bridging_towards_a_safer_future_bala_venkataramaran.jpg"
+heroImage: "../../assets/article-images/bridging_towards_a_safer_future_bala_venkataramaran.jpg"
 tags: ["News"]
 ---
 

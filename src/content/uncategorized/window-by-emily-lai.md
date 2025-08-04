@@ -1,125 +1,120 @@
 ---
-title: "\"window\" by Emily Lai"
+title: '"window" by Emily Lai'
 pubDate: 2021-04-26T02:53:15.930Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]
 ---
 
-I look left. I look right.  
+I look left. I look right.
 
-Nothing makes sense, it seems so empty.  
+Nothing makes sense, it seems so empty.
 
-It seems like the time I crawled out of the womb.  
+It seems like the time I crawled out of the womb.
 
-Dark. Damp. Strangely comforting.  
+Dark. Damp. Strangely comforting.
 
-I take a breath, and it quickly fades.  
+I take a breath, and it quickly fades.
 
-I try again to no avail.  
+I try again to no avail.
 
-How can I be alive with no air?  
+How can I be alive with no air?
 
-I wonder, and ponder some more.  
+I wonder, and ponder some more.
 
-That’s right, try pinching your arm, they said.  
+That’s right, try pinching your arm, they said.
 
-You’ll see if you’re awake, they said.  
+You’ll see if you’re awake, they said.
 
-I raise my fingers.  
+I raise my fingers.
 
-Thumb. Index.  
+Thumb. Index.
 
-And push them together.  
+And push them together.
 
-Nothing.  
+Nothing.
 
-I look up at the sky, the vast darkness of it all.  
+I look up at the sky, the vast darkness of it all.
 
-And count the stars.  
+And count the stars.
 
-It is an easy task.  
+It is an easy task.
 
-There are none.  
+There are none.
 
-Finally I hear a noise, it sounds like a screech.  
+Finally I hear a noise, it sounds like a screech.
 
-A seagull? Crow?  
+A seagull? Crow?
 
-My mind eludes me again.  
+My mind eludes me again.
 
-Yet I feel safe.  
+Yet I feel safe.
 
-Then comes the smell, and it all comes back.  
+Then comes the smell, and it all comes back.
 
-A barbecue, with juicy ribs  
+A barbecue, with juicy ribs
 
-steaks  
+steaks
 
-and chicken wings.  
+and chicken wings.
 
-How could I forget those chicken wings?  
+How could I forget those chicken wings?
 
-That crispy skin  
+That crispy skin
 
-tender flesh  
+tender flesh
 
-and the grinding tooth against bone.  
+and the grinding tooth against bone.
 
-The dream continues and I begin to fly.  
+The dream continues and I begin to fly.
 
-Through a world of chicken wings  
+Through a world of chicken wings
 
-I reach out for one  
+I reach out for one
 
-and just miss.  
+and just miss.
 
+For I am not flying anymore.
 
+I hit something. The ground, or the ceiling?
 
+The sky, or the earth?
 
+My mind eludes me again.
 
-For I am not flying anymore.  
+Then without pause I am in the air again.
 
-I hit something. The ground, or the ceiling?  
+Flying through the endless sky
 
-The sky, or the earth?  
+like an angel, my skirt fluttering in the wind.
 
-My mind eludes me again.  
+Into the depths of Hell I fly,
 
-Then without pause I am in the air again.  
+Lava licking at my gaudy tassels.
 
-Flying through the endless sky  
+Made with care, only to be dashed into the everlasting depths.
 
-like an angel, my skirt fluttering in the wind.  
+Deeper into the inferno I go,
 
-Into the depths of Hell I fly,  
+the fire screams at my skin
 
-Lava licking at my gaudy tassels.  
+and devours me whole.
 
-Made with care, only to be dashed into the everlasting depths.  
+But it doesn’t hurt.
 
-Deeper into the inferno I go,  
+It smells.
 
-the fire screams at my skin  
+Not of brimstone, but of
 
-and devours me whole.  
+chloroform.
 
-But it doesn’t hurt.  
+Suddenly, everything is clear.
 
-It smells.  
+I turn left, and am overjoyed.
 
-Not of brimstone, but of  
+Through the wrought iron window stands
 
-chloroform.  
+the endless sky, and the freedom it brings.
 
-Suddenly, everything is clear.  
-
-I turn left, and am overjoyed.  
-
-Through the wrought iron window stands  
-
-the endless sky, and the freedom it brings.  
-
-For the day I have become an adult has arrived.  
-
+For the day I have become an adult has arrived.

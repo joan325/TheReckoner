@@ -3,7 +3,7 @@ title: "CN Tower"
 pubDate: 2018-12-01T02:46:51.943Z
 description: "Article."
 author: "reckoner_staff"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
@@ -25,39 +25,36 @@ The next United Way climb will be held on 2 November 2019\. Laura said, “All o
 
 The Reckoner would like to recognize the following students for their efforts in participating and fundraising for this event:
 
-* Laura Lu  
+- Laura Lu
 
-* Gabriel Cassidy  
+- Gabriel Cassidy
 
-* Josephine Davey-Young  
+- Josephine Davey-Young
 
-* Anirudh Goel  
+- Anirudh Goel
 
-* Jessica Guo  
+- Jessica Guo
 
-* Jacqueline Huo  
+- Jacqueline Huo
 
-* Evelyn Jiang  
+- Evelyn Jiang
 
-* Aimee Li  
+- Aimee Li
 
-* Larissa Long  
+- Larissa Long
 
-* Max Lu  
+- Max Lu
 
-* Jeffrey Qiu  
+- Jeffrey Qiu
 
-* Kelly Wang  
+- Kelly Wang
 
-* Sigil Wen  
+- Sigil Wen
 
-* Evan Woo  
+- Evan Woo
 
-* Justin Ye  
+- Justin Ye
 
-* Wendi Zhang  
+- Wendi Zhang
 
-* Eric Zhao
-
-
-
+- Eric Zhao

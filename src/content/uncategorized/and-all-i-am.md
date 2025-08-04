@@ -5,7 +5,7 @@ description: "Article."
 author: "emily_liu"
 imageCredit: ["helen_sun"]
 imageType: "Art"
-heroImage: "/article-images/and_all_i_am_helen_sun.png"
+heroImage: "../../assets/article-images/and_all_i_am_helen_sun.png"
 tags: ["Life"]
 ---
 
