@@ -133,8 +133,12 @@ const { category, page, allPosts } = Astro.props;
                 list-style: none;
                 height: 100%;
 			}
+			ul li.featured img {
+				max-height: 300px;
+			}
 			.latest-box .featured img {
 				width: calc(100% - 2rem);
+				height: 100%;
                 margin: 1rem 1rem 0rem;
 				border-radius: 0px;
 			}
