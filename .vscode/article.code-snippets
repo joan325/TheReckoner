@@ -1,0 +1,37 @@
+{
+	// Place your TheReckoner workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"Article frontmatter": {
+		"scope": "markdown",
+		"prefix": "article",
+		"body": [
+			"---",
+			"title: \"${1:Article Title}\"",
+			"pubDate: ${2:YYYY-MM-DD}T04:26:17.036Z",
+			"description: \"Article.\"",
+			"author: \"${3:first_last}\"",
+			"heroImage: \"../../assets/placeholders/blog-placeholder-2.jpg\"",
+			"tags: [\"${4:Uncategorized}\"]",
+			"---"
+		],
+		"description": "Frontmatter for Reckoner articles"
+	}
+
+
+
+}
