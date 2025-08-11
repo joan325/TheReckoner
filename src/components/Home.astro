@@ -151,6 +151,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			}
 			.latest-box .highlighted img {
 				width: 15%;
+				aspect-ratio: 3 / 2;
 				flex-shrink: 0;
                 margin: 0rem 0.5rem 1rem 1rem;
 			}
@@ -159,11 +160,11 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 display: flex;
                 align-items: left;
                 gap: 0rem;
-                margin-top: 1rem;
+                padding-top: 1rem;
             }
 
             .featured:not(.all), .highlighted {
-                outline: 1px solid rgb(var(--gray-light));
+                border-bottom: 1px solid rgb(var(--gray-light));
             }
 
             .latest-box h4 {
