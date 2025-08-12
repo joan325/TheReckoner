@@ -6,7 +6,7 @@ author: "ladan_hassan"
 heroImage: "../../assets/article-images/celebration-yuewen-gao.png"
 imageType: "Art"
 imageCredit: ["yuewen_gao"]
-tags: ["Life"]
+tags: ["Life", "Featured"]
 ---
 
 “Get over here,” I whine impatiently, arms swinging haphazardly, as I sway from side to side. I’m mere seconds from forcefully dragging her before I get a reply.

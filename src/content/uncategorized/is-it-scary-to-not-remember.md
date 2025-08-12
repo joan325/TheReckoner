@@ -6,7 +6,7 @@ author: "jerry_hong"
 heroImage: "../../assets/article-images/is-it-scary-to-not-remember-ivy-liu.png"
 imageType: "Art"
 imageCredit: ["ivy_liu"]
-tags: ["Life"]
+tags: ["Life", "Featured"]
 ---
 
 Is it scary to not remember?
