@@ -1,6 +1,8 @@
 ---
 import Layout from "../layouts/About.astro";
 import guards from "../../data/guards.json";
+import { Image } from "astro:assets";
+import heroImage from "../assets/placeholders/blog-placeholder-about.jpg";
 ---
 
 <style>
@@ -14,8 +16,10 @@ import guards from "../../data/guards.json";
   title="Who We Are"
   author="Fifteenth Guard Staff"
   description=""
-  pubDate={new Date("August 15 2025")}
-  heroImage="/blog-placeholder-about.jpg"
+  pubDate={new Date("August 13 2025")}
+  heroImage={heroImage}
+  heroImageAlt="Placeholder image with a smiling face"
+  featured={false}
   imageType="Placeholder"
   tags={new Array("Uncategorized")}
 >

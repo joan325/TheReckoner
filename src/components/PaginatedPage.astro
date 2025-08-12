@@ -152,8 +152,9 @@ const { category, page, allPosts } = Astro.props;
 			}
 			.latest-box li.highlighted img {
 				min-width: auto;
-				width: 4em;
-				height: 3em;
+				width: 15%;
+				aspect-ratio: 3 / 2;
+				height: auto;
 				flex-shrink: 0;
                 margin: 0rem 0.5rem 1rem 1rem;
 			}
@@ -188,6 +189,9 @@ const { category, page, allPosts } = Astro.props;
 				.latest-box {
 					margin-top: 2rem;
 				}
+				ul li img {
+					height: 200px;
+				}
 				ul,
 				.latest-box {
 					display: block;
@@ -220,16 +224,19 @@ const { category, page, allPosts } = Astro.props;
 					border-radius: 3px;
 					box-shadow: var(--box-shadow-2);
 				}
-				.latest-box .featured img,
-				.latest-box .highlighted img {
+				.latest-box li.featured img,
+				.latest-box li.highlighted img {
 					width: 100%;
 					margin-bottom: 0.5rem;
-					max-height: 200px;
-					height: auto;
+					height: 200px;
+					aspect-ratio: auto;
 					border-radius: 0px;
 				}
 				.latest-box .featured a,
 				.latest-box .highlighted a {
+					width: 100%;
+					height: auto;
+					margin-top: 0;
 					display: block;
 					text-decoration: none;
 					transition: 0.2s ease;
