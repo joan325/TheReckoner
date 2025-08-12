@@ -1,8 +1,8 @@
 ---
-title: "“Yesterday” by Zixuan Xu"
+title: "Yesterday"
 pubDate: 2021-06-02T12:33:57.012Z
 description: "Article."
-author: "reckoner_staff"
+author: "zixuan_xu"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]
 ---

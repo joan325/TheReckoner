@@ -1,15 +1,12 @@
 ---
-title: "News - A Haunted Halloween in Garneau’s Halls"
+title: "A Haunted Halloween in Garneau’s Halls"
 pubDate: 2014-11-12T01:47:28.673Z
 description: "Article."
-author: "reckoner_staff"
+author: "lawrence_pang"
+additionalAuthors: ["cheng_cheng_lin"]
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
-
-## **A Haunted Hallowe’en in Garneau’s Halls**
-
-[Lawrence Pang](http://thereckoner.ca/author/lawrencepang/) and [Cheng Cheng Lin](http://thereckoner.ca/author/chengchenglin/) ⋅ 1 November 2014 ⋅ [comment](http://thereckoner.ca/halloween_festivities_at_garneau/#disqus_thread)
 
 On the week of 27 to 31 October, numerous Hallowe’en events were held in MGCI’s cafeteria. Events ranged from a photobooth and a haunted house, to a fashion show featuring creative Hallowe’en costumes. In combination, the events created an air of festivity unprecedented for Hallowe’en celebrations at Garneau.
 

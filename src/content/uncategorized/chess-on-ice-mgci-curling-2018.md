@@ -2,7 +2,7 @@
 title: "Chess on Ice: MGCI Curling 2018"
 pubDate: 2018-04-15T03:16:13.882Z
 description: "Article."
-author: "aimanzaltaf"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]
 ---

@@ -1,13 +1,11 @@
 ---
-title: "cambridge analytica"
+title: "Analyzing the Analytica Affair"
 pubDate: 2018-04-24T05:23:35.150Z
 description: "Article."
 author: "e_wai"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
-
-Analyzing the Analytica Affair
 
 The extent and nature of politically-motivated online targeting has long been a topic of discussion, but as politics becomes increasingly divided, the line to be walked on the use of such tactics has drawn finer and finer. Now, as the investigation into Russian interference in the US election continues to build, with Britain continuing to reel two years after its decision to exit the EU, the debate has seen sudden attention thanks to a whistleblower. The information released details substantial leaks of private data in attempts—“attempts”, we are told, though in reality, they were likely far more effective than mere attempts—to influence both.
 

@@ -2,7 +2,7 @@
 title: "Bittersweet Endings"
 pubDate: 2015-06-12T05:36:41.511Z
 description: "Article."
-author: "jc_ho"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---

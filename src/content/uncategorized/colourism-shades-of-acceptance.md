@@ -2,14 +2,10 @@
 title: "Colourism: Shades of Acceptance"
 pubDate: 2021-03-31T04:41:17.276Z
 description: "Article."
-author: "reckoner_staff"
+author: "maryam_mobashir"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]
 ---
-
-Colourism: Shades of Acceptance
-
-By: Maryam Mobashir
 
 While racism and white supremacy are prominent social issues that exist between different communities, colourism burdens communities of colour by creating a distinct hierarchical structure based on skin tone. Colonialism and classism have played a significant role in defining this structure in which society favours lighter skin.
 

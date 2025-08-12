@@ -2,24 +2,10 @@
 title: "Blast into the past"
 pubDate: 2016-01-22T00:36:33.070Z
 description: "Article."
-author: "reckoner_staff"
+author: "defilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
-
-TO BE INCLUDED:
-
-Floor plan – 3 images, each 4 x 3 inches
-
-Timeline – 2 inches high, all across the bottom of the page
-
-IF STUFF DOESN’T FIT:
-
-Cut out image of overlea bio crest, black & white pic w/ Marc Garneau, biking photo
-
-NOTE: google docs doesnt copy in images, but there are plenty. actual word doc is also uploaded onto drive.
-
-START OF ARTICLE
 
 _Having heard rumours about the historic open-concept design of Marc Garneau Collegiate (formerly named Overlea Secondary School), Deifilia To, the News Manager of_ The Reckoner, _delved into the school’s past, accessing yearbooks from the 1970s, and speaking with retired teachers who taught at the school’s conception._
 

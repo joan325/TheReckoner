@@ -4,7 +4,7 @@ pubDate: 2019-04-14T19:23:18.322Z
 description: "Article."
 author: "jackie_huo"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 To diversify their Ontario Secondary School Diploma, many high school students in Ontario are enrolled in the Specialist High Skills Major (SHSM) program to earn a special red seal on their diploma upon graduation.

@@ -2,14 +2,10 @@
 title: "Breaking Up the Joint"
 pubDate: 2016-06-15T05:42:50.606Z
 description: "Article."
-author: "parnika_godkhindi"
+author: "rafiq_habib"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
-
-Breaking Up the Joint
-
-By Rafiq Habib
 
 On 26 May 2016, the Toronto Police raided 43 marijuana dispensaries in the City of Toronto, arresting 90 people and laying 186 charges in a sting operation dubbed “Operation Claudia.” It was the climax of a month of media and public scrutiny of Toronto’s marijuana scene that saw the number of dispensaries more than double from 32 to 69 from the end of April to the end of May \[1\]. Toronto Zoning Bylaw 438-86 and its amendments, which allow licensed marijuana dispensaries to operate only in the city’s industrial areas, justified the police action. The targeted dispensaries violated this bylaw.
 

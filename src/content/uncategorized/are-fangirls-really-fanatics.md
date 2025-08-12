@@ -2,14 +2,10 @@
 title: "Are Fangirls really Fanatics?"
 pubDate: 2021-03-31T04:46:20.252Z
 description: "Article."
-author: "paromita_roy"
+author: "urooba_shaikh"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
-
-Are Fangirls really Fanatics?
-
-By: Urooba Shaikh
 
 In a world where media plays a significant role in the forms of entertainment that we are exposed to, fandoms are a recently developed form of engagement that allow people to be part of a community that shares their interests. However, fan culture is plagued by a centuries-old issue: misogyny.
 

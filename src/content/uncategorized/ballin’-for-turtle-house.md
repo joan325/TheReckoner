@@ -2,14 +2,10 @@
 title: "Ballin’ for Turtle House"
 pubDate: 2017-06-11T19:29:19.193Z
 description: "Article."
-author: "uknown_person"
+author: "varun_Venkataramanan"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---
-
-Ballin’ for Turtle House
-
-By: Varun Venkataramanan
 
 Photo: Abdullah Khan
 

@@ -1,13 +1,11 @@
 ---
-title: "Workshop for Islamic Heritage Month"
+title: "Islamic Heritage Month: Showing Support in Schools"
 pubDate: 2017-11-06T01:20:55.360Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
-
-Islamic Heritage Month: Showing Support in Schools
 
 On 16 October 2017, a workshop for Islamic Heritage Month was held at Marc Garneau Collegiate Institute. The event was one of thirteen different workshops that took place in October for Islamic Heritage Month. Each event was held at a different school in Toronto, covering a unique topic regarding Islamic heritage.
 

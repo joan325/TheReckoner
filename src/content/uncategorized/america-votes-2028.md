@@ -1,0 +1,100 @@
+---
+title: "America Votes 2028"
+pubDate: 2024-05-26T04:26:17.036Z
+description: "Article."
+author: "oriana_zhou"
+imageType: "Art"
+imageCredit: ["yuewen_gao"]
+heroImage: "../../assets/article-images/america-votes-2028-yuewen-gao.png"
+tags: ["Editorial"]
+---
+
+The wealthiest country in the world has survived a battle against Britain, created a Constitution, squashed the Civil War, won World War 2, and invaded Iraq. She managed to pull through the rocky and violent journey of racial integration, withdraw from Vietnam, and recently ended military operations in Afghanistan [1]. In five months, she will head into another contentious election—three deeply flawed men as the choices Americans get to choose from. A rematch between Biden and Trump is certainly the worst combination that could have happened. But parties are looking beyond 2024. The shadow of 2028 looms behind party lines. Strategy, funding, and candidates are already being considered. Both parties have viable and electable candidates… so who are they?
+
+For starters, it is imperative to understand party priorities and party bases to determine which candidates have a chance. The main parties are the Democratic Party and the Republican Party, the former being more “liberal” and the latter earning the title as the “conservative” party.
+
+Since the beginning of the 21st century, modern Democrats have lauded the principles of modern American liberalism. This is not to be confused with classical liberalism or liberalism in general. Modern American liberalism supports civil liberties and equality through means of social justice [2]. They believe in using government as a means to bring equality. The Democratic Party supports LGBTQ+ rights, legal abortion, social security, climate change action, higher taxes, immigration reform, and a larger government role in providing healthcare and education. In the past, the Democratic Party supported slavery and was largely comprised of Southern, white voters. They were responsible for Jim Crow laws that supported mass discrimination against Black Americans after slavery was abolished. However, the 1930s brought a wave of change to the party and the election of Franklin Delano Roosevelt (FDR) who enacted the New Deal programs during the Great Depression. The New Deal expanded government spending, established employment programs, and introduced more government regulation through setting agriculture standards, regulating finance, and setting up labour laws to ensure fair treatment of workers [3]. Since then, the election of more Democrats such as Harry Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Bill Clinton, and Barack Obama have built on liberal traditions the party began in 1932. The Democratic Party has been associated with the desegregation of schools, the Civil Rights Act of 1964, expanding free trade through the North American Free Trade Agreement (NAFTA), and expanding government funding of healthcare through the Affordable Care Act (known as Obamacare). 
+
+The modern Republican Party is more conservative. They support lower taxes, less government intervention in industry, larger military spending, opposition to a legal path to immigration for illegal immigrants, and a national abortion ban [5]. Republicans support private services providing healthcare and education. They are less likely to support government-enacted climate change action. The Republican Party’s agenda has largely shifted from its foundations. Established in 1856, the Republican Party was first founded by people who opposed the expansion of slavery to the United States’ new western territories. The Republican Party under Abraham Lincoln frowned upon slavery and after the Civil War, they worked to protect the rights of African Americans. This was the Reconstruction Era. The first Black Americans elected to Congress were Republicans [6]. During that time period, Republicans passed the 13th Amendment, which banned slavery and fought to protect the voting rights of Black Americans. Reconstruction was heavily resisted in the South, where the vast majority of white voters aligned themselves with the Democrats. As mentioned above, southern Democrats enacted racist legislation while Black Americans were violently targeted. During Reconstruction, large businesses flourished in the Northeastern United States, where they enjoyed the most popularity. These wealthy businessmen gained more power within Republican politics. As they gained leadership in the Republican ranks, they realized that fighting for civil rights would be unpopular in a majority-white country and they stopped their efforts to decrease discrimination and reform the American South. Their platform became largely associated with “big business.” The big business ideology of the Republican Party still exists, through their support of lower corporate taxes and less government involvement in labour laws and regulations. During the Great Depression, the Republican Party collapsed. Faced with sweeping reforms of the New Deal, the Republicans opposed the New Deal. They cited the vast role of government and branded themselves in support of “small government”—a label which still exists today. During the Civil Rights Movement in the 1950s and 1960s, Northern Republicans and Northern Democrats both supported desegregation. However, southerners were against desegregation. In 1964, President Lyndon B. Johnson, a Democrat, signed the Civil Rights Act of 1964. The Republican presidential nominee that year, Barry Goldwater, opposed it, citing large use of government power. During this time, many Southern white voters switched to the Republicans and many northern Black voters supported the Democrats. In the 1980s, a new brand of conservatism emerged. It was led by Ronald Reagan, a Hollywood actor and former Governor of California. Reagan was elected President in 1980 and championed lower taxes, larger military spending, and a free market [3]. During this time, Republicans railed against government intervention in race, gender, and religion. The party platform was against abortion and LGBTQ+ rights. In the 1980s and 1990s, a Republican congressman from Georgia named Newt Gingrich rose in Republican leadership. In 1994, the Republicans won control of the House of Representatives. Under Gingrich, the House impeached Democrat Bill Clinton, but uniquely, Gingrich started using inflammatory rhetoric against Democrats. He often accused them of being unpatriotic and enhanced the use of performative politics [7]. The Republican Party shifted further to the right. Although George W. Bush was elected in 2000, issues such as immigration became prevalent. There was more immigration, both legal and illegal. Democrats supported reforming immigration and they were joined by a couple of Republicans, notably John McCain and Marco Rubio. However, that gave rise to the Tea Party movement. With rapid immigration and globalization, right-wing populism rose. In 2016, Donald Trump won the support of the Republican Party and became its nominee for President. Today, Trumpism remains the dominant ideology in the Republican Party.
+
+The majority of Democrats are liberals or “mainstream” Democrats. They generally support a socially liberal agenda, while being able to compromise with Republicans [8]. There are much more progressive Democrats and much more conservative Democrats, however, they do not make up the Democratic base. 
+
+The Republican base is a bit more difficult to characterize than Democrats. They are 23% staunch religious conservatives. They are socially conservative and want a larger role of religion in public life. The next 23% are part of the populist right-wing. They are very socially conservative, but agree more with the most progressive Democrats when it comes to criticizing banks and corporations. Both of these groups are strong Trump supporters. 15% of the Republican Party belongs to the traditional conservative wing. They are conservative on issues—especially economic ones and point to Ronald Reagan as their political idol [9]. They are Trump supporters and would vote for him… but have some reservations. The rest of the Republicans are either conservatives who are against Trump or Republicans who are swing voters and may vote Democrat. Overwhelmingly, it seems that the Republican Party is still behind Trump.
+
+2028 is a year where Biden will not be eligible to run again. The Democrats will be heading into a crowded primary field where many candidates have the chance to make their mark. Younger Democrats tend to support more progressive reforms, but mainstream liberals are still the largest issue [8]. On the Republican side, Trump doesn’t seem to be going away. His daughter-in-law was recently appointed as the Chairwoman of the Republican National Committee, cementing the Trump family and ideology in Republican politics for years to come [10]. There will be many issues in the election, prominently, the culture wars. Battles over trans rights, abortion rights, LGBTQ+ rights, education, and free speech easily stoke fires in political journalism and media. There are concerns over healthcare reform and economic reform. Lastly, foreign policy will likely remain a key issue. Trump ran on a campaign to weaken NATO and with Trump, the Republican Party has turned friendlier to global autocrats. As of 2024, it is unclear when the War in Ukraine will end and when peace will stabilize the Middle East. Lastly, Democrats won’t let Americans forget that American democracy is on the line. Voters in both parties have differing opinions. The winning candidate will have to win the majority of voters and broadly appeal to these issues.
+
+The Democrats’ Candidates
+
+I think this candidate will win the majority of the Democratic base. They will have to appeal to older Democrats and younger voters, as well as moderates in swing states. They will likely have to be able to fundraise a lot of money to win. 
+
+Josh Shapiro, Governor of Pennsylvania
+
+Josh Shapiro became Governor of Pennsylvania in 2023 and enjoys an approval rating of above 50% [11]. Obviously, that may change later on. But he did win the general election with a margin of greater than 10 points in a swing state. Shapiro prides himself in his “common ground” approach to politics, which is likely to be favoured by the traditional Democratic base. His willingness to work with Republicans and moderate political views boost his electoral chances. Furthermore, being the popular governor of a swing state wouldn’t hurt. He has embodied economic populism, promising to fight against student loans and big pharma companies—a message that resonates with many Americans in this economic climate [12]. His message resonates with blue collar workers, who are crucial voters in swing states (Michigan, Wisconsin, Ohio, and Pennsylvania). He has demonstrated a start tactic of focusing on big issues and not playing into culture war discussion topics. 
+
+Gretchen Whitmer, Governor of Michigan
+
+Gretchen Whitmer is the Governor of Michigan who was elected in 2018 as part of a national Democratic victory. She has a 48% approval rating but has gained prominence on the national stage [13]. Whitmer has been extremely successful in getting things done including stricter gun control laws, overturning abortion bans (although the right to an abortion is now part of Michigan’s Constitution), and expanded voting rights to name a few [14]. When compared against other candidates, she can easily stand out by pointing to her legislative victories. She also has name recognition and has become a “rising star” in the party, providing her with an advantage in the primaries. She delivered the 2020 State of the Union rebuttal for the Democrats [15].
+
+Andy Beshear, Governor of Kentucky
+
+No one remembers the last time Kentucky voted blue on a federal level, but Beshear has a near 60% approval rating in deep-red Kentucky [16]. Clearly, this may be favourable to him on a federal level to win over large swaths of Republican voters—especially moderates. Furthermore, Democrats want to nominate someone who can win and it is telling that Beshear can support certain Democratic priorities while remaining popular (or at least not deeply unpopular) among Trump supporters. Beshsear describes himself as someone who rejects “anger politics”, a label helpful on a national level when he can easily paint himself as a candidate who can get things done [17]. Additionally, Beshear has name recognition, especially when he impressed Democrats nation-wide by winning in a red state. On policy, Beshear ticks many boxes of traditional Democrat views. He supports legal abortion, increasing pensions to public workers (teachers, firefighters, and police officers), raising teacher salaries, increasing funds toward public education, restoring voting rights to felons, supporting equal pay legislation, and increasing healthcare coverage [18]. This will provide him with sufficient support for his policies that the majority of the Democratic base will appreciate. Contrary to many of his fellow Democrats, he does not support an assault weapons ban but will support “red flag” laws. Positioning himself as a moderate and someone who can connect to many red state voters will be an advantage in the primaries and the general election.
+
+There are other Democrats who stand a chance. Gavin Newsom, the Governor of California, has been on national TV and helped Democrats with their fundraising efforts. His only weakness is that California is going up in flames (both literally and figuratively). Perhaps Amy Klobuchar and Pete Buttigieg, who appear to be more moderate and both ran for the 2020 nomination may be popular. However, they face their own swarm of backlash and controversies. Democrats will face trouble finding a candidate who is progressive enough to win the support of the Democratic base and appear conservative enough to win the general election. 
+
+The Republicans’ Candidates
+
+The Republican nominee will have to end up supporting Trumpism—or at least not outwardly condemning Trump. Seeing as the Trump family, MAGA ideology, and right-wing populism are quite prevalent in the Republican Party, the nominee will have to win over the support of a very conservative and quite populist base. I am sure some more moderate or anti-Trump candidate will appear, but winning the nomination is an upward battle. While the Republican nominee may face hurdles convincing swing voters to turn toward a Trump-like style of politics, there are many other issues including crime and the economy that are helping the Republicans gain ground. 
+
+Sarah Huckabee Sanders
+
+Sanders is the first female Governor of Arkansas and a Republican superstar. She delivered the 2023 State of the Union response for the Republicans and was former President Donald Trump’s Press Secretary. She also hails from a political family—her father, Mike Huckabee, served as the Governor of Arkansas and also ran for president in 2008 [179. She is experienced in managing and working on political campaigns, making a household name in the Republican Party. Furthermore, her closeness and support for Donald Trump would be popular among the majority of conservatives who have supported Trump. She has the name recognition to make it far into the Republican primaries and her connections will provide her with valuable endorsements. Furthermore, she has supported popular conservative viewpoints on school choice, trans rights, and has backed up inflammatory rhetoric against President Biden [19]. She also has signed numerous pieces of legislation into law, which can be useful for her to be considered a serious legislator [20]. Her message aligns with Republicans on a national agenda, signalling that she will likely pursue politics on a federal level. Furthermore, she doesn’t have much against her. She has conservative credentials and no scandals and controversies to significantly harm her.
+
+Glenn Youngkin
+
+Glenn Youngkin is the current Governor of Virginia. Virginia has started to lean Democrat on a national level in recent years. Both of the U.S. Senators from the state are Democrats (one of them was Hillary’s running mate in 2016) and the state voted for Obama, Clinton, and Biden for President. Youngkini is a Republican in a blue-leaning state. This could be advantageous to moderate his image and broaden his support to younger Republicans and more Republicans who are getting tired of Trump. Furthermore, he is less inflammatory than other Republicans, which provides him with a better image than many others who will be unable to win over swing voters. At the same time, he still supports Trump but is less partisan [21]. This means that he can still gain support from Trump supporters while not immediately blocking out new voters. Youngkin’s biggest strength is his fundraising abilities. He has managed to reign in large amounts of donations from the Republicans’ wealthiest donors, providing him with financial abilities and means for a presidential campaign. Furthermore, he fits the national agenda that Republicans want to advance: parents’ rights and culture wars [22]. Many Republicans will be willing to support his policies while he is not too inflammatory to be immediately rejected by more moderate voters.
+
+Other possible candidates for the Republican Party include Josh Hawley, Byron Donalds, and Greg Abbott. However, based on the current fragile state of Republican leadership, it’s unclear how much longer these politicians will remain popular. What’s for sure is that the Republicans will value a candidate who will advance the MAGA agenda… and so far… Sanders and Youngkin provide both the stability and image to be a strong candidate. 
+
+[1]https://www.cfr.org/timeline/us-war-afghanistan 
+
+[2]https://learn.saylor.org/mod/url/view.php?id=17374 
+
+[3]https://www.history.com/topics/great-depression/new-deal 
+
+[4]https://www.khanacademy.org/humanities/us-government-and-civics/american-civics-parent/american-civics/v/history-of-the-democratic-party 
+
+[5]https://gop.com/about-our-party/ 
+
+[6]https://constitutioncenter.org/blog/hiram-revels-the-first-african-american-congressman 
+
+[7]https://www.wbur.org/hereandnow/2020/07/07/newt-gingrich-republican-party 
+
+[8]https://www.pewresearch.org/politics/2021/11/09/the-democratic-coalition/ 
+
+[9]https://www.pewresearch.org/politics/2021/11/09/the-republican-coalition/ 
+
+[10]https://www.msnbc.com/opinion/msnbc-opinion/lara-trump-rnc-2020-election-stolen-rcna145328 
+
+[11]https://www.abc27.com/pennsylvania-politics/governor-shapiros-approval-rating-highest-among-recent-predecessors-poll-shows/
+
+[12]https://www.rollingstone.com/politics/politics-features/josh-shapiro-pennsylvania-doug-mastriano-donald-trump-1234626167/ 
+
+[13]https://emersoncollegepolling.com/michigan-poll-gov-whitmer-ten-points-more-favorable-than-president-biden-in-michigan/
+
+[14]https://www.mlive.com/politics/2023/11/promises-made-how-many-kept-comparing-whitmers-speeches-to-results.html 
+
+[15]https://www.cnn.com/2020/02/04/politics/who-is-gretchen-whitmer-state-of-the-union-response/index.html 
+
+[16]https://spectrumnews1.com/ky/louisville/news/2023/04/19/kentucky-andy-beshear-fifth-most-popular-us-governor-morning-consult 
+
+[17]https://apnews.com/article/kentucky-governor-political-action-committee-4597c2a006ac0757d54eaefe9c65efa2 
+
+[18]https://www.courier-journal.com/story/news/politics/elections/kentucky/2019/11/06/andy-beshear-policies-kentucky-governor-elects-stances-key-issues/4175862002/ 
+
+[19]https://governor.arkansas.gov/about/governor-sanders/ 
+
+[20]https://www.politico.com/news/2023/09/16/sarah-huckabee-sanders-records-law-00116402 
+
+[21]​​https://www.cnbc.com/2023/12/13/glenn-youngkin-praises-trump-on-economy-downplays-dictator-fears.html 
+
+[22]https://www.theguardian.com/us-news/2023/oct/30/hes-pretty-smooth-glenn-youngkin-of-virginia-may-be-a-challenger-for-trump

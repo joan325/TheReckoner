@@ -1,15 +1,11 @@
 ---
-title: "Bengal Famine"
+title: "Forgotten History, Repeated: The Bengal Famine"
 pubDate: 2017-05-14T04:41:02.147Z
 description: "Article."
-author: "torvarun"
+author: "ayman_kazi"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---
-
-**Forgotten History, Repeated: The Bengal Famine**
-
-By Ayman Kazi
 
 Throughout history, Western civilization has perceived the East to be in need of their guidance. To this day, Western countries consider it their right to intervene in the politics of other nations. They interfere only to further their own interests, under the facade that they are ‘helping’ the developing world. Whether it is to increase influence, weaken enemies, or to improve reputation, the Western world has installed innumerable puppet governments and reconstructed countless administrations.
 

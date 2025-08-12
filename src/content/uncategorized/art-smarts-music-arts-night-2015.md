@@ -2,16 +2,10 @@
 title: "Art Smarts: Music & Arts Night 2015"
 pubDate: 2016-01-12T06:43:39.504Z
 description: "Article."
-author: "reckoner_staff"
+author: "thamima_rahman"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
-
-NOTE: phtoos were put onto online, they do not all have to go into print
-
-Art Smarts: Music & Arts Night 2015
-
-by: Thamima Rahman
 
 Thursday, 17 December was a night of live entertainment, talent, and fun. Music & Arts Night ran from 6:30 pm to 8:30 pm, and served to showcase student talent. Many arts classes performed, demonstrating the progress they have made over the course of the semester. The event was previously known as Music Night, but was changed this year to reflect more of the arts. Instead of having a separate art show during the school day, all the arts (including dance and drama) were put into this show.
 

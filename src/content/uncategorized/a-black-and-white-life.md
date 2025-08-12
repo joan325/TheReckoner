@@ -2,12 +2,10 @@
 title: "A Black and White Life"
 pubDate: 2015-10-19T05:07:59.920Z
 description: "Article."
-author: "cindycream"
+author: "areeba_asghar"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
-
-Areeba Asghar
 
 In the grim shadows of the aging house, stood a frail figure. He looked out, with astonishingly big eyes, a small opening through his wall. The tearing wallpaper, appearing to age over a century, was tackled from one end of the wall with striking accuracy; it was carved in shape of a perfect triangle, serving as Malinant's "window". Drapes of a blood red colour were usually drawn during daylight , blocking all signs of life in the dreary house. But not today. On this day, Malinant crept from his lumpy bed and risked the journey to the hole in the wall. He had been planning this moment for weeks.
 

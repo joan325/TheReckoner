@@ -7,8 +7,6 @@ heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
 
-**Chalk It Up to Art Council: MGCI’s Fifth Annual Doodle Fest**
-
 Marc Garneau let its creativity flow at Art Council’s fifth annual Doodle Fest on 31 May 2018\. Doodle Fest took place at lunch in the back field of MGCI, where students doodled with chalk, got their face painted, and enjoyed free snacks and music.
 
 Tables were set up on the back field supplied with chalk, face paint, freezies, and cookies. Some members of Art Council as well as teachers and other volunteers were stationed at the tables to paint students’ faces with small pictures, distribute snacks, and control the music. Others walked around offering chalk and snacks to the doodling students, and joining in on the fun themselves.

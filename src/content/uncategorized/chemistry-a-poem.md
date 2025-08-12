@@ -2,12 +2,10 @@
 title: "Chemistry: A Poem"
 pubDate: 2015-10-11T23:23:32.760Z
 description: "Article."
-author: "cindycream"
+author: "hannah_nie"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
-
-Hannah Nie
 
 It was
 

@@ -7,8 +7,6 @@ heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized", "Featured"]
 ---
 
-By: David Li
-
 On 19 December 2016, Mevlüt Mert Altıntaşa assassinated Russian ambassador Andrei Karlov. The murder was captured on camera by photographer Burhan Ozbilici, who managed to keep his composure in a life-threatening situation, allowing him to document the event \[1\]. Two months later, the World Press Photo Foundation named Ozbilici’s shocking photograph the _World Press Photo of the Year_. The image also earned the first place prize in the Spot News category of the same contest.
 
 Ozbilici’s picture gave the world a terrifying and surreal perspective as to what had occurred, and undeniably deserved recognition. However, controversy arose after the image was named the World Press Photo of the Year. While the award pays homage to Ozbilici’s astounding work, it should be noted that the assassin intentionally chose a publicized event to stage his murder: a press conference attended by journalists and photographers from international news outlets. It is clear that the killer wanted his message to be spread to as large an audience as possible, a goal that organizations such as the World Press Photo Foundation helped him attain by showering the photo with accolades.

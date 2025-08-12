@@ -2,16 +2,14 @@
 title: "Coming To Canada: 14 Years in Dhaka, 14 Months in Toronto"
 pubDate: 2016-10-11T17:41:00.451Z
 description: "Article."
-author: "parnika_godkhindi"
+author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---
 
 Coming To Canada: 14 Years in Dhaka, 14 Months in Toronto
 
-Spillover Title: A New Beginning
-
-By: Tazik Shahjahan
+A New Beginning
 
 23 July 2015 was the day my life flipped upside down. Fourteen and as naïve as they come, I left everyone and everything I knew in Dhaka to travel 12 000 kilometres to a foreign and unknown country: Canada. Though I had my mom, dad and brother with me, I did not have any plans for the future.
 

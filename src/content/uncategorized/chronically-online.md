@@ -1,0 +1,36 @@
+---
+title: "Chronically Online: A Plague of the Digital Age"
+pubDate: 2024-05-26T04:26:17.036Z
+description: "Article."
+author: "harris_abraham"
+heroImage: "../../assets/article-images/chronically-online-sadaf-jaffary.jpg"
+imageType: "Art"
+imageCredit: ["sadaf_jaffary"]
+tags: ["Editorial"]
+---
+
+Since its mainstream introduction in the mid-2000s, social media has become increasingly present in our everyday lives, and its rise to ubiquity is no coincidence either. Whether it's endlessly scrolling through TikTok or talking to friends from the comfort of one’s bed, social media is undoubtedly a great way to both pass the time and stay connected with others. It has seen a particular rise in popularity amongst the younger generations, considering how a third of adolescents feel they use social media “almost constantly” [1]. Despite its convenience, social media’s meteoric expansion into children’s lives is not without harm. With events like the COVID-19 pandemic shifting our daily lives towards an even more internet-centric norm, we are seeing an increase in “chronic onlineness” among children and adolescents. Chronically online, terminally online, or extremely online are neologisms used to describe people who exhibit symptoms of addiction to social media, and spend much of their time immersed in the digital world instead of interacting with the real one. You’ve probably seen this term being thrown around in TikToks or other internet memes, and although it’s not an officially diagnosed medical condition, it is a genuine issue in today’s society with heavy implications for the direction that we are headed in. 
+
+Social media has been meticulously designed to keep us constantly engaged. Its usage stimulates our brains with near-infinite walls of content, drawing the audience in. The addiction one can develop to social media is comparable to that of gamblers or drug users [2]. Adolescents and children are even more susceptible to this addiction due to their developing brains. Despite this, quite often you’ll see toddlers barely old enough to read playing on their parents’ phones, watching fast-paced, mindless content on YouTube with little to no moderation. Terms like “iPad kid” and “iPad parenting” have been coined to describe these children and this style of parenting that has become commonplace in today’s households. By the time these children are adolescents, they’ll have been absorbing such content for years, and their addiction will have progressed substantially. 
+
+Prolonged use of social media causes an expectation of instant gratification [2]. Many have become used to “receiving information in small, bite-sized pieces,” [3] and when provided with other, slower-paced media like books or films, their minds jump to what they’re used to. Their longing for the content they’ve grown accustomed to seeps through the fabric of their minds into simple tasks like schoolwork. Have you ever been trying to study, but found yourself continuously checking your phone, unable to focus on the task at hand? If your answer is yes, you may be exhibiting early signs of social media addiction, which are presenting themselves through a diminishing attention span. You’re not alone; thousands of teenagers across the world have been sharing details about the shrinking attention spans social media has caused in them. But these problems are just the tip of the iceberg.
+
+Instant messaging with others is one of the most prominent features that social media has to offer, with over a billion people worldwide using it every month [4]. Unfortunately, this brings with it a serious problem. When we speak with other humans, we use our entire body to communicate. Our tone, body language, facial expression, and gestures are not only complementary to the speaking process, but a fundamental element of effective communication [5]. Also known as indirect communication, these social skills are developed through speaking in person or even over the phone but are completely absent in instant messaging. Due to the difference in social skill requirements between the two methods, people who communicate digitally will often find that they’re more effective and confident when communicating via instant messaging compared to their face-to-face attempts. People seek human connection due to their innate desire to socialize [6], resulting in people chasing that feeling from the most comfortably available source — social media.  Before texting existed, people had no choice but to improve their social skills if they wanted to socialize, but now there are just about a million alternatives to speaking face-to-face, rendering in-person communication nigh-obsolete in many people’s minds. Considering this, it isn’t a surprise that social anxiety in children and adolescents has been on the rise since the mid-2000s [7](which, if you take a glance at the first sentence, might seem like suspicious timing).
+
+At the end of the day, what someone does with their own time is up to them. As the saying goes, you can lead a horse to water, but you can’t force it to drink — similarly, while you can attempt to broach the subject of chronic onlineness, you cannot make anyone change their lifestyle unless they desire to, regardless of the arguments or sources you may bring. This article is no exception. However, awareness and recognition are the first steps to change. It’s worthwhile to spend some time pondering your relationship with the vast digital world in your hands and consider just how much influence it holds over you to ensure that you don’t fall victim to the slippery slope that has already claimed so many.  
+
+Works Cited
+
+[1] Pew Research Center. “Teens, Social Media and Technology 2023.” Pew Research Center, 11 December 2023, https://www.pewresearch.org/internet/2023/12/11/teens-social-media-and-technology-2023/. Accessed 04 February 2024.
+
+[2] Miller, Sarah. “The Addictiveness of Social Media: How Teens Get Hooked.” Jefferson Health, 2 June 2022, https://www.jeffersonhealth.org/your-health/living-well/the-addictiveness-of-social-media-how-teens-get-hooked. Accessed 5 February 2024.
+
+[3] Simon, Herbert. “Decreasing Attention Spans And The Effects On Learning - Jennifer Oaten.” Santa Maria College, 26 August 2022, https://santamaria.wa.edu.au/decreasing-attention-spans-jennifer-oaten/. Accessed 6 February 2024.
+
+[4] Dixon, Stacy Jo. “Most popular messaging apps 2024.” Statista, 2 February 2024, https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/. Accessed 8 February 2024.
+
+[5] Ehmke, Rachel. “Social Media Effects on Teens | Impact of Social Media on Self-Esteem.” Child Mind Institute, 10 August 2023, https://childmind.org/article/how-using-social-media-affects-teenagers/. Accessed 6 February 2024.
+
+[6] “Social Connection Definition | What Is Social Connection.” Greater Good Science Center, https://greatergood.berkeley.edu/topic/social_connection/definition. Accessed 8 February 2024.
+
+[7] DeAngelis, Tori. “Anxiety among kids is on the rise. Wider access to CBT may provide needed solutions.” American Psychological Association, 1 October 2022, https://www.apa.org/monitor/2022/10/child-anxiety-treatment. Accessed 7 February 2024.
