@@ -24,8 +24,8 @@
 .flowpaper_selected_orange {background-color:#facd56; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
 .flowpaper_selected_green {background-color:#c2f785; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
 .flowpaper_selected_blue {background-color:#9cdcff; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
-.flowpaper_selected_selected {background-color:#444444; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
-.flowpaper_selected_hover {background-color:#444444; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"; cursor:pointer;}
+.flowpaper_selected_selected {background-color:#fffffe; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
+.flowpaper_selected_hover {background-color:#fffffe; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"; cursor:pointer;}
 .flowpaper_selected_strikeout {background-color:#fb5450; opacity:.6; filter: alpha(opacity=60); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)"}
 .flowpaper_selected_searchmatch {  }
 .flowpaper_tmpselected {background-color: #3c78b4; opacity:.3; filter: alpha(opacity=30); -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"}
