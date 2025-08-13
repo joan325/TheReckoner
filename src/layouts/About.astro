@@ -113,21 +113,13 @@ const { title, description, author, pubDate, updatedDate, heroImage } = Astro.pr
 					<div class="title">
 						<h1>{title}</h1>
 						<div class="author"> <!--update name-->
-							By: {author} | <FormattedDate date={pubDate} />
-						</div>
-						<div class="date">
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
+							{author}
 						</div>
 						<br>
+				<!-- 
 				<div class="hero-image">
-					{heroImage && <Image width={680} height={340} src={heroImage} alt="Placeholder image" />} <!--1020x510-->
-				</div>
+					{heroImage && <Image width={680} height={340} src={heroImage} alt="Placeholder image" />}
+				</div>-->
 						<hr />
 					</div>
 					<slot />

@@ -39,7 +39,7 @@ import heroImage from "../assets/placeholders/blog-placeholder-about.jpg";
       guards.map(({ guard_name, guard_title }) => (
         (guard_title !== "Fifteenth Guard") && (<li> <!--change to const current in import -->
           <a href={`/about/${guard_name}`}>
-            <p>{guard_title}</p>
+            <p style="display: inline;">{guard_title}</p>
           </a>
         </li>)
       ))

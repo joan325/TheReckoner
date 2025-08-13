@@ -1,0 +1,162 @@
+---
+import Layout from "../layouts/About.astro";
+import guards from "../../data/guards.json";
+import { Image } from "astro:assets";
+import heroImage from "../assets/placeholders/blog-placeholder-about.jpg";
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Guard from '../layouts/Guard.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
+---
+<!doctype html>
+<html lang="en" data-pagefind-ignore="all">
+    <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="/flowpaper/js/jquery.min.js" is:inline></script>
+    <script src="/flowpaper/js/flowpaper.js" is:inline></script>
+
+    <style>
+    main {
+        width: calc(100% - 2em);
+        max-width: 100%;
+        margin: 0;
+    }
+    .article-box {
+        width: 85%;
+        max-width: 1300px;
+        margin: 2em auto;
+        background-color: rgb(var(--white));
+        padding-bottom: 6em;
+    }
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        list-style-type: none;
+        margin: 1em;
+        padding-left: 3em;
+        padding-right: 3em;
+        justify-content: center;
+      }
+      li {
+        width: 165px;
+        background-color: white;
+        border-radius: 3px;
+        box-shadow: var(--box-shadow-2);
+        margin: 1em;
+        padding-bottom: 1em;
+      }
+      ul li:hover {
+        box-shadow: var(--box-shadow);
+      }
+      ul li a {
+        display: block;
+        text-decoration: none;
+      }
+      .name {
+        margin: 0rem 1rem;
+        color: rgb(var(--accent-dark));
+        line-height: 1;
+        font-weight: 700;
+        text-align: center;
+      }
+      .title {
+        margin: 0rem 1rem 1rem;
+        color: rgb(var(--gray-dark));
+        margin-bottom: 0;
+        padding-bottom: 1rem;
+        line-height: 1;
+        padding-top: 0.5em;
+        text-align: center;
+      }
+      img {
+        width: 165px;
+        height: 165px;
+        margin-bottom: 0.5rem;
+        border-radius: 0px;
+        object-fit: cover;
+      }
+      h1, h2 {
+        margin: 3em 0 1em;
+        text-align: center;
+      }
+      h2 {
+        font-size: 1.5em;
+      }
+      p {
+        margin-bottom: 2em;
+        text-align: center;
+      }
+      .print-container {
+        width: 70%;
+        max-width: 100%;
+        margin-inline: auto;
+      }
+      .flow-paper-viewer {
+        background-color: white !important;
+      }
+
+      @media (max-width: 720px) {
+				main {
+					width: 100%;
+					padding: 0 0em;
+				}
+				.article-box {
+					width: 100%;
+					margin: 1em 0;
+				}
+				.prose {
+					max-width: 100%;
+					padding: 2em 1em;
+				}
+				.hero-image img {
+					width: 100%;
+					height: auto;
+				}
+				.title h1 {
+					font-size: 1.5em;
+				}
+			}
+    </style>
+    <script async defer src="https://cdn-online.flowpaper.com/zine/3.9.2/js/embed.min.js"></script>
+  </head>
+    <body>
+		<Header />
+		<main>
+			<div class="article-box"><article>
+				<div class="prose">
+					<div class="title">
+						<h1>Past Print Editions</h1>
+						<hr />
+          </div>
+            <p>
+                <!--Description-->
+            </p>
+
+            <!--Print editions-->
+            <h2>Volume 12, Issue 3</h2>
+            <p>March 2024</p>
+            <div class="print-container">
+              <a href="/flowpaper/V12N4_Exec_FinalDraft/V12N4_Exec_FinalDraft.html" class="fp-embed" data-fp-width="100%" data-fp-height="500px" style="max-width: 100%; margin-inline: auto;"></a>
+            </div>
+
+            <h2>Volume 12, Issue 2</h2>
+            <p>December 2023</p>
+            <div class="print-container">
+              <a href="/flowpaper/V12N2/V12N2.html" class="fp-embed" data-fp-width="100%" data-fp-height="500px" style="max-width: 100%; margin-inline: auto;"></a>
+            </div>
+
+
+					<slot />
+				</div>
+			</article></div>
+		</main>
+		<Footer />
+	</body>
+</html>
