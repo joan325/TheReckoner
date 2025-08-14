@@ -152,7 +152,7 @@ const { category, page, allPosts } = Astro.props;
 			}
 			.latest-box li.highlighted img {
 				min-width: auto;
-				width: 15%;
+				width: 5em;
 				aspect-ratio: 3 / 2;
 				height: auto;
 				flex-shrink: 0;
@@ -251,10 +251,11 @@ const { category, page, allPosts } = Astro.props;
 				}
 				.mobile-latest {
 					background-color: rgb(var(--white));
-					margin-bottom: 1em;
+					border-radius: 3px;
 				}
 				.mobile-latest h4 {
-					padding-bottom: 0.5em;
+					padding-bottom: 0.6em;
+					margin-bottom: 0;
 				}
 			}
 		</style>
