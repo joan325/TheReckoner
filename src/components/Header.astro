@@ -85,9 +85,9 @@ import logo_image from '../assets/other/logo.png';
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}
-	.logo {
+	nav .logo a {
+		padding: 0;
 		padding-top: 0.5em;
-		padding-bottom: 0em;
 	}
 	nav a.icon {
 		display: none;
@@ -164,6 +164,8 @@ import logo_image from '../assets/other/logo.png';
 		nav a.icon {
 			float: right;
 			display: block;
+			padding-top: 1.5em !important;
+			padding-bottom: 1.5em !important;
 		}
 		nav.responsive {
 			position: relative;
@@ -171,7 +173,7 @@ import logo_image from '../assets/other/logo.png';
 		nav.responsive a.icon {
 			position: absolute;
 			right: 0;
-			top: 0.9em;
+			top: 0;
 		}
 		nav.responsive .internal-links {
 			padding-top: 1em;
@@ -186,7 +188,7 @@ import logo_image from '../assets/other/logo.png';
 			display: flex;
 			position: absolute;
 			right: 3em;
-			top: 1em;
+			top: 0.3em;
 		}
 		nav.responsive .social-links a {
 			display: block;
@@ -195,7 +197,7 @@ import logo_image from '../assets/other/logo.png';
 			position: absolute;
 			display: absolute;
 			left: 0;
-			top: 0;
+			top: 0.1em;
 		}
 		nav.responsive form {
 			display: none;
@@ -204,16 +206,25 @@ import logo_image from '../assets/other/logo.png';
 		h2 {
 			margin-bottom: 0.5em;
 		}
-		h2 img {
-			height: 2.5em !important;
-		}	
 		.search-bar {
-			margin: 1.5em;
+			margin-right: 1.5em;
 		}
 	}
 	@media (max-width: 600px) {
 		.search-bar input[type=search] {
 			display: none;
+		}
+	}
+	@media (max-width: 300px) {
+		nav .logo img {
+			object-fit: contain;
+		}
+		form {
+			display: none;
+		}
+		nav a.icon {
+			padding-top: 1.5em;
+			padding-bottom: 1.5em;
 		}
 	}
 </style>
