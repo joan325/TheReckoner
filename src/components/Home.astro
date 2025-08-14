@@ -269,6 +269,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N3.jpg";
 				height: 388.23px;
 				width: 300px;
 				position: relative;
+				/* min-height: 180px; */
 			}
 
 			.box1 .print-highlight img {
@@ -866,7 +867,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N3.jpg";
 			var offset = 0;
 			if (carousel) {
 				if (window.innerWidth < 720) {
-				offset = carousel.offsetWidth;
+					offset = carousel.offsetWidth;
 				} else {
 					offset = carousel.offsetWidth / 3;
 				}
@@ -931,31 +932,71 @@ import latest_print_cover from "../assets/print-covers/cover-V12N3.jpg";
 					}
 				});
 
-				container.addEventListener('mouseover', updateCarousel);
-				container.addEventListener('mouseout', () => {
+				function hideArrows() {
 					if (next) next.style.display = 'none';
 					if (prev) prev.style.display = 'none';
+				}
+				
+
+				// Runs once
+				if (window.innerWidth < 720) {
+					updateCarousel();
+				} else {
+					container.addEventListener('mouseover', updateCarousel);
+					container.addEventListener('mouseout', hideArrows);
+				}
+
+				let resizeTimer: ReturnType<typeof setTimeout> | undefined;
+
+				function handleResize(): void {
+					if (window.innerWidth < 720) {
+						container?.removeEventListener('mouseout', hideArrows);
+						container?.removeEventListener('mouseover', updateCarousel);
+
+						container?.addEventListener('mouseover', updateCarousel);
+					} else {
+						container?.addEventListener('mouseover', updateCarousel);
+						container?.addEventListener('mouseout', hideArrows);
+					}
+				}
+
+				window.addEventListener('resize', () => {
+					clearTimeout(resizeTimer);
+					resizeTimer = setTimeout(() => {
+						handleResize();
+					}, 250);
 				});
 
+				hideArrows();
 				updateCarousel();
 			}
 
 			// Initialize both carousels
-			initCarousel({
-				containerSelector: '.features.first',
-				trackSelector: '.features-track',
-				slideSelector: '.features-track .featured',
-				nextId: 'featuresNext',
-				prevId: 'featuresPrev',
+			function setupCarousels() {
+				initCarousel({
+					containerSelector: '.features.first',
+					trackSelector: '.features-track',
+					slideSelector: '.features-track .featured',
+					nextId: 'featuresNext',
+					prevId: 'featuresPrev',
+				});
+
+				initCarousel({
+					containerSelector: '.features.photos',
+					trackSelector: '.features-track',
+					slideSelector: '.features-track .featured',
+					nextId: 'photographyNext',
+					prevId: 'photographyPrev',
+				});
+			}
+
+			setupCarousels();
+			
+			window.addEventListener('resize', () => {
+				setupCarousels();
 			});
 
-			initCarousel({
-				containerSelector: '.features.photos',
-				trackSelector: '.features-track',
-				slideSelector: '.features-track .featured',
-				nextId: 'photographyNext',
-				prevId: 'photographyPrev',
-			});
 		</script>
-	</body>
+		
+		</body>
 </html>
