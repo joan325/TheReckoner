@@ -176,6 +176,9 @@ const { category, page, allPosts } = Astro.props;
             }
 
 			@media (max-width: 720px) {
+				* {
+					box-shadow: none !important;
+				}
 				main {
 					width: 100%;
 					padding: 0 1em;

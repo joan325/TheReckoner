@@ -37,7 +37,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 import feedback_photo from "../assets/other/question.jpg";
 
 /* Replace with path for latest print cover */
-import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
+import latest_print_cover from "../assets/print-covers/cover-V12N3.jpg";
 
 ---
 
@@ -243,7 +243,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 
 			.box2 .feedback {
 				display: flex;
-				min-height: 430px;
+				min-height: 388.23px;
 				width: 300px;
 			}
 
@@ -266,14 +266,14 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 
 			.box1 .print-highlight {
 				display: flex;
-				height: 430px;
+				height: 388.23px;
 				width: 300px;
 				position: relative;
 			}
 
 			.box1 .print-highlight img {
 				width: 100%;
-				object-fit: contain;
+				object-fit: fill;
 			}
 
 			.box1 .print-highlight .highlighted-info {
@@ -336,7 +336,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			/* features carousel */
 			.features {
 				position: relative;
-                height: 430px;
+                height: 388.23px;
                 width: calc(100% - 1em - 300px);
                 scroll-snap-type: x mandatory;
                 overflow: hidden;
@@ -413,14 +413,14 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 				position: relative;
 				box-sizing: border-box;
                 z-index: 1;
-                height: 430px;
+                height: 388.23px;
 				width: 100%;
 				margin-right: -2rem !important;
 				padding: 0;
 			}
 
 			.features-slide li, .features-slide img {
-                height: 430px;
+                height: 388.23px;
 				width: 100% !important;
 				margin: 0;
 				padding: 0;
@@ -430,7 +430,8 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 color: rgb(var(--white));
                 background-color: rgba(0, 0, 0, 0.5);
                 margin: 0;
-                padding-top: 1em;
+				margin-bottom: -0.2em;
+                padding-top: 1.2em;
                 padding-left: 0em;
                 padding-bottom: 0;
                 z-index: 10;
@@ -472,6 +473,9 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			.features ul {
 				width: 100% !important;
 			}
+			.board-box .see-more-button {
+				display: none;
+			}
 
 
 			@media (max-width: 720px) {
@@ -486,22 +490,25 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 				.latest-box .highlighted,
 				.latest-box .featured {
 					width: 100%;
-					padding-bottom: 1rem;
 				}
 				.latest-box .highlighted {
 					flex-direction: column;
 					align-items: center;
+				}
+				.board-box .highlighted:nth-child(n+3) {
+					display: none;
+				}
+				.board-box .see-more-button {
+					display: block;
 				}
 				.latest-box .highlighted img {
 					width: 80%;
 				}
 				.board-box {
 					flex-direction: column;
-					grid-template-columns: none;
-					grid-template-rows: repeat(3, 1fr);
+					display: flex;
 					width: 100%;
 					align-items: stretch;
-					/* background-color: none; Change */
 				}
 				.board-box > .latest-box {
 					width: 100%;
@@ -537,11 +544,13 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					padding-bottom: 0.5em;
 				}
 				.box1 .print-highlight {
-					width: 100%;
-					margin-bottom: 2em;
+					height: 100%;
+					margin-inline: auto;
+					margin-bottom: 4em;
 				}
 				.box1 .print-highlight .highlighted-info {
-					display: show; /* Edit js */
+					display: block;
+					margin-bottom: 0.4em;
 				}
 				.box2 .feedback {
 					width: 100%;
@@ -837,14 +846,23 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			const carousel = document.getElementById("carouselLatest");
 			const width = carousel?.offsetWidth;
 
-			if (rightButton && carousel && width) {
+			var offset = 0;
+			if (carousel) {
+				if (window.innerWidth < 720) {
+				offset = carousel.offsetWidth;
+				} else {
+					offset = carousel.offsetWidth / 3;
+				}
+			}
+
+			if (rightButton && carousel && offset) {
 				rightButton.onclick = () => {
-					carousel.scrollLeft += width / 3;
+					carousel.scrollLeft += offset;
 				};
 			}
-			if (leftButton && carousel && width) {
+			if (leftButton && carousel && offset) {
 				leftButton.onclick = () => {
-					carousel.scrollLeft -= width / 3;
+					carousel.scrollLeft -= offset;
 				};
 			}
 		</script>
