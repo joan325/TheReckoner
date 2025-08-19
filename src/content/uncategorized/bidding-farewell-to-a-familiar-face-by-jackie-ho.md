@@ -1,10 +1,10 @@
 ---
-title: "News: Bidding Farewell to a Familiar Face by Jackie Ho"
+title: "Bidding Farewell to a Familiar Face"
 pubDate: 2015-02-18T01:59:41.223Z
 description: "Article."
-author: "jc_ho"
+author: "jacqueline_ho"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 \[Pic\]

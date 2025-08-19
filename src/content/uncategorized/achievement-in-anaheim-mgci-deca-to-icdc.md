@@ -2,20 +2,12 @@
 title: "Achievement in Anaheim: MGCI DECA to ICDC"
 pubDate: 2017-05-14T02:15:19.184Z
 description: "Article."
-author: "hargun_kaur"
+author: "tom_liu"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]
 ---
 
-# **Achievement in Anaheim: MGCI DECA to ICDC**
-
-# By: Tom Liu
-
-# Photo: Cindy Cui
-
-#
-
-# From 24 April to 1 May 2017, thirteen students from Marc Garneau travelled to Anaheim, California to compete in the DECA International Career Development Conference (ICDC). DECA is a high school business competition, with ICDC being the highest level of competition offered. Over eighteen thousand students from around the world competed in the conference.
+From 24 April to 1 May 2017, thirteen students from Marc Garneau travelled to Anaheim, California to compete in the DECA International Career Development Conference (ICDC). DECA is a high school business competition, with ICDC being the highest level of competition offered. Over eighteen thousand students from around the world competed in the conference.
 
 ![DECA-35.jpg][image1]
 

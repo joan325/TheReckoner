@@ -4,7 +4,7 @@ pubDate: 2015-06-12T04:54:14.011Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 This year’s commencement will be particularly memorable for the seventeen students who constitute the first graduating class of the Business and Social Action Program (BSAP) at Marc Garneau C.I.

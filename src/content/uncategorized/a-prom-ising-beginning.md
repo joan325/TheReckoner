@@ -2,14 +2,12 @@
 title: "A Prom-ising Beginning"
 pubDate: 2017-06-16T12:41:12.360Z
 description: "Article."
-author: "uknown_person"
+author: "ryan_lin"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 A Prom-ising Beginning
-
-By: Ryan Lin
 
 Illustration: Hanlin Cheng
 

@@ -2,7 +2,7 @@
 title: "‘Carton’ Footprint"
 pubDate: 2016-06-15T03:20:18.060Z
 description: "Article about stuff."
-author: "cindycream789"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

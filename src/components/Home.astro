@@ -37,7 +37,7 @@ const { page, allPosts, newsPosts, editorialPosts, lifePosts, photographyPosts, 
 import feedback_photo from "../assets/other/question.jpg";
 
 /* Replace with path for latest print cover */
-import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
+import latest_print_cover from "../assets/print-covers/cover-V12N3.jpg";
 
 ---
 
@@ -98,7 +98,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
-                border-top: 3px solid var(--accent);
+                border-top: 4px solid var(--accent);
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));
@@ -150,7 +150,8 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 width: 100%;
 			}
 			.latest-box .highlighted img {
-				width: 15%;
+				width: 4em;
+				aspect-ratio: 3 / 2;
 				flex-shrink: 0;
                 margin: 0rem 0.5rem 1rem 1rem;
 			}
@@ -159,11 +160,11 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 display: flex;
                 align-items: left;
                 gap: 0rem;
-                margin-top: 1rem;
+                padding-top: 1rem;
             }
 
             .featured:not(.all), .highlighted {
-                outline: 1px solid rgb(var(--gray-light));
+                border-bottom: 1px solid rgb(var(--gray-light));
             }
 
             .latest-box h4 {
@@ -180,7 +181,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
-                border-top: 3px solid var(--accent);
+                border-top: 4px solid var(--accent);
                 width: 100%;
                 margin-bottom: 3em;
             }
@@ -242,7 +243,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 
 			.box2 .feedback {
 				display: flex;
-				min-height: 430px;
+				min-height: 388.23px;
 				width: 300px;
 			}
 
@@ -265,14 +266,15 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 
 			.box1 .print-highlight {
 				display: flex;
-				height: 430px;
+				height: 388.23px;
 				width: 300px;
 				position: relative;
+				/* min-height: 180px; */
 			}
 
 			.box1 .print-highlight img {
 				width: 100%;
-				object-fit: contain;
+				object-fit: fill;
 			}
 
 			.box1 .print-highlight .highlighted-info {
@@ -335,7 +337,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			/* features carousel */
 			.features {
 				position: relative;
-                height: 430px;
+                height: 388.23px;
                 width: calc(100% - 1em - 300px);
                 scroll-snap-type: x mandatory;
                 overflow: hidden;
@@ -412,14 +414,14 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 				position: relative;
 				box-sizing: border-box;
                 z-index: 1;
-                height: 430px;
+                height: 388.23px;
 				width: 100%;
 				margin-right: -2rem !important;
 				padding: 0;
 			}
 
 			.features-slide li, .features-slide img {
-                height: 430px;
+                height: 388.23px;
 				width: 100% !important;
 				margin: 0;
 				padding: 0;
@@ -429,7 +431,8 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
                 color: rgb(var(--white));
                 background-color: rgba(0, 0, 0, 0.5);
                 margin: 0;
-                padding-top: 1em;
+				margin-bottom: -0.2em;
+                padding-top: 1.2em;
                 padding-left: 0em;
                 padding-bottom: 0;
                 z-index: 10;
@@ -471,9 +474,27 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			.features ul {
 				width: 100% !important;
 			}
+			.board-box .see-more-button {
+				display: none;
+				margin-inline: auto;
+				margin-top: 2em;
+				margin-bottom: 2em;
+				background-color: var(--accent-dark);
+				text-decoration: none;
+				border: none;
+				padding: 0.75em 1.5em;
+			}
+			.board-box .see-more-button a {
+				color: rgb(var(--white));
+				text-decoration: none;
+				font-size: 1.2em;
+			}
 
 
 			@media (max-width: 720px) {
+				main {
+					width: 75%;
+				}
 				.all img {
 					width: calc(100% - 2em) !important;
 				}
@@ -485,22 +506,25 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 				.latest-box .highlighted,
 				.latest-box .featured {
 					width: 100%;
-					padding-bottom: 1rem;
 				}
 				.latest-box .highlighted {
 					flex-direction: column;
 					align-items: center;
+				}
+				.board-box .highlighted:nth-child(n+3) {
+					display: none;
+				}
+				.board-box .see-more-button {
+					display: block;
 				}
 				.latest-box .highlighted img {
 					width: 80%;
 				}
 				.board-box {
 					flex-direction: column;
-					grid-template-columns: none;
-					grid-template-rows: repeat(3, 1fr);
+					display: flex;
 					width: 100%;
 					align-items: stretch;
-					/* background-color: none; Change */
 				}
 				.board-box > .latest-box {
 					width: 100%;
@@ -515,7 +539,6 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					display: block;
 					width: 100%;
 					text-align: left;
-					padding-top: 1rem;
 					border-radius: 0px;
 					box-shadow: none;
 				}
@@ -524,6 +547,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					margin-right: 1rem;
 					border-radius: 0px;
 					border: none;
+					margin-bottom: 0;
 				}
 				.latest-box .highlighted a {
 					display: block;
@@ -533,14 +557,15 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					position: static;
 					color: inherit;
 					padding: 0;
-					padding-bottom: 0.5em;
 				}
 				.box1 .print-highlight {
-					width: 100%;
-					margin-bottom: 2em;
+					height: 100%;
+					margin-inline: auto;
+					margin-bottom: 4em;
 				}
 				.box1 .print-highlight .highlighted-info {
-					display: show; /* Edit js */
+					display: block;
+					margin-bottom: 0.4em;
 				}
 				.box2 .feedback {
 					width: 100%;
@@ -589,11 +614,13 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					</div>
 
 					<div class="print-highlight">
-						<Image src={latest_print_cover} alt="Print Cover" loading="eager"/>
-						<div class="highlighted-info">
-							<p class="title" style="font-weight: 700;">VOLUME 12 ISSUE 4</p>
-							<p class="date">Out now</p>
-						</div>
+						<a href="/prints">
+							<Image src={latest_print_cover} alt="Print Cover" loading="eager"/>
+							<div class="highlighted-info">
+								<p class="title" style="font-weight: 700;">VOLUME 12 ISSUE 3</p>
+								<p class="date">Out now</p>
+							</div>
+						</a>
 					</div>
 
 				</div>
@@ -678,6 +705,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 								</li>
 							))}
 						</ul>
+						<button class="see-more-button"><a href="/news">More News</a></button>
 					</div>
 
                     
@@ -729,6 +757,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 								</li>
 							))}
 						</ul>
+						<button class="see-more-button"><a href="/editorial">More Editorial</a></button>
 					</div>
 				
                     
@@ -780,6 +809,7 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 								</li>
 							))}
 						</ul>
+						<button class="see-more-button"><a href="/life">More Life</a></button>
 					</div>
                 </div>
 
@@ -834,14 +864,23 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 			const carousel = document.getElementById("carouselLatest");
 			const width = carousel?.offsetWidth;
 
-			if (rightButton && carousel && width) {
+			var offset = 0;
+			if (carousel) {
+				if (window.innerWidth < 720) {
+					offset = carousel.offsetWidth;
+				} else {
+					offset = carousel.offsetWidth / 3;
+				}
+			}
+
+			if (rightButton && carousel && offset) {
 				rightButton.onclick = () => {
-					carousel.scrollLeft += width / 3;
+					carousel.scrollLeft += offset;
 				};
 			}
-			if (leftButton && carousel && width) {
+			if (leftButton && carousel && offset) {
 				leftButton.onclick = () => {
-					carousel.scrollLeft -= width / 3;
+					carousel.scrollLeft -= offset;
 				};
 			}
 		</script>
@@ -893,31 +932,71 @@ import latest_print_cover from "../assets/print-covers/cover-V12N4.png";
 					}
 				});
 
-				container.addEventListener('mouseover', updateCarousel);
-				container.addEventListener('mouseout', () => {
+				function hideArrows() {
 					if (next) next.style.display = 'none';
 					if (prev) prev.style.display = 'none';
+				}
+				
+
+				// Runs once
+				if (window.innerWidth < 720) {
+					updateCarousel();
+				} else {
+					container.addEventListener('mouseover', updateCarousel);
+					container.addEventListener('mouseout', hideArrows);
+				}
+
+				let resizeTimer: ReturnType<typeof setTimeout> | undefined;
+
+				function handleResize(): void {
+					if (window.innerWidth < 720) {
+						container?.removeEventListener('mouseout', hideArrows);
+						container?.removeEventListener('mouseover', updateCarousel);
+
+						container?.addEventListener('mouseover', updateCarousel);
+					} else {
+						container?.addEventListener('mouseover', updateCarousel);
+						container?.addEventListener('mouseout', hideArrows);
+					}
+				}
+
+				window.addEventListener('resize', () => {
+					clearTimeout(resizeTimer);
+					resizeTimer = setTimeout(() => {
+						handleResize();
+					}, 250);
 				});
 
+				hideArrows();
 				updateCarousel();
 			}
 
 			// Initialize both carousels
-			initCarousel({
-				containerSelector: '.features.first',
-				trackSelector: '.features-track',
-				slideSelector: '.features-track .featured',
-				nextId: 'featuresNext',
-				prevId: 'featuresPrev',
+			function setupCarousels() {
+				initCarousel({
+					containerSelector: '.features.first',
+					trackSelector: '.features-track',
+					slideSelector: '.features-track .featured',
+					nextId: 'featuresNext',
+					prevId: 'featuresPrev',
+				});
+
+				initCarousel({
+					containerSelector: '.features.photos',
+					trackSelector: '.features-track',
+					slideSelector: '.features-track .featured',
+					nextId: 'photographyNext',
+					prevId: 'photographyPrev',
+				});
+			}
+
+			setupCarousels();
+			
+			window.addEventListener('resize', () => {
+				setupCarousels();
 			});
 
-			initCarousel({
-				containerSelector: '.features.photos',
-				trackSelector: '.features-track',
-				slideSelector: '.features-track .featured',
-				nextId: 'photographyNext',
-				prevId: 'photographyPrev',
-			});
 		</script>
-	</body>
+		
+		</body>
 </html>

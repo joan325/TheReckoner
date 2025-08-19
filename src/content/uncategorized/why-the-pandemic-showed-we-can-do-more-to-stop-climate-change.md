@@ -1,15 +1,11 @@
 ---
-title: "Why the pandemic showed we can do more to stop climate change"
+title: "Why The Pandemic Showed We Can Do More to Stop Climate Change"
 pubDate: 2021-03-31T04:48:21.709Z
 description: "Article."
-author: "chenjeffersonbox"
+author: "theodore_lam"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["Editorial"]
 ---
-
-Why The Pandemic Showed We Can Do More to Stop Climate Change
-
-By: Theodore Lam
 
 The COVID-19 pandemic has dominated the news cycle lately. If you turn on the radio, flip through a newspaper, or even just listen to a conversation, you’ll hear nothing but vaccines and variants, social distancing and school reopenings. The same single-mindedness pervades government policy, with much of Canada’s 2020 spending going towards COVID-19 relief. But what both the media and the government seem to have forgotten is that we are in the midst of another crisis, a crisis that far eclipses the COVID-19 pandemic in both danger and unprecedentedness, and one that has the potential to disrupt human society at an unimaginable scale. If we can sacrifice so much to stop the spread of a comparably short-lived pandemic, shouldn’t we be willing to sacrifice much more to stop the complete disruption of global ecological and climate systems?
 

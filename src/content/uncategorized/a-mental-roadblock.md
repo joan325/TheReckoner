@@ -2,14 +2,10 @@
 title: "A Mental Roadblock"
 pubDate: 2020-12-05T04:55:53.848Z
 description: "Article."
-author: "reckoner_staff"
+author: "maryam_mobashir"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]
 ---
-
-A Mental Roadblock
-
-By: Maryam Mobashir
 
 Today, one in every five people deal with mental health issues in Canada \[1\]. With such a high number of people affected by mental health issues, it would be fair to assume that there is also a large number of people who seek treatment for their mental health. Unfortunately, this is not the case. Due to stigmas and social taboos surrounding mental health, people are not seeking the necessary treatment.
 

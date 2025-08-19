@@ -4,7 +4,7 @@ pubDate: 2019-11-01T03:06:34.978Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 **Mickey Mouse**

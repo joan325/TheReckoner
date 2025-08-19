@@ -1,8 +1,8 @@
 ---
-title: "A Behemoth Tale Eric Wang "
+title: "A Behemoth Tale"
 pubDate: 2017-03-04T03:38:04.543Z
 description: "Article."
-author: "laurenicious"
+author: "Eric Wang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]
 ---
@@ -11,11 +11,11 @@ A behemoth tale
 
 I never could enjoy the great outdoors. Albeit beautiful, I found it too noisy, too muddy, and way too itchy. I regard myself as a scrupulously clean individual. My nails are cut to the flesh, their soft pads untarnished by dirt. My hands are rigorously washed with soap, without a streak or stain. So when dragged out to camp in the wilderness, the world became alien to me.
 
-    It seemed as if there was always something to do; pitch tents, poke the fire, fend off incessant gnats. As it came to dinner, a small dilapidated tractor coughed its way towards the campsite, delivering cold pizza in featureless boxes. Regardless, it was time to wash my hands. However, the only thing around the campsite was an abundance of hand sanitizer.
+It seemed as if there was always something to do; pitch tents, poke the fire, fend off incessant gnats. As it came to dinner, a small dilapidated tractor coughed its way towards the campsite, delivering cold pizza in featureless boxes. Regardless, it was time to wash my hands. However, the only thing around the campsite was an abundance of hand sanitizer.
 
-    No matter how much I rubbed or wiped, the soot and grime did not leave my hands. Abandoning my lost hope, I dejectedly munched on my meal.
+No matter how much I rubbed or wiped, the soot and grime did not leave my hands. Abandoning my lost hope, I dejectedly munched on my meal.
 
-    My sour thoughts were soon dashed when a vital concern dawned on me.
+My sour thoughts were soon dashed when a vital concern dawned on me.
 
 Where were the washrooms?
 
@@ -41,10 +41,10 @@ At that moment, my heart was not the only thing that dropped.
 
 “Oh s-” I exclaimed, expressing a word appropriate to the situation.
 
-    My insides went white with fear and I let out a scream. I lost all sense of rationale and clawed at the door. After fumbling on it twice to no avail, I realized it was still locked.
+My insides went white with fear and I let out a scream. I lost all sense of rationale and clawed at the door. After fumbling on it twice to no avail, I realized it was still locked.
 
-    Pulling up my pants, I kept my gaze locked on the moth. Although off-balance, it was steadily coursing towards me, ready to take its revenge. Unbuckling the lock, I tumbled out and ran away, screaming gibberish.
+Pulling up my pants, I kept my gaze locked on the moth. Although off-balance, it was steadily coursing towards me, ready to take its revenge. Unbuckling the lock, I tumbled out and ran away, screaming gibberish.
 
-    I wanted vengeance. Armed with a can of insect repellant, I returned to take back my dignity. Busting open the door, I shook the can and unleashed its contents. Laughing maniacally, I accidentally tasted the toxins, coughing and spluttering from its bitterness. Alas, the moth could not withstand my continued assault. It teetered around and flew through the open door, signalling its defeat.
+I wanted vengeance. Armed with a can of insect repellant, I returned to take back my dignity. Busting open the door, I shook the can and unleashed its contents. Laughing maniacally, I accidentally tasted the toxins, coughing and spluttering from its bitterness. Alas, the moth could not withstand my continued assault. It teetered around and flew through the open door, signalling its defeat.
 
-    As it flew away, I closed the door contently. Finishing my business with the moth, I finally finish my own business, light as a butterfly.
+As it flew away, I closed the door contently. Finishing my business with the moth, I finally finish my own business, light as a butterfly.

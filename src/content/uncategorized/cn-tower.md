@@ -4,7 +4,7 @@ pubDate: 2018-12-01T02:46:51.943Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Fourteen MGCI students caught the sunrise on the top of Canada’s tallest building, the CN Tower, after climbing up its 1776 steps in the early morning of 24 November 2018\.

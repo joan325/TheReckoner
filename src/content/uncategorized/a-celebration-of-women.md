@@ -4,7 +4,7 @@ pubDate: 2019-04-13T01:55:47.705Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 Since 1910, International Women’s Day has been celebrated on 8 March every year to acknowledge the accomplishments of women. It originally began as a symbol to protest women’s worker rights and support suffrage movements around the world, and has continued today to advocate for gender equality.

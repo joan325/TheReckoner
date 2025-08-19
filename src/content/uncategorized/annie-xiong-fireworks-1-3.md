@@ -1,8 +1,8 @@
 ---
-title: "Annie Xiong - fireworks (1/3)"
+title: "fireworks (1/3)"
 pubDate: 2021-03-31T17:23:18.131Z
 description: "Article."
-author: "reckoner_staff"
+author: "annie_xiong"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]
 ---

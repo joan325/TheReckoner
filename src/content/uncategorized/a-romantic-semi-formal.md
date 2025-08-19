@@ -4,7 +4,7 @@ pubDate: 2018-02-23T22:59:15.477Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
 
 On 15 February February 2018, Marc Garneau held its annual Semi-Formal dance at Celebrations Banquet Hall from 6:30 pm to 10:30 pm. The event was organized by Student Activity Council’s (SAC) Social Convenor, Muqadas Eman.

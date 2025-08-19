@@ -68,9 +68,9 @@ const { category, page, allPosts } = Astro.props;
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 0px;
-				max-height: 200px;
-				width: 100%;
-				height: auto;
+				height: 160px;
+				width: auto;
+				min-width: 100%;
 			}
 			ul li a {
 				display: block;
@@ -98,7 +98,7 @@ const { category, page, allPosts } = Astro.props;
                 background-color: rgb(var(--white));
 				border-radius: 3px;
 				box-shadow: var(--box-shadow-2);
-                border-top: 3px solid var(--accent);
+                border-top: 4px solid var(--accent);
 			}
             .latest-box > ul {
                 background-color: rgb(var(--white));
@@ -133,21 +133,28 @@ const { category, page, allPosts } = Astro.props;
                 list-style: none;
                 height: 100%;
 			}
+			ul li.featured img {
+				max-height: 300px;
+				min-width: auto;
+			}
 			.latest-box .featured img {
 				width: calc(100% - 2rem);
+				height: 100%;
                 margin: 1rem 1rem 0rem;
 				border-radius: 0px;
 			}
 
-			.latest-box .highlighted {
+			.latest-box li.highlighted {
 				grid-column: 2;
 				display: flex;
 				align-items: center;
                 width: 100%;
 			}
-			.latest-box .highlighted img {
-				width: 4em;
-				height: 3em;
+			.latest-box li.highlighted img {
+				min-width: auto;
+				width: 5em;
+				aspect-ratio: 3 / 2;
+				height: auto;
 				flex-shrink: 0;
                 margin: 0rem 0.5rem 1rem 1rem;
 			}
@@ -169,22 +176,33 @@ const { category, page, allPosts } = Astro.props;
             }
 
 			@media (max-width: 720px) {
+				* {
+					box-shadow: none !important;
+				}
 				main {
-					width: 100%;
+					width: 75%;
 					padding: 0 1em;
 				}
-				.date {
-					padding-bottom: 1rem;
+				.latest-box .title {
+					padding-top: 0.5rem;
 				}
 				ul {
 					margin-top: 0;
+					display: flex;
+					gap: 0;
 				}
 				.latest-box {
 					margin-top: 2rem;
+					display: flex;
+					flex-direction: column;
+				}
+				ul li img {
+					height: 200px;
 				}
 				ul,
 				.latest-box {
-					display: block;
+					display: flex;
+					flex-direction: column;
 					background-color: transparent;
 					box-shadow: none;
 					margin-bottom: 0;
@@ -197,7 +215,8 @@ const { category, page, allPosts } = Astro.props;
 				.latest-box .featured {
 					width: 100%;
 					text-align: center;
-					margin-bottom: 1rem;
+					margin-bottom: 2rem;
+					border-radius: 4px !important;
 				}
 				.latest-box img {
 					margin: 0 !important;
@@ -211,19 +230,20 @@ const { category, page, allPosts } = Astro.props;
 					text-align: center;
 					margin-bottom: 1rem;
 					background-color: white;
-					border-radius: 3px;
-					box-shadow: var(--box-shadow-2);
 				}
-				.latest-box .featured img,
-				.latest-box .highlighted img {
+				.latest-box li.featured img,
+				.latest-box li.highlighted img {
 					width: 100%;
 					margin-bottom: 0.5rem;
-					max-height: 200px;
-					height: auto;
+					height: 200px;
+					aspect-ratio: auto;
 					border-radius: 0px;
 				}
 				.latest-box .featured a,
 				.latest-box .highlighted a {
+					width: 100%;
+					height: auto;
+					margin-top: 0;
 					display: block;
 					text-decoration: none;
 					transition: 0.2s ease;
@@ -235,10 +255,14 @@ const { category, page, allPosts } = Astro.props;
 				}
 				.mobile-latest {
 					background-color: rgb(var(--white));
+					border-radius: 3px;
 					margin-bottom: 1em;
+					width: 100%;
 				}
 				.mobile-latest h4 {
-					padding-bottom: 0.5em;
+					padding-bottom: 0.6em;
+					margin-bottom: 0;
+					width: 100%;
 				}
 			}
 		</style>

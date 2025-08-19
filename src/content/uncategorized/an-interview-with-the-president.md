@@ -2,16 +2,10 @@
 title: "An Interview with the President"
 pubDate: 2016-11-01T01:33:06.106Z
 description: "Article."
-author: "uknown_person"
+author: "henry_tang"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]
 ---
-
-An Interview with the President
-
-By: Henry Tang
-
-Photo: Sophia Liu
 
 Every June, members for the upcoming year’s Student Activity Council are chosen through a school-wide election. Representing and coordinating the student body of MGCI this school year is SAC President Zaid Irfani Baig. We checked in with Zaid to ask him a few questions about his experience so far.
 
@@ -19,6 +13,7 @@ He said his first month as SAC President was rather rushed. He admitted he spent
 
 ![Photo: Sophia Liu][image1]
 
+Photo: Sophia Liu
 The main objective of SAC this year is to introduce new events and bring back old ones that “last year’s council couldn’t succeed in.” A few planned events include Fall Fest, Christmas Show, a Haunted House, Varsity Jacket sales and a graduation trip for the Grade 12 students. All of these events and changes are meant to increase school spirit, which is after all, “the reason why Student Council is there.”
 
 This year, SAC also plans to amp up usage of social media. Platforms such as the MGCI Updates Facebook Group, Youtube, and the recently created Snapchat account will be used to keep students updated. In addition, SAC is also in the process of making weekly vlogs that will focus on school events. Zaid said that these will be posted shortly as instalments of Garneau News.

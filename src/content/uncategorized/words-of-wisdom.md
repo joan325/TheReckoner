@@ -1,13 +1,11 @@
 ---
-title: "News - Words of Wisdom"
+title: "Words of Wisdom"
 pubDate: 2014-11-12T01:46:29.760Z
 description: "Article."
-author: "reckoner_staff"
+author: "sheila_balu"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
-tags: ["Uncategorized"]
+tags: ["News"]
 ---
-
-## **Words of Wisdom**
 
 [Sheila Balu](http://thereckoner.ca/author/sheilabalu/) ⋅ 6 November 2014 ⋅ [comment](http://thereckoner.ca/words-of-wisdom/#disqus_thread)
 

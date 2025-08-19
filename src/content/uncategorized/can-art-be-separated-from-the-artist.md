@@ -2,14 +2,11 @@
 title: "Can Art be Separated from the Artist?"
 pubDate: 2019-04-24T12:44:06.840Z
 description: "Article."
-author: "reckoner_staff"
+author: "marzan_hamid"
+additionalAuthors: ["andrew_zou_li"]
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]
 ---
-
-Can Art be Separated from the Artist?
-
-By: Marzan Hamid and Andrew Zou Li
 
 It has become increasingly common for a beloved artist to be uncovered as a criminal, an abuser, a monster whose actions we will never forgive. At the same time, we acknowledge that they are not only our creators and entertainers, but idols of society that continue to represent everything we’ve ever wanted to see and more. It is undeniable that we will want to continuing praising works from the likes of Kevin Spacey, Hedley, and Harvey Weinstein. But to immerse ourselves in the weapons of their wrongdoings—believing that it is acceptable because it is just art—is grievously blindsighted. Claiming that the art can be separated from the artist is saying that a few enjoyable pieces of media are more important than acts of life-changing injustices.
 

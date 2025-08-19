@@ -32,6 +32,9 @@
   font-style: normal;
   font-display: swap;
 }
+* {
+  font-family: "Open Sans", sans-serif;
+}
 body {
   font-family: "Open Sans", sans-serif;
   margin: 0;

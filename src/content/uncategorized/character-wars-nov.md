@@ -4,7 +4,7 @@ pubDate: 2019-11-01T03:06:34.977Z
 description: "Article."
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
-tags: ["Uncategorized"]
+tags: ["Life"]
 ---
 
 **Best Villain**
@@ -13,15 +13,15 @@ tags: ["Uncategorized"]
 
 There's no competition when it comes to the best villain of all time. Yzma from _The Emperor's New Groove_ has been slaying the game since the movie first came out seventeen years ago. Let's do a quick rundown of her credentials, shall we?
 
-       1\) The woman is fierce, and she's got the fiercest eyelash game to prove it. Those babies must be at least 5 inches long, and they've even got those little bobble things at the end to boot. Her eyelashes accentuate not only the malicious gleam of her eyes but most importantly, the savagery of her eye-rolls as she sassily plots to overthrow Emperor Kuzco. She’s never afraid to get her hands dirty, always side-by-side with her henchman, Kronk, who works throughout the movie to fix his mistake of giving the Emperor tonic instead of poison. Which brings me to...
+1\) The woman is fierce, and she's got the fiercest eyelash game to prove it. Those babies must be at least 5 inches long, and they've even got those little bobble things at the end to boot. Her eyelashes accentuate not only the malicious gleam of her eyes but most importantly, the savagery of her eye-rolls as she sassily plots to overthrow Emperor Kuzco. She’s never afraid to get her hands dirty, always side-by-side with her henchman, Kronk, who works throughout the movie to fix his mistake of giving the Emperor tonic instead of poison. Which brings me to...
 
-       2\) Her compassion. Yep, I said it. Good villains can be compassionate too\! Let's not forget how good Yzma was to her beloved Kronk. How many times have we watched villains treating their minions like scum in other films or TV shows? That was rarely the case with this iconic duo, and it's certainly clear why: Kronk is all you could ever ask for in a man, let alone a henchman. He cooks gourmet Peruvian meals, speaks chipmunk, has the hunkiest muscles and is complete husband-material. You just know that Yzma's got something special if she was able to make a catch like him.
+2\) Her compassion. Yep, I said it. Good villains can be compassionate too\! Let's not forget how good Yzma was to her beloved Kronk. How many times have we watched villains treating their minions like scum in other films or TV shows? That was rarely the case with this iconic duo, and it's certainly clear why: Kronk is all you could ever ask for in a man, let alone a henchman. He cooks gourmet Peruvian meals, speaks chipmunk, has the hunkiest muscles and is complete husband-material. You just know that Yzma's got something special if she was able to make a catch like him.
 
-      3\) Was it her smarts? Her sense of style? Her ambition? It's all three if you ask me. And let’s not forget f how she was years ahead of her time with the whole pointy free-the-nipple thing she had going on before freeing the nipple was even a thing. That's some feminist dedication right there.
+3\) Was it her smarts? Her sense of style? Her ambition? It's all three if you ask me. And let’s not forget f how she was years ahead of her time with the whole pointy free-the-nipple thing she had going on before freeing the nipple was even a thing. That's some feminist dedication right there.
 
-       4\) Yzma's got a great colour scheme. The colour purple一like green一is typical of most cartoon villains, but on Yzma, it's totally original. Her flawless eye-shadow and perfect purple pout set her leagues away from every other wannabe in Disney or Dreamworks. Even when she's accidentally turned into a fluffy cat, Yzma takes her lilac colour palette in stride as she deals with the turn of the events in her signature classy way.
+4\) Yzma's got a great colour scheme. The colour purple一like green一is typical of most cartoon villains, but on Yzma, it's totally original. Her flawless eye-shadow and perfect purple pout set her leagues away from every other wannabe in Disney or Dreamworks. Even when she's accidentally turned into a fluffy cat, Yzma takes her lilac colour palette in stride as she deals with the turn of the events in her signature classy way.
 
-       So there you have it. Not yet convinced that Yzma the best villain to grace history? Give The Emperor's New Groove a watch and you'll never think differently again.
+So there you have it. Not yet convinced that Yzma the best villain to grace history? Give The Emperor's New Groove a watch and you'll never think differently again.
 
 **Napoleon**
 

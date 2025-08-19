@@ -10,8 +10,8 @@
     "id": "akshaya_harendran",
     "name": "Akshaya Harendran",
     "guard": "13",
-    "bio": "Akshaya Harendran is a print board member and a grade 10 student. She's married to her Spotify (and Alex Turner), likes reading (since her life lacks a lot), singing, sleeping, and is always capturing moments with her loved ones.",
-    "image": "/author-images/akshaya_harendran.jpg"
+    "bio": "Akshaya Harendran is a Grade 12 student and the Photography Manager. She’s passionate about capturing moments and has a love for escape rooms, music, concerts, art, side quests and psychology. Akshaya enjoys spending time with the people she cares about and is always up for a good conversation. Feel free to say hi!" ,
+    "image": "/author-images/akshaya_harendran.png"
   },
   {
     "id": "alvin_pan",
@@ -80,8 +80,8 @@
     "id": "elizabeth_soutchanski",
     "name": "Elizabeth Soutchanski",
     "guard": "13",
-    "bio": "No bio available",
-    "image": "/author-images/default.jpg"
+    "bio": "This is Liz Soutchanski, a grade 12 student, and she will be the manager for the illustrations board on the Reckoner this year :) If you ever have a spare sushi, please give it to her to help fuel her everyday activities which include overlistening the song Amoeba by Clairo and rewatching Criminal Minds for the 20th time! Her life goals include becoming a part of the cat distribution system, meeting someone who makes more “your mom” jokes than she does, and finding a way to stop being scared of talking over the phone.",
+    "image": "/author-images/elizabeth_soutchanski.webp"
   },
   {
     "id": "elizabeth_wei",
@@ -101,7 +101,7 @@
     "id": "emily_guo",
     "name": "Emily Guo",
     "guard": "13",
-    "bio": "Emily is a Grade 9 TOPS student at MGCI. She is in Print and Web Development, where she puts aesthetics onto aesthetics to make something aesthetic. She enjoys a variety of things, including the sciences (+ computer science!!), anime, and grinding mobile games. Emily is also a manga enthusiast who needs to read less manga and focus more on school (please do your work).",
+    "bio": "Emily Guo is in eleventh grade and is one of the Print Board Managers for the Fifteenth Guard. She spends her (not so) free time listening to music, reading books/manga, or playing some game on her phone while happily pretending deadlines don't exist. Feel free to talk to her on discord or in person about pretty much anything (she's always looking for someone who has read Kengan to yap with).",
     "image": "/author-images/emily_guo.jpg"
   },
   {
@@ -115,7 +115,7 @@
     "id": "emily_pan",
     "name": "Emily Pan",
     "guard": "13",
-    "bio": "Hey Garneau! Meet Emily Pan, one of the illustrators for the Reckoner. Stay tuned for super awesome art from the illustration board!",
+    "bio": "Hey MGCI! Meet Emily Pan, one of the Reckoner’s Outreach Managers for the 2025-2026 school year! She was an Illustrator for the Reckoner for the past two years. As a Grade 12 student, she’s excited to bring life into the Reckoner to make her last year at MGCI really count! Emily loves cats and enjoys painting in her spare time.",
     "image": "/author-images/emily_pan.jpg"
   },
   {
@@ -143,7 +143,7 @@
     "id": "glenn_huang",
     "name": "Glenn Huang",
     "guard": "13",
-    "bio": "Glenn Huang is a grade 10 student at MGCI and a member of the print board. In his spare time, he enjoys listening to music and scrolling endlessly through reels. His goals for this year are to reduce his screen time and become less socially awkward.",
+    "bio": "Glenn Huang is a Grade 12 TOPS student at MGCI. He's currently in his fourth year on the Print Board at The Reckoner and his second as Print Board Manager. In his free time, he enjoys watching shows, making music with friends, and taking late-night walks. If you see him out wandering, he’s likely overthinking life... or lost.",
     "image": "/author-images/glenn_huang.jpg"
   },
   {
@@ -262,8 +262,8 @@
     "id": "lovely_gebeyehu",
     "name": "Lovely Gebeyehu",
     "guard": "13",
-    "bio": "Lovely Gebeyehu, a 9th grade student, is a Life Board writer and hopes to give you a look into her thoughts, opinions, and mind. Not because their relevant or revolutionary, but rather because wants to prove that what's going on up there in our minds is both lovely and yet not - not half and half, but everything in between. Just as life isn't - can be, but endures to not.",
-    "image": "/author-images/lovely_gebeyehu.jpg"
+    "bio": "Introducing you to Lovely Gebeyehu, your current Life Board Manager and an eleventh grader. You can always find her listening to music, (un)productively typing away on her laptop, or talking with her friends. Feel free to talk to her, she's a little snarky but sincerely loves meeting new people.",
+    "image": "/author-images/lovely_gebeyehu.png"
   },
   {
     "id": "maxim_mohareb",
@@ -374,7 +374,7 @@
     "id": "tessa_nitescu",
     "name": "Tessa Nitescu",
     "guard": "13",
-    "bio": "Tessa Nitescu is a Grade 10 student. She is usually listening to a carefully cultivated ten hour playlist.",
+    "bio": "Tessa is a Grade 12 student and one of Outreach’s co-managers. She has been a member of the Outreach Board since Grade 9 and cannot wait to help this year’s Reckoner be the best yet!",
     "image": "/author-images/tessa_nitescu.jpg"
   },
   {

@@ -1,6 +1,8 @@
 ---
 import Layout from "../layouts/About.astro";
 import guards from "../../data/guards.json";
+import { Image } from "astro:assets";
+import heroImage from "../assets/placeholders/blog-placeholder-about.jpg";
 ---
 
 <style>
@@ -9,38 +11,23 @@ import guards from "../../data/guards.json";
   }
 </style>
 
+
 <Layout
   title="Who We Are"
   author="Fifteenth Guard Staff"
   description=""
-  pubDate={new Date("August 15 2025")}
-  heroImage="/blog-placeholder-about.jpg"
+  pubDate={new Date("August 13 2025")}
+  heroImage={heroImage}
+  heroImageAlt="Placeholder image with a smiling face"
+  featured={false}
   imageType="Placeholder"
   tags={new Array("Uncategorized")}
 >
   <p>
-    (Fifteenth Guard description) Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-    viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi
-    quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum.
-    Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis
-    egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum
-    lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst
-    quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-    quisque sagittis purus sit amet.
+    <!-- (Fifteenth Guard description) -->
   </p>
   <p>
-    (General description) Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Vitae ultricies leo integer malesuada nunc vel risus commodo viverra.
-    Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis
-    eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum.
-    Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis
-    egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum
-    lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst
-    quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-    quisque sagittis purus sit amet.
+    <!-- (General description) -->
   </p>
 
   <p>
@@ -52,7 +39,7 @@ import guards from "../../data/guards.json";
       guards.map(({ guard_name, guard_title }) => (
         (guard_title !== "Fifteenth Guard") && (<li> <!--change to const current in import -->
           <a href={`/about/${guard_name}`}>
-            <p>{guard_title}</p>
+            <p style="display: inline;">{guard_title}</p>
           </a>
         </li>)
       ))

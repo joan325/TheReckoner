@@ -8,10 +8,6 @@ heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]
 ---
 
-A Tasteless Macron
-
-By: Maryam Mobashir and Urooba Shaikh
-
 Once again, the French government has stupefied the world by imposing their unwarranted and hypocritical “secularist” values. And to no one’s surprise it targets—_drumroll please_—French Muslims. The western world’s centre of Islamophobia has pulled the rug out from under the feet of Muslims—or to be more correct, pulled the scarves off the heads of Muslim women. The French Senate recently approved a law that prohibits girls who are under the age of eighteen from wearing the hijab in public spaces. The legislation also banned mothers from wearing the hijab when accompanying their children to swimming pools or on school trips \[1\].
 
 Perhaps the most appalling aspect of France’s continued Islamophobic regime is the double standards it employs in the treatment of its Muslim citizens. French President Emmanuel Macron had previously voiced his belief that the hijab was not in accordance with French ideals, and a ban on face coverings would empower women \[1\]. But is policing the way women dress really representative of feminism? The correct answer is no. In reality, this law seeks to take away the authority of Muslims on how they choose to dress and, rather than empowering, serves to oppress them. Every woman must have the right to decide what they wear, and only then can they be truly liberated. It is not for a government body to decide what empowers a person, it is for the people to decide. So why don’t Macron and his government truly say what they mean, that feminism to them is for everyone other than Muslim women?
