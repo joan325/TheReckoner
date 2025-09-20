@@ -10,6 +10,12 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Guard from '../layouts/Guard.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { getPrintEditions } from "../utils/getPrintEditions";
+
+const editions = getPrintEditions();
+const sortedVolumes = Object.keys(editions)
+  .map(Number)
+  .sort((a, b) => b - a);
 
 ---
 <!doctype html>
@@ -98,6 +104,23 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
         max-width: 100%;
         margin-inline: auto;
       }
+      .print-links {
+        margin-inline: auto;
+        width: 80%;
+      }
+      .print-links details {
+        margin-bottom: 0.5em;
+      }
+      .print-links summary {
+        cursor: pointer;
+      }
+      .print-links li {
+        padding-bottom: 0;
+      }
+      .print-links a {
+        text-align: center;
+        padding: 0.5em;
+      }
 
       @media (max-width: 720px) {
 				main {
@@ -135,6 +158,29 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
             <p>
                 <!--Description-->
             </p>
+
+            <h2>Links</h2>
+
+            <div class="print-links">
+            {sortedVolumes.map((volume) => (
+              <details>
+                <summary>Volume {volume}</summary>
+                <ul class="print-links-list">
+                  {editions[volume].map((e) => {
+                    const issueMatch = e.file.match(/n(\d+)/i);
+                    const issueNumber = issueMatch ? issueMatch[1] : "?";
+                    return (
+                      <li>
+                        <a href={e.url} target="_blank" rel="noopener noreferrer">
+                          Issue {issueNumber}
+                        </a>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </details>
+            ))}
+            </div>
 
             <!--Print editions-->
             <h2>Volume 12, Issue 3</h2>
