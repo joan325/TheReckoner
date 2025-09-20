@@ -2,7 +2,7 @@
 title: "A Foreigner's Guide to Travels in Paris"
 pubDate: 2015-04-21T01:48:36.353Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "So You Think You Can Small Talk"
 pubDate: 2016-01-14T05:05:26.619Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---

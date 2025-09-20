@@ -1,5 +1,5 @@
 ---
-title: "News: TF - Mr. Alexander"
+title: "Teacher Feature - Mr. Alexander"
 pubDate: 2018-11-09T23:04:26.201Z
 description: "Article."
 author: "deifilia_to"

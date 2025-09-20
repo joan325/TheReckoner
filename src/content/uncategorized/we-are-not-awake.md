@@ -2,7 +2,7 @@
 title: "We Are (Not) Awake"
 pubDate: 2015-05-25T05:24:52.151Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---

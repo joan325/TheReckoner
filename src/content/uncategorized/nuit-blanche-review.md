@@ -2,7 +2,7 @@
 title: "Nuit Blanche Review"
 pubDate: 2015-10-13T00:52:31.349Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---

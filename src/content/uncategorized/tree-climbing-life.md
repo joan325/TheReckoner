@@ -2,7 +2,7 @@
 title: "Tree Climbing (Life)"
 pubDate: 2015-02-14T02:32:09.212Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---

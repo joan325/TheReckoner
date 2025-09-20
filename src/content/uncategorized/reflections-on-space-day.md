@@ -2,7 +2,7 @@
 title: "Reflections on Space Day"
 pubDate: 2016-04-19T03:18:39.626Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---

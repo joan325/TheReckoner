@@ -2,7 +2,7 @@
 title: "My Little Brittle Unicorn"
 pubDate: 2014-12-05T22:49:25.481Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]
 ---

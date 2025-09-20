@@ -2,7 +2,7 @@
 title: "Life: Forever"
 pubDate: 2015-03-24T02:17:45.136Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]
 ---

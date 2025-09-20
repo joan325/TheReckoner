@@ -2,7 +2,7 @@
 title: "Copy of The World We Live In"
 pubDate: 2016-10-31T02:03:35.976Z
 description: "Article."
-author: "laurenicious"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---

@@ -2,7 +2,7 @@
 title: "Strangers by Amy Chen"
 pubDate: 2017-04-09T19:13:32.922Z
 description: "Article."
-author: "laurenicious"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---

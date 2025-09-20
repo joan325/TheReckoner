@@ -2,7 +2,7 @@
 title: "Life: My Own Christian Grey Flavoured Disaster"
 pubDate: 2015-04-19T03:46:06.312Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]
 ---

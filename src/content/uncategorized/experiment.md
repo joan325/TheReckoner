@@ -1,8 +1,8 @@
 ---
-title: "Akshaya Varakunan - experiment"
+title: "experiment"
 pubDate: 2021-03-31T04:53:10.996Z
 description: "Article."
-author: "reckoner_staff"
+author: "akshaya_varakunan"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]
 ---

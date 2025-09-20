@@ -2,7 +2,7 @@
 title: "Self-Defense "
 pubDate: 2016-01-10T00:43:36.095Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]
 ---

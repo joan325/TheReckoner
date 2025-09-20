@@ -2,7 +2,7 @@
 title: "The Sound of Sound"
 pubDate: 2015-02-18T02:24:39.800Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---

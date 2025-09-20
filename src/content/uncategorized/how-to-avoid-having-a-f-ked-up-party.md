@@ -2,7 +2,7 @@
 title: "How to avoid having a F**ked up Party"
 pubDate: 2015-05-25T02:53:21.178Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---

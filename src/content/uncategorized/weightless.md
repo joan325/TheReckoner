@@ -2,7 +2,7 @@
 title: "Weightless"
 pubDate: 2014-12-05T22:48:52.581Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]
 ---

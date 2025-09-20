@@ -2,7 +2,7 @@
 title: "Shrink"
 pubDate: 2014-12-05T22:48:34.503Z
 description: "Article."
-author: "cindycream"
+author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]
 ---
