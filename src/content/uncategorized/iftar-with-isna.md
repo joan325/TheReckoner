@@ -1,7 +1,7 @@
 ---
 title: "Iftar With ISNA"
 pubDate: 2021-05-01T21:42:45.310Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zahra_ahmed"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Limericks"
 pubDate: 2015-10-05T23:16:41.901Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

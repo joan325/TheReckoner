@@ -1,7 +1,7 @@
 ---
 title: "Should Transgender Teens Require Parental Permission to Transition?"
 pubDate: 2021-02-07T01:18:45.154Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

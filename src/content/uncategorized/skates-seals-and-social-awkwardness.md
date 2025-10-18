@@ -1,7 +1,7 @@
 ---
 title: "Skates, Seals, and Social Awkwardness"
 pubDate: 2021-06-24T23:33:46.684Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

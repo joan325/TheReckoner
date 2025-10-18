@@ -1,7 +1,7 @@
 ---
 title: "They - Areeba Asghar"
 pubDate: 2017-02-12T16:52:00.121Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

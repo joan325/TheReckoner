@@ -1,7 +1,7 @@
 ---
 title: "CRISPR: An Analysis of its Future and Ethics"
 pubDate: 2021-06-02T14:15:35.007Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nuha_khan"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

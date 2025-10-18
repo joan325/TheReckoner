@@ -1,7 +1,7 @@
 ---
 title: "SHSM"
 pubDate: 2015-05-27T00:52:26.074Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "sqiu"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

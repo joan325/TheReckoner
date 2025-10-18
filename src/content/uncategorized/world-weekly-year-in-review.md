@@ -1,7 +1,7 @@
 ---
 title: "World Weekly: Year in Review"
 pubDate: 2017-02-05T23:58:12.533Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

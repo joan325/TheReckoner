@@ -1,7 +1,7 @@
 ---
 title: "This is a Wake-Up Call"
 pubDate: 2017-04-10T21:19:10.144Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

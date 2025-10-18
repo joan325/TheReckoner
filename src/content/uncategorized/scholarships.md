@@ -1,7 +1,7 @@
 ---
 title: "Scholarships "
 pubDate: 2015-10-17T03:35:56.531Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

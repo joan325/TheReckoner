@@ -1,7 +1,7 @@
 ---
 title: "An Interview with the President"
 pubDate: 2016-11-01T01:33:06.106Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "henry_tang"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

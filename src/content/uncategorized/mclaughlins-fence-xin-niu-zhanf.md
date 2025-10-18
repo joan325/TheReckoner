@@ -1,7 +1,7 @@
 ---
 title: "McLaughlin's Fence - Xin Niu Zhanf"
 pubDate: 2015-02-17T01:35:07.252Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

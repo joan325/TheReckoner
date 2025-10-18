@@ -1,7 +1,7 @@
 ---
 title: "Thoughts"
 pubDate: 2024-05-04T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lovely_gebeyehu"
 heroImage: "../../assets/article-images/thoughts-sadaf-jaffary.png"
 tags: ["Life"]

@@ -1,7 +1,7 @@
 ---
 title: "Soccer: Cougars Face Central Toronto Academy for a 4-6 Loss"
 pubDate: 2016-10-12T18:08:56.319Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

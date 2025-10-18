@@ -1,7 +1,7 @@
 ---
 title: "A Book That Made Us Feel"
 pubDate: 2016-03-23T05:15:08.838Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

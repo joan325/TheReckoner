@@ -1,7 +1,7 @@
 ---
 title: "The Freshman Club - Cheng Cheng Lin"
 pubDate: 2015-10-13T00:31:59.236Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

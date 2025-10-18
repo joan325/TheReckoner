@@ -1,7 +1,7 @@
 ---
 title: "Culture of Silence: How Victim Shaming Impacts Rape Survivors"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "susannah_welke"
 heroImage: "../../assets/article-images/culture-of-silence-sonia-ravindran.png"
 imageType: "Art"

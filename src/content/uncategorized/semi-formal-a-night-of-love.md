@@ -1,7 +1,7 @@
 ---
 title: "Semi-Formal: A Night of Love"
 pubDate: 2019-03-02T15:45:18.497Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

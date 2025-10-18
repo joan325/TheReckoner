@@ -1,7 +1,7 @@
 ---
 title: "Ernesto, A Fellow"
 pubDate: 2021-10-23T04:17:43.097Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "ada_aksoy"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

@@ -1,7 +1,7 @@
 ---
 title: "Prediction of Potential—The '19 ROTY prize"
 pubDate: 2019-04-14T17:30:16.161Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "andrew_lqh"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

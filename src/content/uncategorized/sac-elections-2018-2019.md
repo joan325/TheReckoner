@@ -1,7 +1,7 @@
 ---
 title: "SAC ELECTIONS 2018-2019"
 pubDate: 2018-06-10T00:24:51.284Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Students Become Aware at Clubs Fair"
 pubDate: 2018-11-10T22:49:30.848Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

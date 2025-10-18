@@ -1,7 +1,7 @@
 ---
 title: "The Sweeping Tale of a Day in the Life of the Caretaker"
 pubDate: 2019-04-14T02:13:06.866Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jackie_huo"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

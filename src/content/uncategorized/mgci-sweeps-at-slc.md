@@ -1,7 +1,7 @@
 ---
 title: "MGCI Sweeps at SLC"
 pubDate: 2018-04-23T23:12:02.210Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jessicaguo"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

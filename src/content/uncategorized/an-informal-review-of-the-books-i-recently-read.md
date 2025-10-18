@@ -1,7 +1,7 @@
 ---
 title: "An Informal Review of the Books I Recently Read "
 pubDate: 2016-01-11T06:07:56.222Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

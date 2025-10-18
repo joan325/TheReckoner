@@ -1,7 +1,7 @@
 ---
 title: "Course Feature: Cullinary Arts"
 pubDate: 2016-11-27T08:02:40.037Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

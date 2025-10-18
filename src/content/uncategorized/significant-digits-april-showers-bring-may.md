@@ -1,7 +1,7 @@
 ---
 title: "Significant Digits: April showers bring May...Elections?"
 pubDate: 2019-06-08T03:37:42.724Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rqgoob"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

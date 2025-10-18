@@ -1,7 +1,7 @@
 ---
 title: "Letter to University Applicants"
 pubDate: 2017-06-12T01:21:35.675Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "julien_lin"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

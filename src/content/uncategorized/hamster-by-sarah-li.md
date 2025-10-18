@@ -1,7 +1,7 @@
 ---
 title: '"Hamster" by Sarah Li'
 pubDate: 2021-04-28T14:05:43.053Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

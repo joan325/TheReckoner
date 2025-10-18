@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: The Price of Knowledge"
 pubDate: 2017-03-06T05:01:48.841Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]

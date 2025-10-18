@@ -1,7 +1,7 @@
 ---
 title: "Snooze or Lose?"
 pubDate: 2021-10-08T00:06:48.833Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

@@ -1,7 +1,7 @@
 ---
 title: "Why We Should Go Back to 45 Minute Periods"
 pubDate: 2021-10-23T04:20:22.318Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rand_alahmad"
 additionalAuthors: ["laksha_sivakumar"]
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"

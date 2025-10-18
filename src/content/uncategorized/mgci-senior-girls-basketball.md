@@ -1,7 +1,7 @@
 ---
 title: "Breaking Gender Barriers With MGCI’s Senior Girls Basketball Team"
 pubDate: 2023-12-24T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thanusa_paskaran"
 heroImage: "../../assets/article-images/mgci-senior-girls-basketball-abdallah-salim-juma-ali.jpg"
 imageType: "Photo"

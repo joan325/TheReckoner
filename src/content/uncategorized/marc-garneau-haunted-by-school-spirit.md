@@ -1,7 +1,7 @@
 ---
 title: "Marc Garneau Haunted by School Spirit"
 pubDate: 2017-11-06T01:41:10.333Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

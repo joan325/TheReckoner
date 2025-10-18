@@ -1,7 +1,7 @@
 ---
 title: "Suitor"
 pubDate: 2021-06-24T23:01:40.922Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]

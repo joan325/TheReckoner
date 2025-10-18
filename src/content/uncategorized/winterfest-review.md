@@ -1,7 +1,7 @@
 ---
 title: "News: Winterfest Review"
 pubDate: 2015-02-18T02:04:48.201Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

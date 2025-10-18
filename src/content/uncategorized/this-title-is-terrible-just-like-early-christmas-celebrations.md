@@ -1,7 +1,7 @@
 ---
 title: "This Title is Terrible, just like Early Christmas Celebrations"
 pubDate: 2020-12-15T21:39:31.277Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

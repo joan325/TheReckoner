@@ -1,7 +1,7 @@
 ---
 title: "Art Smarts: Music & Arts Night 2015"
 pubDate: 2016-01-12T06:43:39.504Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thamima_rahman"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

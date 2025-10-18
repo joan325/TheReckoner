@@ -1,7 +1,7 @@
 ---
 title: "Noting the Voting"
 pubDate: 2014-12-10T02:32:56.855Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Is Clickbait Dead? Click Here to Find Out!"
 pubDate: 2017-02-05T05:00:44.670Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

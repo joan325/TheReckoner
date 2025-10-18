@@ -1,7 +1,7 @@
 ---
 title: "Bridget's Viola Piece"
 pubDate: 2016-12-09T14:27:50.200Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "bridget_huh"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

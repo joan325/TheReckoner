@@ -1,7 +1,7 @@
 ---
 title: "From London to Toronto: A Computer Science Teacher’s Odyssey"
 pubDate: 2021-06-06T01:36:36.575Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zahra_ahmed"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

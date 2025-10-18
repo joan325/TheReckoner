@@ -1,7 +1,7 @@
 ---
 title: "Monsters"
 pubDate: 2016-10-30T21:38:04.125Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "hannah_nie"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

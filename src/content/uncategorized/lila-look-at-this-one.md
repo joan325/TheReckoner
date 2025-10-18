@@ -1,7 +1,7 @@
 ---
 title: "LILA LOOK AT THIS ONE"
 pubDate: 2017-02-07T03:51:43.609Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

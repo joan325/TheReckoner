@@ -1,7 +1,7 @@
 ---
 title: "Editorial: Susie's Piece"
 pubDate: 2015-03-25T03:21:34.504Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

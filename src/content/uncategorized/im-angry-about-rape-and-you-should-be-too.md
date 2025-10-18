@@ -1,7 +1,7 @@
 ---
 title: "I'm Angry About Rape and You Should Be Too"
 pubDate: 2016-06-15T02:12:16.657Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

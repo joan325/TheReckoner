@@ -1,7 +1,7 @@
 ---
 title: "Prom"
 pubDate: 2016-06-15T03:33:46.274Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

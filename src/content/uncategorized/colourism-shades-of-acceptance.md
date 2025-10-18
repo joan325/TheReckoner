@@ -1,7 +1,7 @@
 ---
 title: "Colourism: Shades of Acceptance"
 pubDate: 2021-03-31T04:41:17.276Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "maryam_mobashir"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

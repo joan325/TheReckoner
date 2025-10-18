@@ -1,7 +1,7 @@
 ---
 title: "The Overlea Bridge Campaign"
 pubDate: 2021-06-25T00:18:36.633Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

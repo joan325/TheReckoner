@@ -1,7 +1,7 @@
 ---
 title: "Circling Around the Inevitable"
 pubDate: 2017-04-10T05:27:28.650Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "areeba_asghar"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

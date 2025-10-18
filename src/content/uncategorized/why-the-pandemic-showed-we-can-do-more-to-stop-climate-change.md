@@ -1,7 +1,7 @@
 ---
 title: "Why The Pandemic Showed We Can Do More to Stop Climate Change"
 pubDate: 2021-03-31T04:48:21.709Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "theodore_lam"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

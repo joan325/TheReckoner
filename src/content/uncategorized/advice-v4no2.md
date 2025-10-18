@@ -1,7 +1,7 @@
 ---
 title: "Advice V4NO2"
 pubDate: 2016-01-12T05:37:44.661Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "sqiu"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

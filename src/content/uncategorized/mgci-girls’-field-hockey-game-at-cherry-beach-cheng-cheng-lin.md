@@ -1,7 +1,7 @@
 ---
 title: "MGCI Girls’ Field Hockey Game at Cherry Beach - Cheng Cheng Lin"
 pubDate: 2015-10-12T18:17:22.421Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

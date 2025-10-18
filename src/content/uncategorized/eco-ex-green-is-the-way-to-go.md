@@ -1,7 +1,7 @@
 ---
 title: "Eco-Ex: Green is the Way to Go"
 pubDate: 2017-12-10T16:27:38.019Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

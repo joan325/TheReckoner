@@ -1,7 +1,7 @@
 ---
 title: "Mr. Mirza TF"
 pubDate: 2016-06-17T23:12:49.491Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

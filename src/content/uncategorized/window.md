@@ -1,7 +1,7 @@
 ---
 title: "window"
 pubDate: 2021-04-26T02:53:15.930Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "emily_lai"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

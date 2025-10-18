@@ -1,7 +1,7 @@
 ---
 title: "News: Relay"
 pubDate: 2017-03-03T00:55:26.159Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

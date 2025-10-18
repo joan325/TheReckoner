@@ -1,7 +1,7 @@
 ---
 title: "SAC Ambassadors"
 pubDate: 2016-12-03T01:26:47.693Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

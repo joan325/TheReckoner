@@ -1,7 +1,7 @@
 ---
 title: "News: Trashion Fashion"
 pubDate: 2017-03-01T03:36:14.518Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

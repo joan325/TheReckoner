@@ -1,7 +1,7 @@
 ---
 title: "SAC Begins Club Check-Ins"
 pubDate: 2022-04-26T03:00:46.689Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "emma_wai"
 imageType: "Photo"
 imageCredit: ["david_chen-li"]

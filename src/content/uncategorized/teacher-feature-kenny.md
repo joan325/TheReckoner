@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature: Kenny"
 pubDate: 2017-01-23T15:19:24.939Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "julie_xiao"
 imageType: "Photo"
 imageCredit: ["sophia_liu"]

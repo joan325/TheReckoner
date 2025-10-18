@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Diversity at MGCI's International Night"
 pubDate: 2024-05-15T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thanusa_paskaran"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

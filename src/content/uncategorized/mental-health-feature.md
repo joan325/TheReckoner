@@ -1,7 +1,7 @@
 ---
 title: "Mental Health Feature"
 pubDate: 2018-04-15T03:09:09.715Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

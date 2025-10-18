@@ -1,7 +1,7 @@
 ---
 title: "Forgotten History, Repeated: The Bengal Famine"
 pubDate: 2017-05-14T04:41:02.147Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "ayman_kazi"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

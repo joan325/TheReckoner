@@ -1,7 +1,7 @@
 ---
 title: "Editorial: Op-Ed: C-51 (WORKING TITLE)"
 pubDate: 2015-03-24T03:55:37.320Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

@@ -1,7 +1,7 @@
 ---
 title: "A Mental Roadblock"
 pubDate: 2020-12-05T04:55:53.848Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "maryam_mobashir"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]

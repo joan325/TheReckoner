@@ -1,7 +1,7 @@
 ---
 title: "stardust"
 pubDate: 2021-06-24T22:30:58.104Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

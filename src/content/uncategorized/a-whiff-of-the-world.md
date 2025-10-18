@@ -1,7 +1,7 @@
 ---
 title: "A Whiff of the World"
 pubDate: 2016-03-23T05:58:36.533Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

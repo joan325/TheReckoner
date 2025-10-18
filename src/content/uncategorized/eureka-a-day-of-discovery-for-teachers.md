@@ -1,7 +1,7 @@
 ---
 title: "Eureka! A Day of Discovery for Teachers"
 pubDate: 2019-03-02T17:39:10.760Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Robotics"
 pubDate: 2018-12-02T14:13:51.254Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

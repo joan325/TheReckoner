@@ -1,7 +1,7 @@
 ---
 title: 'A Ghost Story'
 pubDate: 2021-04-28T16:02:52.791Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "maggie_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

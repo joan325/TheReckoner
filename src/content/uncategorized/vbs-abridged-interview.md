@@ -1,7 +1,7 @@
 ---
 title: "vB's Abridged Interview"
 pubDate: 2015-04-23T02:53:22.942Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

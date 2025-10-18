@@ -1,7 +1,7 @@
 ---
 title: "March Against Islamophobia"
 pubDate: 2017-02-03T16:17:53.734Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

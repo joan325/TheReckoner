@@ -1,7 +1,7 @@
 ---
 title: "CRISPR Debate Column"
 pubDate: 2016-03-23T06:11:19.047Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

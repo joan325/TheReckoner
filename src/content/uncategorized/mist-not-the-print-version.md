@@ -1,7 +1,7 @@
 ---
 title: "MIST (not the print version)"
 pubDate: 2015-03-23T01:20:45.250Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

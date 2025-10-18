@@ -1,7 +1,7 @@
 ---
 title: "News: Garneau Goes to MIST"
 pubDate: 2015-03-25T02:55:40.289Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jc_ho"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

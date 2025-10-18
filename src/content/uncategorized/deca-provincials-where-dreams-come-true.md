@@ -1,7 +1,7 @@
 ---
 title: "DECA Provincials: Where Dreams Come True"
 pubDate: 2019-03-02T19:15:57.267Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "Promoting Web Development with MGCI Web Development Club"
 pubDate: 2024-01-25T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 imageCredit: ["grant_ou"]
 imageType: "Photo"

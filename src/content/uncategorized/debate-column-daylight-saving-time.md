@@ -1,7 +1,7 @@
 ---
 title: "Debate Column: Daylight Saving Time"
 pubDate: 2017-04-11T01:06:22.466Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

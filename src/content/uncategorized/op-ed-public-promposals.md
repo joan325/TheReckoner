@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Public Promposals"
 pubDate: 2015-05-25T05:27:46.975Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

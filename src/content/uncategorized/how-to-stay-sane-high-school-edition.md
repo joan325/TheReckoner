@@ -1,7 +1,7 @@
 ---
 title: "How to Stay Sane-High School Edition"
 pubDate: 2016-10-30T21:34:10.078Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "areeba_asghar"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "A Celebration of Women"
 pubDate: 2019-04-13T01:55:47.705Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

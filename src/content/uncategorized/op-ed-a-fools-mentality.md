@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: A Fool's Mentality"
 pubDate: 2015-04-19T21:54:12.820Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

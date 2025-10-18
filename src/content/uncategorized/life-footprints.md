@@ -1,7 +1,7 @@
 ---
 title: "Life: Footprints"
 pubDate: 2015-04-22T02:42:10.911Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

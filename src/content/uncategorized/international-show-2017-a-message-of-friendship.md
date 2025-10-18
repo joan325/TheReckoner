@@ -1,7 +1,7 @@
 ---
 title: "International Show 2017: A Message of Friendship"
 pubDate: 2017-05-14T02:23:08.950Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "henrytang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

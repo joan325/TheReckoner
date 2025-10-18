@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature: OFW"
 pubDate: 2015-10-13T00:41:06.455Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

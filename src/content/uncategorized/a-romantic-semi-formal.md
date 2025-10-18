@@ -1,7 +1,7 @@
 ---
 title: "A Romantic Semi-Formal"
 pubDate: 2018-02-23T22:59:15.477Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

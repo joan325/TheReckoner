@@ -1,7 +1,7 @@
 ---
 title: "Cricket"
 pubDate: 2017-06-11T19:31:43.129Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

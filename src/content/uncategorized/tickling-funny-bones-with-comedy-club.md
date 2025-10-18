@@ -1,7 +1,7 @@
 ---
 title: "Tickling Funny Bones With Comedy Club "
 pubDate: 2021-06-06T01:36:52.463Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zahra_ahmed"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

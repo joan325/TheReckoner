@@ -1,7 +1,7 @@
 ---
 title: "Kenya’s Journey To Genetically Modified Agriculture "
 pubDate: 2021-10-23T04:28:16.481Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zahra_ahmed"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

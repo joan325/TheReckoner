@@ -1,7 +1,7 @@
 ---
 title: "Key Club UNICEF Fundraiser"
 pubDate: 2017-04-18T02:57:56.118Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jjlkang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

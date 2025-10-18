@@ -1,7 +1,7 @@
 ---
 title: "The Garneau Happiness Index"
 pubDate: 2016-01-12T05:29:28.060Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

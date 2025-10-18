@@ -1,7 +1,7 @@
 ---
 title: "A Late-Night Walk"
 pubDate: 2016-06-15T01:48:34.221Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

@@ -1,7 +1,7 @@
 ---
 title: "Letter from an Older Self"
 pubDate: 2016-04-19T04:02:30.022Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

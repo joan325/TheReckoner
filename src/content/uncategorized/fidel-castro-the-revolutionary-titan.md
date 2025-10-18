@@ -1,7 +1,7 @@
 ---
 title: "Fidel Castro: The Revolutionary Titan"
 pubDate: 2017-02-05T17:52:04.445Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Snowden: Vindicated by History"
 pubDate: 2021-02-27T00:38:47.830Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

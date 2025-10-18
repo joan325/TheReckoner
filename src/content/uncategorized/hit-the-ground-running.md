@@ -1,7 +1,7 @@
 ---
 title: "Hit the Ground Running"
 pubDate: 2015-10-16T20:35:32.053Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

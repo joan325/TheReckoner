@@ -1,7 +1,7 @@
 ---
 title: "Zafri's Coming to Canada"
 pubDate: 2017-04-10T22:26:41.153Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zafri_zulfi"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Crystal Bowls for Crystal Clear Minds"
 pubDate: 2017-12-14T16:59:13.100Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

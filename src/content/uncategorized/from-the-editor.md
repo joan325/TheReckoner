@@ -1,7 +1,7 @@
 ---
 title: "From the Editor"
 pubDate: 2018-06-10T03:20:35.082Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

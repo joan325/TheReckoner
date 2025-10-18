@@ -1,7 +1,7 @@
 ---
 title: "Advice"
 pubDate: 2015-10-15T01:23:17.181Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

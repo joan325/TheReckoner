@@ -1,7 +1,7 @@
 ---
 title: '"their stories" by Amy Jia'
 pubDate: 2021-04-28T01:22:10.677Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]

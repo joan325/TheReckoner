@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Curriculum Criticism Is Not the Solution"
 pubDate: 2016-10-11T17:35:52.368Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

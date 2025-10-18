@@ -1,7 +1,7 @@
 ---
 title: "You've Got A Friend in Me"
 pubDate: 2016-04-18T02:36:03.395Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

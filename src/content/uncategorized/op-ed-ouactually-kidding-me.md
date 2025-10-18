@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: OUACtually Kidding Me. - Julien"
 pubDate: 2018-02-24T04:36:51.693Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

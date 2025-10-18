@@ -1,7 +1,7 @@
 ---
 title: "News: Triple Homicide Shakes Thorncliffe Park"
 pubDate: 2014-12-10T02:16:23.636Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

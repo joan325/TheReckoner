@@ -1,7 +1,7 @@
 ---
 title: "Garneau Climbs for the Community"
 pubDate: 2016-10-30T20:27:34.294Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jeffrey_qiu"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

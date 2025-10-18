@@ -1,7 +1,7 @@
 ---
 title: "Expanding the Garneau Family"
 pubDate: 2016-06-15T05:02:08.529Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

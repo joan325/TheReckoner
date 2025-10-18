@@ -1,7 +1,7 @@
 ---
 title: "So They forgot."
 pubDate: 2021-06-25T00:06:22.069Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

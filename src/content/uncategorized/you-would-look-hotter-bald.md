@@ -1,7 +1,7 @@
 ---
 title: "You Would Look Hotter Bald"
 pubDate: 2020-12-05T04:52:09.990Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "vicky_wen"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

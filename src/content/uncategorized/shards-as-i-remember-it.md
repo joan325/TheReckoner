@@ -1,7 +1,7 @@
 ---
 title: "shards (as i remember it)"
 pubDate: 2017-04-09T20:23:36.592Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

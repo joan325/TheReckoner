@@ -1,7 +1,7 @@
 ---
 title: "Editorial: GM Foods"
 pubDate: 2015-05-23T02:27:37.859Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

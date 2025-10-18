@@ -1,7 +1,7 @@
 ---
 title: "Board Ed: SAC Popularity Contest"
 pubDate: 2015-05-26T00:42:11.710Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

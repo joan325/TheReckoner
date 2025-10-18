@@ -1,7 +1,7 @@
 ---
 title: "GUEST."
 pubDate: 2018-12-05T04:17:14.128Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

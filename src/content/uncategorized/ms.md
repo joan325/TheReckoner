@@ -1,7 +1,7 @@
 ---
 title: "Ms. Sawh’s Persistent Path to Vice Principal"
 pubDate: 2021-03-30T23:48:00.041Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

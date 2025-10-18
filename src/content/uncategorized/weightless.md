@@ -1,7 +1,7 @@
 ---
 title: "Weightless"
 pubDate: 2014-12-05T22:48:52.581Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

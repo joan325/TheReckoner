@@ -1,7 +1,7 @@
 ---
 title: "Rohingya and Suu Kyi"
 pubDate: 2017-11-23T03:40:58.402Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Heartworm (artwork) Text"
 pubDate: 2019-11-01T03:06:34.978Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

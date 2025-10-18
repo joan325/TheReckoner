@@ -1,7 +1,7 @@
 ---
 title: "News: Eliminate Night"
 pubDate: 2014-12-10T02:21:50.332Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

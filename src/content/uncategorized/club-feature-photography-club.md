@@ -1,7 +1,7 @@
 ---
 title: "Club Feature: Photography Club"
 pubDate: 2018-02-25T02:48:49.567Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

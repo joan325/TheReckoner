@@ -1,7 +1,7 @@
 ---
 title: "President Interview"
 pubDate: 2017-11-19T18:13:28.925Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

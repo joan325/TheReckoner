@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: The Niqab Debate: A Triviality that's Stealing the Spotlight"
 pubDate: 2015-10-12T16:40:13.359Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

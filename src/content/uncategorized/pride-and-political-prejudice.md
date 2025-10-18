@@ -1,7 +1,7 @@
 ---
 title: "Pride and Political Prejudice"
 pubDate: 2017-02-03T13:30:11.267Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

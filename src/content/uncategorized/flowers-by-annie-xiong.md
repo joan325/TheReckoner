@@ -1,7 +1,7 @@
 ---
 title: '"flowers" by Annie Xiong'
 pubDate: 2021-04-28T01:22:53.416Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

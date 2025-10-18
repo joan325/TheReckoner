@@ -1,7 +1,7 @@
 ---
 title: "Getting a Sample of Data Science at the 2024 Florence Nightingale Day"
 pubDate: 2024-03-15T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 heroImage: "../../assets/article-images/florence-nightingale-day-sonia-ravindran.png"
 imageType: "Art"

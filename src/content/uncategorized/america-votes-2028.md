@@ -1,7 +1,7 @@
 ---
 title: "America Votes 2028"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 imageType: "Art"
 imageCredit: ["yuewen_gao"]

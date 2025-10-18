@@ -1,7 +1,7 @@
 ---
 title: "Doughnut Eating Competition"
 pubDate: 2016-12-03T03:31:11.700Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

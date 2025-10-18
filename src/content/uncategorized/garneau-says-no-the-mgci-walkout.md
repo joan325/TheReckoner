@@ -1,7 +1,7 @@
 ---
 title: "Garneau Says No: The MGCI Walkout"
 pubDate: 2019-04-14T18:04:44.873Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jackie_huo"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

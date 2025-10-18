@@ -1,7 +1,7 @@
 ---
 title: "Words of Wisdom"
 pubDate: 2014-11-12T01:46:29.760Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "sheila_balu"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

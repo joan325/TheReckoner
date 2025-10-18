@@ -1,7 +1,7 @@
 ---
 title: "SAC Semester 1 Review"
 pubDate: 2017-02-05T03:49:50.451Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

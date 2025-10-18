@@ -1,7 +1,7 @@
 ---
 title: "Taking a Shot at Playoffs"
 pubDate: 2017-12-10T16:27:57.619Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: 'Unions "Wynne" $7.1 Million Pizza Party'
 pubDate: 2016-01-11T06:38:59.967Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Sports Feature: Senior Boys Basketball"
 pubDate: 2018-02-25T02:24:42.812Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

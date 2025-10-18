@@ -1,7 +1,7 @@
 ---
 title: "Yesterday"
 pubDate: 2021-06-02T12:33:57.012Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zixuan_xu"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]

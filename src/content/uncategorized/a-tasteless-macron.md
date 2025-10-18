@@ -1,7 +1,7 @@
 ---
 title: "A Tasteless Macron"
 pubDate: 2021-06-04T05:32:51.206Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "maryam_mobashir"
 additionalAuthors: ["urooba_shaikh"]
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"

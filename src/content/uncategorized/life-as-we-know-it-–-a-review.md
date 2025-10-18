@@ -1,7 +1,7 @@
 ---
 title: "Life (As We Know It) – A Review"
 pubDate: 2016-05-02T22:12:27.637Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

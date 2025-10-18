@@ -1,7 +1,7 @@
 ---
 title: '"forlorn figures" by Annie Xiong'
 pubDate: 2021-06-02T12:33:49.700Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

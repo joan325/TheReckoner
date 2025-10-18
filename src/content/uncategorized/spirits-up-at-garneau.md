@@ -1,7 +1,7 @@
 ---
 title: "Spirit's Up at Garneau"
 pubDate: 2018-04-15T04:03:11.993Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jessicaguo"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

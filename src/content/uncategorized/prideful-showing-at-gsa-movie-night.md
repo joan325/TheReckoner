@@ -1,7 +1,7 @@
 ---
 title: "Prideful Showing at GSA Movie Night"
 pubDate: 2018-06-09T23:59:35.447Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "e_wai"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

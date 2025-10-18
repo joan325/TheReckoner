@@ -1,7 +1,7 @@
 ---
 title: "Advice: Pineapples"
 pubDate: 2015-03-31T02:34:11.072Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Traveling "
 pubDate: 2016-12-04T22:37:18.476Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "firaz_alvarez"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

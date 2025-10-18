@@ -1,7 +1,7 @@
 ---
 title: "Free Palestine Walkout at MGCI: A Collective Voice for Justice"
 pubDate: 2023-11-24T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "mohammad_husein"
 heroImage: "../../assets/article-images/free-palestine-walkout-mohammad-husein.jpg"
 imageType: "Photo"

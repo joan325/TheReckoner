@@ -1,7 +1,7 @@
 ---
 title: "Significant  Digits: Pride Edition"
 pubDate: 2021-06-02T03:45:18.811Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

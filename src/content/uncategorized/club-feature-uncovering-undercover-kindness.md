@@ -1,7 +1,7 @@
 ---
 title: "Club Feature: Uncovering Undercover Kindness"
 pubDate: 2017-11-05T22:14:34.573Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

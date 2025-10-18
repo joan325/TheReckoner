@@ -1,7 +1,7 @@
 ---
 title: "Board Ed: TDSB Supplies "
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]

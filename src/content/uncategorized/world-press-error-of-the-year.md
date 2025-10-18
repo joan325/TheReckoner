@@ -1,7 +1,7 @@
 ---
 title: "World Press Error of the Year"
 pubDate: 2017-04-10T21:19:20.849Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "david_li"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized", "Featured"]

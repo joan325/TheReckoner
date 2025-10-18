@@ -1,7 +1,7 @@
 ---
 title: "Blast into the past"
 pubDate: 2016-01-22T00:36:33.070Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "defilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

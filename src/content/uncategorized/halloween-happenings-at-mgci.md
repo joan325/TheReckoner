@@ -1,7 +1,7 @@
 ---
 title: "Halloween Happenings at MGCI"
 pubDate: 2018-11-10T22:47:51.602Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

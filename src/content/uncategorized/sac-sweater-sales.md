@@ -1,7 +1,7 @@
 ---
 title: "SAC Sweater Sales"
 pubDate: 2017-04-11T00:26:36.050Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "henrytang"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

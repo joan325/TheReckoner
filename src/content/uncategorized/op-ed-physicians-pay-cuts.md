@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Physicians' Pay Cuts"
 pubDate: 2015-10-12T01:45:35.861Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

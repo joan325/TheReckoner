@@ -1,7 +1,7 @@
 ---
 title: "Lord of the Dreams"
 pubDate: 2014-12-10T02:54:48.865Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

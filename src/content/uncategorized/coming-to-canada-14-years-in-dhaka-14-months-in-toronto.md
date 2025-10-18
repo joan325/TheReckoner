@@ -1,7 +1,7 @@
 ---
 title: "Coming To Canada: 14 Years in Dhaka, 14 Months in Toronto"
 pubDate: 2016-10-11T17:41:00.451Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

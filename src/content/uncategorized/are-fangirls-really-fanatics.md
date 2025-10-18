@@ -1,7 +1,7 @@
 ---
 title: "Are Fangirls really Fanatics?"
 pubDate: 2021-03-31T04:46:20.252Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "urooba_shaikh"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

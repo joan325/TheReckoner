@@ -1,7 +1,7 @@
 ---
 title: "Op Ed: The Right to Die"
 pubDate: 2014-11-12T01:44:24.613Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

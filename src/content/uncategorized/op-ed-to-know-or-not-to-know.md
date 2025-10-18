@@ -1,7 +1,7 @@
 ---
 title: "Op Ed: To Know, or Not to Know"
 pubDate: 2016-03-21T03:08:04.857Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

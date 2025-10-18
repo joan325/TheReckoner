@@ -1,7 +1,7 @@
 ---
 title: "Let’s Talk About Sex Education"
 pubDate: 2021-04-28T04:39:52.804Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "chenjeffersonbox"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

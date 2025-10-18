@@ -1,7 +1,7 @@
 ---
 title: "News: Montreal Massacre"
 pubDate: 2014-12-08T03:49:37.342Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

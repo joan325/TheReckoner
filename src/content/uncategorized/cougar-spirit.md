@@ -1,7 +1,7 @@
 ---
 title: "Cougar Spirit!"
 pubDate: 2016-10-11T17:38:28.677Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Chronically Online: A Plague of the Digital Age"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "harris_abraham"
 heroImage: "../../assets/article-images/chronically-online-sadaf-jaffary.jpg"
 imageType: "Art"

@@ -1,7 +1,7 @@
 ---
 title: "Connecting Cultures through Cooking: The MGCI Cookbook"
 pubDate: 2024-01-25T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 imageCredit: ["justin_wei"]
 imageType: "Photo"

@@ -1,7 +1,7 @@
 ---
 title: "Bidding Farewell to a Familiar Face"
 pubDate: 2015-02-18T01:59:41.223Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jacqueline_ho"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

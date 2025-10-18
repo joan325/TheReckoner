@@ -1,7 +1,7 @@
 ---
 title: "Achievement in Anaheim: MGCI DECA to ICDC"
 pubDate: 2017-05-14T02:15:19.184Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tom_liu"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

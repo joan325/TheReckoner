@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature - Mr. Alexander"
 pubDate: 2018-11-09T23:04:26.201Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

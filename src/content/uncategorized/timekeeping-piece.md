@@ -1,7 +1,7 @@
 ---
 title: "Timekeeping piece "
 pubDate: 2017-05-07T18:38:58.410Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Fun for All at Fall Fest"
 pubDate: 2017-12-09T20:24:28.167Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

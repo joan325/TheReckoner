@@ -1,7 +1,7 @@
 ---
 title: "Trick or Treat for UNICEF"
 pubDate: 2021-10-23T04:29:15.468Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "anne_liu"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

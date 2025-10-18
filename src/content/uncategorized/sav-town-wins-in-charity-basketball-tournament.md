@@ -1,7 +1,7 @@
 ---
 title: "News - SAV Town Wins in Charity Basketball Tournament"
 pubDate: 2014-11-10T04:29:43.136Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

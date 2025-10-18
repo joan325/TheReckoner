@@ -1,7 +1,7 @@
 ---
 title: "The Board that Failed Toronto Students"
 pubDate: 2020-12-20T04:45:19.806Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]

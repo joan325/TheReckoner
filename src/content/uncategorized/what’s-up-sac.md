@@ -1,7 +1,7 @@
 ---
 title: "What’s up, SAC?"
 pubDate: 2015-04-22T00:29:35.805Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

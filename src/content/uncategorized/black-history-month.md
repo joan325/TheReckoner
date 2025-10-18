@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Celebrating Our Diversity"
 pubDate: 2017-03-07T01:38:17.151Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "aiman_altaf"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "edited lexical revolution"
 pubDate: 2019-04-29T05:31:50.712Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "briggitathetwelfth"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

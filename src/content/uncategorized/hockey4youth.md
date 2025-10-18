@@ -1,7 +1,7 @@
 ---
 title: "Hockey4Youth"
 pubDate: 2017-04-24T05:34:24.843Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

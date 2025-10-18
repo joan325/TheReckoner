@@ -1,7 +1,7 @@
 ---
 title: "EcoTeam Green Canvas Project"
 pubDate: 2021-03-30T14:49:55.411Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]

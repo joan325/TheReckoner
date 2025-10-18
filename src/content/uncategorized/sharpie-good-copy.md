@@ -1,7 +1,7 @@
 ---
 title: "Sharpie Good Copy"
 pubDate: 2017-05-26T00:28:11.532Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "qian_caryn"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

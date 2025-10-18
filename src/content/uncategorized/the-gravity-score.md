@@ -1,7 +1,7 @@
 ---
 title: "The Gravity Score"
 pubDate: 2018-04-24T21:11:43.550Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

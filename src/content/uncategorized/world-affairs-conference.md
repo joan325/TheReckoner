@@ -1,7 +1,7 @@
 ---
 title: "MGCI at the World Affairs Conference"
 pubDate: 2024-03-09T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

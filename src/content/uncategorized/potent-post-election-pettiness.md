@@ -1,7 +1,7 @@
 ---
 title: "Potent Post-Election Pettiness"
 pubDate: 2021-06-02T14:55:07.294Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "chenjeffersonbox"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Volunteering:  Step Forth on the Path to Forty"
 pubDate: 2019-03-02T19:16:32.047Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

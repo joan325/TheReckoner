@@ -1,7 +1,7 @@
 ---
 title: "Sidewalk Labs"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "umar_yousafzai"
 additionalAuthors: ["andrew_zou_li"]
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"

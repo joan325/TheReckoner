@@ -1,7 +1,7 @@
 ---
 title: "A Cup of Tea with the President"
 pubDate: 2015-10-13T01:15:19.431Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

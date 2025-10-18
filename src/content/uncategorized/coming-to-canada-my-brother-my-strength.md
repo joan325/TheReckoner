@@ -1,7 +1,7 @@
 ---
 title: "Coming to Canada: My Brother, My Strength"
 pubDate: 2017-02-09T20:41:25.499Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Throwing Rocks for Gold"
 pubDate: 2019-04-14T18:33:11.030Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

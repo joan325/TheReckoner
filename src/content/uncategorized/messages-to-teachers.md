@@ -1,7 +1,7 @@
 ---
 title: "Messages to Teachers"
 pubDate: 2016-06-11T04:13:48.074Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

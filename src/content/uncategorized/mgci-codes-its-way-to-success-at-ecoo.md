@@ -1,7 +1,7 @@
 ---
 title: "MGCI Codes Its Way to Success at ECOO"
 pubDate: 2018-06-02T17:16:05.561Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "aimanzaltaf"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

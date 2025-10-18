@@ -1,7 +1,7 @@
 ---
 title: "Quicksand"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "maggie_pang"
 heroImage: "../../assets/article-images/quicksand-sahana-sakthivel.png"
 imageType: "Art"

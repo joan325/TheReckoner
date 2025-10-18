@@ -1,7 +1,7 @@
 ---
 title: "Caretaker Staff Feature"
 pubDate: 2017-04-09T18:13:20.167Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "dylan_xiao"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

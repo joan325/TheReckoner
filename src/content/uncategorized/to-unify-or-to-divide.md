@@ -1,7 +1,7 @@
 ---
 title: "To Unify Or To Divide?"
 pubDate: 2019-04-17T22:51:38.790Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nick_nelson_lee"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]

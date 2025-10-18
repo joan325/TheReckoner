@@ -1,7 +1,7 @@
 ---
 title: "Analyzing the Analytica Affair"
 pubDate: 2018-04-24T05:23:35.150Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "e_wai"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

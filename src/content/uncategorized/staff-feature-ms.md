@@ -1,7 +1,7 @@
 ---
 title: "Staff Feature: Ms. Liebster"
 pubDate: 2018-07-06T05:06:09.713Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

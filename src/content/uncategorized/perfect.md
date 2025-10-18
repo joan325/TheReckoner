@@ -1,7 +1,7 @@
 ---
 title: "Perfect"
 pubDate: 2016-01-11T02:54:45.847Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Ask The Reckoner - November "
 pubDate: 2019-11-01T03:06:34.977Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

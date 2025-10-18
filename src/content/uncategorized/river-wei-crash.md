@@ -1,7 +1,7 @@
 ---
 title: "River Wei - crash"
 pubDate: 2021-03-29T14:27:12.965Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

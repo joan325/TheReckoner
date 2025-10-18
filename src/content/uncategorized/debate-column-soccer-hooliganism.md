@@ -1,7 +1,7 @@
 ---
 title: "Debate Column: Soccer Hooliganism"
 pubDate: 2017-04-10T21:58:28.310Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

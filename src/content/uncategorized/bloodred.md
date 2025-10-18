@@ -1,7 +1,7 @@
 ---
 title: "Bloodred"
 pubDate: 2021-10-22T19:41:08.956Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lisa_zhang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

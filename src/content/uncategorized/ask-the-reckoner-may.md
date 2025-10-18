@@ -1,7 +1,7 @@
 ---
 title: "Ask the Reckoner-May"
 pubDate: 2017-06-10T21:16:58.584Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

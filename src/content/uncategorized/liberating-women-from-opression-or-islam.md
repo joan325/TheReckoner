@@ -1,7 +1,7 @@
 ---
 title: "Liberating Women from Opression or Islam?"
 pubDate: 2016-12-04T02:26:41.905Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

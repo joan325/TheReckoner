@@ -1,7 +1,7 @@
 ---
 title: "Senior Yearbooks"
 pubDate: 2017-04-24T05:36:48.891Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "hargun_kaur"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

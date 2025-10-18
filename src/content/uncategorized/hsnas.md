@@ -1,7 +1,7 @@
 ---
 title: "HSNAs"
 pubDate: 2016-06-15T04:20:21.777Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "A Tale of a Syrian Girl"
 pubDate: 2017-01-06T00:39:46.124Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

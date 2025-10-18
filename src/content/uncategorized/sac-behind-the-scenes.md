@@ -1,7 +1,7 @@
 ---
 title: "SAC Behind the Scenes"
 pubDate: 2019-03-03T19:23:53.128Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

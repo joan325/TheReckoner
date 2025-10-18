@@ -1,7 +1,7 @@
 ---
 title: "The Explosion of Gender Reveal Parties"
 pubDate: 2021-04-28T04:51:34.963Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "paromita_roy"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Stress with Psychology Club"
 pubDate: 2024-02-24T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

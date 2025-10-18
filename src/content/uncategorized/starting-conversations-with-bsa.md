@@ -1,7 +1,7 @@
 ---
 title: "Starting Conversations with BSA"
 pubDate: 2024-04-13T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "Semi-Formal in Sin City"
 pubDate: 2017-03-07T02:55:49.324Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "A Picturesque Scene"
 pubDate: 2021-10-22T19:40:56.638Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

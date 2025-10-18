@@ -1,7 +1,7 @@
 ---
 title: "Sledge Hockey"
 pubDate: 2016-11-28T05:33:28.161Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

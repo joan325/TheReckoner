@@ -1,7 +1,7 @@
 ---
 title: "Why is Everyone Talking About Israel and Palestine?"
 pubDate: 2021-06-05T18:51:56.084Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "zahra_ahmed"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

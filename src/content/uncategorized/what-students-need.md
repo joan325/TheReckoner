@@ -1,7 +1,7 @@
 ---
 title: "What Students Need"
 pubDate: 2019-06-28T02:29:59.311Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "briggitathetwelfth"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

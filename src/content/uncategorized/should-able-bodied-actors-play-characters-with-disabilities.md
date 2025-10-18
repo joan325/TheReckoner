@@ -1,7 +1,7 @@
 ---
 title: "Should Able-bodied Actors Play Characters with Disabilities?"
 pubDate: 2021-04-28T04:46:56.477Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "paromita_roy"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

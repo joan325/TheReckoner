@@ -1,7 +1,7 @@
 ---
 title: "Ms Smit"
 pubDate: 2019-04-14T17:50:45.425Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

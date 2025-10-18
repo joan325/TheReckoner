@@ -1,7 +1,7 @@
 ---
 title: "What They Aren't Telling You About: COVID-19 Vaccines"
 pubDate: 2021-04-03T22:55:47.331Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Editorial"]

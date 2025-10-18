@@ -1,7 +1,7 @@
 ---
 title: "Summer Bucket List"
 pubDate: 2016-06-18T22:02:55.860Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

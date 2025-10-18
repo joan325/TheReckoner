@@ -1,7 +1,7 @@
 ---
 title: '"I found a red star" by Fatima Sharipova'
 pubDate: 2021-05-31T18:52:45.733Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

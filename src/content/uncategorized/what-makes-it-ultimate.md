@@ -1,7 +1,7 @@
 ---
 title: "What Makes It Ultimate"
 pubDate: 2015-05-26T00:45:48.356Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

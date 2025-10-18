@@ -1,7 +1,7 @@
 ---
 title: "Breaking Up the Joint"
 pubDate: 2016-06-15T05:42:50.606Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rafiq_habib"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

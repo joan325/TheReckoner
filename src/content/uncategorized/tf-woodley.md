@@ -1,7 +1,7 @@
 ---
 title: "TF: Woodley"
 pubDate: 2015-10-13T00:29:09.520Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

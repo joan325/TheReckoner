@@ -1,7 +1,7 @@
 ---
 title: "Traffic Lights"
 pubDate: 2015-10-13T01:13:29.609Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

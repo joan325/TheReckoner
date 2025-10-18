@@ -1,7 +1,7 @@
 ---
 title: "HOG Quotes"
 pubDate: 2015-06-12T01:43:22.930Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jc_ho"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

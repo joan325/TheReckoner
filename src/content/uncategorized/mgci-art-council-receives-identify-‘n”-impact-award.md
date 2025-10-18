@@ -1,7 +1,7 @@
 ---
 title: "MGCI Art Council Receives Identify ‘N” Impact Award"
 pubDate: 2016-01-21T02:03:15.158Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

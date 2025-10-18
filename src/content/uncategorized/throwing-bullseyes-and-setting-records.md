@@ -1,7 +1,7 @@
 ---
 title: "Throwing Bullseyes and Setting Records with MGCI’s Darts Club"
 pubDate: 2024-03-15T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thanusa_paskaran"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

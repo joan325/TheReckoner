@@ -1,7 +1,7 @@
 ---
 title: "Let them eat cafeteria food"
 pubDate: 2018-12-03T04:03:06.949Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

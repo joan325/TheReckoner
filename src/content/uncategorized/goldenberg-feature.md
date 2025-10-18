@@ -1,7 +1,7 @@
 ---
 title: "Goldenberg Feature"
 pubDate: 2018-12-09T04:03:25.960Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

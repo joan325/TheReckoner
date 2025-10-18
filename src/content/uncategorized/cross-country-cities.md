@@ -1,7 +1,7 @@
 ---
 title: "Cross Country Cities"
 pubDate: 2016-10-30T20:28:20.323Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

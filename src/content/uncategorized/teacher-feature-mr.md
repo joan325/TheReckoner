@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature: Mr. Brossard"
 pubDate: 2018-06-11T01:18:02.838Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

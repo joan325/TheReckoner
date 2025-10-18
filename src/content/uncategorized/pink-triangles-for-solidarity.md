@@ -1,7 +1,7 @@
 ---
 title: "News: Pink Triangles for Solidarity"
 pubDate: 2015-04-22T02:54:38.915Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

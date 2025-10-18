@@ -1,7 +1,7 @@
 ---
 title: "MGCI DECA Means Business: Booming Success at the 2024 Ontario DECA Provincials"
 pubDate: 2024-02-29T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "Mental Health Feature -- DO NOT TOUCH"
 pubDate: 2018-04-15T03:05:27.818Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

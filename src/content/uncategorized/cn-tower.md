@@ -1,7 +1,7 @@
 ---
 title: "CN Tower"
 pubDate: 2018-12-01T02:46:51.943Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "A Win for Winterfest"
 pubDate: 2016-04-21T04:11:34.996Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

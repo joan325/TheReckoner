@@ -1,7 +1,7 @@
 ---
 title: "How can I be supportive of both my parents during a divorce without taking sides?"
 pubDate: 2015-06-12T03:03:06.447Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

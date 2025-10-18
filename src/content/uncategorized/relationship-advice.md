@@ -1,7 +1,7 @@
 ---
 title: "Relationship Advice"
 pubDate: 2014-12-10T03:17:16.449Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "A Behemoth Tale"
 pubDate: 2017-03-04T03:38:04.543Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "Eric Wang"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

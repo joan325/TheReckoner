@@ -1,7 +1,7 @@
 ---
 title: "Garneau Rallied Up"
 pubDate: 2018-02-24T04:39:10.073Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

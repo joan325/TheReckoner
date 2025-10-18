@@ -1,7 +1,7 @@
 ---
 title: "Significant Digits / Quick Stats"
 pubDate: 2018-06-03T03:55:41.475Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

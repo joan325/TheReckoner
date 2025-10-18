@@ -1,7 +1,7 @@
 ---
 title: "Op Ed: Censorship from Parliament Hill"
 pubDate: 2014-11-12T02:29:49.182Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

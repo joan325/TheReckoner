@@ -1,7 +1,7 @@
 ---
 title: "Seeding in Seton Woods"
 pubDate: 2017-12-09T20:24:02.263Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

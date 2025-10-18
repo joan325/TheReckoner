@@ -1,7 +1,7 @@
 ---
 title: "Emily Lai - Sadness in the Sky"
 pubDate: 2021-03-31T17:23:33.493Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

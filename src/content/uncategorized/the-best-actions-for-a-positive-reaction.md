@@ -1,7 +1,7 @@
 ---
 title: "The Best Actions For A Positive Reaction"
 pubDate: 2021-06-02T14:13:24.565Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "chenjeffersonbox"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

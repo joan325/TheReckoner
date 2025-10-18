@@ -1,7 +1,7 @@
 ---
 title: "Bridging Towards a Safer Future"
 pubDate: 2021-10-23T04:30:06.625Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rena_liu"
 heroImage: "../../assets/article-images/bridging_towards_a_safer_future_bala_venkataramaran.jpg"
 tags: ["News"]

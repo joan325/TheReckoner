@@ -1,7 +1,7 @@
 ---
 title: "Encouraging Votership in Mock Election"
 pubDate: 2018-06-10T01:33:02.133Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

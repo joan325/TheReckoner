@@ -1,7 +1,7 @@
 ---
 title: "Déjà Vu: A Tale of French Discrimination "
 pubDate: 2020-12-15T04:07:56.647Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

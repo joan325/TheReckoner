@@ -1,7 +1,7 @@
 ---
 title: "Significant Digits Feb.24 (everything is shit edition)"
 pubDate: 2019-03-03T03:57:03.192Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rqgoob"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

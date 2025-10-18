@@ -1,7 +1,7 @@
 ---
 title: "Immigration Article"
 pubDate: 2016-11-01T01:25:50.624Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

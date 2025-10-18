@@ -1,7 +1,7 @@
 ---
 title: "History v3.docx"
 pubDate: 2016-01-10T05:08:01.824Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "micklepickle"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

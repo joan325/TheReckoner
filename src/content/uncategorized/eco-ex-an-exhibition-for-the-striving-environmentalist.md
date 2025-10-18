@@ -1,7 +1,7 @@
 ---
 title: "Eco-Ex: An Exhibition for the Striving Environmentalist"
 pubDate: 2018-12-09T19:27:36.654Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

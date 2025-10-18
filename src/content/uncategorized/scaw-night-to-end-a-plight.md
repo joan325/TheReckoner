@@ -1,7 +1,7 @@
 ---
 title: "SCAW Night to End a Plight"
 pubDate: 2018-04-13T00:27:21.749Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/article-images/SCAW_dylan_xiao.jpg"
 tags: ["News"]

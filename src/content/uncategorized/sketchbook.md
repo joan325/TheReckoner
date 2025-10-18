@@ -1,7 +1,7 @@
 ---
 title: "sketchbook"
 pubDate: 2021-06-24T22:31:36.356Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

@@ -1,7 +1,7 @@
 ---
 title: "Confronting the Epidemic of Violence Against Women"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thanusa_paskaran"
 heroImage: "../../assets/article-images/epidemic-of-violence-against-women-sahana-sakthivel.png"
 imageType: "Art"

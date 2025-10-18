@@ -1,7 +1,7 @@
 ---
 title: "Update of the Decade"
 pubDate: 2017-11-06T01:21:05.468Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Spreading Peace, Piece by Piece"
 pubDate: 2017-11-05T02:01:15.881Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

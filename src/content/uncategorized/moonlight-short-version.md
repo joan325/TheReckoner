@@ -1,7 +1,7 @@
 ---
 title: "Moonlight - SHORT VERSION"
 pubDate: 2017-03-07T19:36:01.848Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

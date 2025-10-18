@@ -1,7 +1,7 @@
 ---
 title: "Tree Climbing (Life)"
 pubDate: 2015-02-14T02:32:09.212Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

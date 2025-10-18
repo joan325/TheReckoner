@@ -1,7 +1,7 @@
 ---
 title: "Ending Cancer with Relay for Life"
 pubDate: 2024-06-01T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "oriana_zhou"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

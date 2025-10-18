@@ -1,7 +1,7 @@
 ---
 title: "The Niner’s Guide to MGCI"
 pubDate: 2015-10-10T16:34:05.694Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "sqiu"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

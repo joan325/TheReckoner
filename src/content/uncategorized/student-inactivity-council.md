@@ -1,7 +1,7 @@
 ---
 title: "Student Inactivity Council"
 pubDate: 2014-12-08T04:29:14.543Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

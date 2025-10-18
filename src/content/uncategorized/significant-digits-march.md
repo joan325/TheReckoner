@@ -1,7 +1,7 @@
 ---
 title: "Significant Digits-March"
 pubDate: 2019-04-24T16:52:22.459Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "rqgoob"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

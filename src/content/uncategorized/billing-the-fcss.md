@@ -1,7 +1,7 @@
 ---
 title: "Billing the FCSS"
 pubDate: 2017-04-24T05:35:44.915Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "khari_thomas"
 additionalAuthors: ["cheng_lin"]
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"

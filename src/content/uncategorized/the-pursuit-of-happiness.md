@@ -1,7 +1,7 @@
 ---
 title: "The Pursuit of Happiness"
 pubDate: 2015-03-21T02:19:43.046Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

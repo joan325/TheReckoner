@@ -1,7 +1,7 @@
 ---
 title: "The Unfortunate Lady"
 pubDate: 2015-05-23T02:39:42.944Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

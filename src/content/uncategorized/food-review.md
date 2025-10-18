@@ -1,7 +1,7 @@
 ---
 title: "Food Review"
 pubDate: 2016-06-18T21:55:03.429Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "metroidude"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

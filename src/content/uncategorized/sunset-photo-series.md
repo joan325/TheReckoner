@@ -1,7 +1,7 @@
 ---
 title: "Sunset Photo Series"
 pubDate: 2022-12-17T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "amy_jia"
 additionalAuthors: ["angela_xu","justin_wei","komal_dagar","patricia_zhang","richard_xiong","sam_li","stephanie_chan","yameen_aziz"]
 heroImage: "../../assets/photography/sunset-photo-series/amy_jia.jpg"

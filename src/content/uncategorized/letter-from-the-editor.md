@@ -1,7 +1,7 @@
 ---
 title: "Letter from the editor"
 pubDate: 2021-06-24T22:32:31.389Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

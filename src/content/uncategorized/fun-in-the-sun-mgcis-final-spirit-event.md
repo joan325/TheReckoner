@@ -1,7 +1,7 @@
 ---
 title: "Fun in the Sun: MGCI's Final Spirit Event"
 pubDate: 2018-10-26T20:02:17.114Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

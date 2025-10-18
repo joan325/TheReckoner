@@ -1,7 +1,7 @@
 ---
 title: "Where’s the whole in my head?"
 pubDate: 2015-02-18T02:26:42.736Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

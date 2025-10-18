@@ -1,7 +1,7 @@
 ---
 title: "Teacher Feature: Ms.Hermanovsky"
 pubDate: 2019-03-02T15:45:37.301Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

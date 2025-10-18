@@ -1,7 +1,7 @@
 ---
 title: "Kelly Wang - matches"
 pubDate: 2021-03-29T14:26:17.858Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]

@@ -1,7 +1,7 @@
 ---
 title: "inadequate"
 pubDate: 2021-05-31T18:56:06.123Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "abbinaya_parakaran"
 imageCredit: ["elizabeth_wei"]
 imageType: "Art"

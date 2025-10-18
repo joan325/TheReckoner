@@ -1,7 +1,7 @@
 ---
 title: "Introducing Fall Fest: Autumn with a Bang"
 pubDate: 2016-10-30T20:56:10.199Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

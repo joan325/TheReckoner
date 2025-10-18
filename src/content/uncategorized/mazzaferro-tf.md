@@ -1,7 +1,7 @@
 ---
 title: "Mazzaferro TF"
 pubDate: 2015-06-12T06:09:02.662Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

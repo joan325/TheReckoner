@@ -1,7 +1,7 @@
 ---
 title: "The Toronto Van Attack from the Perspective of the Van"
 pubDate: 2018-06-10T08:50:40.199Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Spirit week wraps up december"
 pubDate: 2016-01-12T01:34:39.811Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

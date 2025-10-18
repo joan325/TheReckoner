@@ -1,7 +1,7 @@
 ---
 title: "A Black and White Life"
 pubDate: 2015-10-19T05:07:59.920Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "areeba_asghar"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Life"]

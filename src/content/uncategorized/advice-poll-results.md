@@ -1,7 +1,7 @@
 ---
 title: "Advice Poll Results"
 pubDate: 2017-06-10T15:33:51.044Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

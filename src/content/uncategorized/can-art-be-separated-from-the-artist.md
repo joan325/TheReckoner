@@ -1,7 +1,7 @@
 ---
 title: "Can Art be Separated from the Artist?"
 pubDate: 2019-04-24T12:44:06.840Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "marzan_hamid"
 additionalAuthors: ["andrew_zou_li"]
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"

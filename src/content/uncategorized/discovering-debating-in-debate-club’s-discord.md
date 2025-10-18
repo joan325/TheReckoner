@@ -1,7 +1,7 @@
 ---
 title: "Discovering Debating in Debate Club’s Discord"
 pubDate: 2021-02-04T04:46:24.853Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

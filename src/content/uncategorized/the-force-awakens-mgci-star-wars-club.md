@@ -1,7 +1,7 @@
 ---
 title: "The Force Awakens: MGCI Star Wars Club"
 pubDate: 2016-01-12T02:08:36.327Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

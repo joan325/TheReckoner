@@ -1,7 +1,7 @@
 ---
 title: "Grade 11 Conference"
 pubDate: 2017-05-14T01:50:47.248Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "henrytang"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

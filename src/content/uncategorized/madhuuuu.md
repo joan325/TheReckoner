@@ -1,7 +1,7 @@
 ---
 title: "MADHUUUU"
 pubDate: 2018-10-11T02:06:03.031Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

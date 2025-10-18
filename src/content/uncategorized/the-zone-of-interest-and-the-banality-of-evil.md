@@ -1,7 +1,7 @@
 ---
 title: "The Zone of Interest and the Banality of Evil"
 pubDate: 2024-05-03T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "grace_zhu"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Life"]

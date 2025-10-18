@@ -1,7 +1,7 @@
 ---
 title: "Ballin’ for Turtle House"
 pubDate: 2017-06-11T19:29:19.193Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "varun_Venkataramanan"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

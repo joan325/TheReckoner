@@ -1,7 +1,7 @@
 ---
 title: "Draw Anything"
 pubDate: 2024-05-26T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "corey_dai"
 heroImage: "../../assets/article-images/draw-anything-ivy-liu.png"
 imageType: "Art"

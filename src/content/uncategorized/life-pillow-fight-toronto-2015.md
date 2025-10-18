@@ -1,7 +1,7 @@
 ---
 title: "Life: Pillow Fight Toronto 2015 "
 pubDate: 2015-04-19T02:57:43.354Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

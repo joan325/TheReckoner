@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: More Than Just a Name"
 pubDate: 2016-04-18T22:42:06.776Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

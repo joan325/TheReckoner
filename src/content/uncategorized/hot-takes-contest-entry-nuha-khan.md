@@ -1,7 +1,7 @@
 ---
 title: "Hot Takes Contest Entry - Nuha Khan"
 pubDate: 2021-06-25T00:13:23.103Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

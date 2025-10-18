@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Why the SAT is a Waste of Time"
 pubDate: 2015-10-12T03:31:41.444Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

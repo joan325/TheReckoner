@@ -1,7 +1,7 @@
 ---
 title: "Islamic Heritage Month: Showing Support in Schools"
 pubDate: 2017-11-06T01:20:55.360Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

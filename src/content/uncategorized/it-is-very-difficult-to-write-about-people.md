@@ -1,7 +1,7 @@
 ---
 title: "It Is Very Difficult To Write About People"
 pubDate: 2019-11-01T03:06:34.978Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

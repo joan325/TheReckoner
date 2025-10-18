@@ -1,7 +1,7 @@
 ---
 title: "Supply Teacher Shortage Closes Door on Future Field Trips at MGCI"
 pubDate: 2024-04-30T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "Following the Tune of Authenticity with Mr. Larter"
 pubDate: 2024-06-16T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

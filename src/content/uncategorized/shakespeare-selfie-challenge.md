@@ -1,7 +1,7 @@
 ---
 title: "Shakespeare selfie challenge"
 pubDate: 2016-06-14T18:36:21.532Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

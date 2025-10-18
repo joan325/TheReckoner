@@ -1,7 +1,7 @@
 ---
 title: "The TNO Food Collaborative: Fighting Food Insecurity"
 pubDate: 2021-03-31T00:19:55.732Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "Get Involved at the Flemingdon Park Health Centre: Volunteer Opportunities and Programs"
 pubDate: 2024-01-25T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "thanusa_paskaran"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["News"]

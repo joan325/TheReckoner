@@ -1,7 +1,7 @@
 ---
 title: "MGCI Makes Its Way to MIST"
 pubDate: 2018-04-15T03:53:36.945Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "dylanx"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

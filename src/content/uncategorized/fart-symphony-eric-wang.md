@@ -1,7 +1,7 @@
 ---
 title: "Fart Symphony Eric Wang"
 pubDate: 2018-07-17T00:28:01.689Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

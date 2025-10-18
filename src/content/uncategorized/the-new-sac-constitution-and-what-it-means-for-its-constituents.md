@@ -1,7 +1,7 @@
 ---
 title: "The New SAC Constitution and What It Means for Its Constituents"
 pubDate: 2018-06-10T09:00:48.562Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazik_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

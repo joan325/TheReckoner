@@ -1,7 +1,7 @@
 ---
 title: "Where is Our Grad Trip?"
 pubDate: 2015-06-12T05:27:48.133Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

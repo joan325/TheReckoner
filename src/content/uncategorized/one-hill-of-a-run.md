@@ -1,7 +1,7 @@
 ---
 title: "One Hill of a Run"
 pubDate: 2016-06-15T03:40:14.115Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

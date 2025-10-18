@@ -1,7 +1,7 @@
 ---
 title: "The Grammy Awards Never Fail to Disappoint"
 pubDate: 2021-02-27T00:37:32.069Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Editorial"]

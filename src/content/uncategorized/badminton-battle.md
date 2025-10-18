@@ -1,7 +1,7 @@
 ---
 title: "Marc Garneau's Badminton Battle Against Leaside High School"
 pubDate: 2024-04-20T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "alvin_pan"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

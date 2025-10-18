@@ -1,7 +1,7 @@
 ---
 title: "Voices of Change: Students Speak Up at LC1 Meeting"
 pubDate: 2019-04-14T02:51:32.472Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

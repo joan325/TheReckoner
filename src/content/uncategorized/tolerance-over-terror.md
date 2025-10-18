@@ -1,7 +1,7 @@
 ---
 title: "Tolerance over Terror"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "david_hao"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Editorial"]

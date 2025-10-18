@@ -1,7 +1,7 @@
 ---
 title: "Sources"
 pubDate: 2017-12-09T23:38:16.936Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

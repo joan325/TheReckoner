@@ -1,7 +1,7 @@
 ---
 title: "TDSB Redefines Equity"
 pubDate: 2018-02-05T00:15:43.887Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "tazif_shahjahan"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Uncategorized"]

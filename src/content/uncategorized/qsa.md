@@ -1,7 +1,7 @@
 ---
 title: "QSA"
 pubDate: 2015-04-15T19:12:26.234Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

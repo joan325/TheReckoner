@@ -1,7 +1,7 @@
 ---
 title: "experiment"
 pubDate: 2021-03-31T04:53:10.996Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "akshaya_varakunan"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Life"]

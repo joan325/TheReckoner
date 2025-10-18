@@ -1,7 +1,7 @@
 ---
 title: "It's time for the age of old politicians to end"
 pubDate: 2021-04-28T04:38:45.244Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "anne_liu"
 additionalAuthors: ["emily_ma"]
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"

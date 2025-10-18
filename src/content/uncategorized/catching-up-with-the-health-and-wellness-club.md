@@ -1,7 +1,7 @@
 ---
 title: "Catching Up With the Health and Wellness Club"
 pubDate: 2021-03-31T00:24:23.508Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["News"]

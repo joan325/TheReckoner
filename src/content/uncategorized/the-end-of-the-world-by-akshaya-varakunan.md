@@ -1,7 +1,7 @@
 ---
 title: '"the end of the world" by Akshaya Varakunan'
 pubDate: 2021-06-02T02:18:04.972Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

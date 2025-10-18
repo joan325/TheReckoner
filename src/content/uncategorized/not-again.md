@@ -1,7 +1,7 @@
 ---
 title: "Not Again"
 pubDate: 2024-05-04T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "yolanda_zhou"
 heroImage: "../../assets/article-images/not-again-ivy-liu.png"
 imageType: "Art"

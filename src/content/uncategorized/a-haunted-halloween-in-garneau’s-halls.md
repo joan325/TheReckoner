@@ -1,7 +1,7 @@
 ---
 title: "A Haunted Halloween in Garneau’s Halls"
 pubDate: 2014-11-12T01:47:28.673Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 additionalAuthors: ["cheng_cheng_lin"]
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"

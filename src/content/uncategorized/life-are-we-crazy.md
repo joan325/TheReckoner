@@ -1,7 +1,7 @@
 ---
 title: "Life - Are We Crazy?"
 pubDate: 2014-11-11T23:34:51.172Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Life"]

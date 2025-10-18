@@ -1,7 +1,7 @@
 ---
 title: "Supporting Clubs and Your Taste Buds at the First Junk Food Sale of the Year"
 pubDate: 2023-11-30T04:26:17.036Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "nevetha_arullinkam"
 heroImage: "../../assets/article-images/junk-food-sale-arsal-farook.jpg"
 imageType: "Photo"

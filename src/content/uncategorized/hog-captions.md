@@ -1,7 +1,7 @@
 ---
 title: "hog captions"
 pubDate: 2017-04-10T21:24:06.838Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "cindy_cui"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

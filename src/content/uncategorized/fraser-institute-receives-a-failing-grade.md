@@ -1,7 +1,7 @@
 ---
 title: "Fraser Institute Receives a Failing Grade"
 pubDate: 2017-03-07T15:27:27.565Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

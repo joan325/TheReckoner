@@ -1,7 +1,7 @@
 ---
 title: "A Night to Remember"
 pubDate: 2018-12-03T03:47:31.080Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

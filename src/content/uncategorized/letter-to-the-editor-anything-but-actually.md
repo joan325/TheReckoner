@@ -1,7 +1,7 @@
 ---
 title: "Letter to the Editor: Anything but, actually!"
 pubDate: 2014-12-10T02:36:22.009Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jc_ho"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Ebola in the News"
 pubDate: 2014-11-12T00:19:16.488Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Editorial"]

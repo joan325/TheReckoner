@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: Winner Takes All Means Canada Loses"
 pubDate: 2015-10-12T15:54:09.324Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

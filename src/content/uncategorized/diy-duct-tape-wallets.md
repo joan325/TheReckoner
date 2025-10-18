@@ -1,7 +1,7 @@
 ---
 title: "DIY Duct Tape Wallets"
 pubDate: 2015-10-12T19:51:03.452Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "sqiu"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

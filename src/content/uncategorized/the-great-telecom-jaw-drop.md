@@ -1,7 +1,7 @@
 ---
 title: "The Great Telecom Jaw Drop"
 pubDate: 2017-04-10T20:17:31.867Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "lawrence_pang"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

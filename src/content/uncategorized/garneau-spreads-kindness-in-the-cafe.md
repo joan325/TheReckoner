@@ -1,7 +1,7 @@
 ---
 title: "Garneau Spreads Kindness in the Cafe"
 pubDate: 2018-12-03T03:17:52.676Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

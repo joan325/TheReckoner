@@ -1,7 +1,7 @@
 ---
 title: "News: Semi"
 pubDate: 2014-12-10T02:10:35.718Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "deifilia_to"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

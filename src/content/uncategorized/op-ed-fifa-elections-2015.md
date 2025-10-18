@@ -1,7 +1,7 @@
 ---
 title: "Op-Ed: FIFA Elections 2015"
 pubDate: 2019-11-01T03:14:22.270Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-1.jpg"
 tags: ["Editorial"]

@@ -1,7 +1,7 @@
 ---
 title: "FOR JESSICA"
 pubDate: 2016-10-11T20:21:22.478Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "parnika_godkhindi"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

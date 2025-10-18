@@ -1,7 +1,7 @@
 ---
 title: "Talking to Taira: an Interview with the President"
 pubDate: 2021-02-03T06:40:33.578Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["News"]

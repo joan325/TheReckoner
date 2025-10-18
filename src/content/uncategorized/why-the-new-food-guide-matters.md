@@ -1,7 +1,7 @@
 ---
 title: "Why the New Food Guide Matters"
 pubDate: 2019-04-14T19:46:57.155Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "andrew_zou_li"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Uncategorized"]

@@ -1,7 +1,7 @@
 ---
 title: "Vape Store Feature"
 pubDate: 2017-04-24T05:36:20.927Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-5.jpg"
 tags: ["Uncategorized"]

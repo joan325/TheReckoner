@@ -1,7 +1,7 @@
 ---
 title: "BSAP"
 pubDate: 2015-06-12T04:54:14.011Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["News"]

@@ -1,7 +1,7 @@
 ---
 title: "MGCI Bio clubs feature"
 pubDate: 2016-01-12T01:15:07.311Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-4.jpg"
 tags: ["Uncategorized"]

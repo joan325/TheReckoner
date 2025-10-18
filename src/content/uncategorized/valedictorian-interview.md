@@ -1,7 +1,7 @@
 ---
 title: "Valedictorian Interview"
 pubDate: 2017-06-16T12:43:34.550Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "uknown_person"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
 tags: ["Uncategorized"]

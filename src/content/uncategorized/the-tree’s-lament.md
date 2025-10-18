@@ -1,7 +1,7 @@
 ---
 title: "The Tree’s Lament"
 pubDate: 2021-10-22T19:42:19.710Z
-description: "Article."
+description: "The Reckoner of MGCI"
 author: "jerry_hong"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
 tags: ["Life"]
