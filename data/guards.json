@@ -10,8 +10,23 @@
     "illustrations_manager": ["elizabeth_soutchanski"],
     "photography_manager": ["akshaya_harendran"],
     "outreach_manager": ["emily_pan", "tessa_nitescu"],
-    "print_manager": ["glenn_huang", "emily_guo"],
-    "members": []
+    "print_manager": ["emily_guo"],
+    "members": [
+      "bailey_min",
+      "blen_kebede",
+      "dawud_ali_shaikh",
+      "deeba_aria",
+      "elliot_fan",
+      "fabeeha_fatima",
+      "fatimah_azaz",
+      "hania_ahmed",
+      "hiba_abbasi",
+      "inaaya_ahamed",
+      "keyaan_ahamed",
+      "koa_stone",
+      "soumya_panigrahy",
+      "swapnil_kabir"
+    ]
   },
   {
     "guard_num": "13",
