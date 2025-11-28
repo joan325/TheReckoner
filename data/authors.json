@@ -384,13 +384,6 @@
     "image": "/author-images/thanusa_paskaran.jpg"
   },
   {
-    "id": "veronica_davey-young",
-    "name": "Veronica Davey-Young",
-    "guard": "13",
-    "bio": "Veronica is a Grade 10 writer for the Editorial board. She is often found playing ultimate frisbee or trying to convince people to join the MGCI team and is always happy to talk about anything school, sports, or baking show-related!",
-    "image": "/author-images/veronica_davey-young.jpg"
-  },
-  {
     "id": "yameen_aziz",
     "name": "Yameen Aziz",
     "guard": "13",
@@ -2423,12 +2416,6 @@
     "image": "/author-images/fatimah_azaz.jpg"
   },
   {
-    "id": "bailey_min",
-    "name": "Bailey Min",
-    "bio": "Bailey Min is a 12th grade student on The Reckoner's Photography Board. He likes going on walks and looking at rocks.",
-    "image": "/author-images/bailey_min.jpg"
-  },
-  {
     "id": "inaaya_ahamed",
     "name": "Inaaya Ahamed",
     "bio": "Inaaya Ahamed is a 9th grade student on The Reckoner's News and Life Boards. She enjoys reading, listening to music and doing the Wordle.",
@@ -2469,5 +2456,119 @@
     "name": "Swapnil Kabir",
     "bio": "Swapnil is in 12th grade and a member of The Reckoner's Editorial Board. He enjoys following business, politics, and all things sports. He may admittedly hitch a ride on the bandwagon at times, but he takes every game seriously—and will happily stay up the night before a big match learning the rules of a sport he's never watched before. He's also very appreciative of wildlife... so much so that he's moved into a national park. If he's late for an after-school meeting, just assume he's still on a bus headed to the middle of nowhere.",
     "image": "/author-images/swapnil_kabir.jpg"
+  },
+  {
+    "id": "fabeeha_fatima",
+    "name": "Fabeeha Fatima",
+    "bio": "Fabeeha is a Senior and a member of the Life board. She strives for her idea of perfection, enjoys ice caps often, and gets cuteness aggression over her own pet cats. She’s working toward publishing her books and adores earthy colors such as brown, green, and white. Fabeeha hopes to make a meaningful contribution to the Reckoner.",
+    "image": "/author-images/fabeeha_fatima.jpg"
+  },
+  {
+    "id": "lanyue_fu",
+    "name": "Lanyue Fu",
+    "bio": "Lanyue Fu is in 10th Grade and is a member of the Life Board. Her favorite subject is chemistry, mostly because it's the only one she understands. Outside of school, Lanyue plays volleyball and frisbee, likes to scrapbook, and heads to Indigo every weekend to find a new book. She loves to express herself with art and writing, usually through anime-styled pieces and stories (or the occasional poem) that explore core human experiences. ",
+    "image": "/author-images/lanyue_fu.jpg"
+  },
+  {
+    "id": "alexander_gabriel_tevodros",
+    "name": "Alexander Gabriel Tevodros",
+    "bio": "Alexander Gabriel Tevodros is a member of the News and Editorial boards at The Reckoner. He is a Grade 10 student who is best described by the quote \"One must still have chaos in oneself to be able to give birth to a dancing star\" from Friedrich Nietzsche.",
+    "image": "/author-images/alexander_gabriel_tevodros.jpg"
+  },
+  {
+    "id": "tasfiya_anjum",
+    "name": "Tasfiya Anjum",
+    "bio": "Tasfiya is a grade 11 student who's part of the Life Board. She is passionate about expressing her creativity through art and loves  using her artistic skills to bring “life” to the school’s student newspaper!",
+    "image": "/author-images/tasfiya_anjum.jpg"
+  },
+  {
+    "id": "angela_xi",
+    "name": "Angela Xi",
+    "bio": "Angela Xi is a student in grade 10 at MGCI. She is in the illustrations, photography, and print board. She is a music addict and does primarily digital art. You can expect to see her illustrations and photography pieces on the Reckoner. If you have any questions, you can contact her at @an9elaxi on Instagram.",
+    "image": "/author-images/angela_xi.jpg"
+  },
+  {
+    "id": "fariha_mridha",
+    "name": "Fariha Mridha",
+    "bio": "Fariha is a grade 10 student on the Life and Illustrations boards! She loves cats, painting, learning new things, watching shows, and hanging out with her friends.",
+    "image": "/author-images/fariha_mridha.jpg"
+  },
+  {
+    "id": "firza_khan",
+    "name": "Firza Khan",
+    "bio": "Firza is a grade 11 student and a member of the Life board. She has a raging obsession with music and enjoys drinking Dr. Pepper.",
+    "image": "/author-images/firza_khan.jpg"
+  },
+  {
+    "id": "shanzay_khan",
+    "name": "Shanzay Khan",
+    "bio": "Shanzay is a Grade 12 student and is a member of the Photography board. She is a creative person with a passion for Art and Photography.",
+    "image": "/author-images/shanzay_khan.jpg"
+  },
+  {
+    "id": "inaaya_ahmed",
+    "name": "Inaaya Ahmed",
+    "bio": "Inaaya Ahmed is a grade 10 student at Marc Garneau Collegiate Institute and is a part of The Reckoner's Life Board this year. She loves reading, listening to music, traveling, and trying new things.",
+    "image": "/author-images/inaaya_ahmed.jpg"
+  },
+  {
+    "id": "sarrinah_raudzah",
+    "name": "Sarrinah Raudzah",
+    "bio": "This is Sarrinah Raudzah. Despite her last name being spelt weird, the pronunciation is actually really easy, and is pronounced 𝘙𝘰-𝘻𝘢. Sarrinah is in grade 10, and is a part of the \"life board.\" She has many hobbies like painting, reading, singing, writing, etc. She is also very passionate about badminton and plays it for about 1-3 hours every Saturday with her friends. She also did many other sports growing up like, swimming, ice hockey, tennis, archery, etc. A fun fact about Sarrinah would be that she started writing after her kindergartner teachers told her she has too many creative thoughts, and needed a proper outlet. This ended up turning into a hobby, and she was writing multiple page long stories by the time she had entered third grade. She is very grateful for the teachers who encouraged her to keep writing throughout her life, and is happy to be on the \"life board\" this school year. ",
+    "image": "/author-images/sarrinah_raudzah.jpg"
+  },
+  {
+    "id": "armaghan_aimaq",
+    "name": "Armaghan Aimaq",
+    "bio": "Armaghan is currently a 10th-grade student at Marc Garneau CI with a keen interest in a variety of topics, which is why she is a member of the editorial and news board. Although this is her first year participating in The Reckoner, she's excited to display her efforts and skills by contributing intriguing news and giving a voice to issues she believes are important to keep our community informed and engaged. ",
+    "image": "/author-images/armaghan_aimaq.jpg"
+  },
+  {
+    "id": "fatima_salman",
+    "name": "Fatima Salman",
+    "bio": "Fatima Salman is a student at Marc Garneau CI and is currently in her eleventh year of highschool. She has a passion in reading and spent her tenth year if highschool reading all sorts of books from mystery to fantasy.She also loves write about day to day life and short poems in her grey diary she keeps by her window. Fatima also loves to volunteer in her community and help out whenever she can and she has a passion for photography and post her photography on her Instagram account. On her free time she loves to watch YouTube reels or watch Netflix shows when she doesn't have homework from school. Her part on Reckoner is being a photographer and a life board writer.",
+    "image": "/author-images/fatima_salman.jpg"
+  },
+  {
+    "id": "veronica_davey-young",
+    "name": "Veronica Davey-Young",
+    "bio": "Veronica is a Grade 12 student and member of the Reckoner's Editorial and News boards. She loves laborador retrievers, the Great Canadian Baking Show, and ultimate frisbee. She can usually be found throwing discs, rolling her ankles, or sleeping on the sideline. ",
+    "image": "/author-images/veronica_davey-young.jpg"
+  },
+  {
+    "id": "zahra_atai",
+    "name": "Zahra Atai",
+    "bio": "Zahra Atai is a Grade 10 student serving on the Editorial and Lifeboard. She is passionate about philosophy, literature, and poetry, drawing inspiration from writers like Dostoevsky, Camus, Nietzsche, and Plath to explore ideas of art, identity, and existence.",
+    "image": "/author-images/zahra_atai.jpg"
+  },
+  {
+    "id": "yang_zhao",
+    "name": "Yang Zhao",
+    "bio": "Yang Zhao, a Grade 12 student on the News Board of the Reckoner's 15th Guard. ",
+    "image": "/author-images/yang_zhao.jpg"
+  },
+  {
+    "id": "azraa_alekozai",
+    "name": "Azraa Alekozai",
+    "bio": "This is Azraa Alekozai. She's in grade 11, and she is a part of The Reckoners photography board. She likes any type of sports, so if you ever have a game going on, she'll get you to the World Cup. If you ever spot her in the halls (she likes taking a new route every day, never let them know your next move), don't be shy to start up a conversation about honestly, anything. She loves to talk, and knows October is the best month with the best season. She likes skateboarding, adventures, and rock music (if you say something and she doesn't respond, it's because it's on blast.) She could be called anything in the book, but never unfunny.",
+    "image": "/author-images/azraa_alekozai.jpg"
+  },
+  {
+    "id": "maryam_rehman",
+    "name": "Maryam Rehman",
+    "bio": "Maryam Rehman is a Grade 10 student on the Outreach, News, and Print boards who runs mostly on coffee and curiosity. When she’s not immersed in a murder mystery, you can find her dominating Block Blast, fully convinced she’s a strategic mastermind.",
+    "image": "/author-images/maryam_rehman.jpg"
+  },
+  {
+    "id": "haniah_saeed",
+    "name": "Haniah Saeed",
+    "bio": "Haniah Saeed is a 10th grade student and a member of The Reckoner's Editorial and News Boards. She enjoys writing, especially about topics she's interested in. During her free time, she enjoys playing chess, despite a very questionable win rate (enthusiasm over skill!)",
+    "image": "/author-images/haniah_saeed.jpg"
+  },
+  {
+    "id": "alisha_azam",
+    "name": "Alisha Azam",
+    "bio": "Introducing Alisha Azam, an eleventh grade member of the News Board who's always happy to make an acquaintance! She’s dabbled in books, games, and is always around if you need a little cheering up. Whether it’s just another Tuesday in class, or the funnest field trip you’ve ever had, Alisha knows how to make a story one to tell. She looks forward to another wonderfully written year at Marc Garneau!",
+    "image": "/author-images/alisha_azam.jpg"
   }
 ]
