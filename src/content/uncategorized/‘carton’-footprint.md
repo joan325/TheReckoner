@@ -4,7 +4,7 @@ pubDate: 2016-06-15T03:20:18.060Z
 description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
-tags: ["Uncategorized", "Featured"]
+tags: ["Uncategorized"]
 ---
 
 By now, you’ve probably heard how ‘climate change’ is a real ‘thing’, and not just some crackpot theory. How it’s not going to happen in Someplace, sometime in the Future, but is happening Here, Right Now. But frankly, you just don’t care about all that. And I think you’re justified in not caring. I mean, has anyone in the history of time ever cared about anything that didn’t affect them in some way or the other?

@@ -4,7 +4,7 @@ pubDate: 2019-11-01T03:06:34.977Z
 description: "The Reckoner of MGCI"
 author: "reckoner_staff"
 heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
-tags: ["Life", "featured"]
+tags: ["Life"]
 ---
 
 A Word Avalanche

@@ -2570,5 +2570,23 @@
     "name": "Alisha Azam",
     "bio": "Introducing Alisha Azam, an eleventh grade member of the News Board who's always happy to make an acquaintance! She’s dabbled in books, games, and is always around if you need a little cheering up. Whether it’s just another Tuesday in class, or the funnest field trip you’ve ever had, Alisha knows how to make a story one to tell. She looks forward to another wonderfully written year at Marc Garneau!",
     "image": "/author-images/alisha_azam.jpg"
+  },
+  {
+    "id": "mariam_khan",
+    "name": "Mariam Khan",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
+  },
+  {
+    "id": "babar_waheed",
+    "name": "Babar Waheed",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
+  },
+  {
+    "id": "aimal_rizvi",
+    "name": "Aimal Rizvi",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
   }
 ]

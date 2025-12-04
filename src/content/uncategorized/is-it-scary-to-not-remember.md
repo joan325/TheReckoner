@@ -6,12 +6,12 @@ author: "jerry_hong"
 heroImage: "../../assets/article-images/is-it-scary-to-not-remember-ivy-liu.png"
 imageType: "Art"
 imageCredit: ["ivy_liu"]
-tags: ["Life", "Featured"]
+tags: ["Life"]
 ---
 
 Is it scary to not remember?
-Or is it only terrifying to the people around you, 
-those who know what you’ve forgotten, 
+Or is it only terrifying to the people around you,
+those who know what you’ve forgotten,
 because you obviously don’t.
 
 Does the lack of an ability to make memories mean I’m less human?
@@ -36,7 +36,7 @@ Coming home late because we had wanted to see the sunset.
 
 The days in this hospital bed blend together,
 While I spend my time grasping at memories that are drifting away.
-I’m sure I’m still seventeen but the nurses tell me 
+I’m sure I’m still seventeen but the nurses tell me
 My nineteenth birthday was a month ago.
 
 What if, when I’m old and tired,

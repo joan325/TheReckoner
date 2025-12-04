@@ -6,8 +6,7 @@ author: "abbinaya_parakaran"
 imageCredit: ["elizabeth_wei"]
 imageType: "Art"
 heroImage: "../../assets/article-images/inadequate_elizabeth_wei.png"
-tags: ["Life", "Featured"]
-featured: true
+tags: ["Life"]
 ---
 
 _inadequate_
