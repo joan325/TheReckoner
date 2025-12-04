@@ -628,7 +628,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 
 				<!-- All posts -->
 				<div class="all latest-box carousel-wrapper">
-                <h4>LATEST</h4>
+                <h4 style="background-color: rgb(var(--white));">LATEST</h4>
                 <hr>
 						<ul id="carouselLatest">
 							{allPosts.slice(0, 6).map((post) => (
@@ -660,7 +660,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
                 <div class="board-box">
 				<!-- News posts -->
 				<div class="latest-box board-col" id="news">
-                <h4>NEWS</h4>
+                <h4 style="background-color: rgb(var(--white));">NEWS</h4>
                 <hr>
 						<ul>
 							{newsPosts[0] && ( /* FIX */
@@ -712,7 +712,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
                     
 				<!-- Editorial posts -->
 				<div class="latest-box board-col" id="editorial">
-                <h4>EDITORIAL</h4>
+                <h4 style="background-color: rgb(var(--white));">EDITORIAL</h4>
                 <hr>
 						<ul>
 							{editorialPosts[0] && (
@@ -764,7 +764,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
                     
 				<!-- Life posts -->
 				<div class="latest-box board-col" id="life">
-					<h4>LIFE</h4>
+					<h4 style="background-color: rgb(var(--white));">LIFE</h4>
 					<hr>
 					<ul>
 						{lifePosts[0] && (
@@ -831,7 +831,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 						<ul class="features-track photos">
 							{photographyPosts.slice(0, 3).map((post) => (
 								<li class="featured features-slide">
-									<a href={`/${post.slug}/`}>
+									<a href={`/${post.slug}/`} style="color: rgb(var(--white));">
 									
 										<Image src={post.data.heroImage} alt={post.data.heroImageAlt} />
 										<div class="highlighted-info">
