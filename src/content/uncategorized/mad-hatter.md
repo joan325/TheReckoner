@@ -3,7 +3,7 @@ title: "Mad Hatter and the Queen of Hearts"
 pubDate: 2025-11-10T14:26:17.036Z
 description: "The Reckoner of MGCI"
 author: "fabeeha_fatima"
-heroImage: "../../assets/placeholders/blog-placeholder-2.jpg"
+heroImage: "../../assets/article-images/mad-hatter.webp"
 tags: ["Life"]
 ---
 

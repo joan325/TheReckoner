@@ -3,7 +3,7 @@ title: "Wake Up Call"
 pubDate: 2025-11-10T14:26:17.036Z
 description: "The Reckoner of MGCI"
 author: "deeba_aria"
-heroImage: "../../assets/placeholders/blog-placeholder-3.jpg"
+heroImage: "../../assets/article-images/wake-up-call-babar-waheed.webp"
 imageType: "Photo"
 imageCredit: ["babar_waheed"]
 tags: ["Life"]
