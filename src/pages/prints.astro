@@ -12,6 +12,8 @@ import Guard from '../layouts/Guard.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getPrintEditions } from "../utils/getPrintEditions";
 
+const page_title = "Print Editions"
+
 const editions = getPrintEditions();
 const sortedVolumes = Object.keys(editions)
   .map(Number)
@@ -21,7 +23,7 @@ const sortedVolumes = Object.keys(editions)
 <!doctype html>
 <html lang="en" data-pagefind-ignore="all">
     <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <BaseHead title={page_title} description={SITE_DESCRIPTION} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <style>
