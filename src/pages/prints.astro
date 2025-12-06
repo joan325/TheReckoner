@@ -127,14 +127,12 @@ const sortedVolumes = Object.keys(editions)
 				margin-inline: auto;
 				margin-top: 2em;
 				margin-bottom: 2em;
-        margin-inline: auto;
+        width: fit-content;
 				background-color: var(--accent-dark);
 				text-decoration: none;
 				border: none;
 				padding: 0.75em 1.5em;
-			}
-      .see-more-button a {
-				color: rgb(var(--white));
+        color: rgb(var(--white));
 				text-decoration: none;
 				font-size: 1.2em;
 			}
@@ -179,7 +177,7 @@ const sortedVolumes = Object.keys(editions)
                 November 2025
             </p>
 
-            <button class="see-more-button"><a href="../print-editions/v13n1.pdf" target="_blank">Open in new tab</a></button>
+            <a href="../print-editions/v13n1.pdf" class="see-more-button" target="_blank">Open in new tab</a>
 
 
             <embed src="../print-editions/v13n1.pdf" type="application/pdf" width="90%" height="600px" title="Embedded V13N1" style="margin-left: 5%;"/>
