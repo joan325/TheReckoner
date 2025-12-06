@@ -2588,5 +2588,23 @@
     "name": "Aimal Rizvi",
     "bio": "No bio available",
     "image": "/author-images/default.jpg"
+  },
+  {
+    "id": "ayesha_toor",
+    "name": "Ayesha Toor",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
+  },
+  {
+    "id": "nina_yu",
+    "name": "Nina Yu",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
+  },
+  {
+    "id": "somaan_muhammad_sadiq",
+    "name": "Somaan Muhammad Sadiq",
+    "bio": "No bio available",
+    "image": "/author-images/default.jpg"
   }
 ]
