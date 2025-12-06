@@ -480,12 +480,11 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 				margin-inline: auto;
 				margin-top: 2em;
 				margin-bottom: 2em;
+				width: fit-content;
 				background-color: var(--accent-dark);
 				text-decoration: none;
 				border: none;
-				padding: 0.75em 1.5em;
-			}
-			.board-box .see-more-button a {
+				padding: 0.5em 1em;
 				color: rgb(var(--white));
 				text-decoration: none;
 				font-size: 1.2em;
@@ -705,11 +704,9 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 									</a>
 								</li>
 							))}
-						</ul>
-						<button class="see-more-button"><a href="/news">More News</a></button>
-					</div>
-
-                    
+								</ul>
+								<a href="/news" class="see-more-button">More News</a>
+						</div>                    
 				<!-- Editorial posts -->
 				<div class="latest-box board-col" id="editorial">
                 <h4 style="background-color: rgb(var(--white));">EDITORIAL</h4>
@@ -757,11 +754,9 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 									</a>
 								</li>
 							))}
-						</ul>
-						<button class="see-more-button"><a href="/editorial">More Editorial</a></button>
-					</div>
-				
-                    
+								</ul>
+								<a href="/editorial" class="see-more-button">More Editorial</a>
+						</div>                    
 				<!-- Life posts -->
 				<div class="latest-box board-col" id="life">
 					<h4 style="background-color: rgb(var(--white));">LIFE</h4>
@@ -810,7 +805,7 @@ import latest_print_cover from "../assets/print-covers/v13n1-cover-image.jpg";
 								</li>
 							))}
 						</ul>
-						<button class="see-more-button"><a href="/life">More Life</a></button>
+						<a href="/life" class="see-more-button">More Life</a>
 					</div>
                 </div>
 
